@@ -1,0 +1,1 @@
+User (Lucky Jha) is a web developer comfortable with Next.js and the Cursor editor but is new to contributing to open-source. They appreciate practical, step-by-step guidance and beginner-friendly explanations for tasks like making GitHub contributions, noise removal in videos, and favicon creation.
