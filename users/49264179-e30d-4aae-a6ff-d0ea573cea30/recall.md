@@ -1,1 +1,1 @@
-User prefers bhindi-intellect agent interactions to use the username context "kavin_test" for data storage and retrieval.
+User's X/Twitter handle is @kavinrajkr; okay to share with contacts when helpful for social posts or collaborations.
