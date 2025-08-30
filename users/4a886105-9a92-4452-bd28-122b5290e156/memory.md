@@ -1,6 +1,6 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- prefers concise (<50 words) whatsapp-style informal tone, all lowercase, no emojis; 6× (stable since 2024-08-15) [refs: btc price request 2025-08-31; btc price request msgId:`btcPrice20250831`; writing tone instructions msgId:`toneGuidelines20250730`; response feedback msgId:`feedback20250801`; description request convId:`descRequest20250831`]
+- prefers concise (<50 words) whatsapp-style informal tone, all lowercase, no emojis; 5× (stable since 2025-08-15) [refs: btc price request msgId:`btcPrice20250831`; writing tone instructions msgId:`toneGuidelines20250730`; response feedback msgId:`feedback20250801`; btc price second request msgId:`btcPrice20250831_2`; description request convId:`descRequest20250831`]
 - expects plain numeric count when asking bhindi mongodb user count; 2× (since 2025-08-20) [refs: user count inquiry msgId:`userCount20250820`; follow-up count reply msgId:`userCount20250825`]
 
 ### Emerging (new signals, 1-2 reinforcements)
@@ -22,7 +22,7 @@
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
-- asks btc price frequently; daily check-ins; 6× [refs: btc price request 2025-08-31; btc price request msgId:`btcPrice20250831`; btc price request 2025-08-25; btc price request 2025-08-20; btc price request earlier]
+- (none yet)
 
 ### Emerging (new query patterns)
-- (none yet)
+- asks for btc price frequently; 3× (last: 2025-08-31) [refs: btc price request msgId:`btcPrice20250831`; btc price second request msgId:`btcPrice20250831_2`; current btc price request]
