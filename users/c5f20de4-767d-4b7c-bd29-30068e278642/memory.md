@@ -1,27 +1,27 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- (no durable patterns recorded yet)
+- 
 
 ### Emerging (new signals, 1-2 reinforcements)
-- gives very brief, direct commands and iteratively refines image edits; 1× (first: 2025-08-31) [refs: requests like "slightly more", "make it fuller", "on the cheeks"]
+- gives very concise, lowercase commands for photo edits; 2× (last: 2025-08-31) [refs: "slightly more" message; "on the cheeks. and make the beard cleaner" message]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
-- (no durable knowledge recorded yet)
+-
 
 ### Emerging (recent learning, current focus)
-- (no emerging knowledge recorded yet)
+- interested in personal photo retouching and appearance enhancement; 2× (since 2025-08-30) [refs: requests to make himself muscular; add chest hair; beard edits]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
-- (no durable patterns recorded yet)
+-
 
 ### Emerging (recent behavioral shifts)
-- prefers incremental, step-by-step refinement approach to reach desired outcome; 1× (first: 2025-08-31) [refs: sequence of incremental photo edit requests]
+- prefers iterative refinement approach, providing incremental feedback to reach desired result; 2× (since 2025-08-30) [refs: "slightly more"; "make it fuller"]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
-- (no durable activities recorded yet)
+-
 
 ### Emerging (new query patterns)
-- frequently requests AI-driven photo edits of personal portraits; 1× (since 2025-08-31) [refs: multiple image edit requests for muscular build, chest hair, fuller beard]
+- uses platform for image editing and transformation tasks; 2× (since 2025-08-30) [refs: multiple image edit requests; beard style advice]
