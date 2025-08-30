@@ -1,0 +1,1 @@
+User is participating in Smart India Hackathon (SIH) and is evaluating problem statements. Their team is strong in software and prefers software-only challenges, avoiding hardware-heavy tasks. They seek high-impact, innovative problems with good selection probability within a short (2-week) preparation timeline. They are willing to supply detailed problem descriptions on request.
