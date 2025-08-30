@@ -1,0 +1,1 @@
+User Sowmay Jain (sowmaybb) prefers responses that are very concise (<50 words), WhatsApp-style informal tone, all lowercase, no emojis, clear single ask; also asks to reply with just counts when requesting user count.
