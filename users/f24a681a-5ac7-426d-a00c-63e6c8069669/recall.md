@@ -1,1 +1,1 @@
-User has an alternate email address khushi@bhindi.io that they use for receiving calendar invites.
+User prefers thorough research with price comparisons and detailed technical specifications when making purchasing decisions online, such as buying phones.
