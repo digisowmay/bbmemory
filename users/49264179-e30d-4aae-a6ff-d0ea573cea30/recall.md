@@ -1,1 +1,1 @@
-User's Twitter handle is @kavinrajkr.
+User prefers bhindi-intellect agent interactions to use the username context "kavin_test" for data storage and retrieval.
