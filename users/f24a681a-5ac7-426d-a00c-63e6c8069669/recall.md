@@ -1,1 +1,1 @@
-User is working on a fantasy-themed storybook and often requests assistance finding reference images and generating AI illustrations with magical forest aesthetics.
+User often requests not just images but also a detailed analysis of lighting, textures (e.g., mist, moss, fireflies) and wants that analysis incorporated into AI-image prompts for their fantasy storybook illustrations.
