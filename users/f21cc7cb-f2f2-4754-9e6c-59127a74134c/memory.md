@@ -1,23 +1,27 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
+- 
 
 ### Emerging (new signals, 1-2 reinforcements)
-- prefers exact visual fidelity; requests assets remain unchanged and corrects discrepancies; 2× (last: 2025-08-31) [refs: correction "that is not the bag i sent at all"; instruction "just add this bag as is do not change it"]
+- gives very precise, step-by-step image editing instructions and checks results iteratively; 2× (last: 2025-08-31) [refs: request to replace bag exactly without changes; follow-up asking to enlarge bag]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
+-
 
 ### Emerging (recent learning, current focus)
-- working on snack-bag image edit, replacing objects in photos; 1× (started: 2025-08-31) [ref: instructions to replace bag in hand with CHICKA PUFFCORN bag]
+- currently working on marketing/visual assets requiring exact brand imagery placement; 1× (started: 2025-08-31) [ref: instructions to insert CHICKA puffcorn bag exactly as provided]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
+-
 
 ### Emerging (recent behavioral shifts)
-- detail-oriented and corrective; quickly flags mismatches and reiterates precise requirements; 2× (since 2025-08-31) [refs: feedback on wrong bag; emphasis on using provided asset unchanged]
+- detail-oriented and perfection-seeking; requests small tweaks until visuals match expectation; 2× (since 2025-08-31) [refs: insisted bag not be altered; asked to make bag larger]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
+-
 
 ### Emerging (new query patterns)
-- exploring image editing capabilities; replace/insert objects in photos; 2× (since 2025-08-31) [refs: requests for nano banana tool; multiple image edit instructions]
+- uses platform for iterative image editing tasks; 2× (since 2025-08-31) [refs: replace bag; enlarge bag]
