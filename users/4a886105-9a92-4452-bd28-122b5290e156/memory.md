@@ -1,6 +1,6 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- prefers concise (<50 words) whatsapp-style informal tone, all lowercase, no emojis; 5× (stable since 2025-08-15) [refs: btc price request msgId:`btcPrice20250831`; writing tone instructions msgId:`toneGuidelines20250730`; response feedback msgId:`feedback20250801`; btc price second request msgId:`btcPrice20250831_2`; description request convId:`descRequest20250831`]
+- prefers concise (<50 words) whatsapp-style informal tone, all lowercase, no emojis; 6× (stable since 2025-08-15) [refs: btc price request msgId:`btcPrice20250831`; writing tone instructions msgId:`toneGuidelines20250730`; response feedback msgId:`feedback20250801`; btc price second request msgId:`btcPrice20250831_2`; description request convId:`descRequest20250831`; xrp price request msgId:`xrpPrice20250831`]
 - expects plain numeric count when asking bhindi mongodb user count; 2× (since 2025-08-20) [refs: user count inquiry msgId:`userCount20250820`; follow-up count reply msgId:`userCount20250825`]
 
 ### Emerging (new signals, 1-2 reinforcements)
@@ -22,7 +22,7 @@
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
-- asks crypto price frequently; Bitcoin tracking; 3× (promoted from emerging) [refs: btc price request msgId:`btcPrice20250831`; btc price second request msgId:`btcPrice20250831_2`; btc price recent request msgId:`btcPrice20250831_3`]
+- asks crypto prices frequently; Bitcoin, XRP tracking; 3× [refs: btc price request msgId:`btcPrice20250831`; btc price second request msgId:`btcPrice20250831_2`; xrp price request msgId:`xrpPrice20250831`]
 
 ### Emerging (new query patterns)
-- deferred question: wants assistant to ask later why they frequently request crypto prices; 1× (first: 2025-08-31) [ref: instruction to initiate bhindi-user-memory_ask later about crypto price reason]
+- (none yet)
