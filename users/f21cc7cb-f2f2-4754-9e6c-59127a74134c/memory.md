@@ -3,25 +3,26 @@
 - 
 
 ### Emerging (new signals, 1-2 reinforcements)
-- gives very precise, step-by-step image editing instructions and checks results iteratively; 2× (last: 2025-08-31) [refs: request to replace bag exactly without changes; follow-up asking to enlarge bag]
+- gives very precise, step-by-step image editing commands and quickly refines based on results; 2× (last: 2025-08-30) [refs: requested bag replacement then size adjustments]
+- requests that provided assets remain unchanged in edits, emphasizing fidelity to original; 1× (first: 2025-08-30) [ref: insisted “do not change it” for CHICKA bag]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
--
+- 
 
-### Emerging (recent learning, current focus)
-- currently working on marketing/visual assets requiring exact brand imagery placement; 1× (started: 2025-08-31) [ref: instructions to insert CHICKA puffcorn bag exactly as provided]
+### Emerging (recent learning, current focus)  
+- working on visual content that involves snack packaging mock-ups; 1× (started: 2025-08-30) [ref: multiple instructions to swap snack bag in hand]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
--
+- 
 
 ### Emerging (recent behavioral shifts)
-- detail-oriented and perfection-seeking; requests small tweaks until visuals match expectation; 2× (since 2025-08-31) [refs: insisted bag not be altered; asked to make bag larger]
+- iterative, feedback-driven approach—asks for successive tweaks until result matches vision; 2× (since 2025-08-30) [refs: sequence of size and upscale requests]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
--
+- 
 
 ### Emerging (new query patterns)
-- uses platform for iterative image editing tasks; 2× (since 2025-08-31) [refs: replace bag; enlarge bag]
+- uses the platform for detailed image editing and upscaling tasks; 2× (since 2025-08-30) [refs: replacement, resizing, upscaling requests]
