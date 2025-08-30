@@ -1,1 +1,1 @@
-User now requests daily investment briefings for multiple regions (US and Indian markets) in the same structured Slack-friendly text plus 30–60 sec audio summary.
+User prefers clean, minimal vector-based icon designs with consistent bold-stroke line art for website assets.
