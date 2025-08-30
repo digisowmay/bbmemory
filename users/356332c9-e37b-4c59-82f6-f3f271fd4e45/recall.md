@@ -1,0 +1,1 @@
+User is male, identifies as an introvert, and loves anime. They are interested in finding a romantic partner and prefer quiet, meaningful interactions.
