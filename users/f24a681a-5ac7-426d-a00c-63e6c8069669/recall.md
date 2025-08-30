@@ -1,1 +1,1 @@
-User prefers thorough research with price comparisons and detailed technical specifications when making purchasing decisions online, such as buying phones.
+User relies on detailed expert YouTube reviews (e.g., MKBHD, Mrwhosetheboss) for thorough analysis before making smartphone purchase decisions.
