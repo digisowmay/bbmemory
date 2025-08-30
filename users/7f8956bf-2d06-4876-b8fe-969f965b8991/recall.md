@@ -1,0 +1,1 @@
+User (Incognito Dev) enjoys exploring and leveraging multiple agents, particularly for image editing and generation tasks involving realistic compositions with well-known personalities. They proactively request adding more apps and seem comfortable with advanced capabilities.
