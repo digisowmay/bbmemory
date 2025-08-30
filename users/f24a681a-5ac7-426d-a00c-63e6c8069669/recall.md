@@ -1,1 +1,1 @@
-User prefers clean, minimal vector-based icon designs with consistent bold-stroke line art for website assets.
+User appreciates simple, concise prompts to generate consistent bold-stroke vector icons.
