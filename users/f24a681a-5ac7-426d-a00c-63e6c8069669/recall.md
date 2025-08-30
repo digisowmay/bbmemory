@@ -1,1 +1,1 @@
-User enjoys receiving concise global news summaries with audio files to listen during morning routine.
+User is working on a fantasy-themed storybook and often requests assistance finding reference images and generating AI illustrations with magical forest aesthetics.
