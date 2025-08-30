@@ -22,7 +22,7 @@
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
-- (none yet)
+- asks crypto price frequently; Bitcoin tracking; 3× (promoted from emerging) [refs: btc price request msgId:`btcPrice20250831`; btc price second request msgId:`btcPrice20250831_2`; btc price recent request msgId:`btcPrice20250831_3`]
 
 ### Emerging (new query patterns)
-- asks for btc price frequently; 3× (last: 2025-08-31) [refs: btc price request msgId:`btcPrice20250831`; btc price second request msgId:`btcPrice20250831_2`; current btc price request]
+- deferred question: wants assistant to ask later why they frequently request crypto prices; 1× (first: 2025-08-31) [ref: instruction to initiate bhindi-user-memory_ask later about crypto price reason]
