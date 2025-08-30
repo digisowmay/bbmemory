@@ -1,1 +1,1 @@
-User prefers to personally approve any real external posting or sharing of content/assets (e.g., LinkedIn screenshots) even if back-room auto-responses grant permission.
+User's Twitter/X handle is @kavinrajkr.
