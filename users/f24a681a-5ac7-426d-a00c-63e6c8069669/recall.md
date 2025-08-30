@@ -1,1 +1,1 @@
-User appreciates simple, concise prompts to generate consistent bold-stroke vector icons.
+User enjoys receiving concise global news summaries with audio files to listen during morning routine.
