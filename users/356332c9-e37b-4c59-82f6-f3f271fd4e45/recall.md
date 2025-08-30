@@ -1,1 +1,1 @@
-User is 25 years old male seeking female romantic partner; interests include manga, Studio Ghibli films, cozy movie nights, quiet cafes, stargazing, reading, and gaming in addition to anime.
+User's real name is Abhay and may prefer being addressed as Abhay.
