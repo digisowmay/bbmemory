@@ -1,0 +1,1 @@
+Ümit is a technical user working with n8n workflows and Apify; prefers receiving complete JSON configuration/code directly instead of descriptive explanations. Communicates primarily in Turkish.
