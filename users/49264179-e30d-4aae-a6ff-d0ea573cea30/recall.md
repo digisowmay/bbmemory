@@ -1,1 +1,0 @@
-User's Twitter/X handle is @kavinrajkr.

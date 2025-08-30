@@ -1,1 +1,0 @@
-Ümit consistently requests full n8n workflow JSON outputs with exact node names/structures and minimal or no extra explanatory text. Prefers receiving direct configuration code rather than descriptive guidance.

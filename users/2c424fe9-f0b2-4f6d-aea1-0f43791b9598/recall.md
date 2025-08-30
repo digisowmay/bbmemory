@@ -1,1 +1,0 @@
-User prefers clear, decisive top-pick recommendations with concise why & how explanations to reduce confusion from conflicting AI advice. They cross-check multiple AI sources but want the assistant to give final actionable guidance.

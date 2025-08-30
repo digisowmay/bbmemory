@@ -1,1 +1,0 @@
-User often seeks assistance in drafting professional job postings (e.g., digital marketing positions) and seems to act as a recruiter or hiring manager. They appreciate receiving structured, ready-to-post content for platforms like Indeed.

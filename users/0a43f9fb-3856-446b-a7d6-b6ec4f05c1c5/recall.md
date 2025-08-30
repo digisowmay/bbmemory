@@ -1,1 +1,0 @@
-User consistently requests practical, step-by-step guidance with concrete code snippets or tool recommendations (e.g., Tailwind examples, GitHub workflow). They also explore auxiliary tasks like video noise removal and favicon design, showing interest in simple design assets alongside development work.

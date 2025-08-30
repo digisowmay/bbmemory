@@ -1,1 +1,0 @@
-User prefers that in photo edits their own face and pose remain completely unchanged while adding new elements (e.g., a romantic partner). They often request iterative refinements focusing on realism, shadows, blending, and proper alignment.
