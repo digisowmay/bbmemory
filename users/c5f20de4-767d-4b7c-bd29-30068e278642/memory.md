@@ -3,25 +3,25 @@
 - 
 
 ### Emerging (new signals, 1-2 reinforcements)
-- gives very concise, lowercase commands for photo edits; 2× (last: 2025-08-31) [refs: "slightly more" message; "on the cheeks. and make the beard cleaner" message]
+- prefers quick, incremental instructions (e.g., "slightly more", "on the cheeks", "generate it") for iterative refinement; 2× (last: 2025-08-31) [refs: consecutive image edit requests refining beard and physique]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
--
+- 
 
 ### Emerging (recent learning, current focus)
-- interested in personal photo retouching and appearance enhancement; 2× (since 2025-08-30) [refs: requests to make himself muscular; add chest hair; beard edits]
+- experimenting with personal image enhancement via AI tools; 1× (started: 2025-08-31) [ref: series of requests for physique and beard edits]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
--
+- 
 
 ### Emerging (recent behavioral shifts)
-- prefers iterative refinement approach, providing incremental feedback to reach desired result; 2× (since 2025-08-30) [refs: "slightly more"; "make it fuller"]
+- iterative problem-solving approach, adjusting details step-by-step until satisfied; 2× (since 2025-08-31) [refs: multiple follow-up edit commands in single session]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
--
+- 
 
 ### Emerging (new query patterns)
-- uses platform for image editing and transformation tasks; 2× (since 2025-08-30) [refs: multiple image edit requests; beard style advice]
+- frequent AI image manipulation queries to modify personal photos; 2× (since 2025-08-31) [refs: physique enhancement request; beard style refinement]
