@@ -1,0 +1,1 @@
+User prefers to communicate and receive responses in Spanish.
