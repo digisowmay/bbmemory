@@ -1,1 +1,1 @@
-User enjoys creative photo editing of personal images, specifically adding realistic elements (e.g., romantic partners) and pays attention to details like shadows, blending, and alignment for a natural look.
+User prefers that in photo edits their own face and pose remain completely unchanged while adding new elements (e.g., a romantic partner). They often request iterative refinements focusing on realism, shadows, blending, and proper alignment.
