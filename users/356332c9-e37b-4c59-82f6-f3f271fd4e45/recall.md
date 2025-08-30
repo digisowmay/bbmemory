@@ -1,1 +1,1 @@
-User is male, identifies as an introvert, and loves anime. They are interested in finding a romantic partner and prefer quiet, meaningful interactions.
+User is 25 years old male seeking female romantic partner; interests include manga, Studio Ghibli films, cozy movie nights, quiet cafes, stargazing, reading, and gaming in addition to anime.
