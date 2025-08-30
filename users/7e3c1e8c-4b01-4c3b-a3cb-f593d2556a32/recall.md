@@ -1,0 +1,1 @@
+User frequently issues direct GitHub operational commands (e.g., create PR, merge PR) and expects immediate execution with concise confirmation only. Favors action-first responses with minimal narrative.
