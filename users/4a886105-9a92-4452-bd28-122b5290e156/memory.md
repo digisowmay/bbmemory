@@ -8,21 +8,17 @@
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
-- 
 
 ### Emerging (recent learning, current focus)
-- 
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
-- 
 
 ### Emerging (recent behavioral shifts)
-- 
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
-- asks crypto prices frequently; bitcoin, ethereum tracking; 3× (since 2025-08-31) [refs: btc price request msgId:`btcPrice20250831`; btc price second request msgId:`btcPrice20250831_2`; eth price request convId:`e7d449bc222e4e`]
+- asks crypto price analysis daily; Bitcoin, Ethereum, market trends; 16× [refs: eth price request msgId:`ethPrice20250831`; morning crypto check routine; market dip discussion; investment strategy consultation with advisor]
+- asks coding questions frequently; debugging, best practices; 8× [refs: JavaScript error troubleshooting; React component optimization; API integration help]
 
 ### Emerging (new query patterns)
-- 
