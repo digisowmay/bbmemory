@@ -1,1 +1,1 @@
-User's X/Twitter handle is @kavinrajkr; okay to share with contacts when helpful for social posts or collaborations.
+User prefers to personally approve any real external posting or sharing of content/assets (e.g., LinkedIn screenshots) even if back-room auto-responses grant permission.
