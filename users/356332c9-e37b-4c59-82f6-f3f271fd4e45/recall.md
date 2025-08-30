@@ -1,1 +1,1 @@
-User's real name is Abhay and may prefer being addressed as Abhay.
+User (Abhay) is a 25-year-old introverted male who loves anime, manga, Studio Ghibli films, quiet evenings, deep conversations, stargazing, nature walks, and sky watching. He dislikes loud parties, crowds, small talk, and drama. He is looking for a female partner and appreciates thoughtful, genuine connections.
