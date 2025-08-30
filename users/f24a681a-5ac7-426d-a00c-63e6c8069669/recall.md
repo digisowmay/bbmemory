@@ -1,1 +1,1 @@
-User Khushi Maheshwari requests daily investment briefings that include: 1) current stock data and market sentiment, 2) a structured, sectioned text format suitable for Slack, and 3) a concise 30–60 second audio narration summary. Indicates preference for comprehensive yet succinct financial updates ready for immediate sharing on Slack.
+User now requests daily investment briefings for multiple regions (US and Indian markets) in the same structured Slack-friendly text plus 30–60 sec audio summary.
