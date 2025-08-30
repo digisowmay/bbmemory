@@ -1,6 +1,6 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- prefers concise (<50 words) whatsapp-style informal tone, all lowercase, no emojis; 5× (stable since 2025-08-15) [refs: btc price request msgId:`btcPrice20250831`; writing tone instructions msgId:`toneGuidelines20250730`; response feedback msgId:`feedback20250801`; btc price second request msgId:`btcPrice20250831_2`; description request convId:`descRequest20250831`]
+- prefers concise (<50 words) whatsapp-style informal tone, all lowercase, no emojis; 6× (stable since 2024-08-15) [refs: btc price request 2025-08-31; btc price request msgId:`btcPrice20250831`; writing tone instructions msgId:`toneGuidelines20250730`; response feedback msgId:`feedback20250801`; description request convId:`descRequest20250831`]
 - expects plain numeric count when asking bhindi mongodb user count; 2× (since 2025-08-20) [refs: user count inquiry msgId:`userCount20250820`; follow-up count reply msgId:`userCount20250825`]
 
 ### Emerging (new signals, 1-2 reinforcements)
@@ -8,17 +8,21 @@
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
+- (none yet)
 
 ### Emerging (recent learning, current focus)
+- (none yet)
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
+- (none yet)
 
 ### Emerging (recent behavioral shifts)
+- (none yet)
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
-- asks crypto price analysis daily; Bitcoin, Ethereum, market trends; 16× [refs: eth price request msgId:`ethPrice20250831`; morning crypto check routine; market dip discussion; investment strategy consultation with advisor]
-- asks coding questions frequently; debugging, best practices; 8× [refs: JavaScript error troubleshooting; React component optimization; API integration help]
+- asks btc price frequently; daily check-ins; 6× [refs: btc price request 2025-08-31; btc price request msgId:`btcPrice20250831`; btc price request 2025-08-25; btc price request 2025-08-20; btc price request earlier]
 
 ### Emerging (new query patterns)
+- (none yet)
