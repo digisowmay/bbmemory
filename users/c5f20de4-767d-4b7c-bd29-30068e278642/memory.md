@@ -1,27 +1,23 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- (none recorded yet)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- (no notable emerging patterns yet)
+- requests incremental tweaks in image edits, giving short follow-up directives like “slightly more” and “show some chest hair”; 2× (last: 2025-08-31) [refs: image edit request thread]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
-- (none recorded yet)
 
-### Emerging (recent learning, current focus)  
-- (no emerging knowledge/context yet)
+### Emerging (recent learning, current focus)
+- working on enhancing personal photos for a more muscular look; 1× (started: 2025-08-31) [ref: current image editing session]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
-- (none recorded yet)
 
 ### Emerging (recent behavioral shifts)
-- requests incremental adjustments; iterates by asking for small additional changes ("slightly more"); 1× (first: 2025-08-31) [ref: follow-up photo edit request]
+- favors iterative refinement approach, adjusting outputs step-by-step; 2× (since 2025-08-31) [refs: successive image modification requests]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
-- (none recorded yet)
 
 ### Emerging (new query patterns)
-- uses AI photo editing to enhance personal physique in images; 1× (first: 2025-08-31) [ref: request to make self more muscular in photo]
+- uses platform for detailed photo manipulation requests; 1× (first: 2025-08-31) [ref: image editing conversation]
