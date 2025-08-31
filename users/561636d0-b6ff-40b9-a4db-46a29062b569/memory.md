@@ -1,27 +1,29 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
+- Provides exhaustive, highly structured briefs; expects professional, institutional tone; 3× [refs: initial system instruction about Vexa voice; detailed agency overview doc]
+- Requests clear, strategic action plans rather than casual advice; 3× [refs: instruction to automate LinkedIn posting; question "what would you do and how?"]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- insists on professional, institutional tone; 1× (first: 2025-08-31) [ref: system instruction outlining Vexa Digital voice]
-- provides detailed structured briefs for tasks; 1× (first: 2025-08-31) [ref: request for logo, platform setup, automation]
+- None noted
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
+- Operates "Vexa Digital," an esports branding & marketing consultancy; 3× [refs: multiple messages describing Vexa identity and services]
+- Founder is Advocate Kaustubh Srivastava combining legal expertise with esports marketing; 2× [refs: founding story explanation]
 
 ### Emerging (recent learning, current focus)
-- runs Vexa Digital, an esports branding & marketing consultancy; 1× (first: 2025-08-31) [ref: description of Vexa Digital and services]
-- immediate goal: create brand assets and automate LinkedIn/Instagram content; 1× (first: 2025-08-31) [ref: request to create logo and manage social platforms]
+- Building brand authority via LinkedIn & Instagram automation; 1× (started: 2025-08-31) [ref: request to handle LinkedIn posting automation]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
+- Prioritizes clarity, structure, and systemic frameworks in problem-solving; 3× [refs: emphasis on logic-driven frameworks in agency description; mission statements]
 
 ### Emerging (recent behavioral shifts)
-- seeks automated, structured solutions to scale content; 1× (first: 2025-08-31) [ref: desire for scheduler & research agents]
-- outcome-oriented, expects clear next steps; 1× (first: 2025-08-31) [ref: request for next steps after setup]
+- Looking to pivot toward higher-budget, qualified clients; 1× (first: 2025-08-31) [ref: ask for strategic plan to target better clients]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
+- Seeks content creation, branding assets, and strategic consulting; 3× [refs: logo generation request; content automation; strategy advice]
 
 ### Emerging (new query patterns)
-- requests branding asset creation (logo, social pages); 1× (first: 2025-08-31) [ref: ask to create logo and pages]
-- interested in ongoing esports news monitoring for content; 1× (first: 2025-08-31) [ref: instruction to read, learn and post about latest developments]
+- Intends to automate LinkedIn posting cadence; 1× (since 2025-08-31) [ref: mention of LinkedIn automation]
