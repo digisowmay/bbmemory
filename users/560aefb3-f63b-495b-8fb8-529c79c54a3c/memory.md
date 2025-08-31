@@ -3,26 +3,28 @@
 - 
 
 ### Emerging (new signals, 1-2 reinforcements)
-- prefers responses formatted with bullet points; 2× (last: 2025-08-31) [refs: requested "bullets mai poinmts daal" in caption; asked for bullet-style improvements earlier]
-- frequently mixes Hindi and English in messages; 2× (last: 2025-08-31) [refs: "mujhe jaldi karke do"; "hmmm mujhe jaldi karke do ap sabke upar"]
+- prefers information in bullet points and concise actionable instructions; 1× (first: 2025-08-31) [ref: requested caption in bullet points for LinkedIn post]
+- requests rapid execution and automation of tasks; 1× (first: 2025-08-31) [ref: asked to send all messages quickly and automate LinkedIn actions]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
 - 
 
 ### Emerging (recent learning, current focus)
-- actively seeking job in MNC, focusing on back office operations roles; 1× (started: 2025-08-31) [ref: conversation about LinkedIn post and job search]
+- actively job seeking in MNCs, focusing on back-office operations roles; 1× (first: 2025-08-31) [ref: asked to create LinkedIn posts announcing open-to-work status]
+- exploring LinkedIn networking strategies and recruiter outreach; 1× (first: 2025-08-31) [ref: requested personalized messages and recruiter emails]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
 - 
 
 ### Emerging (recent behavioral shifts)
-- prefers quick, action-oriented solutions; 2× (since 2025-08-31) [refs: requested immediate posting; asked how quickly tasks can be done on LinkedIn]
+- favors quick, practical solutions over detailed explanations; 1× (first: 2025-08-31) [ref: repeatedly pressed for immediate posting and messaging]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
 - 
 
 ### Emerging (new query patterns)
-- using LinkedIn actively for job search: posts, messaging templates, profile optimization; 2× (since 2025-08-31) [refs: requested LinkedIn image post; discussion about messaging connections]
+- uses LinkedIn for job search content creation and outreach; 1× (since 2025-08-31) [ref: asked to create posts, send messages, find recruiter emails]
+- interested in potential tools to automate LinkedIn actions; 1× (first: 2025-08-31) [ref: requested easy steps/solutions for mass messaging and connection requests]
