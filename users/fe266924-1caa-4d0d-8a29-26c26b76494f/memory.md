@@ -1,27 +1,23 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- 
 
 ### Emerging (new signals, 1-2 reinforcements)
-- Gives concise, direct instructions for specific creative image edits; prefers immediate visual results and short confirmations; 2× (last: 2025-08-31) [refs: multiple successive image transformation requests]
+- gives precise, creative instructions for how uploaded images should be transformed (styles, themes, filters); 2× (last: 2025-08-31) [refs: multiple requests for movie poster edits, biblical style, gritty filters]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
-- 
 
 ### Emerging (recent learning, current focus)
-- Currently working on or experimenting with imaginative photo manipulations (movie posters, historical styles, fantasy scenes); 2× (since 2025-08-31) [refs: Joker poster, biblical Belgian birthday, TMNT dinosaur]
+- interested in combining personal photos with historical/fantasy themes (biblical, renaissance, Minecraft, prehistoric); 1× (first: 2025-08-31) [ref: repeated transformation requests]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
-- 
 
 ### Emerging (recent behavioral shifts)
-- Iterative refinement approach; requests adjustments and filters after seeing results; 2× (since 2025-08-31) [refs: Belgian birthday poster revisions, gritty wizard filter]
+- highly imaginative, enjoys blending time periods and genres to create storytelling images; 2× (since 2025-08-31) [refs: TMNT with dinosaurs, knight on hell stallion, Last Supper modernized]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
-- 
 
 ### Emerging (new query patterns)
-- Frequently requests advanced image transformations and style transfers; 3× (since 2025-08-31) [refs: monster truck poster, Minecraft world placement, dark knight scene]
+- frequently requests advanced image edits and creative photo manipulations; 2× (since 2025-08-31) [refs: multiple image edit instructions throughout session]
