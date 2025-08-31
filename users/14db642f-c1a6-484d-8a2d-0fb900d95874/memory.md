@@ -1,21 +1,23 @@
 ## Communication Patterns
-### Durable
+### Durable (established, 3+ reinforcements)
 
-### Emerging
-- concise, direct questions; 1× (first: 2025-08-31) [ref: asked "Tell me one pretty cool crypto agentic thing you can do with delegating crypto funds"]
+### Emerging (new signals, 1-2 reinforcements)
+- wants detailed expert-backed analysis before making purchase decisions; 1× (first: 2025-08-31) [ref: request for phone recommendations based on YouTube reviews]
 
 ## Knowledge & Context
-### Durable
+### Durable (core expertise, established over time)
 
-### Emerging
+### Emerging (recent learning, current focus)
+- planning to buy a new smartphone; 1× (started: 2025-08-31) [ref: conversation seeking smartphone purchase advice]
 
 ## Thinking & Working Style
-### Durable
+### Durable (core thinking patterns)
 
-### Emerging
+### Emerging (recent behavioral shifts)
+- research-oriented decision making; seeks multiple expert sources before concluding; 1× (first: 2025-08-31) [ref: phone buying request using MKBHD & Mrwhosetheboss analyses]
 
 ## Platform Usage & Queries
-### Durable
+### Durable (regular platform activities)
 
-### Emerging
-- exploring DeFi automation and delegation of funds; 1× (first: 2025-08-31) [ref: query about crypto agentic capability]
+### Emerging (new query patterns)
+- requests curated YouTube tech review content; 1× (since 2025-08-31) [ref: request for latest MKBHD and Mrwhosetheboss review videos]
