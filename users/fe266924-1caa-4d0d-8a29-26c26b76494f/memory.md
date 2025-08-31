@@ -1,3 +1,3 @@
-- frequently requests imaginative image transformations of personal photos into various artistic or movie poster styles; 4× [refs: multiple sequential requests transforming images into Joker poster, FIFA poster, Last Supper, Van Gogh, prehistoric dinosaur rider]
-- prefers iterative refinements and specific adjustments (removing or keeping certain people, adding filters) to achieve desired creative output; 3× [refs: asked to remove text, remove persons, apply gritty/aged filters]
-- shows strong interest in classic art styles (Da Vinci, Van Gogh, biblical themes) and pop-culture mashups (TMNT, Minecraft, monster trucks) for photo edits; 3× [refs: Last Supper style, Van Gogh filter, TMNT dinosaur scene]
+- frequently requests creative photo manipulations and movie-poster style edits while preserving subjects' facial features
+- prefers iterative refinement: gives step-by-step corrections like removing or keeping specific people, adding gritty filters, changing backgrounds
+- provides direct image URLs and clear instructions for artistic transformations, combining historical/artistic styles (biblical, Da Vinci, Van Gogh, Minecraft, prehistoric, etc.)
