@@ -1,21 +1,23 @@
 ## Communication Patterns
-### Durable
+### Durable (established, 3+ reinforcements)
 
-### Emerging
-- gives concise, direct image generation requests; brief positive feedback like "so cute" or "thanks"; 3× (last: 2025-08-31) [refs: Barbie image request; Barbie cat image request; locked-in image request]
+### Emerging (new signals, 1-2 reinforcements)
+- uses casual slang like "broooo lmao" when amused; 1× (first: 2025-08-31) [ref: chat message reacting to locked-in photo]
 
 ## Knowledge & Context
-### Durable
+### Durable (core expertise, established over time)
 
-### Emerging
+### Emerging (recent learning, current focus)
+- enjoys playful pop-culture imagery (e.g., Barbie themes and cute cats); 2× (since 2025-08-31) [refs: request for Barbie image; request for Barbie holding a cat]
 
 ## Thinking & Working Style
-### Durable
+### Durable (core thinking patterns)
 
-### Emerging
+### Emerging (recent behavioral shifts)
+- likes humorous, lighthearted results; 1× (first: 2025-08-31) [ref: laughter response to locked-in transformation]
 
 ## Platform Usage & Queries
-### Durable
+### Durable (regular platform activities)
 
-### Emerging
-- frequently requests AI-generated images for creative purposes (Barbie variations, personal photo transformation); 3× (since 2025-08-31) [refs: Barbie image generation; Barbie holding cat; locked-in transformation of personal photo]
+### Emerging (new query patterns)
+- experimenting with AI image generation and editing for personal and pop-culture photos; 3× (since 2025-08-31) [refs: Barbie image requests; Barbie with cat; locked-in self-edit]
