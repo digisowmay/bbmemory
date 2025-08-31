@@ -2,22 +2,22 @@
 ### Durable (established, 3+ reinforcements)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- gives short imperative commands; expects quick execution; 2× (last: 2025-08-31) [refs: request to create lead-gen automation; command to stop automation]
+- gives direct imperative instructions expecting automated execution; 1× (first: 2025-08-31) [ref: chat request to "create a lead-gen automation" and add tags]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
 
 ### Emerging (recent learning, current focus)
-- focuses on AI adoption training for US real estate sector lead generation; 1× (first: 2025-08-31) [ref: request to create lead-gen automation for real estate companies]
+- working on AI adoption training for Indian real estate companies; 1× (started: 2025-08-31) [ref: request to search real estate companies needing AI adoption training]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
 
 ### Emerging (recent behavioral shifts)
-- experiments with automation tasks and iterates quickly (start, resume, stop); 1× (first: 2025-08-31) [refs: create, resume, stop commands in conversation]
+- prefers automation with scheduled tasks to streamline processes; 1× (first: 2025-08-31) [ref: request for daily automated emails and voice summaries]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
 
 ### Emerging (new query patterns)
-- exploring automation scheduling via Bhindi scheduler; 1× (first: 2025-08-31) [ref: request to create scheduled lead-gen emails and voice summary]
+- seeks lead-generation and marketing automation solutions; 1× (since 2025-08-31) [ref: lead-gen automation and tagging requests]
