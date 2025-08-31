@@ -3,7 +3,7 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - requests clear, step-by-step instructions for technical tasks (image download, upload limits); 2× (last: 2025-08-31) [refs: asked how to download poster; asked about max file size]
-- iterative feedback on creative outputs, specifying precise adjustments (remove extra people, show feet); 2× (last: 2025-08-31) [refs: poster refinement requests for dinosaur movie; feet correction request]
+- iterative feedback on creative outputs, specifying precise adjustments (remove extra people, show feet, add plant cover); 3× (last: 2025-08-31) [refs: poster refinement requests for dinosaur movie; feet correction request; plant cover request]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -16,7 +16,7 @@
 ### Durable (core thinking patterns)
 
 ### Emerging (recent behavioral shifts)
-- detail-oriented iterative refinement approach to visual projects; 2× (since 2025-08-31) [refs: removing extra characters; adding feet/shoes]
+- detail-oriented iterative refinement approach to visual projects; 3× (since 2025-08-31) [refs: removing extra characters; adding feet/shoes; plant coverage request]
 - creative, visual-focused tasks with clear specifications; 1× (observed: 2025-08-31) [ref: multiple custom poster creation requests]
 
 ## Platform Usage & Queries
