@@ -2,22 +2,21 @@
 ### Durable (established, 3+ reinforcements)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- uses concise imperative phrases for image edits ("give the man..."); 2× (since 2025-08-31) [refs: repeated image edit requests for 1970s Freddie Mercury hair]
+- gives concise, imperative instructions for image edits; 2× (last: 2025-08-31) [refs: repeated "give the man the same long glam hair" requests]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
 
-### Emerging (recent learning, current focus)
-- currently working on a series of images that need consistent 1970s Freddie Mercury glam hair style edits; 1× (started: 2025-08-31) [ref: multiple sequential image edit requests]
+### Emerging (recent learning, current focus)  
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
 
 ### Emerging (recent behavioral shifts)
-- prioritizes visual consistency across multiple assets; requests the same specific hairstyle on all images; 1× (observed: 2025-08-31) [ref: identical instructions for different photos]
+- methodical about visual consistency; requests identical transformation across multiple images; 2× (since 2025-08-31) [refs: sequence of image edit commands in current session]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
 
 ### Emerging (new query patterns)
-- frequent image editing/modification requests (hair and facial features); 5× (since 2025-08-31) [refs: series of image edit instructions in current session]
+- frequently requests image transformations of Freddie Mercury images to 1970s long messy hair and no mustache; 6× (since 2025-08-31) [refs: multiple image edit requests in this session]
