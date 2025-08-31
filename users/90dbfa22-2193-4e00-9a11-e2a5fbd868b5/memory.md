@@ -1,6 +1,6 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- prefers casual, crisp, stoic, and concise messaging; 3× [refs: global instructions to keep responses short and stoic; request to keep message casual, crisp, useful; prior conversation tone preference]
+- prefers casual, crisp, stoic, and concise messaging; 4× [refs: global instructions to keep responses short; request to keep message casual and useful; coordination reply chatId:`420b3ce5a2f44e`]
 
 ### Emerging (new signals, 1-2 reinforcements)
 
@@ -20,4 +20,4 @@
 ### Durable (regular platform activities)
 
 ### Emerging (new query patterns)
-- uses platform to coordinate team priorities and workflows; 1× (since 2025-08-31) [ref: request to send message to Sowmay via platform]
+- uses platform to coordinate team priorities and workflows; 2× (since 2025-08-31) [refs: request to send message to Sowmay via platform; coordination reply chatId:`420b3ce5a2f44e`]
