@@ -1,31 +1,28 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- (no durable patterns identified yet)
+- 
 
 ### Emerging (new signals, 1-2 reinforcements)
-- Provides iterative, precise feedback for image edits to meet specific requirements; 1× (first: 2025-08-31) [ref: chat about dinosaur poster modifications]
-- Requests direct answers about platform limits and technical constraints; 1× (first: 2025-08-31) [ref: discussion about maximum file size]
+- gives iterative, detailed visual edit instructions for creative outputs; 2× (last: 2025-08-31) [refs: requests for covering feet with plants; replacing names in poster credits]
+- asks for direct download links after final asset is delivered; 1× (first: 2025-08-31) [ref: "need a download link for this one"]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
-- (no durable traits identified yet)
+-
 
-### Emerging (recent learning, current focus)  
-- Working on custom movie posters featuring children (Karate Barn, dinosaur themes); 1× (started: 2025-08-31) [refs: Karate Barn and Raptor Riders poster requests]
-- Prefers specific character name usage (Oliver, Lucas, Simon & Robin); 1× (first: 2025-08-31) [ref: name correction request in poster credits]
+### Emerging (recent learning, current focus)
+- creating personalized movie posters featuring children’s names Oliver, Lucas, Simon & Robin; 1× (since 2025-08-31) [ref: request to change names in credits]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
-- (no durable traits identified yet)
+-
 
 ### Emerging (recent behavioral shifts)
-- Detail-oriented; requests specific corrections like raising plant coverage and replacing names; 1× (observed: 2025-08-31) [ref: plant coverage & name replacement instructions]
-- Iterative refinement approach, giving incremental feedback until final result; 1× (observed: 2025-08-31) [ref: multiple revision cycles for posters]
+- detail-oriented revision approach; ensures small textual and visual fixes are addressed; 2× (since 2025-08-31) [refs: multiple edit rounds to adjust plants, dinosaur placement, name changes]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
-- (no durable patterns identified yet)
+-
 
 ### Emerging (new query patterns)
-- Uses AI image editing tools to create and refine posters; 1× (started 2025-08-31) [ref: multiple gemini-image_editImage calls]
-- Asks about image upload limitations and file size constraints; 1× (first: 2025-08-31) [ref: question about maximum file size]
+- frequently requests AI image edits for creative posters; 2× (since 2025-08-31) [refs: Karate Barn poster creation; Dinosaur movie poster iterations]
