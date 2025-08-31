@@ -3,25 +3,25 @@
 - 
 
 ### Emerging (new signals, 1-2 reinforcements)
-- prefers short, casual Hindi/Hinglish queries; 1× (first: 2025-08-31) [ref: chat asking “apke jaise or app hh na”]
+- communicates primarily in Hindi with concise, direct questions; 1× (first: 2025-08-31) [ref: chat about automation agents]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
--
+- 
 
 ### Emerging (recent learning, current focus)
-- interested in automation agents & AI platforms; 1× (started: 2025-08-31) [ref: query about “automation agnt … prompt se action”]
+- exploring free, powerful automation/AI agent platforms; 1× (started: 2025-08-31) [ref: discussion requesting best free automation agent]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
--
+- 
 
 ### Emerging (recent behavioral shifts)
--
+- prioritizes cost-effective solutions (prefers free yet powerful tools); 1× (observed: 2025-08-31) [ref: request for tagda free automation agent]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
--
+- 
 
 ### Emerging (new query patterns)
-- exploring tech tool comparisons; automation, AI agents; 1× (since 2025-08-31) [ref: request for list of automation apps]
+- interested in AI automation platforms and agent frameworks; 1× (since 2025-08-31) [ref: inquiry about popular automation agents]
