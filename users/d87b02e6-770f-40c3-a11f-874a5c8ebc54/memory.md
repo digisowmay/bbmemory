@@ -1,23 +1,28 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
+- 
 
 ### Emerging (new signals, 1-2 reinforcements)
-- requests automated, scheduled task lists and reminders; 2× (last: 2025-09-01) [refs: chat with Bhindi agent about daily task list scheduling; reminder setup request]
+- prefers email notifications for reminders and updates; 1× (first: 2025-08-31) [ref: asked for reminder delivery via email]
+- requests automated daily task lists; 1× (first: 2025-08-31) [ref: asked for daily 8 AM task list]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
+- 
 
 ### Emerging (recent learning, current focus)
-- current tasks/projects: Hercules estimate, Snata biologicals changes, Pollen grain story; 1× (first: 2025-09-01) [ref: reminder request listing these tasks]
+- uses Hoopla India corporate email for work communications; 1× (first: 2025-08-31) [ref: email address bhargav@hooplaindia.com]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
+- 
 
 ### Emerging (recent behavioral shifts)
-- delegates planning and scheduling to automation tools; 1× (first: 2025-09-01) [ref: chat setting daily task list and reminders]
+- values organized, actionable task lists and automation; 1× (first: 2025-08-31) [ref: set up reminders and daily task list automation]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
+- 
 
 ### Emerging (new query patterns)
-- uses Bhindi to parse Gmail and generate prioritized action lists; 2× (since 2025-08-31) [refs: email task extraction request; daily task list schedule creation]
+- schedules tasks and reminders via Bhindi scheduler; 1× (first: 2025-08-31) [ref: created task list and reminder schedules]
