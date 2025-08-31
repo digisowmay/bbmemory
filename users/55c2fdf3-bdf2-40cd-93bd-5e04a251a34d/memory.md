@@ -1,27 +1,23 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- (no durable patterns identified yet)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- uses very brief, direct commands for image edits (e.g., "different view", "view behind"); 2× (last: 2025-08-31) [refs: chat commands requesting new perspectives]
+- uses very concise one-line commands for image edits; 1× (first: 2025-08-31) [ref: prompts "make different", "view behind", "view bottom up"]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
-- (no durable knowledge traits identified yet)
 
 ### Emerging (recent learning, current focus)
-- working on visual content requiring multiple camera angle edits; 1× (started: 2025-08-31) [ref: repeated requests for varied image perspectives]
+- frequently works with AI image editing and camera-angle transformations; 1× (since 2025-08-31) [refs: requested multiple edits of bathroom photo]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
-- (no durable patterns identified yet)
 
 ### Emerging (recent behavioral shifts)
-- iterative experimentation approach—asks sequentially for different perspectives on same image; 2× (since 2025-08-31) [refs: sequence of requests: bottom-up, behind, wide-angle]
+- iterative request approach; asks for successive variations quickly; 1× (first: 2025-08-31) [ref: sequence of angle change requests]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
-- (no durable usage patterns identified yet)
 
 ### Emerging (new query patterns)
-- frequent AI image editing with varied viewpoint transformations; 3× (since 2025-08-31) [refs: multiple gemini-image_editImage requests in session]
+- uses platform primarily for AI image editing requests; 1× (since 2025-08-31) [refs: multiple gemini-image_editImage calls]
