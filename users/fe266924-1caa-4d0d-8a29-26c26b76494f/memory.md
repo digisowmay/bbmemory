@@ -1,28 +1,27 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- 
+- gives concise image-edit instructions and requests specific stylistic results; 5× [refs: TMNT dinosaur scene; biblical style poster; gritty wizard; T-800 request; classy coin background]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- Gives concise, directive instructions for image transformations; 2× (last: 2025-08-31) [refs: multiple prompts requesting specific edits like "remove helmet"; "add grain filter"]
-- Iteratively refines outputs, requesting adjustments and corrections; 2× (last: 2025-08-31) [refs: asked to scale head proportion, change filters, keep face visible]
+- iteratively refines outputs, pointing out proportional issues and requesting fixes; 2× (last: 2025-08-31) [refs: head too big correction; helmet removal clarification]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
-- 
+- enjoys creative photo manipulation across fantasy, historical, and pop-culture themes; 4× [refs: multiple scene transformation requests; Last Supper poster; cyberpunk conversion; hell knight]
 
-### Emerging (recent learning, current focus)
-- Interested in creative photo editing and stylization techniques; 2× (since 2025-08-31) [refs: requests for vintage filters, cyberpunk style, medieval aging effects]
+### Emerging (recent learning, current focus)  
+- currently focusing on integrating personal/family photos into stylized artworks; 2× (since 2025-08-31) [refs: family Minecraft universe; monster truck poster]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
-- 
+- iterative problem-solver: requests edits, then refines based on results; 5× [refs: wizard scene grit; head proportion fix; remove helmet; keep person next etc.]
 
 ### Emerging (recent behavioral shifts)
-- Detail-oriented visual thinker, focuses on proportion, style consistency, and atmosphere; 2× (since 2025-08-31) [refs: corrections about head size, stylization consistency]
+- prefers authentic aged textures for historical scenes; 1× (observed: 2025-08-31) [ref: repeated requests for sepia grainy filters]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
-- 
+- frequently uses platform for complex image transformations; 6× [refs: entire session multiple image edit calls]
 
 ### Emerging (new query patterns)
-- Frequently requests complex image manipulation and style transfers; 3× (since 2025-08-31) [refs: multiple sequential image edit requests throughout session]
+- exploring pop-culture character infusions (TMNT, Terminator) into personal photos; 2× (since 2025-08-31) [refs: TMNT dinosaur; T-800 style request]
