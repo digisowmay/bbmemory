@@ -1,27 +1,28 @@
-- Direct, concise requests using imperative language like "make" or "let's" and expects prompt iterative visual edits; 2× (since 2025-08-31) [refs: multiple image transformation requests during session]
-- Enjoys creative, cinematic, fantasy-themed image transformations of provided personal photos (movie posters, biblical scenes, Minecraft, medieval, etc.); 2× (since 2025-08-31) [refs: requests for monster truck poster, TMNT with dinosaur, knight, biblical last supper]
-- Provides own image URLs and prefers preserving facial features while altering context and style; 2× (since 2025-08-31) [refs: instructions to keep face realistic in Minecraft world, replace faces in engraving]
-
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
+- 
 
 ### Emerging (new signals, 1-2 reinforcements)
-- Direct, concise commands for iterative image edits; 2× (last: 2025-08-31) [refs: multiple transformation requests]
+- Gives concise, imperative instructions for image edits ("remove the helmet", "make it look old"); 2× (last: 2025-08-31) [refs: multiple iterative requests for wizard, knight, prehistoric scenes]
+- Iterative refinement approach—asks for successive tweaks until satisfied; 2× (last: 2025-08-31) [refs: gritty filter, head proportion fix]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
+-
 
 ### Emerging (recent learning, current focus)
-- Interested in generating creative image transformations with cinematic/fantasy themes; 2× (since 2025-08-31) [refs: numerous thematic requests]
+- Interested in creative photo transformations of a child into various fantasy contexts (movie posters, biblical scenes, Minecraft, etc.); 2× (since 2025-08-31) [refs: multiple image requests turning child into knight, TMNT, etc.]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
+-
 
 ### Emerging (recent behavioral shifts)
-- Iterative refinement approach, requests incremental changes until satisfied; 2× (since 2025-08-31) [refs: successive filter and composition adjustments]
+- Detail-oriented visual thinker—notices proportions, requests gritty filters, aging effects; 2× (since 2025-08-31) [refs: head too big correction, grainy filter request]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
+-
 
 ### Emerging (new query patterns)
-- Frequently uploads own images and asks for stylized edits while preserving subjects' faces; 2× (since 2025-08-31) [refs: Minecraft scene, engraving face replacement]
+- Frequently uses platform for complex AI image editing and stylization; 3× (since 2025-08-31) [refs: all image edit requests in session]
