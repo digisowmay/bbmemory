@@ -4,6 +4,7 @@
 ### Emerging (new signals, 1-2 reinforcements)
 - uses casual Hinglish greetings; 1× (first: 2025-08-31) [ref: message "hey tu ai agent hai ya chatbot"]
 - provides highly structured task instructions (Task Name, Trigger, Steps); 1× (first: 2025-08-31) [ref: request for daily courses alert]
+- shares screenshots and asks for clarification/explanation based on the visual; 1× (first: 2025-08-31) [ref: "who is somway??" with Gmail screenshot]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
