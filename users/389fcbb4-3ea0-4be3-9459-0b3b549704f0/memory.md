@@ -2,22 +2,24 @@
 ### Durable (established, 3+ reinforcements)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- prefers direct imperative instructions; 1× (first: 2025-08-31) [ref: chat request "so go and check on linkedin how we can increase our growth"]
+- prefers explicit permission before actions; privacy conscious; 1× (first: 2025-08-31) [refs: asked "you have my linkedin access?"; said "no" to autopost]
+- uses short, directive messages; direct requests; 1× (first: 2025-08-31) [ref: "so go and check on linkedin how we can increase our growth"]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
 
 ### Emerging (recent learning, current focus)  
-- focused on LinkedIn growth strategy; 1× (started: 2025-08-31) [ref: request to understand LinkedIn growth and post writing]
+- interested in growing LinkedIn presence; content strategy; 1× (started: 2025-08-31) [refs: asked about increasing LinkedIn growth]
+- seeks guidance on writing LinkedIn posts; 1× (started: 2025-08-31) [ref: requested studying how to write posts and asked for sample post]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
 
 ### Emerging (recent behavioral shifts)
-- action-driven; expects concrete steps and tool usage; 1× (observed: 2025-08-31) [ref: directive commands to access LinkedIn and analyze]
+- wants control over execution; prefers reviewing content before posting; 1× (observed: 2025-08-31) [refs: refused autopost, requested draft instead]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
 
 ### Emerging (new query patterns)
-- exploring social media optimization queries; 1× (started 2025-08-31) [ref: LinkedIn growth questions]
+- asks social media growth advice; LinkedIn-specific; 1× (since 2025-08-31) [ref: LinkedIn growth request]
