@@ -3,7 +3,7 @@
 - none recorded yet
 
 ### Emerging (new signals, 1-2 reinforcements)
-- direct, concise requests focused on specific technical capability; 1× (first: 2025-09-01) [ref: request to scrape LinkedIn contact info chatId:`eb7560829a8346`]
+- direct, concise requests focused on specific technical capability; 1× (first: 2025-09-01) [ref: LinkedIn scraping request chatId:`eb7560829a8346`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -11,6 +11,7 @@
 
 ### Emerging (recent learning, current focus)
 - interested in obtaining contact information from LinkedIn profiles (possible lead generation activity); 1× (started: 2025-09-01) [ref: scraping request chatId:`eb7560829a8346`]
+- does not possess API keys for scraping tools; 1× (first: 2025-09-01) [ref: comment "its still asking for an api key i dont have" chatId:`eb7560829a8346`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
