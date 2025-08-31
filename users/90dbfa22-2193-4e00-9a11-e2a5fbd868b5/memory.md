@@ -20,4 +20,5 @@
 ### Durable (regular platform activities)
 
 ### Emerging (new query patterns)
-- uses platform to coordinate team priorities and workflows; 2× (since 2025-08-31) [refs: request to send message to Sowmay via platform; coordination reply chatId:`420b3ce5a2f44e`]
+- uses platform to coordinate team priorities and workflows; 3× (since 2025-08-31) [refs: request to send message to Sowmay via platform; coordination reply chatId:`420b3ce5a2f44e`; reminder setup chatId:`420b3ce5a2f44e`]
+- sets date-based reminders to ensure task follow-ups; 1× (first: 2025-09-01) [ref: reminder request chatId:`420b3ce5a2f44e`]
