@@ -1,23 +1,27 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
+- 
 
 ### Emerging (new signals, 1-2 reinforcements)
-- provides concise, direct commands for image edits and requests iterative refinements; 3× (last: 2025-08-31) [refs: initial beard request; mustache resizing feedback; Freddie Mercury mustache instruction]
+- requests highly specific, iterative visual edits (e.g., facial hair style, exact mustache length); 2× (last: 2025-08-31) [refs: asked to trim mustache; asked to connect goatee]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
+- 
 
 ### Emerging (recent learning, current focus)
-- working with realistic 3D character facial hair variations; 3× (since 2025-08-31) [refs: beard addition; goatee connection instruction; Freddie Mercury style mustache edit]
+- working on photorealistic/open-source character images, focusing on 80s facial hair aesthetics; 1× (started: 2025-08-31) [ref: multiple requests for Freddie Mercury style mustache]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
+- 
 
 ### Emerging (recent behavioral shifts)
-- iterative refinement approach; gives feedback after each result to improve; 3× (last: 2025-08-31) [refs: mustache size adjustment; goatee extension; new mustache request]
+- prefers incremental refinement, providing feedback after each iteration; 2× (since 2025-08-31) [refs: asked to make mustache smaller; asked to connect facial hair]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
+- 
 
 ### Emerging (new query patterns)
-- frequent image editing requests especially about character appearance; 3× (since 2025-08-31) [refs: series of image editing commands for facial hair variations]
+- frequently uses platform to perform facial hair edits on character images; 3× (since 2025-08-31) [refs: beard addition request; Freddie Mercury mustache request; goatee connection request]
