@@ -1,27 +1,27 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- prefers data-backed, expert-sourced information before decisions; 3× [refs: prior chats about relying on MKBHD & Mrwhosetheboss reviews; smartphone purchase comparison discussion]
+- 
 
 ### Emerging (new signals, 1-2 reinforcements)
-- requests concise, quick snapshots for crypto market info; 1× (first: 2025-08-31) [ref: chat request for "quick view" of BTC & ETH prices]
+- requests consolidated deliverables formatted directly in Google Docs; 1× (first: 2025-08-31) [ref: request to generate illustrations and compile into Google Doc]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
-- follows detailed YouTube tech reviews (MKBHD, Mrwhosetheboss) when evaluating smartphones; 3× [refs: previous conversation about smartphone buying process]
+- relies on detailed expert YouTube reviews (e.g., MKBHD, Mrwhosetheboss) before making smartphone purchase decisions; 5× [refs: multiple past discussions comparing phone models; link sharing sessions]
 
 ### Emerging (recent learning, current focus)
-- developing interest in daily cryptocurrency price movements; 1× (started: 2025-08-31) [ref: asked for today's BTC & ETH prices]
+- writing a blog post about sustainable fashion; current content creation project; 1× (started: 2025-08-31) [ref: request for eco-friendly outfit illustrations for blog post]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
-- research-oriented decision maker; gathers thorough analysis before purchases; 3× [refs: discussion of using expert smartphone reviews]
+- 
 
 ### Emerging (recent behavioral shifts)
-- values high-level summaries for financial data to save time; 1× (observed: 2025-08-31) [ref: quick one-line market sentiment request]
+- prefers end-to-end solutions with clear, tangible outputs (images + compiled doc) in a single request; 1× (observed: 2025-08-31) [ref: illustration generation + Google Doc compilation request]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
-- uses platform for technology product research and buying decisions; 3× [refs: smartphone spec comparison chat; review sourcing discussion]
+- 
 
 ### Emerging (new query patterns)
-- beginning to check Bitcoin & Ethereum prices via the assistant; 1× (since 2025-08-31) [ref: requested BTC & ETH prices]
+- uses Google Docs as preferred medium for draft content delivery; 1× (since 2025-08-31) [ref: request to compile illustration content into Google Doc]
