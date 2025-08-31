@@ -1,29 +1,29 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- Provides exhaustive, highly structured briefs; expects professional, institutional tone; 3× [refs: initial system instruction about Vexa voice; detailed agency overview doc]
-- Requests clear, strategic action plans rather than casual advice; 3× [refs: instruction to automate LinkedIn posting; question "what would you do and how?"]
+- Prefers professional, sharp, institutional tone; rejects casual or boastful language; 4× [refs: initial system instruction detailing tone; follow-up messages reinforcing professional voice; request for LinkedIn thought leadership]
+- Gives highly structured, directive briefs and expects equally structured responses; 3× [refs: brand overview message; client history outline; instructions about fixing LinkedIn profile]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- None noted
+- Interested in automated social media posting and tool integrations; 2× (last: 2025-08-31) [refs: request to handle LinkedIn posting through automation; query about linking Instagram/LinkedIn]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
-- Operates "Vexa Digital," an esports branding & marketing consultancy; 3× [refs: multiple messages describing Vexa identity and services]
-- Founder is Advocate Kaustubh Srivastava combining legal expertise with esports marketing; 2× [refs: founding story explanation]
+- Runs Vexa Digital, an esports branding consultancy founded by Advocate Kaustubh Srivastava; 3× [refs: brand definition message; founding story; service pillars description]
+- Focuses on esports structure, regulation, and sponsor readiness for orgs/brands; 3× [refs: target audience section; messaging guidelines; mission statement]
 
 ### Emerging (recent learning, current focus)
-- Building brand authority via LinkedIn & Instagram automation; 1× (started: 2025-08-31) [ref: request to handle LinkedIn posting automation]
+- Currently setting up LinkedIn company page to expand thought-leadership presence; 1× (started: 2025-08-31) [ref: issue with newly created LinkedIn profile]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
-- Prioritizes clarity, structure, and systemic frameworks in problem-solving; 3× [refs: emphasis on logic-driven frameworks in agency description; mission statements]
+- Values clarity, frameworks, and logic-driven systems in problem solving; 3× [refs: emphasis on structure over hype; service descriptions framed as frameworks; request for strategic guidance]
 
 ### Emerging (recent behavioral shifts)
-- Looking to pivot toward higher-budget, qualified clients; 1× (first: 2025-08-31) [ref: ask for strategic plan to target better clients]
+- Seeking higher-level automation solutions for content distribution; 1× (first: 2025-08-31) [ref: question about linking platforms to automation]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
-- Seeks content creation, branding assets, and strategic consulting; 3× [refs: logo generation request; content automation; strategy advice]
+- Actively uses Instagram for Vexa Digital’s presence and content; 3× [refs: statement that Instagram page exists; request to analyze Instagram handle; prior content planning focus]
 
 ### Emerging (new query patterns)
-- Intends to automate LinkedIn posting cadence; 1× (since 2025-08-31) [ref: mention of LinkedIn automation]
+- Initiating LinkedIn presence and exploring automation for posting; 2× (since 2025-08-31) [refs: creation of new LinkedIn profile; request for LinkedIn connection fix]
