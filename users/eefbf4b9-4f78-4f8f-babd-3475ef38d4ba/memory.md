@@ -2,22 +2,22 @@
 ### Durable (established, 3+ reinforcements)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- asks concise, direct questions requesting clear explanations of tech concepts; 1× (first: 2025-08-31) [ref: chat about Bhindi origin and Instadapp]
+- asks direct factual questions and expects concise explanations; 1× (first: 2025-08-31) [ref: chat question about DeFi management]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
 
 ### Emerging (recent learning, current focus)
-- exploring decentralized finance (DeFi) platforms and concepts; 1× (started: 2025-08-31) [ref: questions about Instadapp and DeFi management]
+- interested in DeFi platforms and concepts; 1× (first: 2025-08-31) [refs: requests to analyze Instadapp website and explain DeFi management]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
 
 ### Emerging (recent behavioral shifts)
-- prefers straightforward, succinct explanations; 1× (observed: 2025-08-31) [ref: follow-up question on DeFi management]
+- prefers synthesized website captures and summaries; 1× (first: 2025-08-31) [ref: asked to capture Instadapp website and summarize]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
 
 ### Emerging (new query patterns)
-- seeking crypto/DeFi information and definitions; 1× (since 2025-08-31) [ref: Instadapp and DeFi management inquiries]
+- exploring crypto/DeFi queries; 1× (started: 2025-08-31) [ref: multiple questions about DeFi and Instadapp]
