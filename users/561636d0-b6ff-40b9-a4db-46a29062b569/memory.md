@@ -2,7 +2,7 @@
 ### Durable (established, 3+ reinforcements)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- provides thorough, structured business information and asks for clear, actionable instructions; 1× (first: 2025-09-01) [ref: detailed Vexa Digital definition and request for agent instructions]
+- provides thorough, structured business information and asks for clear, actionable instructions; 2× (last: 2025-09-01) [refs: detailed Vexa Digital definition and request for agent instructions; prompt for LinkedIn background task chatId:`7c0195bf3b8449`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -20,4 +20,4 @@
 ### Durable (regular platform activities)
 
 ### Emerging (new query patterns)
-- exploring background task automation for content generation and client follow-ups; 1× (since 2025-09-01) [ref: request for instructions to use background tasks]
+- exploring background task automation for content generation and client follow-ups; 2× (since 2025-09-01) [refs: request for instructions to use background tasks; request for prompt to create LinkedIn details chatId:`7c0195bf3b8449`]
