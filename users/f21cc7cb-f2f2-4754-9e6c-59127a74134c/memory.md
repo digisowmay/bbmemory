@@ -1,27 +1,23 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
--  
 
 ### Emerging (new signals, 1-2 reinforcements)
-- gives concise, direct image-editing instructions and iteratively refines outputs; 2× (last: 2025-08-31) [refs: requests to replace bags, adjust lighting/shadows]
+- Gives concise, task-oriented instructions for visual edits; provides exact asset URLs and desired adjustments; 1× (first: 2025-08-31) [ref: chat request to replace bag in image]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
--  
 
 ### Emerging (recent learning, current focus)
-- currently creating marketing visuals for CHICKA snack products, focusing on realistic product placement; 1× (started: 2025-08-31) [ref: multiple requests to integrate CHICKA bags into scenes]
+- Currently working on snack packaging visuals (Chicka Puffs); needs marketing graphics edits; 1× (started: 2025-08-31) [ref: image swap request involving snack bag]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
--  
 
 ### Emerging (recent behavioral shifts)
-- favors iterative refinement with attention to realism (lighting, shadows, scale); 2× (since 2025-08-31) [refs: successive requests to enlarge bag, adjust lighting, integrate shadows]
+- Prefers precise results quickly, indicating efficiency focus; 1× (observed: 2025-08-31) [ref: single-step instruction for image replacement]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
--  
 
 ### Emerging (new query patterns)
-- frequently uses image editing tools (Gemini, Flux) for product mockups; 3× (since 2025-08-31) [refs: asks to use "nano banana", "flux", multiple edit calls]
+- Requests image editing/manipulation via AI tools; 1× (since 2025-08-31) [ref: bag replacement and resizing task]
