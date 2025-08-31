@@ -5,6 +5,7 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - prefers raw JSON output for system/agent info requests; 4× (last: 2025-09-01) [refs: request for bhindi-recall agent info convId:`bhindiInfo20250831`; creation of bhindi-user-memory agent request convId:`agentCreate20250831`; description request convId:`descRequest20250831`; confirmation of preference convoId:`jsonPref20250901`]
+- uses very brief single-word requests and expects clarification; 1× (first: 2025-09-01) [ref: ambiguous "get" request chatId:`4271ff6186b041`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
