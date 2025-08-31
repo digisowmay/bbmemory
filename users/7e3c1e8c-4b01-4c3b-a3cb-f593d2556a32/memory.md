@@ -17,12 +17,12 @@
 - fast decision-maker who delegates execution to assistant; 4× [refs: rapid timeline choice after suggestion; direct echo commands]
 
 ### Emerging (recent behavioral shifts)
-- meta-aware of assistant operations, ensuring compliance with system processes; 2× (last: 2025-09-01) [refs: memory update instructions chatId:`20ecd26342b542`]
+- meta-aware of assistant operations, ensuring compliance with system processes; 3× (last: 2025-09-01) [refs: memory update instructions chatId:`20ecd26342b542`; BHINDI USER MEMORY request chatId:`017587caee1c42`; memory update request chatId:`12d57ffff79e4c`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
 - frequently issues direct operational commands (GitHub, backroom echo) expecting immediate execution; 6× [refs: echo send commands this thread; earlier GitHub commands]
-- explores AI prompt engineering; optimization techniques; 3× (promoted from emerging) [refs: prompt improvement discussion chatId:`tuv678wxy`; AI tool comparison chatId:`wxy901zab`; workflow automation setup chatId:`zab234cde`]
 
 ### Emerging (new query patterns)
-- asks cryptocurrency prices; Ethereum tracking; 1× (first: 2025-09-01) [ref: ETH price request chatId:`017587caee1c42`]
+- actively manages assistant memory and operational workflow through explicit instructions; 3× (last: 2025-09-01) [refs: memory update instruction chatId:`20ecd26342b542`; BHINDI USER MEMORY request chatId:`017587caee1c42`; current memory review chatId:`017587caee1c42`]
+- asks cryptocurrency prices; Ethereum tracking; 2× (last: 2025-09-01) [refs: ETH price request chatId:`017587caee1c42`; previous ETH price request chatId:`017587caee1c42`]
