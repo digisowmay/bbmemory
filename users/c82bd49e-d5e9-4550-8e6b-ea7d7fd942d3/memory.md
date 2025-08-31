@@ -2,22 +2,22 @@
 ### Durable (established, 3+ reinforcements)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- provides highly detailed visual descriptions for image edits; 2× (last: 2025-08-31) [refs: multiple portrait transformation requests in this session]
+- provides highly detailed visual prompts for portrait transformations, specifying lighting, mood, and background; 1× (first: 2025-08-31) [ref: requests for urban flash, natural indoor, cinematic side-profile]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
 
 ### Emerging (recent learning, current focus)
-- working on improving personal/profile photos; 1× (started: 2025-08-31) [ref: requests for portrait, dating profile style images]
+- currently generating varied personal portraits for profile/dating use; 1× (started: 2025-08-31) [ref: requests for warm friendly dating profile images]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
 
 ### Emerging (recent behavioral shifts)
-- prefers natural, friendly vibe in photos; 2× (since 2025-08-31) [refs: cozy indoor portrait request; dating profile picture request]
+- visually detail-oriented, specifying specific lighting setups and aesthetics; 1× (observed: 2025-08-31) [ref: multiple image edit prompts]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
 
 ### Emerging (new query patterns)
-- frequently uses platform for portrait transformations and styling guidance; 3× (since 2025-08-31) [refs: multiple portrait transformation requests in session]
+- frequently uses platform for personal photo edits/generation; 1× (since 2025-08-31) [ref: series of gemini-image edit requests]
