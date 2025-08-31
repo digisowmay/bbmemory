@@ -2,22 +2,23 @@
 ### Durable (established, 3+ reinforcements)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- gives brief, directive requests; prefers concise guidance; 1× (first: 2025-08-31) [ref: request to "trouble shoot" after initial workflow design]
+- uses terse, imperative commands; one or two-word instructions (e.g., "trouble shoot"); 1× (first: 2025-08-31) [ref: chat message "trouble shoot" requesting troubleshooting]
+- requests concrete examples when unclear; asked for sample URL; 1× (first: 2025-08-31) [ref: chat message "show me a sample n8n locaLLY HOSTED URL"]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
 
 ### Emerging (recent learning, current focus)
-- building an n8n workflow for legal research; 1× (started: 2025-08-31) [ref: asked "i need help creating n8n workflow for legal research"]
+- working on legal research automation with n8n; 1× (started: 2025-08-31) [ref: chat message "i need help creating n8n workflow for legal research"]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
 
 ### Emerging (recent behavioral shifts)
-- seeks practical, step-by-step troubleshooting when faced with issues; 1× (first: 2025-08-31) [ref: follow-up "trouble shoot" request]
+- prefers step-by-step guidance and tangible samples; 1× (since 2025-08-31) [refs: requested troubleshooting steps and sample URL]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
 
 ### Emerging (new query patterns)
-- exploring n8n automation platform; 1× (first: 2025-08-31) [ref: questions about n8n workflow and connection troubleshooting]
+- exploring n8n configuration and workflow building; 1× (since 2025-08-31) [refs: queries about n8n workflow and local URL]
