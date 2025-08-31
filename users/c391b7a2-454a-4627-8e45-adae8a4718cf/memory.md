@@ -1,27 +1,27 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- no durable patterns logged yet; will update when reinforced; 0× [refs: N/A]
+- (no durable patterns logged yet)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- requests to preview and approve drafts/echo messages before they are sent; 1× (first: 2025-08-31) [ref: chat about sending draft message to sowmaybb]
+- prefers to review a draft of outgoing messages before approving and sending; 1× (first: 2025-08-31) [ref: asked for raw draft before sending echo to @sowmaybb]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
-- no durable knowledge captured yet; 0× [refs: N/A]
+- (no durable context logged yet)
 
 ### Emerging (recent learning, current focus)
-- coordinating guest visits/invites for content creators; 1× (first: 2025-08-31) [ref: discussion about inviting shydev from Pune]
+- (no emerging context logged yet)
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
-- no durable patterns logged yet; 0× [refs: N/A]
+- (no durable patterns logged yet)
 
 ### Emerging (recent behavioral shifts)
-- attention to detail in names and specifics, correcting minor errors quickly; 1× (first: 2025-08-31) [ref: correction from "Shidev" to "shydev"]
+- (no emerging patterns logged yet)
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
-- no durable patterns logged yet; 0× [refs: N/A]
+- (no durable usage patterns logged yet)
 
 ### Emerging (new query patterns)
-- utilizes Bhindi to craft and approve communication drafts before sending; 1× (first: 2025-08-31) [ref: request for raw draft before sending]
+- frequently delegates drafting and sending messages within Bhindi workspace; 1× (first: 2025-08-31) [ref: requested assistant to draft and then send message to @sowmaybb]
