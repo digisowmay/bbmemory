@@ -2,22 +2,22 @@
 ### Durable (established, 3+ reinforcements)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- Gives concise, task-oriented instructions for visual edits; provides exact asset URLs and desired adjustments; 1× (first: 2025-08-31) [ref: chat request to replace bag in image]
+- gives concise imperative commands for visual edits; 2× (last: 2025-08-31) [refs: request to replace bag; follow-up "make it bugger"]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
 
 ### Emerging (recent learning, current focus)
-- Currently working on snack packaging visuals (Chicka Puffs); needs marketing graphics edits; 1× (started: 2025-08-31) [ref: image swap request involving snack bag]
+- working on marketing visuals/product packaging; 1× (started: 2025-08-31) [ref: request to replace snack bag with brand Chicka Puffs]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
 
 ### Emerging (recent behavioral shifts)
-- Prefers precise results quickly, indicating efficiency focus; 1× (observed: 2025-08-31) [ref: single-step instruction for image replacement]
+- iterative refinement approach; asks for quick changes after seeing results; 1× (first: 2025-08-31) [ref: "make it bugger" after initial edit]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
 
 ### Emerging (new query patterns)
-- Requests image editing/manipulation via AI tools; 1× (since 2025-08-31) [ref: bag replacement and resizing task]
+- image editing requests via platform; 2× (since 2025-08-31) [refs: bag replacement; resize bag]
