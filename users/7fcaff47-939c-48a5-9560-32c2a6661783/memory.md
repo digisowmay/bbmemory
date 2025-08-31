@@ -5,6 +5,7 @@
 ### Emerging (new signals, 1-2 reinforcements)
 - demands sourcing directly from official channels for accuracy; 2× (last: 2025-08-31) [refs: authenticity request chatId:`260633fe60554a`; twitter data pull insistence chatId:`260633fe60554a`]
 - requests real-time integration notifications via Email & Telegram; 1× (first: 2025-08-31) [ref: gmail/telegram notification request chatId:`260633fe60554a`]
+- prefers no confirmations (YOLO mode) and imposes strict non-repetition, tagging, and formatting rules; 1× (first: 2025-08-31) [ref: YOLO mode instruction chatId:`260633fe60554a`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -19,6 +20,7 @@
 ### Emerging (recent behavioral shifts)
 - seeks complete coverage and accuracy in automation tasks; 2× (last: 2025-08-31) [refs: logo extraction & automation chatId:`260633fe60554a`; official twitter data pull chatId:`260633fe60554a`]
 - prefers full automation with multi-tool integration (Twitter, Sheets, Gmail, Telegram); 1× (first: 2025-08-31) [ref: multi-channel automation request chatId:`260633fe60554a`]
+- highly detail-oriented with strict content rules (unique content, handle tagging, no numbering); 1× (first: 2025-08-31) [ref: enhanced stipulations chatId:`260633fe60554a`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
@@ -27,3 +29,4 @@
 ### Emerging (new query patterns)
 - integrating Google Sheets for analytics & data logging; 1× (started: 2025-08-31) [ref: spreadsheet tracking request chatId:`260633fe60554a`]
 - uses Gmail and Telegram APIs for real-time notifications; 1× (first: 2025-08-31) [ref: notification request chatId:`260633fe60554a`]
+- using AI image generation for logo-only visuals in Twitter threads; 1× (first: 2025-08-31) [ref: image generation requirement chatId:`260633fe60554a`]
