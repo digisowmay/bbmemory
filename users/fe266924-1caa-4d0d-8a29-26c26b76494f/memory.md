@@ -1,28 +1,28 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- 
+- n/a
 
 ### Emerging (new signals, 1-2 reinforcements)
-- provides iterative design feedback and precise corrections on visual assets; 2× (last: 2025-08-31) [refs: asked to replace names, adjust plant coverage, remove extra characters]
-- often requests direct download links for finished images; 1× (first: 2025-08-31) [ref: asked "need a download link for this one"]
+- gives very specific, step-by-step instructions for creative image edits; 2× (last: 2025-08-31) [refs: requests to adjust dinosaur poster and sci-fi poster]
+- iteratively refines outputs, requesting precise corrections (names, coverage, layout); 2× (last: 2025-08-31) [refs: replace names Leo→Oliver; raise plants and add extra dinosaur]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
-- 
+- n/a
 
 ### Emerging (recent learning, current focus)
-- creating custom movie posters from personal photos featuring children and themes like dinosaurs and karate; 1× (started: 2025-08-31) [ref: multiple poster creation requests]
+- creating custom movie posters featuring family/friends; 2× (since 2025-08-31) [refs: Karate Barn poster; Face Breakers poster]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
-- 
+- n/a
 
 ### Emerging (recent behavioral shifts)
-- detail-oriented and iterative; requests refinements until visuals meet exact requirements; 2× (since 2025-08-31) [refs: adjustments to feet coverage, name replacements, extra character removal]
+- detail-oriented with visual aesthetics; requests corrections until satisfied; 2× (since 2025-08-31) [refs: plant coverage adjustment; expand faces poster]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
-- 
+- n/a
 
 ### Emerging (new query patterns)
-- frequent use of image editing capabilities for creative poster generation; 3× (since 2025-08-31) [refs: karate barn poster, dinosaur poster, reality-breaking poster]
+- frequent image editing and poster generation; 3× (since 2025-08-31) [refs: Karate Barn, Raptor Riders, Face Breakers posters]
