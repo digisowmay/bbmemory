@@ -2,22 +2,21 @@
 ### Durable (established, 3+ reinforcements)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- gives brief, direct instructions for content creation; 1× (first: 2025-08-31) [ref: request for SEO-rich blog]
+- gives concise, goal-oriented instructions for deliverables; 1× (first: 2025-08-31) [ref: chat requesting SEO blog post]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
 
 ### Emerging (recent learning, current focus)
-- owns or manages a website needing SEO blog posts; 1× (started: 2025-08-31) [ref: request for SEO-rich blog]
+- runs a laminate flooring supply & installation business in South Africa; 1× (first: 2025-08-31) [ref: chat providing website laminatefloors.co.za]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
 
 ### Emerging (recent behavioral shifts)
-- delegates content creation tasks to assistant; 1× (first: 2025-08-31) [ref: request for SEO-rich blog]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
 
 ### Emerging (new query patterns)
-- seeks SEO content writing assistance; 1× (since 2025-08-31) [ref: request for SEO-rich blog]
+- requests SEO-optimized content creation for business website; 1× (first: 2025-08-31) [ref: chat asking for SEO rich blog post]
