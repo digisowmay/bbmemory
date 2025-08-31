@@ -1,27 +1,28 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- gives precise, concise instructions for visual edits; focuses on specific style details (hair length, mustache thickness); 5× [refs: multiple image edit requests adjusting mustache, hair length, fringe]
+- 
 
 ### Emerging (new signals, 1-2 reinforcements)
-- prefers iterative refinement, requesting small tweaks after seeing result; 2× (last: 2025-08-31) [refs: asked to make mustache smaller; hair messier]
+- provides specific, detailed visual editing directives referencing Freddie Mercury look; 10× (last: 2025-08-31) [refs: multiple image edit requests in current session]
+- iterative feedback, requesting adjustments until style meets criteria; 5× (last: 2025-08-31) [refs: beard size change, hair volume adjustments]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
-- n/a
+- 
 
-### Emerging (recent learning, current focus)
-- working on 3D/open-source character styled like young Freddie Mercury; repeatedly requests hair/facial edits to match 70s-80s look; 4× (since 2025-08-31) [refs: requests for Freddie Mercury mustache, 70s hair, goatee transformations]
+### Emerging (recent learning, current focus)  
+- project involves editing open-source 3D character to Freddie Mercury style; 1× (first: 2025-08-31) [ref: initial request to edit open sourced character]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
-- n/a
+- 
 
 ### Emerging (recent behavioral shifts)
-- iterative visual design workflow: reviews output then requests targeted adjustments; 2× (since 2025-08-31) [refs: mustache thickness tweak; hair length increase]
+- prefers incremental refinement; provides feedback on subtle visual tweaks; 4× (since 2025-08-31) [refs: mustache thickness adjustments, hair length changes]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
-- frequently uses image editing tools for character customization; 7× [refs: series of image edit requests in current session]
+- frequently uses platform for image editing requests; 12× [refs: continuous image edit calls this session]
 
 ### Emerging (new query patterns)
-- focused on vintage rock star aesthetics (Freddie Mercury styles); 3× (since 2025-08-31) [refs: multiple requests for 70s/80s style hair and mustache]
+- focused on Freddie Mercury style transformations; 8× (since 2025-08-31) [refs: repeated requests for Mercury hair/mustache]
