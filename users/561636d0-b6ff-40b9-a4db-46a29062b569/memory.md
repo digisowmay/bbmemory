@@ -5,6 +5,7 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - Interested in automated social media posting and tool integrations; 2× (last: 2025-08-31) [refs: request to handle LinkedIn posting through automation; query about linking Instagram/LinkedIn]
+- Asks for step-by-step actionable fixes when issues arise; 1× (first: 2025-08-31) [ref: question about how to fix LinkedIn profile creation]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -26,4 +27,4 @@
 - Actively uses Instagram for Vexa Digital’s presence and content; 3× [refs: statement that Instagram page exists; request to analyze Instagram handle; prior content planning focus]
 
 ### Emerging (new query patterns)
-- Initiating LinkedIn presence and exploring automation for posting; 2× (since 2025-08-31) [refs: creation of new LinkedIn profile; request for LinkedIn connection fix]
+- Initiating LinkedIn company page creation and exploring automation for posting; 2× (since 2025-08-31) [refs: deletion of unintended profile; request to create company page]
