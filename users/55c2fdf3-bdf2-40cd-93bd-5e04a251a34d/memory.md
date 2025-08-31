@@ -1,23 +1,36 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
+- 
+- 
+- 
 
 ### Emerging (new signals, 1-2 reinforcements)
-- uses very concise one-line commands for image edits; 1× (first: 2025-08-31) [ref: prompts "make different", "view behind", "view bottom up"]
+- prefers very short, imperative commands (e.g., "make different", "view bottom up"); 2× (last: 2025-08-31) [refs: image editing requests in chat]
+- expects quick visual outputs without lengthy explanations; 1× (first: 2025-08-31) [ref: series of image edit requests]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
+- 
+- 
 
 ### Emerging (recent learning, current focus)
-- frequently works with AI image editing and camera-angle transformations; 1× (since 2025-08-31) [refs: requested multiple edits of bathroom photo]
+- experimenting with image perspectives and camera angles; 2× (since 2025-08-31) [refs: requests for different view angles, wide-angle, bottom-up]
+- working with edited photos featuring indoor scenes and characters; 1× (started: 2025-08-31) [ref: multiple bathroom scene edits]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
+- 
+- 
 
 ### Emerging (recent behavioral shifts)
-- iterative request approach; asks for successive variations quickly; 1× (first: 2025-08-31) [ref: sequence of angle change requests]
+- iterative approach—makes successive refinement requests to achieve desired visual result; 2× (since 2025-08-31) [refs: step-by-step angle changes]
+- visually oriented—focuses on aesthetic composition through camera angles; 1× (observed: 2025-08-31) [ref: requests for fish-eye, worm's eye perspectives]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
+- 
+- 
 
 ### Emerging (new query patterns)
-- uses platform primarily for AI image editing requests; 1× (since 2025-08-31) [refs: multiple gemini-image_editImage calls]
+- frequent image editing requests, particularly camera angle transformations; 3× (since 2025-08-31) [refs: multiple gemini-image_editImage calls]
+- seeks variety of perspectives (bird's-eye, bottom-up, wide-angle) in rapid succession; 2× (since 2025-08-31) [refs: sequential perspective edits]
