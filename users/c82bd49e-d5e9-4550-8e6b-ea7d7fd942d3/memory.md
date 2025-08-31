@@ -3,25 +3,27 @@
 - 
 
 ### Emerging (new signals, 1-2 reinforcements)
-- provides detailed, specific instructions for image edits; 2× (last: 2025-08-31) [refs: multiple portrait style requests]
+- Uses detailed, specific visual descriptions for image edits; precise about lighting, attire, background; 1× (first: 2025-08-31) [ref: multiple portrait style requests including LinkedIn, GitHub, dating]
+- Provides direct feedback and requests quick adjustments (e.g., "its too dark"); 1× (first: 2025-08-31) [ref: neon portrait brightness comment]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
 - 
 
-### Emerging (recent learning, current focus)  
-- software developer needing GitHub and LinkedIn profile images; 1× (started: 2025-08-31) [ref: GitHub developer profile portrait request]
+### Emerging (recent learning, current focus)
+- Working on building personal/professional photo assets for various platforms (LinkedIn, GitHub, dating profiles); 1× (started: 2025-08-31) [ref: series of portrait transformation requests]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
 - 
 
 ### Emerging (recent behavioral shifts)
-- iterative refinement approach to visual tasks; 2× (last: 2025-08-31) [refs: request to adjust brightness of neon photo; multiple style edits]
+- Iterative refinement approach; seeks modifications until satisfied; 1× (observed: 2025-08-31) [ref: brightness adjustment request]
+- Values context-appropriate professionalism; chooses attire/background per platform; 1× (observed: 2025-08-31) [ref: LinkedIn vs dating vs GitHub portraits]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
-- frequently requests AI image edits for profile pictures; 3× [refs: LinkedIn headshot creation; GitHub profile portrait; dating profile images]
+- 
 
 ### Emerging (new query patterns)
-- currently focusing on creating professional social media portraits; 1× (since 2025-08-31) [ref: multiple professional profile photo requests]
+- Frequently requests AI image transformations for personal portraits; 4× (since 2025-08-31) [refs: repeated gemini-image_editImage calls]
