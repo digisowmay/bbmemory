@@ -1,24 +1,28 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
+- 
 
 ### Emerging (new signals, 1-2 reinforcements)
-- gives concise, iterative instructions for image edits; prefers rapid refinement cycles; 1× (first: 2025-08-31) [refs: multiple sequential requests adjusting golf portrait]
-- focuses on visual details (lighting, clothing style, grooming) when directing edits; 1× (first: 2025-08-31) [ref: requests for golden hour, specific outfits, beard changes]
+- provides concise, incremental image-editing instructions; requests specific visual adjustments step by step; 2× (last: 2025-08-31) [refs: multiple requests to change outfit, lighting, pose]
+- values maintaining key elements while tweaking details; stresses keeping original face while changing clothes/background; 1× (first: 2025-08-31) [ref: instruction to keep original face]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
+- 
 
-### Emerging (recent learning, current focus)
-- currently working on/experimenting with portrait image transformations and styling; 1× (started: 2025-08-31) [ref: series of image edit requests]
+### Emerging (recent learning, current focus)  
+- creating or curating golf-themed imagery; focusing on retro and elegant golf aesthetics; 1× (started: 2025-08-31) [ref: series of golf outfit and background requests]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
+- 
 
 ### Emerging (recent behavioral shifts)
-- iterative refinement approach; adjusts details step-by-step toward desired outcome; 1× (since 2025-08-31) [ref: successive modification requests]
+- iterative refinement approach; tests successive visual changes until satisfied; 2× (since 2025-08-31) [refs: chain of edit requests]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
+- 
 
 ### Emerging (new query patterns)
-- frequently uses the platform for AI-powered image editing and generation; 1× (since 2025-08-31) [ref: numerous gemini-image_editImage and combineImages calls]
+- heavy use of image editing features; combines and edits images repeatedly; 2× (since 2025-08-31) [refs: multiple gemini-image_editImage and combine requests]
