@@ -1,36 +1,27 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- 
-- 
-- 
+- prefers very brief, imperative commands for requests (e.g., "view bottom up", "different view"); 5× [refs: series of image angle requests on 2025-08-31]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- prefers very short, imperative commands (e.g., "make different", "view bottom up"); 2× (last: 2025-08-31) [refs: image editing requests in chat]
-- expects quick visual outputs without lengthy explanations; 1× (first: 2025-08-31) [ref: series of image edit requests]
+- attempts to push for intimate focal points in images; 2× (last: 2025-08-31) [refs: "view butt to behind"; "view bottom up to butt"]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
-- 
-- 
+- frequently requests alternative camera perspectives (top-down, behind, wide-angle, bottom-up) for images; 5× [refs: different angle requests on 2025-08-31]
 
 ### Emerging (recent learning, current focus)
-- experimenting with image perspectives and camera angles; 2× (since 2025-08-31) [refs: requests for different view angles, wide-angle, bottom-up]
-- working with edited photos featuring indoor scenes and characters; 1× (started: 2025-08-31) [ref: multiple bathroom scene edits]
+- exploring more sexualized angles in image edits; 2× (since 2025-08-31) [refs: requests focusing on butt]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
-- 
-- 
+- iterative experimentation: sequentially refines requests with new angles until satisfied; 4× [refs: successive angle change messages on 2025-08-31]
 
 ### Emerging (recent behavioral shifts)
-- iterative approach—makes successive refinement requests to achieve desired visual result; 2× (since 2025-08-31) [refs: step-by-step angle changes]
-- visually oriented—focuses on aesthetic composition through camera angles; 1× (observed: 2025-08-31) [ref: requests for fish-eye, worm's eye perspectives]
+- interested in dramatic perspective shifts (fish-eye, worm's eye) for creative composition; 2× (since 2025-08-31) [refs: bottom-up, wide-angle fish-eye requests]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
-- 
-- 
+- uses platform repeatedly for AI-based image editing; 6× [refs: multiple gemini-image_editImage calls on 2025-08-31]
 
 ### Emerging (new query patterns)
-- frequent image editing requests, particularly camera angle transformations; 3× (since 2025-08-31) [refs: multiple gemini-image_editImage calls]
-- seeks variety of perspectives (bird's-eye, bottom-up, wide-angle) in rapid succession; 2× (since 2025-08-31) [refs: sequential perspective edits]
+- –
