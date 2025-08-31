@@ -1,28 +1,29 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- no durable patterns identified yet
+- prefers detailed expert video analyses before making decisions (e.g., tech purchases); 3× [refs: smartphone review request; reliance on MKBHD; Mrwhosetheboss videos]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- requests ready-to-send, formatted outputs (e.g., Slack message); 1× (first: 2025-08-31) [ref: asked for Slack message containing GIF links]
-- prefers professional tone even for ‘fun’ assets; 1× (first: 2025-08-31) [ref: specified GIFs should be suitable for professional presentation, not overly meme-ish]
+- requests curated learning resources with synthesized takeaways (video analysis + summaries); 1× (first: 2025-08-31) [ref: request for ML video insights]
+- asks for audio format summaries for multitasking during commute; 1× (first: 2025-08-31) [ref: request to create audio summaries]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
-- relies on detailed expert YouTube reviews (MKBHD, Mrwhosetheboss) for smartphone purchase decisions; 3× (stable since 2025-08-30) [ref: prior chat about smartphone buying process]
+- tech-savvy consumer who researches extensively before purchases; 3× [refs: smartphone analysis conversation; YouTube review reliance]
 
 ### Emerging (recent learning, current focus)
-- preparing professional presentations that include multimedia elements; 1× (started: 2025-08-31) [ref: requested presentation-appropriate reaction GIFs]
+- currently studying data science with focus on machine learning algorithms; 1× (started: 2025-08-31) [ref: stated "I'm studying data science"]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
-- makes decisions after thorough external analysis and expert input; 3× [ref: smartphone purchase decision process using YouTube reviews]
+- evidence-based decision maker; prefers expert opinions and data before acting; 3× [refs: smartphone purchase research threads]
 
 ### Emerging (recent behavioral shifts)
-- values polished, work-appropriate materials even for casual elements; 1× (observed: 2025-08-31) [ref: wanted GIFs to be fun yet professional]
+- favors concise, digestible content (audio summaries) for efficient learning; 1× (observed: 2025-08-31) [ref: audio summary request]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
-- no durable platform patterns established yet
+- frequently leverages YouTube for in-depth reviews and explanations; 4× [refs: smartphone reviews; ML video search]
 
 ### Emerging (new query patterns)
-- uses Slack and seeks content tailored for Slack sharing; 1× (since 2025-08-31) [ref: requested Slack-formatted message with GIF links]
+- exploring machine learning educational content on YouTube; 1× (since 2025-08-31) [ref: ML algorithm video search]
+- requests transformation of video content into alternate formats (audio); 1× (since 2025-08-31) [ref: audio summary generation]
