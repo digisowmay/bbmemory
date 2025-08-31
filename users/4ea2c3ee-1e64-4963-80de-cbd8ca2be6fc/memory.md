@@ -1,23 +1,27 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
+- prefers Hinglish responses; 3× (stable since 2025-08-31) [refs: "hinglish mai batao ?"; resume apply request in Hinglish; LinkedIn settings request]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- Prefers replies in Hinglish (Hindi-English mix); 1× (first: 2025-08-31) [ref: asked "hinglish mai batao?"]
+- gives direct action commands, expects autonomous execution; 2× (last: 2025-08-31) [refs: "meri linkedin ki setting saro ok kardo"; "jitne online portal hh job k lye apply kardo"]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
+- final-year BA student with billing, accounting, telecalling experience; 3× [refs: shared resume details; LinkedIn profile discussion; job search context]
 
 ### Emerging (recent learning, current focus)
-- Seeking back office job opportunities in MNCs in Noida/Delhi; 1× (started: 2025-08-31) [ref: request "MNC Noida, Delhi location mai"]
+- actively seeking back-office roles in MNCs in Noida/Delhi; 2× (since 2025-08-31) [refs: job portal apply request; location preference messages]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
+- task-oriented, favors immediate practical actions over long explanations; 3× [refs: multiple direct requests for action; minimal detail questions]
 
 ### Emerging (recent behavioral shifts)
-- Direct task delegation style; requests agent to perform actions on their behalf; 1× (first: 2025-08-31) [ref: "apply kardo" request]
+- open to leveraging AI tools for resume/profile optimization; 1× (first: 2025-08-31) [ref: provided resume and asked assistant to apply]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
+- seeks job application assistance and LinkedIn optimization; 4× [refs: LinkedIn settings request; job portal apply request; resume share; follow-up apply directive]
 
 ### Emerging (new query patterns)
-- Uses assistant for job search and application across multiple online portals; 1× (since 2025-08-31) [ref: job search request]
+- interested in multi-portal automated job applications; 2× (since 2025-08-31) [refs: "jitne online portal hh job k lye apply kardo"; PDF resume upload with URL]
