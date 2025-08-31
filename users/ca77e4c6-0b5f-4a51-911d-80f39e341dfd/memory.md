@@ -1,23 +1,27 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
+- 
 
 ### Emerging (new signals, 1-2 reinforcements)
-- gives concise, imperative instructions for image edits; 4× (last: 2025-08-31) [refs: repeated "give the man the same long glam hair" image edit requests]
+- provides concise, directive instructions for iterative image edits; 2× (last: 2025-08-31) [refs: repeated requests to add 1970s hair and glam look to images]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
+-
 
 ### Emerging (recent learning, current focus)
-- working on series of photo edits recreating 1970s Freddie Mercury hairstyle; 1× (since 2025-08-31) [ref: conversation about adding long black messy hair]
+- currently working on styling images to replicate 1970s Freddie Mercury look; 1× (started: 2025-08-31) [ref: multiple image edit requests in session]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
+-
 
 ### Emerging (recent behavioral shifts)
-- iterative approach, requests same modification across multiple images until satisfied; 1× (first: 2025-08-31) [ref: sequence of similar hair edit requests]
+- iterative refinement approach, requesting successive edits until specification met; 1× (observed: 2025-08-31) [ref: chain of similar image edit instructions]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
+-
 
 ### Emerging (new query patterns)
-- frequently asks for image editing/manipulation; 4× (since 2025-08-31) [refs: multiple hairstyle edit commands]
+- frequent image editing requests focused on hairstyle changes; 3× (since 2025-08-31) [refs: all image edit commands in conversation]
