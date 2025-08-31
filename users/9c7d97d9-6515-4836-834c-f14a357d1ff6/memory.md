@@ -1,24 +1,27 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
+- 
 
 ### Emerging (new signals, 1-2 reinforcements)
-- prefers concise, actionable instructions like scheduling tasks; 1× (first: 2025-08-31) [ref: chat about automating tweets timing]
+- gives concise, action-oriented instructions for automations; 1× (first: 2025-08-31) [ref: current chat requesting tweet schedules and comment-reply automation]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
-- finance content creator across Instagram, YouTube, LinkedIn, Threads; 1× (since 2025-08-31) [ref: user self-description of content platforms]
+-
 
-### Emerging (recent learning, current focus)
-- focusing on trending global and Indian finance news topics for content; 1× (first: 2025-08-31) [ref: request to post tweets on global economy, govt policies]
+### Emerging (recent learning, current focus)  
+- finance content creator across Instagram, YouTube, LinkedIn, Threads; 1× (since 2025-08-31) [ref: stated role while requesting Twitter automation]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
+-
 
 ### Emerging (recent behavioral shifts)
-- goal-oriented and systematic, requests automated schedules to optimize reach; 1× (first: 2025-08-31) [ref: ask to schedule tweets at 9am and 6:30pm]
+- seeks scalable automation to optimize social media workflow; 1× (first: 2025-08-31) [ref: requested daily automated tweets and comment replies]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
+-
 
 ### Emerging (new query patterns)
-- interested in social media automation, especially Twitter scheduling; 1× (first: 2025-08-31) [ref: request to set up automated tweet schedule]
+- interested in Twitter/X scheduling and engagement automation; 1× (since 2025-08-31) [ref: instructions to schedule tweets at specific times and automate replies]
