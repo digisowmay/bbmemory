@@ -11,7 +11,7 @@
 - uses Bhindi backroom & GitHub operations regularly; 4× [refs: multiple PR/echo automation commands]
 
 ### Emerging (recent learning, current focus)
-- initiating file resizer agent to bypass LLM upload limits for users; delegated to Kalash; 1× (started: 2025-09-01) [ref: file resizer agent request chatId:`73a0bbe55a164b`]
+- initiating file resizer agent to bypass LLM upload limits for users; delegated to Kalash; 2× (since 2025-09-01) [refs: file resizer agent request chatId:`73a0bbe55a164b`; reminder setup chatId:`73a0bbe55a164b`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
@@ -25,5 +25,5 @@
 - frequently issues direct operational commands (GitHub, backroom echo) expecting immediate execution; 6× [refs: echo send commands; earlier GitHub commands]
 
 ### Emerging (new query patterns)
-- actively manages assistant memory and operational workflow through explicit instructions; 3× (last: 2025-09-01) [refs: memory update instruction chatId:`20ecd26342b542`; current memory review chatId:`73a0bbe55a164b`]
+- actively manages assistant memory and operational workflow, including scheduling reminders; 4× (last: 2025-09-01) [refs: memory update instruction chatId:`20ecd26342b542`; reminder setup chatId:`73a0bbe55a164b`]
 - asks cryptocurrency prices; Ethereum tracking; 2× (last: 2025-09-01) [refs: ETH price requests chatId:`017587caee1c42`]
