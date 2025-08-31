@@ -1,27 +1,27 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- relies on expert YouTube reviews for deep analysis before purchases; 3× (stable since 2025-07-20) [refs: discussion about using MKBHD review for phone; earlier chat about Mrwhosetheboss analysis; smartphone purchase guidance]
+- prefers data-backed, expert-sourced information before decisions; 3× [refs: prior chats about relying on MKBHD & Mrwhosetheboss reviews; smartphone purchase comparison discussion]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- requests comprehensive summaries and detailed information for academic work; 1× (first: 2025-08-31) [ref: chat requesting detailed papers/datasets summary for AI project]
+- requests concise, quick snapshots for crypto market info; 1× (first: 2025-08-31) [ref: chat request for "quick view" of BTC & ETH prices]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
-- tech-savvy consumer interested in smartphones and reviews; 3× [refs: phone purchase conversations; YouTube review mention; device comparison discussion]
+- follows detailed YouTube tech reviews (MKBHD, Mrwhosetheboss) when evaluating smartphones; 3× [refs: previous conversation about smartphone buying process]
 
 ### Emerging (recent learning, current focus)
-- working on university AI models research paper; 1× (started: 2025-08-31) [ref: statement about studying AI models for university project]
+- developing interest in daily cryptocurrency price movements; 1× (started: 2025-08-31) [ref: asked for today's BTC & ETH prices]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
-- makes decisions after thorough evidence-based analysis; 4× [refs: smartphone review reliance; comparison of devices; request for detailed insights; analysis discussions]
+- research-oriented decision maker; gathers thorough analysis before purchases; 3× [refs: discussion of using expert smartphone reviews]
 
 ### Emerging (recent behavioral shifts)
-- seeks synthesized, structured summaries for academic writing; 1× (observed: 2025-08-31) [ref: request to analyze and summarize findings]
+- values high-level summaries for financial data to save time; 1× (observed: 2025-08-31) [ref: quick one-line market sentiment request]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
-- consults tech reviews regularly for consumer decisions; 3× [refs: smartphone review discussions; mention of MKBHD; Mrwhosetheboss reliance]
+- uses platform for technology product research and buying decisions; 3× [refs: smartphone spec comparison chat; review sourcing discussion]
 
 ### Emerging (new query patterns)
-- exploring AI papers, datasets, and models via Hugging Face for research; 1× (since 2025-08-31) [ref: request to search Hugging Face for papers and datasets]
+- beginning to check Bitcoin & Ethereum prices via the assistant; 1× (since 2025-08-31) [ref: requested BTC & ETH prices]
