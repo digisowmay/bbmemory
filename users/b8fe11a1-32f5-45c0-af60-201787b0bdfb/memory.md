@@ -2,23 +2,23 @@
 ### Durable (established, 3+ reinforcements)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- gives concise, direct image editing instructions in Swedish; 2× (last: 2025-08-31) [refs: requests to change clothes and background while preserving face]
-- provides quick feedback and requests revisions iteratively; 2× (last: 2025-08-31) [refs: asked for new attempt keeping face]
+- prefers concise image-edit instructions in Swedish; 2× (last: 2025-08-31) [refs: Disney princess clothes request; elegant hair request]
+- prioritizes keeping the original face unchanged during edits; 2× (since 2025-08-31) [refs: keep face unchanged request; professional hairstyle refinement]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
 
 ### Emerging (recent learning, current focus)
-- currently focused on generating customized images with specific aesthetic themes; 2× (since 2025-08-31) [refs: Disney princess dress request; elegant rich woman request]
+- interested in creative photo transformations of personal images; 2× (since 2025-08-31) [refs: Disney princess transformation; businesswoman luxury edit]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
 
 ### Emerging (recent behavioral shifts)
-- detail-oriented about visual consistency (insists on keeping original face unchanged); 2× (since 2025-08-31) [refs: requested face preservation in edits]
+- uses iterative refinement, requesting successive tweaks until satisfied; 2× (since 2025-08-31) [refs: second request to keep face; additional hairstyle tweak]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
 
 ### Emerging (new query patterns)
-- using platform primarily for AI-driven image transformations; 3× (since 2025-08-31) [refs: multiple consecutive image edit requests during session]
+- frequently requests AI image editing to enhance personal photos; 3× (since 2025-08-31) [refs: Disney edit; luxury business edit; hairstyle improvement]
