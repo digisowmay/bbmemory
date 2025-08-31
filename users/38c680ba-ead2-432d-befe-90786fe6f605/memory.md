@@ -1,32 +1,27 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- prefers tabular summaries and analytics drawn from database queries; 4× [refs: requests for UTM campaign counts; agent usage table; message counts table; issues summary]
-- asks follow-up refinements rapidly to drill into data details; 3× [refs: successive queries narrowing to medium; messages; emails]
-- minimal narrative, focuses on direct data answers; 3× [refs: "what all exist?"; "give me in table"; issue clarification]
+- requests structured data outputs (tables, counts, lists) for analytics; 3× [refs: 2025-08-31 chat asking for UTM user list, message counts, agent usage]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- ensures tool-based verification before conclusions; 2× (since 2025-08-31) [refs: insisted on checking utm collection; agent issue analysis]
+- clarifies follow-up questions to refine data queries; 2× (last: 2025-08-31) [refs: asked to check utm collection, asked if users faced issues]
 
 ## Knowledge & Context
-### Durable (core expertise)
-- marketing analytics for UTM campaigns and user engagement; 3× [refs: campaign counts analysis; message counts analysis; agent usage report]
-- comfortable with Bhindi MongoDB and internal data schema; 3× [refs: directed use of bhindi-mongodb; examined collections list; crafted aggregate pipelines]
+### Durable (core expertise, established over time)
+- works with marketing/analytics data, UTM campaigns; 3× [refs: requested campaign user list, medium analysis, issue resolution]
 
-### Emerging (recent learning)
-- investigating user onboarding friction; 1× (started: 2025-08-31) [ref: issue state analysis request]
+### Emerging (recent learning, current focus)
+- investigating user engagement and technical issues for campaign cohort; 1× (started: 2025-08-31) [ref: queries about agent issues and resolutions]
 
 ## Thinking & Working Style
-### Durable (core patterns)
-- data-driven decision making, requests quantitative metrics; 4× [refs: counts of users/messages; table outputs; analytics summary; issue counts]
-- iterative approach—asks sequential narrowing queries; 3× [refs: campaign list then medium filter; adding email data; issue attribution]
+### Durable (core thinking patterns)
+- data-driven decision making, seeks evidence before conclusions; 3× [refs: stepwise data requests culminating in table summary]
 
-### Emerging (recent shifts)
-- cross-validates quantitative data with qualitative message search; 1× (since 2025-08-31) [ref: search for complaint keywords]
+### Emerging (recent behavioral shifts)
+- seeks root-cause insights on technical friction; 1× (observed: 2025-08-31) [ref: asked if users resolved OAuth issues]
 
 ## Platform Usage & Queries
-### Durable (regular activities)
-- frequently queries Bhindi internal MongoDB collections; 4× [refs: multiple bhindi-mongodb_execute calls]
-- focuses on user engagement analytics and troubleshooting; 3× [refs: message counts; execution states; issue detection]
+### Durable (regular platform activities)
+- frequently queries MongoDB collections for analytics; 3× [refs: listCollections call, multiple aggregate queries]
 
-### Emerging (new interests)
-- exploring attribution of technical issues to user feedback; 1× (since 2025-08-31) [ref: checking messages for complaints]
+### Emerging (new query patterns)
+- analyzing agent execution states and integration success; 1× (since 2025-08-31) [ref: executions and integrations queries]
