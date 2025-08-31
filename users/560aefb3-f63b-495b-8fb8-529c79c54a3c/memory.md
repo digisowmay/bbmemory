@@ -1,24 +1,28 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
+- (no durable patterns identified yet)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- mixes English and Hindi in professional communication; 1× (first: 2025-08-31) [ref: provided bilingual LinkedIn/Email template for HR]
-- provides own draft templates for refinement; 1× (first: 2025-08-31) [ref: LinkedIn / Email HR Connect Prompt message]
+- Provides very brief confirmation replies (e.g., "yes"), expects assistant to guide next steps; 2× (last: 2025-08-31) [refs: responses "yes ." and "yes"]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
+- (no durable knowledge traits identified yet)
 
-### Emerging (recent learning, current focus)
-- actively job searching for roles in Data Entry, Back Office, Computer Operator, Billing Executive, Accounts; 1× (first: 2025-08-31) [ref: stated career exploration in message]
+### Emerging (recent learning, current focus)  
+- Currently job seeking; roles of interest: Data Entry, Back Office, Computer Operator, Billing Executive, Accounts; 1× (started: 2025-08-31) [ref: LinkedIn/Email HR Connect template provided]
+- Shared personal contact details for outreach: email vk836465@gmail.com, phone 9315136157; 1× (first: 2025-08-31) [ref: provided contact information]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
+- (no durable thinking patterns identified yet)
 
 ### Emerging (recent behavioral shifts)
-- favors concise, universal templates to streamline outreach; 1× (first: 2025-08-31) [ref: requested "Universal" LinkedIn/Email prompt]
+- (none at this time)
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
+- (no durable usage patterns identified yet)
 
 ### Emerging (new query patterns)
-- seeks assistance with LinkedIn and email outreach tools; 1× (first: 2025-08-31) [ref: asked for LinkedIn/Email HR Connect prompt]
+- Using assistant to draft and send HR outreach via LinkedIn and Gmail; 1× (started: 2025-08-31) [ref: request for LinkedIn/Gmail outreach assistance]
