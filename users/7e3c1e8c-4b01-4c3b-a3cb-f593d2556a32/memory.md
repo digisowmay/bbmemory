@@ -19,10 +19,11 @@
 
 ### Emerging (recent behavioral shifts)
 - meta-aware of assistant operations, ensuring compliance with system processes; 3× (last: 2025-09-01) [refs: memory update instructions chatId:`20ecd26342b542`; current memory review chatId:`73a0bbe55a164b`]
+- expects automated retries on transient failures (e.g., 502) and persistence in execution; 1× (first: 2025-09-01) [ref: agent sync retry instruction chatId:`cda7e7aaede64c`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
-- frequently issues direct operational commands (GitHub, backroom echo) expecting immediate execution; 8× [refs: echo send commands; earlier GitHub commands; PR creation command chatId:`5f76ce15051447`; PR merge command chatId:`5f76ce15051447`]
+- frequently issues direct operational commands (GitHub, backroom echo) expecting immediate execution; 9× [refs: echo send commands; earlier GitHub commands; PR creation command chatId:`5f76ce15051447`; PR merge command chatId:`5f76ce15051447`; current PR & deployment chatId:`cda7e7aaede64c`]
 
 ### Emerging (new query patterns)
 - actively manages assistant memory and operational workflow, including scheduling reminders; 4× (last: 2025-09-01) [refs: memory update instruction chatId:`20ecd26342b542`; reminder setup chatId:`73a0bbe55a164b`]
