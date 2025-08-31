@@ -1,27 +1,27 @@
 ## Communication Patterns
-### Durable (established, 3+ reinforcements)
-- (none yet)
+### Durable
+- (none recorded yet)
 
-### Emerging (new signals, 1-2 reinforcements)
-- gives concise, action-oriented instructions; expects direct execution; 1× (first: 2025-09-01) [ref: user request to start posting on company LinkedIn page]
+### Emerging
+- wants structured instructions for agents; 1× (first: 2025-09-01) [ref: request to create proper instructions for background Bhindi agents]
 
 ## Knowledge & Context
-### Durable (core expertise, established over time)
-- (none yet)
+### Durable
+- (none recorded yet)
 
-### Emerging (recent learning, current focus)
-- manages/owns Vexa Digital LinkedIn company page; seeks assistance with content posting; 1× (first: 2025-09-01) [ref: user request to post on company LinkedIn page]
+### Emerging
+- (none recorded yet)
 
 ## Thinking & Working Style
-### Durable (core thinking patterns)
-- (none yet)
+### Durable
+- (none recorded yet)
 
-### Emerging (recent behavioral shifts)
-- prefers delegating social media tasks to agent for efficiency; 1× (first: 2025-09-01) [ref: user request to start posting on company LinkedIn page]
+### Emerging
+- (none recorded yet)
 
 ## Platform Usage & Queries
-### Durable (regular platform activities)
-- (none yet)
+### Durable
+- (none recorded yet)
 
-### Emerging (new query patterns)
-- using platform to integrate with LinkedIn for automated company page posts; 1× (first: 2025-09-01) [ref: request to post on company LinkedIn page]
+### Emerging
+- exploring automation and agent instruction creation; 1× (first: 2025-09-01) [ref: request to create instructions for background Bhindi agents]
