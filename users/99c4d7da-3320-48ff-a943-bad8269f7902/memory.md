@@ -1,23 +1,29 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
+- 
 
 ### Emerging (new signals, 1-2 reinforcements)
-- asks concise, direct physics questions expecting formula-based answers; 2× (since 2025-08-31) [refs: average velocity question; unit of b question]
+- asks concise technical questions and expects direct formula-based answers; 2× (last: 2025-08-31) [refs: physics average velocity query; conical pendulum question]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
+- 
 
 ### Emerging (recent learning, current focus)
-- studying basic kinematics and classical mechanics concepts; 1× (started: 2025-08-31) [ref: multiple kinematics problems]
+- working on introductory mechanics/kinematics physics problems; 2× (since 2025-08-31) [refs: average velocity, units of b, conical pendulum]
+- interested in personal image transformations (fitness, sports, concert themes); 1× (started: 2025-08-31) [ref: nano banana image transformation request]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
+- 
 
 ### Emerging (recent behavioral shifts)
-- prefers step-by-step analytical derivations with equations; 1× (observed: 2025-08-31) [ref: request for conical pendulum angular speed]
+- prefers step-by-step calculation support with formula derivations; 2× (since 2025-08-31) [refs: average velocity solution; S1 expression derivation]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
+- 
 
 ### Emerging (new query patterns)
-- frequently asks physics problem-solving queries; 4× (since 2025-08-31) [refs: questions on average velocity; unit analysis; conical pendulum; successive interval distances]
+- uses platform for physics homework help; 2× (since 2025-08-31) [refs: velocity, conical pendulum]
+- uses platform for AI image editing of personal photos; 1× (started: 2025-08-31) [ref: nano banana image transformations]
