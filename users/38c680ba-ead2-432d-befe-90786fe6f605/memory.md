@@ -1,27 +1,28 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- requests structured data outputs (tables, counts, lists) for analytics; 3× [refs: 2025-08-31 chat asking for UTM user list, message counts, agent usage]
+- none yet
 
 ### Emerging (new signals, 1-2 reinforcements)
-- clarifies follow-up questions to refine data queries; 2× (last: 2025-08-31) [refs: asked to check utm collection, asked if users faced issues]
+- requests data in table/structured formats; 2× (last: 2025-08-31) [refs: asked for table of users/agents; requested message counts table]
+- iterative follow-ups for deeper analytics; 2× (last: 2025-08-31) [refs: sequential queries on UTMs, issues, resolutions]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
-- works with marketing/analytics data, UTM campaigns; 3× [refs: requested campaign user list, medium analysis, issue resolution]
+- none yet
 
 ### Emerging (recent learning, current focus)
-- investigating user engagement and technical issues for campaign cohort; 1× (started: 2025-08-31) [ref: queries about agent issues and resolutions]
+- focuses on user engagement analytics and UTM campaign tracking; 2× (since 2025-08-31) [refs: queries on gayatri.tech campaign; message/activity analysis]
 
 ## Thinking & Working Style
-### Durable (core thinking patterns)
-- data-driven decision making, seeks evidence before conclusions; 3× [refs: stepwise data requests culminating in table summary]
+### Durable (core patterns)
+- none yet
 
 ### Emerging (recent behavioral shifts)
-- seeks root-cause insights on technical friction; 1× (observed: 2025-08-31) [ref: asked if users resolved OAuth issues]
+- data-driven decision making; 2× (since 2025-08-31) [refs: requested counts, issues, resolutions]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
-- frequently queries MongoDB collections for analytics; 3× [refs: listCollections call, multiple aggregate queries]
+- none yet
 
 ### Emerging (new query patterns)
-- analyzing agent execution states and integration success; 1× (since 2025-08-31) [ref: executions and integrations queries]
+- heavy use of MongoDB data queries for analytics; 2× (since 2025-08-31) [refs: listCollections call; aggregate queries on utms, messages]
