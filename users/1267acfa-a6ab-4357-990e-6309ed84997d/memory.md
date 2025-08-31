@@ -1,28 +1,27 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- prefers concise, action-oriented instructions and automation; 3× [refs: requested daily automated outreach; specified precise email structure; asked to remove salary filter]
+- prefers clear, concise, professional language; 3× [refs: requested formal British English emails; set precise email structure; specified under-200-word limit]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- values British English professionalism in emails; 2× (last: 2025-08-31) [refs: specified British English style; required professional sign-off]
+- requests automated daily actions with specific timing and voice-note summaries; 2× (last: 2025-08-31) [refs: instructed 12 PM GMT schedule; asked for daily email summary voice note]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
-- job seeker for Data Analyst roles in UK; 4× [refs: provided resume; requested recruiter emails; set daily outreach]
-- skills in SQL, Python, Power BI, MSc Data Science; 3× [refs: shared resume details; highlighted technical stack in outreach]
+- MSc Data Science candidate with strong SQL, Python, Power BI skills; 4× [refs: resume details shared; highlighted skills in outreach emails; dissertation info]
 
 ### Emerging (recent learning, current focus)
-- targeting entry-level/junior positions specifically; 1× (since 2025-08-31) [ref: asked to remove salary range for entry level]
+- actively seeking entry-level Data Analyst roles in the UK; 2× (since 2025-08-31) [refs: directed removal of salary cap; requested job search automation]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
-- systematic and automation-oriented; sets recurring scheduled tasks; 3× [refs: requested daily scheduled outreach; automated email summarization; update to schedule]
+- outcome-oriented and automation-focused; delegates repeatable tasks to systems; 3× [refs: set up scheduler; requested daily automated outreach; voice summary requirement]
 
 ### Emerging (recent behavioral shifts)
-- iterative refinement of requirements; 1× (observed: 2025-08-31) [ref: adjusted salary criteria after initial setup]
+- prioritises broad opportunity search over salary constraints; 1× (first: 2025-08-31) [ref: asked to remove salary range]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
-- uses platform for job application automation and email drafting; 3× [refs: asked for daily outreach; summary voice notes; multiple email drafts]
+- uses platform for job search automation and recruiter outreach; 3× [refs: initial email generation request; daily outreach setup; schedule update]
 
 ### Emerging (new query patterns)
-- requests voice note summaries of actions; 1× (started 2025-08-31) [ref: wants daily voice note summary emailed]
+- prefers voice note summaries emailed daily; 1× (started 2025-08-31) [ref: requested voice note summary email]
