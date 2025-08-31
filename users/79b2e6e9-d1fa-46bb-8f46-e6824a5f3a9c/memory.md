@@ -1,27 +1,27 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- 
+- (none yet)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- Gives concise, imperative instructions focused on specific visual outcomes; 2× (last: 2025-08-31) [refs: request to “Use nano change the background totally”; follow-up instruction to “Remove the footpath also and add a whole new background”]
+- gives concise, imperative instructions for asset edits (e.g., "use nano", "make it downloadable as JPG"); 1× (first: 2025-08-31) [ref: request to enhance logo and convert to JPG]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
-- 
+- (none yet)
 
 ### Emerging (recent learning, current focus)
-- 
+- (none yet)
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
-- 
+- (none yet)
 
 ### Emerging (recent behavioral shifts)
-- 
+- prefers high-quality, detailed outputs with specific technical requirements; 1× (first: 2025-08-31) [ref: request for high-quality detailed logo enhancement]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
-- 
+- (none yet)
 
 ### Emerging (new query patterns)
-- Requests realistic photo background editing; attention to proper scaling and realism; 2× (since 2025-08-31) [refs: background change request; footpath removal and realistic scaling request]
+- requests image enhancement and file format conversion (PNG→JPG); 1× (first: 2025-08-31) [ref: request to make logo downloadable as JPG]
