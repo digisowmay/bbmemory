@@ -1,29 +1,27 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- 
+- (none yet)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- requests clear, step-by-step professional guidance for brand setup; 2× (last: 2025-09-01) [refs: instructions on LinkedIn page creation; tagline clarification]
-- prioritizes consistent institutional tone in all content; 1× (first: 2025-09-01) [ref: stated voice & tone guidelines]
+- gives concise, action-oriented instructions; expects direct execution; 1× (first: 2025-09-01) [ref: user request to start posting on company LinkedIn page]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
-- 
+- (none yet)
 
 ### Emerging (recent learning, current focus)
-- represents Vexa Digital esports consultancy, managing Instagram @vexadigital.in and new LinkedIn company page; 1× (since 2025-09-01) [refs: provided Instagram handle; created LinkedIn company page]
-- mission to make esports orgs sponsor-ready and advocate regulation; 1× (first: 2025-09-01) [ref: Vexa overview details]
+- manages/owns Vexa Digital LinkedIn company page; seeks assistance with content posting; 1× (first: 2025-09-01) [ref: user request to post on company LinkedIn page]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
-- 
+- (none yet)
 
 ### Emerging (recent behavioral shifts)
-- systematic, implementation-oriented; seeks actionable frameworks and assets; 1× (first: 2025-09-01) [ref: asked for cover image, posts schedule]
+- prefers delegating social media tasks to agent for efficiency; 1× (first: 2025-09-01) [ref: user request to start posting on company LinkedIn page]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
-- 
+- (none yet)
 
 ### Emerging (new query patterns)
-- queries about social media brand setup and automation (LinkedIn, Instagram); 2× (since 2025-09-01) [refs: LinkedIn creation help; content automation questions]
+- using platform to integrate with LinkedIn for automated company page posts; 1× (first: 2025-09-01) [ref: request to post on company LinkedIn page]
