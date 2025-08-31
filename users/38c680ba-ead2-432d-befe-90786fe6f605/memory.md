@@ -2,7 +2,7 @@
 ### Durable (established, 3+ reinforcements)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- demands rigorous verification and cross-checking; prefers explicit confirmation steps; 1× (first: 2025-08-31) [ref: request to analyze new users with count operations]
+- demands rigorous verification and cross-checking; prefers explicit confirmation steps; 2× (last: 2025-08-31) [refs: request to analyze new users with count operations; clarification about createdAt field time window]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -14,7 +14,7 @@
 ### Durable (core thinking patterns)
 
 ### Emerging (recent behavioral shifts)
-- detail-oriented and analytical; emphasizes verification before conclusions; 1× (first: 2025-08-31) [ref: instructions to verify every step in engagement report]
+- detail-oriented and analytical; emphasizes verification before conclusions; 2× (last: 2025-08-31) [refs: instructions to verify every step in engagement report; follow-up time-window clarification]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
