@@ -1,24 +1,27 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- prefers Indonesian language, short direct questions; 4× [refs: "Apakah fartcoin akan naik"; "Ke bahasa indo"; "Ke rupiah"; "Eth sampai akhir tahun 2025 ke 2026 sampai naik berapa rupiah"]
+- 
 
 ### Emerging (new signals, 1-2 reinforcements)
-- often requests currency conversion to Rupiah; 2× (since 2025-08-31) [refs: "Ke rupiah"; "Bahasa Indonesia ke rupiah"]
+- prefers info in Bahasa Indonesia and amounts in Rupiah; 1× (first: 2025-08-31) [refs: asked "Ke bahasa indo"; asked "Ke rupiah"]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
+- 
 
-### Emerging (recent learning, current focus)  
-- invested in Fartcoin meme coin; 1× (first: 2025-08-31) [ref: "Saya udah naro modal sekarang di fartcoin"]
+### Emerging (recent learning, current focus)
+- 
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
+- 
 
 ### Emerging (recent behavioral shifts)
-- seeks speculative crypto price projections; 2× (since 2025-08-31) [refs: questions about Fartcoin future price; ETH price 2025-2026]
+- seeks actionable price entry timing for investments; 1× (first: 2025-08-31) [ref: asked "kapan waktu eth turun agar saya bisa masuk modal"]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
-- asks crypto price predictions/analysis; 4× [refs: multiple Fartcoin and ETH queries]
+- 
 
 ### Emerging (new query patterns)
+- frequently asks for cryptocurrency price analysis and predictions; 2× (since 2025-08-31) [refs: questions about Fartcoin rise; ETH future price]
