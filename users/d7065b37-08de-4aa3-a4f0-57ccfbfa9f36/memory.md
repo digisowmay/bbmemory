@@ -1,23 +1,23 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-
+- 
 ### Emerging (new signals, 1-2 reinforcements)
-- requests detailed aesthetic direction for visuals; prefers stylish, high-quality imagery; 2× (since 2025-08-31) [refs: Casino Royale PFP request; follow-up for dramatic cinematic version]
+- gives short, direct creative instructions ("a more dramatic, cinematic one"); 1× (first: 2025-08-31) [ref: request for more dramatic image]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
-
+- 
 ### Emerging (recent learning, current focus)
-- interested in fashion/cinematic photography style for social media profile; 1× (started: 2025-08-31) [ref: Casino Royale style PFP generation]
+- focused on building stylish, Instagram-worthy profile imagery; 1× (started: 2025-08-31) [ref: Casino Royale PFP requests]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
-
+- 
 ### Emerging (recent behavioral shifts)
-- iterative refinement approach; requests adjustments after initial output; 1× (first: 2025-08-31) [ref: asked for more dramatic version after full-body image]
+- iterative refinement approach: asks for successive improvements to generated images; 1× (first: 2025-08-31) [ref: asked for full body, then more dramatic version]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
-
+- 
 ### Emerging (new query patterns)
-- using AI image generation for profile pictures and social media content; 3× (since 2025-08-31) [refs: initial PFP generation; full-body magazine shoot; ultra-dramatic cinematic shoot]
+- exploring AI-generated images for personal branding/social media; 1× (since 2025-08-31) [ref: image generation requests for PFP]
