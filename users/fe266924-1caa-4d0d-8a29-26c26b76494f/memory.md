@@ -3,26 +3,27 @@
 - 
 
 ### Emerging (new signals, 1-2 reinforcements)
-- Requests iterative image edits with precise, concise instructions; 2× (last: 2025-08-31) [refs: multiple step-by-step photo transformation requests]
-- Prefers end results styled as cinematic "movie posters"; 2× (last: 2025-08-31) [refs: "Birthday in Belgium" movie poster edits]
+- prefers giving precise, step-by-step instructions for visual edits; 2× (last: 2025-08-31) [refs: multiple image poster transformation requests; specific removal/keeping of people]
+- likes serene, movie-poster style outputs and requests specific stylistic themes (biblical, Renaissance); 2× (last: 2025-08-31) [refs: "Birthday in Belgium" biblical poster; Last Supper style poster]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
-- 
+-
 
 ### Emerging (recent learning, current focus)
-- Working on creative photo transformations involving personal images; 2× (since 2025-08-31) [refs: Joker, Last Supper, Biblical style edits]
+- interested in creating movie posters with biblical/Renaissance aesthetics; 2× (since 2025-08-31) [refs: requests for Last Supper style; biblical style poster]
+- working on image transformations involving family photos; 1× (first: 2025-08-31) [ref: repeated edits of same family photo]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
-- 
+-
 
 ### Emerging (recent behavioral shifts)
-- Iterative creative refinement approach; asks for incremental changes until vision achieved; 2× (since 2025-08-31) [refs: removal of people, style shifts]
+- iterative refinement approach; asks for successive adjustments to images; 2× (since 2025-08-31) [refs: remove person, keep person transitions]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
-- 
+-
 
 ### Emerging (new query patterns)
-- Frequent use of image editing capabilities for artistic transformations; 2× (since 2025-08-31) [refs: successive gemini-image_editImage calls]
+- frequently requests advanced image edits/movie poster generations; 3× (since 2025-08-31) [refs: Joker transformation; FIFA World Cup poster; biblical poster series]
