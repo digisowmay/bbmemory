@@ -3,7 +3,7 @@
 - prefers concise (<50 words), informal WhatsApp-style messages with clear ask; 5× [refs: global instruction set; echo reply suggestions]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- asks assistant to propose echo drafts first for approval before sending; 2× (last: 2025-08-31) [refs: echo draft confirmation for office visit; timeline confirmation]
+- asks assistant to propose echo drafts first for approval before sending and to pause before any subsequent actions (e.g., GitHub issue creation); 3× (last: 2025-09-01) [refs: echo draft confirmation for office visit; timeline confirmation; sequential action preference chatId:`a8b132cd170344`]
 - instructs assistant to perform explicit memory updates with traceable chatId references; 2× (last: 2025-09-01) [refs: memory update requests chatId:`20ecd26342b542`]
 
 ## Knowledge & Context
