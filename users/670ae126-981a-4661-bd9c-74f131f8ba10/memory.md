@@ -1,27 +1,23 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- 
 
 ### Emerging (new signals, 1-2 reinforcements)
-- Provides concise, task-oriented directives for automated content; 1× (first: 2025-08-31) [ref: instruction to schedule daily LinkedIn posts]
+- gives concise, imperative instructions; 1× (first: 2025-08-31) [ref: request to "create a lead-gen automation" and follow-up directive to add relevant tags]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
-- 
 
 ### Emerging (recent learning, current focus)
-- Automating daily LinkedIn posts focused on design topics for Vibsz Studio; 1× (started: 2025-08-31) [ref: request to post designer insights every day]
+- leading a project to automate lead generation for AI adoption training targeting Indian real estate firms; 1× (started: 2025-08-31) [ref: conversation about scheduling daily personalized emails and voice summaries]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
-- 
 
 ### Emerging (recent behavioral shifts)
-- Prefers leveraging automation tools to handle repetitive tasks; 1× (observed: 2025-08-31) [ref: instruction to schedule daily posts]
+- prefers automation and scheduled tasks for efficiency; 1× (first: 2025-08-31) [ref: instructions to schedule emails at 11:30 pm and voice summaries at 10 am]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
-- 
 
 ### Emerging (new query patterns)
-- Actively using LinkedIn scheduling for brand visibility; 1× (since 2025-08-31) [ref: request to schedule LinkedIn posts daily with hashtags]
+- using platform to create email campaigns, tagging, and TTS summaries; 1× (since 2025-08-31) [ref: requests for lead-gen automation, relevant tags, and voice message generation]
