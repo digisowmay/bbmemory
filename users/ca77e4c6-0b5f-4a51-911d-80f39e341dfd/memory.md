@@ -21,3 +21,4 @@
 - frequently requests image transformations (hair, beard, mustache edits); ~20× [refs: entire conversation thread chatId:`0bc48139583947`]
 
 ### Emerging (new query patterns)
+- exploring facial-hair and aging transformations; beard additions, elderly effects; 1× (first: 2025-08-31) [ref: beard and aging requests chatId:`0bc48139583947`]
