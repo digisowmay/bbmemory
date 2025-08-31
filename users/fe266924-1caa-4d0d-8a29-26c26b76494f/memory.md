@@ -3,25 +3,26 @@
 - 
 
 ### Emerging (new signals, 1-2 reinforcements)
-- gives clear, concise creative requests and follow-up practical questions; 1× (first: 2025-08-31) [refs: poster creation request with download follow-up]
+- asks for creative, visually rich outputs (movie posters) and follows up with practical questions (downloads, file size); 2× (last: 2025-08-31) [refs: poster creation request for Karate Barn; query about maximum file size]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
-- 
+-
 
-### Emerging (recent learning, current focus)
-- parent of two kids practicing karate; creating media for them; 1× (started: 2025-08-31) [ref: requested action poster featuring children]
+### Emerging (recent learning, current focus)  
+- creating custom movie posters featuring personal photos; 2× (since 2025-08-31) [refs: Karate Barn poster request; dinosaur movie poster request]
+- concerned about image upload limitations and optimization; 1× (started: 2025-08-31) [ref: asked about max file size 4MB]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
-- 
+-
 
 ### Emerging (recent behavioral shifts)
-- enjoys creative visual outputs and practical instructions; 1× (observed: 2025-08-31) [ref: movie poster request and download question]
+- playful and imaginative, enjoys turning everyday photos into cinematic scenes; 2× (since 2025-08-31) [refs: velociraptor movie poster idea; action-packed karate poster]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
-- 
+-
 
 ### Emerging (new query patterns)
-- exploring AI image creation and retrieval; 1× (since 2025-08-31) [refs: image editing request to create poster; asked how to download]
+- exploring AI image generation/editing for personal creative projects; 2× (since 2025-08-31) [refs: two separate movie poster transformation requests]
