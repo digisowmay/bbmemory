@@ -2,23 +2,22 @@
 ### Durable (established, 3+ reinforcements)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- asks for confirmation to ensure tasks executed correctly; 1× (first: 2025-08-31) [ref: "CONFIRM" message about posted tweet]
-- short, direct requests; uses concise wording; 1× (observed: 2025-08-31) [ref: messages like "great thanks."]
+- prefers concise, command-style messages and brief confirmations; 2× (last: 2025-08-31) [refs: message "CONFIRM"; reply "great thanks"]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
 
 ### Emerging (recent learning, current focus)
-- finance-focused content creator; posts market updates, finance insights; 1× (started: 2025-08-31) [ref: scheduled finance tweets setup]
+- finance content creator managing daily social media posts; 2× (since 2025-08-31) [refs: Twitter daily schedule setup; request for Instagram Threads automation]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
 
 ### Emerging (recent behavioral shifts)
-- prefers seeing immediate demonstrations before full trust; 1× (first: 2025-08-31) [ref: requested live tweet to see how it works]
+- validates automation tools by requesting immediate test before relying on schedule; 1× (first: 2025-08-31) [ref: request to "post one tweet for me to see"]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
 
 ### Emerging (new query patterns)
-- uses Bhindi to schedule and automate Twitter posts; 1× (since 2025-08-31) [ref: question about scheduled posts and tweet test]
+- active interest in automating social media platforms (Twitter, Instagram Threads) via Bhindi; 2× (since 2025-08-31) [refs: Twitter automation setup; Instagram Threads automation inquiry]
