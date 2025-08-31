@@ -1,27 +1,23 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- 
+- relies on detailed expert reviews before purchases; 3× [ref: prior smartphone buying consultation]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- requests consolidated deliverables formatted directly in Google Docs; 1× (first: 2025-08-31) [ref: request to generate illustrations and compile into Google Doc]
+- provides very specific design requirements (colors, elements, mood) when requesting creative output; 1× (first: 2025-08-31) [ref: poster request with detailed specs]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
-- relies on detailed expert YouTube reviews (e.g., MKBHD, Mrwhosetheboss) before making smartphone purchase decisions; 5× [refs: multiple past discussions comparing phone models; link sharing sessions]
+- researches smartphones via YouTube reviewers (MKBHD, Mrwhosetheboss) for decision making; 3× [ref: earlier smartphone purchase discussion]
 
 ### Emerging (recent learning, current focus)
-- writing a blog post about sustainable fashion; current content creation project; 1× (started: 2025-08-31) [ref: request for eco-friendly outfit illustrations for blog post]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
-- 
 
 ### Emerging (recent behavioral shifts)
-- prefers end-to-end solutions with clear, tangible outputs (images + compiled doc) in a single request; 1× (observed: 2025-08-31) [ref: illustration generation + Google Doc compilation request]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
-- 
 
 ### Emerging (new query patterns)
-- uses Google Docs as preferred medium for draft content delivery; 1× (since 2025-08-31) [ref: request to compile illustration content into Google Doc]
+- requests graphic design/poster creation assistance; 1× (first: 2025-08-31) [ref: Harmony for Hope poster request]
