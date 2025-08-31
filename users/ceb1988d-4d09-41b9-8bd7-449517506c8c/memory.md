@@ -1,28 +1,27 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- 
+- prefers concise task-oriented requests; 3× (stable since 2025-08-31) [refs: current chat SEO blog brief; follow-up code request; image meta request]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- prefers deliverables in raw code/HTML format for direct website use; 2× (last: 2025-08-31) [refs: request to "change to code" for blog post; request for HTML version with simpler words]
-- iterative refinement style—asks for adjustments (links, readability, images) until satisfied; 2× (last: 2025-08-31) [refs: follow-up requests to include internal links, simplify language, regenerate image]
+- iterative feedback style, refining outputs step-by-step; 2× (last: 2025-08-31) [refs: readability improvement request; image correction request]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
-- owns or manages laminate flooring e-commerce site (laminatefloors.co.za); 3× [refs: provided URL; requests for SEO blog; desire for site internal links]
+- owns or manages laminate flooring supply & installation business; 3× [refs: provided website laminatefloors.co.za; blog topic context; product image needs]
 
 ### Emerging (recent learning, current focus)  
-- focused on improving SEO and readability metrics for site content; 2× (since 2025-08-31) [refs: SEO-rich blog request; readability feedback and simplification request]
+- focused on improving SEO content and on-page elements; 2× (since 2025-08-31) [refs: SEO-rich blog request; internal links & meta tags request]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
-- 
+- seeks practical, implementation-ready deliverables (HTML, code, assets); 3× [refs: asked for blog HTML; alt/title/caption; featured image generation]
 
 ### Emerging (recent behavioral shifts)
-- values measurable readability (complex word % and transition words) and requests adjustments; 1× (first: 2025-08-31) [ref: comment about 10.1% complex words, 6.9% transition words]
+- emphasizes readability metrics and optimization; 1× (first: 2025-08-31) [ref: readability improvement instruction]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
-- 
+- frequently requests content creation and optimization for website; 3× [refs: blog post creation; internal linking; image meta]
 
 ### Emerging (new query patterns)
-- requests AI-generated featured images at specific dimensions for blog posts; 1× (first: 2025-08-31) [ref: request for 600x600 featured image]
+- engaging with AI image generation for website visuals; 1× (started 2025-08-31) [ref: 600x600 featured image generation request]
