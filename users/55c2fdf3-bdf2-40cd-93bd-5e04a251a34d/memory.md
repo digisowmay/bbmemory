@@ -1,28 +1,23 @@
-
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- prefers concise, imperative commands for image editing tasks; 4× [refs: "make different"; "different view"; "view behind"; "view bottom up"]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- requests alternative options when first request is declined; 1× (first: 2025-08-31) [ref: accepted wide-angle after intimate view denied]
+- gives very brief imperative commands for image edits (e.g., "view bottom up"); 2× (last: 2025-08-31) [refs: chat request "view bottom up"; request "alternative image"]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
-- n/a
 
-### Emerging (recent learning, current focus)
-- currently working on creative image perspective transformations; 2× (since 2025-08-31) [refs: multiple requests for various camera angles]
+### Emerging (recent learning, current focus)  
+- working on iterative image editing of the same photo, requesting different camera angles; 1× (started: 2025-08-31) [ref: multiple angle requests of bathroom scene]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
-- n/a
 
 ### Emerging (recent behavioral shifts)
-- willing to adjust requests to comply with content boundaries; 1× (observed: 2025-08-31) [ref: changed request to wide composition]
+- iterative experimentation with perspectives; asks for multiple alternatives until satisfied; 1× (first: 2025-08-31) [ref: sequence of angle requests culminating in wide composition]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
-- frequently uses image editing requests, focusing on changing perspectives; 4× [refs: series of image edit commands in session]
 
 ### Emerging (new query patterns)
-- n/a
+- frequently requests AI image edits for different camera angles and perspectives; 3× (since 2025-08-31) [refs: "different view", "wide-angle", "alternative image"]
