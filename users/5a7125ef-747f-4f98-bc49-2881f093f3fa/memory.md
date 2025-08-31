@@ -1,27 +1,24 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- 
 
 ### Emerging (new signals, 1-2 reinforcements)
-- gives concise, direct image-editing instructions; 2× (last: 2025-08-31) [refs: request to add 50 euro bills; request to replace money with iPhone]
+- gives concise, imperative instructions for image edits; 2× (last: 2025-08-31) [refs: request to add 50 euro bills; directive to replace with iPhone]
+- provides immediate feedback for adjustments; 1× (first: 2025-08-31) [ref: comment "It's too wide"]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
--
 
-### Emerging (recent learning, current focus)  
-- comfortable working with AI image editing tools (mentions "nanobanana"); 1× (first: 2025-08-31) [ref: instruction to use nanobanana to add euro bills]
+### Emerging (recent learning, current focus)
+- engaging in creative image manipulation tasks; 1× (started: 2025-08-31) [ref: sequence of image editing requests]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
--
 
 ### Emerging (recent behavioral shifts)
-- prefers iterative refinement of visuals (initial edit then replacement); 1× (observed: 2025-08-31) [ref: follow-up request to replace euro bills with iPhone]
+- iterative refinement approach, adjusts output until satisfied; 1× (first: 2025-08-31) [ref: asked to narrow iPhone after width issue]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
--
 
 ### Emerging (new query patterns)
-- exploring AI-powered image editing requests; 2× (since 2025-08-31) [refs: euro bill addition request; iPhone replacement request]
+- uses platform for AI-driven image editing; 1× (since 2025-08-31) [ref: multiple image edit requests in chat]
