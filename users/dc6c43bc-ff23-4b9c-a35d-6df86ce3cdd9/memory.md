@@ -2,8 +2,8 @@
 ### Durable (established, 3+ reinforcements)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- prefers highly structured, markdown-formatted, data-rich documents; 1× (first: 2025-09-01) [ref: salary justification submission chatId:`0d83e511cae646`]
-- requests direct professional assistance on specific tasks (e.g., salary justification); 1× (first: 2025-09-01) [ref: salary justification request chatId:`0d83e511cae646`]
+- prefers highly structured, markdown-formatted, data-rich documents; 2× (last: 2025-09-01) [ref: salary justification discussion chatId:`0d83e511cae646`]
+- requests direct professional assistance on specific tasks (e.g., salary justification); 2× (last: 2025-09-01) [ref: paid campaign defense question chatId:`0d83e511cae646`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -16,11 +16,11 @@
 ### Durable (core thinking patterns)
 
 ### Emerging (recent behavioral shifts)
-- data-driven and ROI-focused; supports arguments with metrics and benchmarks; 1× (first: 2025-09-01) [ref: salary justification doc chatId:`0d83e511cae646`]
+- data-driven and ROI-focused; supports arguments with metrics and benchmarks; 2× (last: 2025-09-01) [ref: salary justification and campaign comparison chatId:`0d83e511cae646`]
 - emphasizes efficiency by combining multiple roles into one; 1× (first: 2025-09-01) [ref: same]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
 
 ### Emerging (new query patterns)
-- uses AI assistance for career and compensation negotiations; 1× (first: 2025-09-01) [ref: salary justification help chatId:`0d83e511cae646`]
+- uses AI assistance for career and compensation negotiations; 2× (last: 2025-09-01) [ref: campaign defense question chatId:`0d83e511cae646`]
