@@ -3,25 +3,25 @@
 - 
 
 ### Emerging (new signals, 1-2 reinforcements)
-- gives concise, imperative instructions for image edits; 2× (last: 2025-08-31) [refs: request to add messy hair and eyeliner; request to add long glam hair]
+- gives concise, imperative instructions for image edits; 3× (last: 2025-08-31) [refs: three consecutive messages requesting Freddie Mercury style hair and eyeliner]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
 - 
 
-### Emerging (recent learning, current focus)  
-- exploring 1970s glam rock visual aesthetics; 1× (started: 2025-08-31) [ref: references to Freddie Mercury hairstyle]
+### Emerging (recent learning, current focus)
+- references 1970s Freddie Mercury glam look for styling guidance; 3× (since 2025-08-31) [refs: repeated hairstyle descriptions in image edit prompts]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
 - 
 
 ### Emerging (recent behavioral shifts)
-- prefers visual references to communicate desired outcomes; 1× (first: 2025-08-31) [ref: Freddie Mercury style mention]
+- detail-oriented about visual aesthetics, specifying exact hairstyle features; 2× (since 2025-08-31) [refs: iterative requests refining hair length and fringe messiness]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
 - 
 
 ### Emerging (new query patterns)
-- requests stylistic photo manipulation referencing specific era/style icons; 2× (since 2025-08-31) [refs: two consecutive image edit requests for Freddie Mercury hairstyle]
+- frequently requests AI-based image transformations; 3× (since 2025-08-31) [refs: series of image edit commands within current session]
