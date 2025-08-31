@@ -1,27 +1,28 @@
 ## Communication Patterns
-### Durable (established, 3+ reinforcements)
+### Durable
 - 
 
-### Emerging (new signals, 1-2 reinforcements)
-- communicates primarily in Hindi/Hinglish; prefers casual, direct questions; 1× (first: 2025-08-31) [ref: chat about "mujhe ek or chix bata sakte ho" and automation queries]
+### Emerging
+- prefers Hindi/Hinglish casual queries and seeks concise direct answers; 1× (first: 2025-08-31) [ref: conversation requesting agent automation info in Hindi]
+- asks for step-by-step instructions when implementing tools; 1× (first: 2025-08-31) [ref: request "tep by step" using n8n]
 
 ## Knowledge & Context
-### Durable (core expertise, established over time)
+### Durable
 - 
 
-### Emerging (recent learning, current focus)
-- exploring automation agents/platforms (n8n, Zapier alternatives); seeks free, powerful solutions; 1× (started: 2025-08-31) [ref: discussion asking for "most popular agent automation"]
+### Emerging
+- exploring automation platforms (n8n, agent automation) for free solutions; 1× (started: 2025-08-31) [ref: questions about best free agent automation and n8n usage]
 
 ## Thinking & Working Style
-### Durable (core thinking patterns)
+### Durable
 - 
 
-### Emerging (recent behavioral shifts)
-- cost-conscious problem solver; looks for maximum capability with no expense; 1× (observed: 2025-08-31) [ref: request for "free ho tagda ho"]
+### Emerging
+- prioritizes free, powerful solutions over paid options; 1× (observed: 2025-08-31) [ref: request for "free ho tagda ho most popular agent automation"]
 
 ## Platform Usage & Queries
-### Durable (regular platform activities)
+### Durable
 - 
 
-### Emerging (new query patterns)
-- frequently asks about tech tools & integrations (automation, LinkedIn messaging); 1× (since 2025-08-31) [ref: questions about LinkedIn automation capabilities]
+### Emerging
+- frequent queries about automation agents and integration tools; 1× (since 2025-08-31) [ref: discussion on n8n and LinkedIn automation]
