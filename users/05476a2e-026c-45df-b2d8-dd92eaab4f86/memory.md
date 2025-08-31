@@ -1,27 +1,28 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- prefers clean, copy-paste friendly schedules; asks for specific line formats (Google Forms, Sheets, Insta); 6× [refs: multiple requests 2025-08]
+- prefers copy-paste ready schedules with exact formatting; 6× [refs: repeated requests to reformat weekly yoga classes for Google Forms/Sheets; insta story layout]
+- gives step-by-step correction instructions and immediate feedback; 5× [refs: asked to remove instructor names; adjust Friday data; change dashes etc.]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- removes en/em dashes, simplified times for social posts; 2× (last: 2025-08-31) [refs: Insta story formatting]
+- likes concise time–format strings without long dashes for social posts; 2× (last: 2025-08-31) [refs: insta story simplification]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
-- manages weekly class schedules for DizzyDuck Yoga; instructors Shruti, Aishwarya, Ipshita; 5× [refs: repeated weekly schedules]
+- manages yoga studio scheduling and communications; 7× [refs: weekly class tables; timetable spreadsheets; social media messages]
 
 ### Emerging (recent learning, current focus)
-- preparing content for Instagram stories; 1× (started: 2025-08-31) [ref: request to make schedule nice for insta]
+- currently preparing September 1-7 schedule across platforms; 1× (started: 2025-08-31) [ref: latest schedule request]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
-- detail-oriented, iterative refinement until format is perfect; 4× [refs: multiple reformatting corrections]
+- detail-oriented and format-sensitive; iteratively refines outputs; 5× [refs: multiple correction cycles for each weekly schedule]
 
 ### Emerging (recent behavioral shifts)
-- experimenting with visual simplification for social media; 1× (observed: 2025-08-31) [ref: insta story clutter note]
+- seeks visually minimalist presentations for social media; 1× (observed: 2025-08-31) [ref: insta story request]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
-- frequently requests Google Sheets and Forms-ready tables; weekly; 8× [refs: schedule table generations]
+- frequently formats data for Google Sheets/Forms; 8× [refs: timetable, tabs per instructor]
 
 ### Emerging (new query patterns)
-- integrating schedules into Instagram story layouts; 2× (since 2025-08-31) [refs: insta formatting request; clutter concern]
+- creating social media friendly class announcements; 2× (since 2025-08-24) [refs: WhatsApp group message; insta story layout]
