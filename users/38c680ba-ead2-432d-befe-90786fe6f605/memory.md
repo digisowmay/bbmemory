@@ -1,27 +1,23 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- 
 
 ### Emerging (new signals, 1-2 reinforcements)
-- demands precise statistical verification and cross-checks; 2× (last: 2025-08-31) [refs: request for confirming user count; timezone verification follow-up]
+- requests precise counts, verification steps, and follow-up clarifications for every stat; 2× (last: 2025-08-31) [refs: queries about user count verification; timezone clarification request]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
-- 
 
 ### Emerging (recent learning, current focus)
-- focuses on new-user engagement analytics; 1× (first: 2025-08-31) [ref: query about new users from last 2 hours]
+- monitors MongoDB data for engagement analytics and user behavior; 2× (since 2025-08-31) [refs: asking for new-user engagement report; retrieving email for specific user]
 
 ## Thinking & Working Style
-### Durable (core thinking patterns)
-- 
+### Durable (core patterns)
 
 ### Emerging (recent behavioral shifts)
-- analytical, data-driven decision making; 1× (observed: 2025-08-31) [ref: iterative clarification on metrics and categories]
+- highly data-driven and detail-oriented, insists on cross-checking before conclusions; 2× (since 2025-08-31) [refs: critical verification instructions; follow-up on zero-message users]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
-- 
 
 ### Emerging (new query patterns)
-- frequent MongoDB analytics queries; 1× (since 2025-08-31) [ref: repeated MongoDB aggregate and count commands]
+- frequently requests engagement insights and operational stats about platform users; 2× (since 2025-08-31) [refs: engagement report request; message activity analysis inquiry]
