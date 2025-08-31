@@ -3,27 +3,27 @@
 - 
 
 ### Emerging (new signals, 1-2 reinforcements)
-- Requests clear, step-by-step actionable guidance; 1× (first: 2025-09-01) [ref: asked how to create LinkedIn page and cover image]
-- Direct, task-oriented queries focused on immediate execution; 1× (first: 2025-09-01) [ref: requested logo, LinkedIn page, cover image]
+- requests clear, step-by-step professional guidance for brand setup; 2× (last: 2025-09-01) [refs: instructions on LinkedIn page creation; tagline clarification]
+- prioritizes consistent institutional tone in all content; 1× (first: 2025-09-01) [ref: stated voice & tone guidelines]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
-- Runs “Vexa Digital,” an esports branding & marketing consultancy founded 2024 by Advocate Kaustubh Srivastava; 1× [ref: provided detailed overview of Vexa and client history]
+- 
 
 ### Emerging (recent learning, current focus)
-- Currently setting up LinkedIn company presence; 1× (started: 2025-09-01) [ref: conversation about creating LinkedIn page]
+- represents Vexa Digital esports consultancy, managing Instagram @vexadigital.in and new LinkedIn company page; 1× (since 2025-09-01) [refs: provided Instagram handle; created LinkedIn company page]
+- mission to make esports orgs sponsor-ready and advocate regulation; 1× (first: 2025-09-01) [ref: Vexa overview details]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
 - 
 
 ### Emerging (recent behavioral shifts)
-- Prefers to implement guidance hands-on while receiving expert support; 1× (since 2025-09-01) [ref: created LinkedIn page after instructions]
+- systematic, implementation-oriented; seeks actionable frameworks and assets; 1× (first: 2025-09-01) [ref: asked for cover image, posts schedule]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
 - 
 
 ### Emerging (new query patterns)
-- Building brand presence on LinkedIn and Instagram; 1× (since 2025-09-01) [refs: asked about LinkedIn page creation; mentioned existing Instagram]
-- Seeks design assets (logos, cover images) via AI assistance; 1× (first: 2025-09-01) [ref: requested logo and cover image generation]
+- queries about social media brand setup and automation (LinkedIn, Instagram); 2× (since 2025-09-01) [refs: LinkedIn creation help; content automation questions]
