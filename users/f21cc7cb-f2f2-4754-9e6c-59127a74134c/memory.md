@@ -1,28 +1,27 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- provides very precise, step-by-step image-editing instructions and expects exact visual results; 4× [refs: chat about replacing snack bag; iterative lighting/shadow adjustments; classroom scene edits; kitchen scene edits]
-- prefers succinct confirmations with final image link rather than lengthy explanations; 3× [refs: multiple acknowledgements after each tool call; requests like “just add this bag as is”]
+-  
 
 ### Emerging (new signals, 1-2 reinforcements)
-- emphasizes high-resolution outputs and realistic lighting integration; 2× (last: 2025-08-31) [refs: requests for 1440x1080, “harmonize lighting”]
+- gives concise, direct image-editing instructions and iteratively refines outputs; 2× (last: 2025-08-31) [refs: requests to replace bags, adjust lighting/shadows]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
-- involved in product/visual marketing for CHICKA snack brand imagery; 3× [refs: repeated direction on various CHICKA bag variants]
+-  
 
-### Emerging (recent learning, current focus)  
-- currently producing a series of edited images featuring different CHICKA product flavors and scenarios; 2× (since 2025-08-30) [refs: classroom lemon bag, kitchen four cheese bag]
+### Emerging (recent learning, current focus)
+- currently creating marketing visuals for CHICKA snack products, focusing on realistic product placement; 1× (started: 2025-08-31) [ref: multiple requests to integrate CHICKA bags into scenes]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
-- uses iterative refinement: asks for successive small tweaks (size, lighting, shadows) until ideal; 4× [refs: bag bigger, open/closed, lighting passes]
+-  
 
 ### Emerging (recent behavioral shifts)
-- strong emphasis on photorealistic compositing with correct shadows and ambient occlusion; 2× (started 2025-08-31) [refs: requests to match warm kitchen light]
+- favors iterative refinement with attention to realism (lighting, shadows, scale); 2× (since 2025-08-31) [refs: successive requests to enlarge bag, adjust lighting, integrate shadows]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
-- frequently leverages platform for advanced image manipulation and compositing tasks; 4× [refs: whole session of editing bags in various scenes]
+-  
 
 ### Emerging (new query patterns)
-- specifies exact output resolution (e.g., 1440×1080) and high-quality upscaling; 1× (first: 2025-08-31) [ref: request for upscaling and 1440x1080 classroom image]
+- frequently uses image editing tools (Gemini, Flux) for product mockups; 3× (since 2025-08-31) [refs: asks to use "nano banana", "flux", multiple edit calls]
