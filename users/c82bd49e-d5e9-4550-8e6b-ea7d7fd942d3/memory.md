@@ -1,23 +1,30 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
+- 
 
 ### Emerging (new signals, 1-2 reinforcements)
-- Gives detailed, concise visual instructions for image edits and requests specific adjustments; 2× (last: 2025-08-31) [refs: multi-step portrait prompts; feedback to brighten neon lighting]
+- provides very detailed visual specifications and lighting directions for images; 2× (last: 2025-08-31) [ref: chat about multiple portrait variations]
+- iteratively refines outputs, giving direct feedback like "its too dark" for adjustments; 1× (first: 2025-08-31) [ref: brightness feedback on neon portrait]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
+-
 
 ### Emerging (recent learning, current focus)
-- Creating profile images for dating apps and GitHub developer profile; 1× (started: 2025-08-31) [ref: GitHub developer workspace portrait request]
+- identifies as a developer needing a professional GitHub profile photo; 1× (started: 2025-08-31) [ref: request for GitHub developer portrait]
+- preparing professional imagery for LinkedIn and dating profiles; 1× (started: 2025-08-31) [refs: LinkedIn headshot request; dating profile portraits]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
+-
 
 ### Emerging (recent behavioral shifts)
-- Prefers iterative refinement with immediate feedback to reach desired result; 2× (since 2025-08-31) [refs: comment "its too dark" then request for brighter version]
+- detail-oriented and visual, specifying lighting, mood, and attire precisely; 2× (since 2025-08-31) [ref: multiple detailed prompts for portraits]
+- prefers iterative improvement cycle, evaluating results and requesting tweaks; 1× (observed: 2025-08-31) [ref: brightness adjustment request]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
+-
 
 ### Emerging (new query patterns)
-- Frequent AI-driven image editing and portrait generation requests; 6× (since 2025-08-31) [refs: multiple gemini-image_editImage calls throughout session]
+- frequently uses the platform to generate AI-edited profile portraits for various social/professional contexts; 3× (since 2025-08-31) [refs: GitHub, LinkedIn, dating profile image requests]
