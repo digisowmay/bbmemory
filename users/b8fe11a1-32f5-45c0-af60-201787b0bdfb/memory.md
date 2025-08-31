@@ -2,22 +2,22 @@
 ### Durable (established, 3+ reinforcements)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- provides highly detailed, atmospheric prompts for image generation; 1× (first: 2025-08-31) [ref: black-and-white jazz pianist photo request]
+- provides specific visual descriptions and reference URLs; 1× (first: 2025-08-31) [ref: request to use reference images and keep the face intact]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
 
 ### Emerging (recent learning, current focus)
-- interest in jazz-themed photography/art; 1× (started: 2025-08-31) [ref: description of jazz pianist image]
+- experimenting with AI image generation for jazz-themed photograph; 1× (started: 2025-08-31) [ref: black and white jazz pianist image request]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
 
 ### Emerging (recent behavioral shifts)
-- expresses artistic vision clearly with specific mood and lighting details; 1× (observed: 2025-08-31) [ref: image prompt]
+- iterative refinement approach to creative outputs; 1× (first: 2025-08-31) [ref: follow-up instruction to replace face]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
 
 ### Emerging (new query patterns)
-- exploring AI image generation; photorealistic artistic style; 1× (first: 2025-08-31) [ref: request for black-and-white jazz photo]
+- exploring AI image editing and generation capabilities; 1× (since 2025-08-31) [ref: image generation and edit requests]
