@@ -3,29 +3,29 @@
 - 
 
 ### Emerging (new signals, 1-2 reinforcements)
-- prefers structured, itemized responses with bullet points, sections, and code snippets; 2× (last: 2025-08-31) [refs: request for Instadapp explanation with bullets; request for AmberMango code]
-- occasionally asks for simplified analogies (e.g., “explain like I am 6”); 1× (first: 2025-08-31) [ref: translation to 6-year-old request]
+- prefers step-by-step explanations, frameworks and code snippets; 2× (last: 2025-08-31) [refs: request for Instadapp explanation with features; request for AmberMango code]
+- asks for simplified translations for lay audiences; 1× (first: 2025-08-31) [ref: "translate to me like i am a 6 year old"]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
 -
 
 ### Emerging (recent learning, current focus)
-- building a dual-solution DeFi platform called AmberMango (personal aggregator + enterprise for banks); 1× (started: 2025-08-31) [ref: discussion about AmberMango solutions]
-- focuses on Canadian banking integration and DeFi management; 1× (first: 2025-08-31) [ref: request to customize for Canadian banks]
+- exploring building Canadian fintech product "AmberMango" (personal aggregator & bank DeFi platform); 2× (since 2025-08-31) [refs: desire to create better version called Mango/AmberMango; request for dual solutions]
+- interested in DeFi concepts and platforms; 2× (since 2025-08-31) [refs: questions about Instadapp, DeFi management]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
 -
 
 ### Emerging (recent behavioral shifts)
-- iterative product ideation, quickly refines requirements and names; 2× (since 2025-08-31) [refs: renaming Mango to AmberMango; dual-solution clarification]
-- seeks concrete implementation details (code, architecture) early in planning; 1× (first: 2025-08-31) [ref: request for foundational code]
+- iterative ideation, refines product vision through successive Q&A; 2× (since 2025-08-31) [refs: shifting from bank-facing to customer aggregator; renaming product]
+- entrepreneurial focus, seeks market gap validation; 1× (first: 2025-08-31) [ref: asking about existing Canadian applications]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
 -
 
 ### Emerging (new query patterns)
-- requests detailed product architectures and code samples; 2× (since 2025-08-31) [refs: Instadapp capture code; AmberMango code]
-- explores DeFi concepts and applications; 2× (since 2025-08-31) [refs: DeFi management explanation; bank use cases for DeFi]
+- requests technical implementation details (code, architecture); 2× (since 2025-08-31) [refs: asked for code for AmberMango dashboard; backend]
+- market research inquiries about Canadian fintech landscape; 1× (first: 2025-08-31) [ref: question on existing applications in Canada]
