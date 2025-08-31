@@ -1,27 +1,23 @@
 ## Communication Patterns
-### Durable
+### Durable (established, 3+ reinforcements)
 
-### Emerging
-- Uses Hinglish and informal language; prefers concise direct requests; 1× (first: 2025-08-31) [ref: "hmmm mujhe jaldi karke do ap sabke upar all msg sent just now"]
-- Values rapid turnaround; asks for quick completion; 1× (first: 2025-08-31) [ref: "mujhe jaldi karke do"]
+### Emerging (new signals, 1-2 reinforcements)
+- prefers quick, ready-to-send templates and concise assistance; 1× (first: 2025-08-31) [ref: chat message "mujhe jaldi karke do"]
 
 ## Knowledge & Context
-### Durable
+### Durable (core expertise, established over time)
 
-### Emerging
-- Actively seeking job opportunities in MNCs through LinkedIn; 1× (first: 2025-08-31) [ref: request to craft LinkedIn post for job search]
-- Wants personalized messages to targeted LinkedIn connections; 1× (first: 2025-08-31) [ref: conversation about targeted messages]
+### Emerging (recent learning, current focus)
+- actively job-searching for roles in MNCs and seeking LinkedIn networking help; 1× (first: 2025-08-31) [ref: user requests LinkedIn post and personalized messages]
 
 ## Thinking & Working Style
-### Durable
+### Durable (core thinking patterns)
 
-### Emerging
-- Shows urgency and impatience; prioritizes speed over process; 1× (observed: 2025-08-31) [ref: "jaldi karke do"]
-- Direct action-oriented; requests bulk actions; 1× (first: 2025-08-31) [ref: ask to send all messages at once]
+### Emerging (recent behavioral shifts)
+- shows urgency and desire for immediate execution of tasks; 1× (first: 2025-08-31) [ref: user insistence on sending all messages quickly]
 
 ## Platform Usage & Queries
-### Durable
+### Durable (regular platform activities)
 
-### Emerging
-- Relies on LinkedIn for networking and job search; 1× (since 2025-08-31) [ref: list of LinkedIn connections provided]
-- Requests assistance with LinkedIn posts and direct messages; 1× (first: 2025-08-31) [ref: ask for LinkedIn post and messages]
+### Emerging (new query patterns)
+- uses LinkedIn for job search, requests assistance with posts and direct messaging; 1× (first: 2025-08-31) [ref: requests for LinkedIn post and messages]
