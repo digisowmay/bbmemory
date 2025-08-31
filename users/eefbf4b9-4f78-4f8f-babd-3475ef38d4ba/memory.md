@@ -1,31 +1,29 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- 
+- prefers clear, structured answers with examples or code; 3× (stable since 2025-08-31) [refs: asked for Instadapp explanation; requested code for AmberMango MVP; asked for redesigned architecture]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- asks for simplified explanations ("explain like I am 6") to grasp concepts quickly; 2× (last: 2025-08-31) [refs: request to translate Instadapp for 6-year-old; clarification on DeFi management]
-- requests structured outlines and code snippets for implementation; 2× (last: 2025-08-31) [refs: ask for code for AmberMango; AI-only development strategy]
+- likes simplified analogies for complex ideas; 2× (last: 2025-08-31) [refs: requested "like I am a 6 year old" translation; piggy-bank analogy]
+- direct question–answer style, little small talk; 1× (first: 2025-08-31) [ref: multiple rapid-fire requirement questions]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
-- 
+- pursuing fintech startup "AmberMango" for Canadian personal finance & DeFi; 3× [refs: named app after wife; wants copycat doxo; seeks dual solutions B2C & B2B]
 
-### Emerging (recent learning, current focus)  
-- building Canadian fintech platform "AmberMango" (personal finance & DeFi); 2× (since 2025-08-31) [refs: discussion on AmberMango personal & enterprise solutions; AI-only dev approach]
-- interested in DeFi, Canadian banking regulations, bill aggregation; 1× (first: 2025-08-31) [ref: queries about Canadian bill apps]
+### Emerging (recent learning, current focus)
+- researching Canadian financial aggregation market gaps; 2× (since 2025-08-31) [refs: asked about existing Canadian apps; market analysis request]
+- exploring Instadapp and DeFi management concepts; 2× (since 2025-08-31) [refs: Instadapp feature capture; DeFi benefits for banks]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
-- 
+- entrepreneurial, idea-driven, iterates on product names & concepts; 3× [refs: shifting Mango to AmberMango; dual product plan; AI-only dev approach]
 
 ### Emerging (recent behavioral shifts)
-- entrepreneurial, solution-oriented mindset seeking market gaps; 2× (since 2025-08-31) [refs: desire to create better Instadapp; dual solution strategy]
-- prefers AI-first/no-developer approach to product building; 1× (first: 2025-08-31) [ref: statement "I am not going to use any developers except AI agents"]
+- favors AI/no-code development over hiring devs; 1× (observed: 2025-08-31) [ref: stated will use only AI agents]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
-- 
+- frequently requests code snippets and architectural guidance; 3× [refs: asked for React/Node code; database schema; AI agent workflows]
 
 ### Emerging (new query patterns)
-- uses AI assistant for business planning and code generation; 2× (since 2025-08-31) [refs: request for AmberMango code; AI-agent development roadmap]
-- explores Canadian fintech landscape and competitors; 1× (first: 2025-08-31) [ref: asks about existing Canadian apps]
+- seeks market validation data for Canadian fintech; 1× (first: 2025-08-31) [ref: asked if any Canadian app exists]
