@@ -1,27 +1,24 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- prefers concise, imperative instructions for complex image transformations; 4× [refs: repeated requests to transform photos into Joker poster, FIFA win, biblical Last Supper, TMNT riding dinosaur]
-
+- 
 ### Emerging (new signals, 1-2 reinforcements)
-- enjoys cinematic/movie-poster framing descriptions; 2× (last: 2025-08-31) [refs: “Birthday in Belgium” poster request; monster truck action poster]
+- Provides concise, directive prompts for image transformations and then refines with follow-up adjustments; 2× (last: 2025-08-31) [refs: requests to remove/add people in biblical poster; gritty filter request]
+- Prefers imaginative style specifications (e.g., Last Supper, Van Gogh, TMNT, Minecraft) included directly in instructions; 2× (last: 2025-08-31) [refs: Leonardo style poster request; Van Gogh filter request]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
-- strong interest in pop-culture themes (Joker, TMNT, Minecraft) for creative projects; 3× [refs: Joker poster request; TMNT dinosaur scene; Minecraft world transformation]
-
+-
 ### Emerging (recent learning, current focus)
-- exploring classical art styles integration (Leonardo da Vinci, Van Gogh) into modern scenes; 2× (since 2025-08-31) [refs: Last Supper style poster; Van Gogh filter request]
+- Interested in creative photo editing across multiple artistic styles and themes (movie posters, biblical, Minecraft, prehistoric); 2× (since 2025-08-31) [refs: multiple image edit requests in session]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
-- highly imaginative and visual thinker, frequently blending disparate themes into single concept; 4× [refs: biblical birthday scene; nuclear detonator kid; wizard in castle; TMNT dinosaur]
-
+-
 ### Emerging (recent behavioral shifts)
-- requests gritty, darker filters to enhance mood; 1× (first: 2025-08-31) [ref: gritty wizard scene request]
+- Iterative refinement approach: asks for changes after seeing edits (remove person, add gritty filter); 2× (since 2025-08-31) [refs: follow-up edits on biblical poster; gritty wizard scene]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
-- frequently requests image editing/creation with specific stylistic instructions; 6× [refs: all image edit requests in conversation]
-
+-
 ### Emerging (new query patterns)
-- interested in historical/prehistoric settings for images; 1× (first: 2025-08-31) [ref: 500M years BC dinosaur scene]
+- Frequently uses platform for advanced image editing and manipulation tasks; 3× (since 2025-08-31) [refs: sequence of photo-to-poster conversions; TMNT dinosaur scene; Minecraft background request]
