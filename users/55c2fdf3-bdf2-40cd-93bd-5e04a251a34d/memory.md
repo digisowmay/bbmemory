@@ -1,27 +1,27 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- (no durable patterns yet)
+- (no durable patterns identified yet)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- uses very short imperative phrases ("make different", "different view", "view behind") to request image edits; 4× (last: 2025-08-31) [refs: chat messages requesting various camera angles]
+- uses very brief, direct commands for image edits (e.g., "different view", "view behind"); 2× (last: 2025-08-31) [refs: chat commands requesting new perspectives]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
-- (no durable knowledge captured yet)
+- (no durable knowledge traits identified yet)
 
-### Emerging (recent learning, current focus)  
-- exploring creative image perspectives and angles; 1× (started: 2025-08-31) [ref: multiple requests for different camera angles]
+### Emerging (recent learning, current focus)
+- working on visual content requiring multiple camera angle edits; 1× (started: 2025-08-31) [ref: repeated requests for varied image perspectives]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
-- (no durable patterns yet)
+- (no durable patterns identified yet)
 
 ### Emerging (recent behavioral shifts)
-- iterative approach: adjusts request based on previous output (asks for new view after receiving an edit); 2× (since 2025-08-31) [refs: sequence of angle change requests]
+- iterative experimentation approach—asks sequentially for different perspectives on same image; 2× (since 2025-08-31) [refs: sequence of requests: bottom-up, behind, wide-angle]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
-- (no durable patterns yet)
+- (no durable usage patterns identified yet)
 
 ### Emerging (new query patterns)
-- frequent image editing requests, especially changing camera angles; 3× (since 2025-08-31) [refs: successive image edit prompts in conversation]
+- frequent AI image editing with varied viewpoint transformations; 3× (since 2025-08-31) [refs: multiple gemini-image_editImage requests in session]
