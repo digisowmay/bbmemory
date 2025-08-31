@@ -1,25 +1,27 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
+- relies on detailed expert reviews (e.g., YouTube tech channels) before making purchase or research decisions; 3× [refs: prior chat about smartphone buying using MKBHD; earlier discussion citing Mrwhosetheboss reviews; general preference stated in past session]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- prefers simplified, skimmable bullet-point summaries; 1× (first: 2025-08-31) [ref: asked for research paper breakdown into simple points]
-- asks follow-up questions for precise factual details; 1× (first: 2025-08-31) [ref: requested publication date]
+- asks for exhaustive, structured summaries with explicit paper lists; 2× (last: 2025-08-31) [refs: request to list analyzed papers; request for detailed Hugging Face analysis]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
-- relies on detailed expert YouTube tech reviews (e.g., MKBHD, Mrwhosetheboss) before smartphone purchases; 3× [refs: prior conversation about smartphone buying process]
+- tech-savvy consumer interested in smartphones and AI; 3× [refs: smartphone purchase research conversation; current AI project discussion; past inquiries about specs]
 
 ### Emerging (recent learning, current focus)
-- exploring wearable AI applications in healthcare; 1× (started: 2025-08-31) [ref: requested recent research paper on wearable AI in healthcare]
+- working on a university AI models research project; 1× (started: 2025-08-31) [ref: stated need for research paper information]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
+- prefers thorough analysis before decisions; 3× [refs: smartphone review reliance; request for detailed AI model summaries; emphasis on citing sources]
 
 ### Emerging (recent behavioral shifts)
-- favors actionable high-level summaries over deep technical exposition; 1× (observed: 2025-08-31) [ref: requested skimmable breakdown]
+- detail-oriented listing preference (explicit names, datasets); 2× (since 2025-08-31) [refs: asked to mention specific papers; asked to summarize datasets]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
+- frequently consumes expert YouTube tech content for decisions; 3× [refs: MKBHD, Mrwhosetheboss mentions; smartphone research session]
 
 ### Emerging (new query patterns)
-- beginning to request academic research paper summaries; 1× (since 2025-08-31) [ref: wearable AI research paper request]
+- querying Hugging Face for AI papers, models, datasets; 1× (first: 2025-08-31) [ref: request to search Hugging Face for AI resources]
