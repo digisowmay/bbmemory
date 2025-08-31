@@ -1,29 +1,24 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- 
 
 ### Emerging (new signals, 1-2 reinforcements)
-- prefers single-sentence, highly concise answers; 1× (first: 2025-08-31) [ref: chat request for UTM list with concise global instruction]
-- asks direct, data-focused questions without extra context; 1× (first: 2025-08-31) [ref: UTM analytics query conversation]
+- requests numeric analytics and concise lists; 1× (first: 2025-08-31) [ref: chat about UTM users and message counts]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
-- 
 
 ### Emerging (recent learning, current focus)
-- familiar with MongoDB and internal Bhindi data structures; 1× (since 2025-08-31) [ref: requested bhindi-mongodb agent to query utms]
-- working on marketing/UTM analytics for campaigns; 1× (started: 2025-08-31) [ref: asked for gayatri.tech campaign user list]
+- works with marketing analytics and UTM campaign data; 1× (first: 2025-08-31) [ref: queries on UTM campaign "gayatri.tech"]
+- comfortable using MongoDB for data retrieval; 1× (first: 2025-08-31) [ref: instructed agent to use bhindi mongodb]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
-- 
 
 ### Emerging (recent behavioral shifts)
-- analytical, numbers-driven approach; 1× (since 2025-08-31) [ref: requested counts and message analysis]
+- data-driven decision maker, seeks quantitative insights; 1× (first: 2025-08-31) [ref: asked for counts and analytics]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
-- 
 
 ### Emerging (new query patterns)
-- uses Bhindi database queries for user and campaign analytics; 1× (since 2025-08-31) [ref: multiple bhindi-mongodb queries during session]
+- uses platform to run database analytics queries on user behavior; 1× (since 2025-08-31) [ref: message count aggregation request]
