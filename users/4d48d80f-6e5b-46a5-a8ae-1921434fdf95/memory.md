@@ -2,7 +2,7 @@
 ### Durable (established, 3+ reinforcements)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- corrects assistant when instructions not followed; expects precise adherence; 1× (first: 2025-09-01) [ref: pointed out need to modify original pic instead of generating new one]
+- gives clear, concise instructions for creative tasks (image edits); 1× (first: 2025-09-01) [ref: request to transform photo into Assassin's Creed character]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -13,10 +13,9 @@
 ### Durable (core thinking patterns)
 
 ### Emerging (recent behavioral shifts)
-- values outcome accuracy over novelty; requests specific revisions; 1× (observed: 2025-09-01) [ref: insisted on modifying provided image]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
 
 ### Emerging (new query patterns)
-- exploring AI-driven image transformations of personal photos; 2× (since 2025-09-01) [refs: vampire transformation request; Kratos transformation request]
+- experimenting with AI-powered image editing for cosplay/character transformations; 1× (first: 2025-09-01) [ref: Assassin's Creed style photo edit request]
