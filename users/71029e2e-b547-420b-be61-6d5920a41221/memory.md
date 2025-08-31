@@ -1,28 +1,27 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- none recorded yet
+- 
 
 ### Emerging (new signals, 1-2 reinforcements)
-- prefers French language interactions; 1× (first: 2025-08-31) [ref: "change avec une voie d homme en francais"]
-- requests concise imperative instructions; 1× (first: 2025-08-31) [ref: original TTS request "tts"]
+- préfère interagir en français et utilise des demandes directes et courtes; 2× (since 2025-08-31) [refs: demande "change avec une voie d homme en francais"; "ce n est pas une voie d'omme ,propose moi une autre voie en v3"]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
-- none recorded yet
+- 
 
 ### Emerging (recent learning, current focus)
-- none recorded yet
+- 
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
-- none recorded yet
+- 
 
 ### Emerging (recent behavioral shifts)
-- none recorded yet
+- attend des résultats précis (ex. voix masculine) et exprime l'insatisfaction jusqu'à obtention; 1× (first: 2025-08-31) [ref: message "ce n est pas une voie d'omme ,propose moi une autre voie en v3"]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
-- none recorded yet
+- 
 
 ### Emerging (new query patterns)
-- uses text-to-speech feature, including voice selection; 1× (first: 2025-08-31) [refs: TTS request and male voice follow-up]
+- utilise la génération TTS et recherche spécifiquement une voix masculine française; 1× (since 2025-08-31) [ref: demande de voix masculine française pour le TTS]
