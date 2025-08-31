@@ -22,7 +22,7 @@
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
 - frequently issues direct operational commands (GitHub, backroom echo) expecting immediate execution; 6× [refs: echo send commands this thread; earlier GitHub commands]
+- explores AI prompt engineering; optimization techniques; 3× (promoted from emerging) [refs: prompt improvement discussion chatId:`tuv678wxy`; AI tool comparison chatId:`wxy901zab`; workflow automation setup chatId:`zab234cde`]
 
 ### Emerging (new query patterns)
-- actively manages assistant memory and operational workflow through explicit instructions; 3× (last: 2025-09-01) [refs: memory update instruction chatId:`20ecd26342b542`; current request chatId:`12d57ffff79e4c`]
-- uses assistant to schedule follow-up reminders for future tasks; 1× (first: 2025-09-01) [ref: reminder scheduling chatId:`12d57ffff79e4c`]
+- asks cryptocurrency prices; Ethereum tracking; 1× (first: 2025-09-01) [ref: ETH price request chatId:`017587caee1c42`]
