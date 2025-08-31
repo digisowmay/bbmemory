@@ -1,27 +1,23 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- 
 
 ### Emerging (new signals, 1-2 reinforcements)
-- seeks complete code solutions with minimal explanation; prefers ready-to-run project links; 1× (first: 2025-08-31) [ref: request for food ordering platform React template]
+- gives concise, direct requests to build technical solutions; 2× (last: 2025-08-31) [refs: request to create food ordering platform; follow-up field specification]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
-- 
 
 ### Emerging (recent learning, current focus)
-- experimenting with web development projects (React); 1× (started: 2025-08-31) [ref: conversation about creating food ordering platform]
+- working on building a food ordering web platform; 1× (started: 2025-08-31) [ref: asked for customer order platform with daily summaries]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
-- 
 
 ### Emerging (recent behavioral shifts)
-- values turnkey, end-to-end solutions over step-by-step guidance; 1× (observed: 2025-08-31) [ref: acceptance of full project scaffold without further questions]
+- prefers ready-to-run code examples and deployment links (e.g., StackBlitz); 1× (first: 2025-08-31) [ref: accepted StackBlitz link for project]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
-- 
 
 ### Emerging (new query patterns)
-- requesting full-stack coding templates and scaffolds; 1× (since 2025-08-31) [ref: asked for food ordering platform code]
+- requests full-stack web templates (React) via StackBlitz; 1× (started: 2025-08-31) [ref: stackblitz project generation for food ordering platform]
