@@ -1,27 +1,27 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- (none yet)
+- No durable patterns yet identified
 
 ### Emerging (new signals, 1-2 reinforcements)
-- gives concise creative image-edit instructions; 1× (first: 2025-08-31) [ref: request to transform child photo into Joker movie poster]
+- Gives concise, direct instructions for creative image edits; 1× (first: 2025-08-31) [ref: requests for Joker and nuclear detonator poster transformations]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
-- (none yet)
+- None identified yet
 
 ### Emerging (recent learning, current focus)
-- exploring AI-based image editing and creative transformations; 1× (since 2025-08-31) [ref: provided image URL and requested Joker transformation]
+- Interested in movie-poster style visual concepts and transformations; 1× (started: 2025-08-31) [ref: transformation requests]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
-- (none yet)
+- None identified yet
 
 ### Emerging (recent behavioral shifts)
-- (none yet)
+- Prefers imaginative, bold visual storytelling; 1× (first: 2025-08-31) [ref: creative photo manipulation ideas]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
-- (none yet)
+- None identified yet
 
 ### Emerging (new query patterns)
-- experimenting with image generation/editing capabilities; 1× (since 2025-08-31) [ref: Joker movie poster transformation request]
+- Uses AI image editing for specific photo manipulations; 2× (since 2025-08-31) [refs: Joker transformation; nuclear detonator replacement]
