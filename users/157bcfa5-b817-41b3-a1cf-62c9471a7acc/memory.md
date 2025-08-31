@@ -1,27 +1,23 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- 
 
 ### Emerging (new signals, 1-2 reinforcements)
-- prefers structured blog drafts with clear sections (title, intro, accounting failure, remediations); 1× (first: 2025-08-31) [ref: request for structured blog post format]
+- provides explicit post structure (intro, failure details, remediation) and requests witty storytelling tone; 2× (last: 2025-08-31) [refs: request for Theranos blog draft; request for Indian startup post]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
-- 
 
 ### Emerging (recent learning, current focus)
-- writing a blog series on accounting & governance failures of Indian and global startups for swapnilsoren.com/the-red-flag-report; 1× (started: 2025-08-31) [ref: user description of blog series]
+- writing a blog series on accounting & governance failures of startups at swapnilsoren.com/the-red-flag-report; 2× (since 2025-08-31) [refs: initial request for blogpost; follow-up post for Indian startup]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
-- 
 
 ### Emerging (recent behavioral shifts)
-- research-oriented and requests corroborated links plus engaging storytelling tone; 1× (first: 2025-08-31) [ref: instructions to research via Perplexity and emulate YouTube storytelling]
+- research-driven and structured yet seeks engaging, witty storytelling; 2× (since 2025-08-31) [refs: instructions referencing YouTube tone; requirement for detailed links]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
-- 
 
 ### Emerging (new query patterns)
-- uses AI assistant for drafting blog posts and gathering research on corporate failures; 1× (first: 2025-08-31) [ref: request for AI-generated blog draft]
+- uses AI assistant for drafting research-heavy blog posts with references; 2× (since 2025-08-31) [refs: requests for Theranos and BharatPe drafts]
