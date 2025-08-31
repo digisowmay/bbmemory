@@ -2,22 +2,24 @@
 ### Durable (established, 3+ reinforcements)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- gives concise, direct task instructions and expects quick iterative outputs; 1× (first: 2025-08-31) [ref: chat requesting successive image tweaks]
+- writes entirely in lowercase; casual, concise requests; 2× (last: 2025-08-31) [ref: chat with bhindi agent about t-shirt template images chatId:`463eec28b84842`]
+- emphasizes consistent visual style across outputs; explicitly requests matching backgrounds and lighting; 2× (last: 2025-08-31) [ref: same chat]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
 
 ### Emerging (recent learning, current focus)
-- working on t-shirt design templates; needs consistent style mockups; 1× (started: 2025-08-31) [ref: requests for plain black & beige shirt images to overlay designs]
+- creating t-shirt design templates; needs back views of plain shirts for overlaying designs; 1× (started: 2025-08-31) [ref: chat]
+- prefers minimalist aesthetic backgrounds (soft gradients, a couple of plants) for product mock-ups; 1× (first: 2025-08-31) [ref: chat]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
 
 ### Emerging (recent behavioral shifts)
-- iterative refinement approach: asks for initial output then requests stylistic improvements; 1× (observed: 2025-08-31) [ref: requested consistent style, then more aesthetic backgrounds]
+- iterative refinement: requests successive tweaks until visuals meet specific aesthetic criteria; 2× (last: 2025-08-31) [ref: chat]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
 
 ### Emerging (new query patterns)
-- using AI image generation for product mockups; 1× (since 2025-08-31) [ref: multiple prompts to generate photorealistic t-shirt images]
+- generating photorealistic product images for design mock-ups; 1× (since 2025-08-31) [ref: chat]
