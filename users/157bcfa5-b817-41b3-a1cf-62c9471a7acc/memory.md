@@ -1,27 +1,27 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- (no durable patterns yet)
+- 
 
 ### Emerging (new signals, 1-2 reinforcements)
-- prefers story-based, narrative quiz formats and concise instructions; 1× (first: 2025-08-31) [ref: chat request for story-based quiz]
+- prefers concise, actionable responses (e.g., asked for a concise outreach email); 1× (first: 2025-08-31) [ref: request for concise outreach email]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
-- (no durable entries yet)
+- 5+ years Big 4 auditor experience; 1× [ref: stated need for jobs requiring Big 4 auditor experience]
 
 ### Emerging (recent learning, current focus)
-- runs Instagram account @fiscalquizclub creating business quiz content; 1× (started: 2025-08-31) [ref: conversation about creating content]
+- actively seeking jobs paying >25 LPA leveraging audit background; 1× (started: 2025-08-31) [ref: job search queries]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
-- (no durable patterns yet)
+-
 
 ### Emerging (recent behavioral shifts)
-- values engaging narratives to educate audience; 1× (first: 2025-08-31) [ref: request for story-based quizzes]
+- goal-oriented, gives specific task requests (e.g., list companies, draft email); 1× (observed: 2025-08-31) [ref: job info requests]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
-- (no durable patterns yet)
+-
 
 ### Emerging (new query patterns)
-- frequently seeks new quiz ideas and formats for social media; 1× (since 2025-08-31) [ref: repeated requests for quiz questions]
+- exploring job market insights and outreach strategies; 1× (since 2025-08-31) [ref: multiple job search questions]
