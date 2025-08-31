@@ -1,25 +1,27 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
+- 
 
 ### Emerging (new signals, 1-2 reinforcements)
-- writes entirely in lowercase; casual, concise requests; 2× (last: 2025-08-31) [ref: chat with bhindi agent about t-shirt template images chatId:`463eec28b84842`]
-- emphasizes consistent visual style across outputs; explicitly requests matching backgrounds and lighting; 2× (last: 2025-08-31) [ref: same chat]
+- gives concise, directive prompts focused on visual output consistency; 2× (last: 2025-08-31) [refs: chat requesting consistent style t-shirt templates; follow-up specifying mellow gradient background]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
+- 
 
-### Emerging (recent learning, current focus)
-- creating t-shirt design templates; needs back views of plain shirts for overlaying designs; 1× (started: 2025-08-31) [ref: chat]
-- prefers minimalist aesthetic backgrounds (soft gradients, a couple of plants) for product mock-ups; 1× (first: 2025-08-31) [ref: chat]
+### Emerging (recent learning, current focus)  
+- currently creating t-shirt back templates for design overlays; 1× (started: 2025-08-31) [ref: multiple requests for plain t-shirt images with specific backgrounds]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
+- 
 
 ### Emerging (recent behavioral shifts)
-- iterative refinement: requests successive tweaks until visuals meet specific aesthetic criteria; 2× (last: 2025-08-31) [ref: chat]
+- iterative refinement approach, progressively adjusting details (background, view, quality); 2× (since 2025-08-31) [refs: stepwise updates for aesthetic, gradient, high quality]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
+- 
 
 ### Emerging (new query patterns)
-- generating photorealistic product images for design mock-ups; 1× (since 2025-08-31) [ref: chat]
+- frequently uses image generation for product mockups; 2× (since 2025-08-31) [refs: repeated image requests for t-shirt mockups in chat]
