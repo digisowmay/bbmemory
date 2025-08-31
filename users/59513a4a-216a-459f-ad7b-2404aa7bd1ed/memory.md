@@ -3,25 +3,25 @@
 - 
 
 ### Emerging (new signals, 1-2 reinforcements)
-- prefers concise lists of job opportunities; 1× (first: 2025-08-31) [ref: request for latest LinkedIn jobs list]
+- prefers concise, bullet-style summaries for job lists; 1× (last: 2025-08-31) [ref: request for Bangalore-specific jobs]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
-- runs a hiring agency focused on creative, marketing, tech, brand, and design roles; 1× [ref: stated business domain in conversation]
+- runs a hiring agency focused on creative, marketing, tech, brand & design roles; 1× [ref: initial message describing agency]
 
 ### Emerging (recent learning, current focus)
-- currently sourcing fresh LinkedIn/India job leads to pitch to clients; 1× (started: 2025-08-31) [ref: request for recent job postings]
+- actively sourcing latest LinkedIn/job listings (1-14 days old) to pitch to clients; 1× (since 2025-08-31) [ref: requests for latest jobs]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
-- 
+- goal-oriented, requests specific actionable data to use in business; 1× [ref: multiple follow-up location-based job requests]
 
 ### Emerging (recent behavioral shifts)
-- data-driven approach, requests up-to-date information; 1× (since 2025-08-31) [ref: emphasis on jobs posted within last week]
+- n/a
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
-- 
+-
 
 ### Emerging (new query patterns)
-- searches for latest job postings (LinkedIn, India/global) to assist hiring operations; 2× (since 2025-08-31) [refs: initial job list request; follow-up for India-based jobs]
+- frequently requests curated job listings by role/location; 2× (since 2025-08-31) [refs: India-based jobs request; Bangalore jobs request]
