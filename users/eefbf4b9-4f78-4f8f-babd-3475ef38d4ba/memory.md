@@ -3,27 +3,27 @@
 - 
 
 ### Emerging (new signals, 1-2 reinforcements)
-- requests simplified explanations using "like I am 6" phrasing; 1× (first: 2025-08-31) [ref: chat asking to translate DeFi platform description like a 6-year-old]
-- asks direct, topic-focused questions to understand product features and audience; 1× (first: 2025-08-31) [ref: sequential queries about Instadapp purpose, DeFi management, end users]
+- Requests child-level or highly simplified explanations; 1× (first: 2025-08-31) [ref: asked to "translate to me like i am a 6 year old"]
+- Seeks clear step-by-step conceptual breakdowns; 1× (first: 2025-08-31) [ref: sequential questions on DeFi management, end users, bank use]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
-- 
+-
 
-### Emerging (recent learning, current focus)  
-- researching DeFi platforms for potential marketing insights; 1× (started: 2025-08-31) [ref: queries analyzing Instadapp website and its audience]
-- likely works in marketing role (username indicates “marketing”); 1× (first: 2025-08-31) [ref: account name "Amberaaryan marketing" and focus on product positioning]
+### Emerging (recent learning, current focus)
+- Exploring DeFi platforms and management concepts; 1× (first: 2025-08-31) [ref: inquiry about Instadapp, DeFi management]
+- Interested in creating a bank-focused DeFi product named "Mango"; 1× (started: 2025-08-31) [ref: stated desire to create better version for banks]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
-- 
+-
 
 ### Emerging (recent behavioral shifts)
-- prefers analogies and child-level simplifications to grasp complex ideas quickly; 1× (since 2025-08-31) [ref: request for 6-year-old explanation]
+- Iterative learner: builds questions progressively to deepen understanding; 1× (first: 2025-08-31) [ref: sequence of questions following each explanation]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
-- 
+-
 
 ### Emerging (new query patterns)
-- seeking product breakdowns, user personas, and industry use cases; 1× (since 2025-08-31) [ref: questions about Instadapp end users and banking applications]
+- Requests website captures and summarized analyses; 1× (since 2025-08-31) [ref: asked to capture and explain instadapp.io]
