@@ -2,22 +2,26 @@
 ### Durable (established, 3+ reinforcements)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- provides explicit post structure (intro, failure details, remediation) and requests witty storytelling tone; 2× (last: 2025-08-31) [refs: request for Theranos blog draft; request for Indian startup post]
+- requests clear structured outlines with specific sections (intro, failure, remediation); 1× (first: 2025-08-31) [ref: chat requesting blog structure]
+- prefers engaging storytelling tone similar to referenced YouTube videos; 1× (first: 2025-08-31) [ref: chat referencing YouTube videos tone]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
 
 ### Emerging (recent learning, current focus)
-- writing a blog series on accounting & governance failures of startups at swapnilsoren.com/the-red-flag-report; 2× (since 2025-08-31) [refs: initial request for blogpost; follow-up post for Indian startup]
+- running blog series "The Red Flag Report" on accounting & governance failures of startups; 1× (since 2025-08-31) [ref: user message about website]
+- focus on Indian and global startup scandals for content; 1× (started: 2025-08-31) [ref: same]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
 
 ### Emerging (recent behavioral shifts)
-- research-driven and structured yet seeks engaging, witty storytelling; 2× (since 2025-08-31) [refs: instructions referencing YouTube tone; requirement for detailed links]
+- prefers systematic, structured approach with defined sections; 1× (first: 2025-08-31) [ref: requested blog structure]
+- values concise hooks for social media; 1× (first: 2025-08-31) [ref: request for LinkedIn post with short hook]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
 
 ### Emerging (new query patterns)
-- uses AI assistant for drafting research-heavy blog posts with references; 2× (since 2025-08-31) [refs: requests for Theranos and BharatPe drafts]
+- requests content creation for blog posts; 1× (since 2025-08-31) [ref: current request for blog]
+- seeks social media copy (LinkedIn) connected to blog; 1× (first: 2025-08-31) [ref: LinkedIn post request]
