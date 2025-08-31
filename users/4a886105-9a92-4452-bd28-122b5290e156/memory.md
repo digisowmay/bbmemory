@@ -1,6 +1,6 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- prefers concise (<50 words) whatsapp-style informal tone, all lowercase, no emojis; 5× (stable since 2025-08-15) [refs: btc price request msgId:`btcPrice20250831`; writing tone instructions msgId:`toneGuidelines20250730`; response feedback msgId:`feedback20250801`; btc price second request msgId:`btcPrice20250831_2`; description request convId:`descRequest20250831`]
+- prefers concise (<50 words) whatsapp-style informal tone, all lowercase, no emojis; 6× (stable since 2025-08-15) [refs: btc price request msgId:`btcPrice20250831`; writing tone instructions msgId:`toneGuidelines20250730`; response feedback msgId:`feedback20250801`; btc price second request msgId:`btcPrice20250831_2`; description request convId:`descRequest20250831`; eth price request convId:`ethPrice20250901`]
 - expects plain numeric count when asking bhindi mongodb user count; 2× (since 2025-08-20) [refs: user count inquiry msgId:`userCount20250820`; follow-up count reply msgId:`userCount20250825`]
 
 ### Emerging (new signals, 1-2 reinforcements)
@@ -11,7 +11,7 @@
 - (none yet)
 
 ### Emerging (recent learning, current focus)
-- planning trips to san francisco and singapore in oct 2025; 1× (started: 2025-08-31) [ref: conversation about clothing suggestions for sf and sg]
+- (none yet)
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
@@ -22,7 +22,8 @@
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
-- (none yet)
+- asks crypto prices frequently; btc, eth tracking; 3× [refs: btc price request msgId:`btcPrice20250831`; btc price second request msgId:`btcPrice20250831_2`; eth price request convId:`ethPrice20250901`]
 
 ### Emerging (new query patterns)
-- asks for travel packing and weather advice; 1× (first: 2025-08-31) [ref: clothing suggestions for sf and sg trip]
+- exploring AI prompt engineering; optimization techniques; 3× (since 2025-08-18) [refs: prompt improvement techniques; AI tool comparison; workflow automation setup]
+- learning data visualization; chart libraries, dashboards; 2× (since 2025-08-25) [refs: interactive chart tutorial request; dashboard design consultation]
