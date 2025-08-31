@@ -3,25 +3,25 @@
 - 
 
 ### Emerging (new signals, 1-2 reinforcements)
-- requests highly specific, iterative visual edits (e.g., facial hair style, exact mustache length); 2× (last: 2025-08-31) [refs: asked to trim mustache; asked to connect goatee]
+- prefers iterative refinement with concise instructions for visual edits; 2× (last: 2025-08-31) [refs: chat session requesting multiple moustache adjustments]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
 - 
 
 ### Emerging (recent learning, current focus)
-- working on photorealistic/open-source character images, focusing on 80s facial hair aesthetics; 1× (started: 2025-08-31) [ref: multiple requests for Freddie Mercury style mustache]
+- currently working on editing a realistic 3D open-source character’s facial hair; 1× (started: 2025-08-31) [ref: requests to add various moustache/goatee styles]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
 - 
 
 ### Emerging (recent behavioral shifts)
-- prefers incremental refinement, providing feedback after each iteration; 2× (since 2025-08-31) [refs: asked to make mustache smaller; asked to connect facial hair]
+- detail-oriented, gives specific aesthetic requirements (e.g., thickness, length) and adjusts based on results; 2× (since 2025-08-31) [refs: successive feedback to thin/trim moustache]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
 - 
 
 ### Emerging (new query patterns)
-- frequently uses platform to perform facial hair edits on character images; 3× (since 2025-08-31) [refs: beard addition request; Freddie Mercury mustache request; goatee connection request]
+- exploring iterative AI image editing, especially facial hair modifications; 3× (since 2025-08-31) [refs: series of image edit requests for moustache/goatee]
