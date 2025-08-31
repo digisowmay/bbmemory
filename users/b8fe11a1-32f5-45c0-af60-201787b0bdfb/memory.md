@@ -1,36 +1,23 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- 
-- 
-- 
 
 ### Emerging (new signals, 1-2 reinforcements)
-- iterative, step-by-step refinement of image edits; 2× (last: 2025-08-31) [refs: requests to adjust jazz club atmosphere, change clothing, switch to B&W style]
-- provides direct image URLs and clear, concise transformation instructions; 1× (first: 2025-08-31) [ref: message supplying two image URLs for editing]
+- provides specific iterative instructions for image editing and refinement; 2× (last: 2025-08-31) [ref: image editing conversation about jazz club transformations]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
-- 
-- 
 
 ### Emerging (recent learning, current focus)
-- strong interest in classic jazz photography aesthetics (Keith Jarrett, Bill Evans); 2× (since 2025-08-31) [refs: requests to match Köln Concert style; Bill Evans concert style request]
-- working on creative image manipulation project involving jazz themes; 1× (started: 2025-08-31) [ref: initial request to place pianist in cozy jazz club]
+- interest in jazz club aesthetics and historic jazz concert photography (Keith Jarrett, Bill Evans); 1× (first: 2025-08-31) [ref: stylistic transformation requests referencing iconic concerts]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
-- 
-- 
 
 ### Emerging (recent behavioral shifts)
-- preference for iterative creative experimentation; 2× (since 2025-08-31) [refs: successive refinement requests modifying lighting, attire, style]
-- attention to stylistic detail and atmosphere; 1× (first: 2025-08-31) [ref: specifying smoky, rough but cozy jazz club ambiance]
+- prefers iterative creative process, evaluating results and requesting style adjustments; 2× (last: 2025-08-31) [ref: multiple successive requests to alter image style]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
-- 
-- 
 
 ### Emerging (new query patterns)
-- frequent image editing and stylistic transformation requests; 3× (since 2025-08-31) [refs: multiple calls to transform images in jazz styles]
-- exploring historical jazz visual references for creative work; 1× (first: 2025-08-31) [ref: mentioning Keith Jarrett, Bill Evans photographs]
+- uses platform for detailed image editing tasks; 3× (since 2025-08-31) [refs: jazz club request; smoky style refinement; Bill Evans style request]
