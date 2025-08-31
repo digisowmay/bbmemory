@@ -1,27 +1,36 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- (no durable patterns identified yet)
+- 
+- 
+- 
 
 ### Emerging (new signals, 1-2 reinforcements)
-- provides concise, iterative instructions for image editing; 1× (first: 2025-08-31) [ref: requests successive edits to jazz club scene]
+- iterative, step-by-step refinement of image edits; 2× (last: 2025-08-31) [refs: requests to adjust jazz club atmosphere, change clothing, switch to B&W style]
+- provides direct image URLs and clear, concise transformation instructions; 1× (first: 2025-08-31) [ref: message supplying two image URLs for editing]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
-- (no durable knowledge patterns identified yet)
+- 
+- 
 
 ### Emerging (recent learning, current focus)
-- interested in jazz aesthetics and photographic styles for image manipulation; 1× (started: 2025-08-31) [ref: asks to match style of Keith Jarrett Köln Concert image]
+- strong interest in classic jazz photography aesthetics (Keith Jarrett, Bill Evans); 2× (since 2025-08-31) [refs: requests to match Köln Concert style; Bill Evans concert style request]
+- working on creative image manipulation project involving jazz themes; 1× (started: 2025-08-31) [ref: initial request to place pianist in cozy jazz club]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
-- (no durable thinking patterns identified yet)
+- 
+- 
 
 ### Emerging (recent behavioral shifts)
-- iterative creative approach, refining visuals through step-by-step feedback; 1× (since 2025-08-31) [ref: multiple image edit requests with incremental changes]
+- preference for iterative creative experimentation; 2× (since 2025-08-31) [refs: successive refinement requests modifying lighting, attire, style]
+- attention to stylistic detail and atmosphere; 1× (first: 2025-08-31) [ref: specifying smoky, rough but cozy jazz club ambiance]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
-- (no durable usage patterns identified yet)
+- 
+- 
 
 ### Emerging (new query patterns)
-- using platform for advanced image editing and style transfer tasks; 1× (since 2025-08-31) [ref: uploads images and requests stylistic transformations]
+- frequent image editing and stylistic transformation requests; 3× (since 2025-08-31) [refs: multiple calls to transform images in jazz styles]
+- exploring historical jazz visual references for creative work; 1× (first: 2025-08-31) [ref: mentioning Keith Jarrett, Bill Evans photographs]
