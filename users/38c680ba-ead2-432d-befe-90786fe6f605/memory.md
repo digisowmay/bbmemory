@@ -1,29 +1,27 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- gives precise operational commands ("drop an echo", "create issue") expecting immediate execution; 4× [refs: echo to sowmay request; GitHub issue request; earlier stat queries across session]
-- requests quantitative metrics about users/usage for defined time windows; 4× [refs: ask for users created in last 2 h; zero-message count; timezone breakdown; message intent]
+- prefers concise, actionable reports with key metrics and next steps; 3× [refs: requests for stats summary; demand for concise GitHub issue; directive for echo message]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- prefers concise summaries that capture only needed details; 2× (last: 2025-08-31) [refs: "ensure keep it concise" for GitHub issue; repeated ask for 'stat']
+- asks follow-up quantitative clarifications (e.g., timezone, zero-message counts); 2× (last: 2025-08-31) [refs: timezone check; zero messages stat]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
-- ops/admin role at upsurgeio overseeing Bhindi analytics & repos; 3× [refs: GitHub repo management commands; user analytics queries; paid subscriber follow-up]
+- operational role overseeing user analytics and support actions; 3× [refs: new user engagement analysis; directing outreach; issue creation tasks]
 
 ### Emerging (recent learning, current focus)
-- monitoring onboarding funnel performance for new users; 2× (since 2025-08-31) [refs: analysis of 99 new users; engagement bottleneck discussion]
+- monitoring paid subscriber onboarding issues; 1× (started: 2025-08-31) [ref: file upload size problem investigation]
 
 ## Thinking & Working Style
 ### Durable (core patterns)
-- data-driven decision maker, asks for stats before actions; 5× [refs: zero-message stat before timezone check; tool usage counts before echo]
+- data-driven decision-maker, requests precise counts and distributions before actions; 4× [refs: chat/message stats; timezone distribution; tool usage breakdown]
 
 ### Emerging (recent behavioral shifts)
-- proactively escalating high-value customer issues to team; 2× (started 2025-08-31) [refs: echo to sowmay about paid user; GitHub issue creation attempt]
+- proactive about customer retention, instructs immediate outreach; 1× (observed: 2025-08-31) [ref: echo to sowmay about paid user]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
-- frequent database analytics via Mongo queries; 4× [refs: multiple Mongo find/aggregate calls this session]
-- manages internal notifications (echo) and repo issues; 3× [refs: echo to sowmay; GitHub issue request]
+- frequently manages internal tooling tasks (echo, GitHub issues, Mongo queries); 3× [refs: echo command; issue creation request; stats queries]
 
 ### Emerging (new query patterns)
-- customer segmentation by timezone and engagement; 1× (first: 2025-08-31) [ref: timezone breakdown request]
+- focuses on onboarding funnel analytics; 2× (since 2025-08-31) [refs: new user cohort analysis; zero message users]
