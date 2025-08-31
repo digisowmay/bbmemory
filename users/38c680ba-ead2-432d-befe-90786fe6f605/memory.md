@@ -3,25 +3,25 @@
 - 
 
 ### Emerging (new signals, 1-2 reinforcements)
-- prefers data formatted in tables for clarity; 1× (first: 2025-08-31) [ref: chat request "in table"]
+- requests concise numeric summaries and tables when analyzing data; 1× (last: 2025-08-31) [refs: asked for table of message counts and agents; queried count of users from UTM campaign]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
 - 
 
 ### Emerging (recent learning, current focus)
-- marketing analytics at upsurge.io; uses MongoDB UTM data; 1× (first: 2025-08-31) [ref: conversation requesting UTM campaign user list]
+- works with Bhindi MongoDB data to analyze UTM campaign user activity; 1× (since 2025-08-31) [refs: retrieved utms collection, aggregated messages]
 
 ## Thinking & Working Style
-### Durable (core patterns)
+### Durable (core thinking patterns)
 - 
 
 ### Emerging (recent behavioral shifts)
-- data-driven and systematic; asks for counts, message numbers, agents; 1× (first: 2025-08-31) [ref: series of analytic requests in chat]
+- data-driven, seeks specific metrics before decisions; 1× (observed: 2025-08-31) [ref: multiple aggregate queries and count requests]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
 - 
 
 ### Emerging (new query patterns)
-- frequently queries MongoDB via bhindi agent for analytics; 1× (since 2025-08-31) [ref: multiple bhindi-mongodb queries in current chat]
+- uses Bhindi platform to run MongoDB aggregate queries for internal analytics; 1× (since 2025-08-31) [refs: listCollections, aggregate on utms, messages, executions]
