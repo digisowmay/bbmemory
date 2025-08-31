@@ -1,27 +1,31 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
+- 
 
 ### Emerging (new signals, 1-2 reinforcements)
-- prefers explanatory analogies (e.g., piggy banks, filing cabinet) to simplify complex topics; 2× (last: 2025-08-31) [refs: request for 6-year-old translation; filing cabinet metaphor discussion]
-- often requests detailed, step-by-step or code-level breakdowns of concepts; 2× (last: 2025-08-31) [refs: Instadapp code example; AmberMango architecture]
+- Direct, outcome-focused requests ("give me full code", "do an environmental scan"); 2× (last: 2025-08-31) [refs: request for prototype code; request for environmental scan]
+- Uses metaphors/analogies (e.g., filing cabinet) to convey product vision; 1× (first: 2025-08-31) [ref: filing cabinet analogy for app]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
+- 
 
-### Emerging (recent learning, current focus)
-- building a Canadian fintech platform called AmberMango (personal finance aggregator + DeFi + bill pay); 2× (since 2025-08-31) [refs: discussion of AmberMango personal & enterprise; filing cabinet concept]
-- intends to rely solely on AI agents rather than human developers for product development; 1× (first: 2025-08-31) [ref: statement about not using any developers]
+### Emerging (recent learning, current focus)  
+- Building "AmberMango" – a Canadian fintech aggregator & DeFi platform; 1× (started: 2025-08-31) [ref: discussion about AmberMango project]
+- Interested in DeFi management and Canadian financial market gaps; 2× (since 2025-08-31) [refs: questions about DeFi benefits for banks; request for market scan]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
+- 
 
 ### Emerging (recent behavioral shifts)
-- visionary, concept-driven thinker who likes high-level metaphors before technical details; 2× (since 2025-08-31) [refs: piggy bank analogy; filing cabinet design]
-- prefers AI-first, rapid prototyping approach over traditional development; 1× (first: 2025-08-31) [ref: plan to use AI agents exclusively]
+- Prefers AI-only development (no human devs); 1× (observed: 2025-08-31) [ref: statement about using only AI agents]
+- Visionary product-builder mindset, seeks comprehensive one-stop solutions; 2× (since 2025-08-31) [refs: desire for all-in-one financial hub; filing cabinet concept]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
+- 
 
 ### Emerging (new query patterns)
-- frequently explores DeFi, banking integration, and fintech app architecture questions; 3× (since 2025-08-31) [refs: Instadapp analysis; DeFi benefits for banks; AmberMango architecture]
-- requests sample code snippets and technical implementation guidance; 2× (since 2025-08-31) [refs: code for AmberMango dashboard; database schema examples]
+- Frequently requests full code prototypes and detailed technical output; 2× (since 2025-08-31) [refs: prototype code request; earlier code block requests]
+- Seeks competitive market scans and environmental analyses in fintech; 1× (first: 2025-08-31) [ref: request for environmental scan]
