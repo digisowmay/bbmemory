@@ -1,23 +1,27 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
+- (no durable patterns yet)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- prefers very brief one- or two-word imperative instructions for image edits; 3× (last: 2025-08-31) [refs: commands "make different"; "different view"; "view behind"; "view bottom up"]
+- uses very short imperative phrases ("make different", "different view", "view behind") to request image edits; 4× (last: 2025-08-31) [refs: chat messages requesting various camera angles]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
+- (no durable knowledge captured yet)
 
-### Emerging (recent learning, current focus)
-- currently working on image transformations, seeking various camera angles; 1× (started: 2025-08-31) [refs: multiple requests for new perspectives of same image]
+### Emerging (recent learning, current focus)  
+- exploring creative image perspectives and angles; 1× (started: 2025-08-31) [ref: multiple requests for different camera angles]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
+- (no durable patterns yet)
 
 ### Emerging (recent behavioral shifts)
-- iterative exploration style, requesting sequential adjustments to reach desired visuals; 1× (observed: 2025-08-31) [ref: sequence of perspective change commands]
+- iterative approach: adjusts request based on previous output (asks for new view after receiving an edit); 2× (since 2025-08-31) [refs: sequence of angle change requests]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
+- (no durable patterns yet)
 
 ### Emerging (new query patterns)
-- uses platform primarily for image editing and perspective changes; 1× (since 2025-08-31) [refs: image edit requests in current session]
+- frequent image editing requests, especially changing camera angles; 3× (since 2025-08-31) [refs: successive image edit prompts in conversation]
