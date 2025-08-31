@@ -1,22 +1,19 @@
 ## Communication Patterns
-### Durable (established, 3+ reinforcements)
-
-### Emerging (new signals, 1-2 reinforcements)
-- prefers concise travel suggestions including flights, hotels, and itineraries; 1× (first: 2025-08-31) [ref: chat about Dreamforce and Miami trip]
+### Durable
+### Emerging
+- seeks practical travel option comparisons; 2× (last: 2025-08-31) [refs: hostel comparison request; flight/hotel suggestion request]
 
 ## Knowledge & Context
-### Durable (core expertise, established over time)
-
-### Emerging (recent learning, current focus)
-- upcoming travel: Dreamforce in San Francisco (Oct 12-17, 2025) followed by Miami visit (Oct 18-21) and return to Delhi; 1× (started: 2025-08-31) [ref: user stated travel dates]
+### Durable
+### Emerging
+- upcoming travel: Dreamforce SF Oct 12-17 2025, Miami Oct 17-21 2025; 1× (started: 2025-08-31) [ref: stated travel dates]
 
 ## Thinking & Working Style
-### Durable (core thinking patterns)
-
-### Emerging (recent behavioral shifts)
+### Durable
+### Emerging
+- prefers actionable suggestions with recommendations; 1× (observed: 2025-08-31) [ref: asked which hostel is better]
 
 ## Platform Usage & Queries
-### Durable (regular platform activities)
-
-### Emerging (new query patterns)
-- requests detailed travel planning assistance (flights, hotels, itineraries); 1× (first: 2025-08-31) [ref: current chat requesting Miami plans]
+### Durable
+### Emerging
+- uses platform for travel planning (flights, hotels, itineraries); 2× (since 2025-08-31) [refs: flight/hotel search request; itinerary planning]
