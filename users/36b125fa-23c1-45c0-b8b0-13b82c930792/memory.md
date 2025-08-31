@@ -2,22 +2,22 @@
 ### Durable (established, 3+ reinforcements)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- prefers instructions in Hindi/Hinglish; step-by-step guidance; 1× (first: 2025-08-31) [ref: GitHub setup instructions conversation]
+- prefers step-by-step validation with visual proof (screenshots) before confirming completion; 1× (first: 2025-08-31) [ref: requested live site screenshot confirmation]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
 
 ### Emerging (recent learning, current focus)
-- learning to host website using GitHub Pages; beginner with GitHub; 1× (started: 2025-08-31) [ref: requested steps to create repo and enable GitHub Pages]
+- learning GitHub Pages deployment; actively creating and testing a sample site; 1× (started: 2025-08-31) [ref: provided detailed GitHub repo creation and pages enable instructions]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
 
 ### Emerging (recent behavioral shifts)
-- wants immediate live demonstration of results; hands-on validation; 1× (first: 2025-08-31) [ref: asked to show live site after setup]
+- seeks empirical verification before acceptance; asks to test and show results live; 1× (first: 2025-08-31) [ref: requested live site and screenshot proof]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
 
 ### Emerging (new query patterns)
-- exploring GitHub Pages deployment; 1× (since 2025-08-31) [ref: conversation creating my-sample-site repo]
+- using GitHub for static website hosting; 1× (since 2025-08-31) [ref: GitHub Pages setup and deployment queries]
