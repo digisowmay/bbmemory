@@ -1,6 +1,6 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- prefers concise (<50 words), informal WhatsApp-style messages with clear ask; 6× [refs: global instruction set; echo reply suggestions; quick update preference chatId:`1325c42b5b4f4c`]
+- prefers concise (<50 words), informal WhatsApp-style messages with clear ask; 7× [refs: global instruction set; echo reply suggestions; quick update preference chatId:`1325c42b5b4f4c`; PR merge command chatId:`5f76ce15051447`]
 
 ### Emerging (new signals, 1-2 reinforcements)
 - asks assistant to propose echo drafts first for approval before sending and to pause before any subsequent actions; 4× (last: 2025-09-01) [refs: echo draft confirmation chatId:`12d57ffff79e4c`; current draft approval chatId:`73a0bbe55a164b`]
@@ -11,18 +11,18 @@
 - uses Bhindi backroom & GitHub operations regularly; 4× [refs: multiple PR/echo automation commands]
 
 ### Emerging (recent learning, current focus)
-- initiating file resizer agent to bypass LLM upload limits for users; delegated to Kalash; 2× (since 2025-09-01) [refs: file resizer agent request chatId:`73a0bbe55a164b`; reminder setup chatId:`73a0bbe55a164b`]
+- initiating file resizer agent to bypass LLM upload limits for users; 2× (since 2025-09-01) [refs: file resizer agent request chatId:`73a0bbe55a164b`; reminder setup chatId:`73a0bbe55a164b`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
-- fast decision-maker who delegates execution to assistant; 4× [refs: rapid timeline choice after suggestion; direct echo commands]
+- fast decision-maker who delegates execution to assistant; 5× [refs: rapid timeline choice after suggestion; direct echo commands; PR merge command chatId:`5f76ce15051447`]
 
 ### Emerging (recent behavioral shifts)
 - meta-aware of assistant operations, ensuring compliance with system processes; 3× (last: 2025-09-01) [refs: memory update instructions chatId:`20ecd26342b542`; current memory review chatId:`73a0bbe55a164b`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
-- frequently issues direct operational commands (GitHub, backroom echo) expecting immediate execution; 7× [refs: echo send commands; earlier GitHub commands; PR creation command chatId:`5f76ce15051447`]
+- frequently issues direct operational commands (GitHub, backroom echo) expecting immediate execution; 8× [refs: echo send commands; earlier GitHub commands; PR creation command chatId:`5f76ce15051447`; PR merge command chatId:`5f76ce15051447`]
 
 ### Emerging (new query patterns)
 - actively manages assistant memory and operational workflow, including scheduling reminders; 4× (last: 2025-09-01) [refs: memory update instruction chatId:`20ecd26342b542`; reminder setup chatId:`73a0bbe55a164b`]
