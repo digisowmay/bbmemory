@@ -1,28 +1,27 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- none yet
+- prefers structured data (counts, tables) for analytics queries; 3× [refs: requests for UTM user counts; table of message counts; active user email list]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- requests data in table/structured formats; 2× (last: 2025-08-31) [refs: asked for table of users/agents; requested message counts table]
-- iterative follow-ups for deeper analytics; 2× (last: 2025-08-31) [refs: sequential queries on UTMs, issues, resolutions]
+- uses follow-up questions to drill deeper into data; 2× (last: 2025-08-31) [refs: asked for issues then resolution]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
-- none yet
+- handles marketing analytics for UTM campaigns and user engagement; 3× [refs: mongo queries on utm collection; campaign analysis]
 
 ### Emerging (recent learning, current focus)
-- focuses on user engagement analytics and UTM campaign tracking; 2× (since 2025-08-31) [refs: queries on gayatri.tech campaign; message/activity analysis]
+- exploring user issue resolution workflows; 1× (first: 2025-08-31) [ref: asked if users connected after issues]
 
 ## Thinking & Working Style
-### Durable (core patterns)
-- none yet
+### Durable (core thinking patterns)
+- data-driven and systematic; requests specific metrics before conclusions; 3× [refs: counts, tables, issue tracking]
 
 ### Emerging (recent behavioral shifts)
-- data-driven decision making; 2× (since 2025-08-31) [refs: requested counts, issues, resolutions]
+- wants concise but complete summaries; 1× (observed: 2025-08-31) [ref: final active user email list]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
-- none yet
+- frequently queries MongoDB via bhindi-mongodb tools for analytics; 4× [refs: listCollections, aggregations, message counts]
 
 ### Emerging (new query patterns)
-- heavy use of MongoDB data queries for analytics; 2× (since 2025-08-31) [refs: listCollections call; aggregate queries on utms, messages]
+- investigating execution and integration statuses; 1× (since 2025-08-31) [refs: executions and integrations checks]
