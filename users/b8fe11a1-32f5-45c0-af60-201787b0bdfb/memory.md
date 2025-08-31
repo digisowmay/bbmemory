@@ -1,23 +1,27 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
+- 
 
 ### Emerging (new signals, 1-2 reinforcements)
-- bilingual English and Swedish; switches languages seamlessly; 1× (first: 2025-08-31) [refs: request in English for portrait; follow-up Swedish message asking for likeness]
+- mixes English and Swedish in instructions; switches to Swedish for specific edit requests; 1× (first: 2025-08-31) [ref: request "Gör mannen på bilden mer lik mig på referensbilden tack"]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
+-
 
 ### Emerging (recent learning, current focus)
-- requesting personalized professional portrait; interested in high-quality visual representation; 1× (first: 2025-08-31) [ref: request for stylish golfer advertisement portrait with specific details]
+- 
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
+-
 
 ### Emerging (recent behavioral shifts)
-- iterative refinement; asks for adjustments to generated content; 1× (first: 2025-08-31) [ref: request to make man look more like reference]
+- provides detailed visual requirements (lighting, depth of field, atmosphere) for image generation; 1× (first: 2025-08-31) [refs: portrait requests for golf and tennis images]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
+-
 
 ### Emerging (new query patterns)
-- uses image generation for personal portraits; 1× (first: 2025-08-31) [ref: portrait generation request with reference photo]
+- frequently requests AI-generated or edited photorealistic advertisement-style portraits of themselves; 2× (since 2025-08-31) [refs: golfer portrait generation; tennis portrait generation]
