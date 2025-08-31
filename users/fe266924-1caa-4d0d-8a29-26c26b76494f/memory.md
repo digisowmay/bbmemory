@@ -1,27 +1,27 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- None yet
+- 
 
 ### Emerging (new signals, 1-2 reinforcements)
-- Requests creative visual outputs (image edits/poster creation) clearly and concisely; 1× (first: 2025-08-31) [ref: requested Karate Barn movie poster from provided photo]
+- gives clear, concise creative requests and follow-up practical questions; 1× (first: 2025-08-31) [refs: poster creation request with download follow-up]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
-- None yet
+- 
 
 ### Emerging (recent learning, current focus)
-- None yet
+- parent of two kids practicing karate; creating media for them; 1× (started: 2025-08-31) [ref: requested action poster featuring children]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
-- None yet
+- 
 
 ### Emerging (recent behavioral shifts)
-- None yet
+- enjoys creative visual outputs and practical instructions; 1× (observed: 2025-08-31) [ref: movie poster request and download question]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
-- None yet
+- 
 
 ### Emerging (new query patterns)
-- Experimenting with AI-generated media (image editing/poster creation); 1× (first: 2025-08-31) [ref: Karate Barn movie poster request]
+- exploring AI image creation and retrieval; 1× (since 2025-08-31) [refs: image editing request to create poster; asked how to download]
