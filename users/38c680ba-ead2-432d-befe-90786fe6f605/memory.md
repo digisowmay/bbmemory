@@ -1,27 +1,28 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- prefers structured data (counts, tables) for analytics queries; 3× [refs: requests for UTM user counts; table of message counts; active user email list]
+- 
 
 ### Emerging (new signals, 1-2 reinforcements)
-- uses follow-up questions to drill deeper into data; 2× (last: 2025-08-31) [refs: asked for issues then resolution]
+- prefers results in tables or copy-ready code blocks; 2× (last: 2025-08-31) [refs: requested table of agents; asked for code to copy email list]
+- iterative data drilling, asks follow-up analytics questions; 2× (last: 2025-08-31) [refs: successive queries on UTM users, issues, emails]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
-- handles marketing analytics for UTM campaigns and user engagement; 3× [refs: mongo queries on utm collection; campaign analysis]
+- 
 
 ### Emerging (recent learning, current focus)
-- exploring user issue resolution workflows; 1× (first: 2025-08-31) [ref: asked if users connected after issues]
+- works on internal Bhindi analytics, querying MongoDB collections; 2× (since 2025-08-31) [refs: requested utms aggregation; message counts]
 
 ## Thinking & Working Style
-### Durable (core thinking patterns)
-- data-driven and systematic; requests specific metrics before conclusions; 3× [refs: counts, tables, issue tracking]
+### Durable (core patterns)
+- 
 
 ### Emerging (recent behavioral shifts)
-- wants concise but complete summaries; 1× (observed: 2025-08-31) [ref: final active user email list]
+- data-driven and detail-oriented, wants precise counts and statuses; 2× (since 2025-08-31) [refs: asked for message counts per user; issue resolution status]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
-- frequently queries MongoDB via bhindi-mongodb tools for analytics; 4× [refs: listCollections, aggregations, message counts]
+- 
 
 ### Emerging (new query patterns)
-- investigating execution and integration statuses; 1× (since 2025-08-31) [refs: executions and integrations checks]
+- runs frequent MongoDB analytics queries for UTM and user engagement; 2× (since 2025-08-31) [refs: utms aggregation, messages aggregation]
