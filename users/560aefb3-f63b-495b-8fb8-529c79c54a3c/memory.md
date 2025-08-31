@@ -1,28 +1,25 @@
 ## Communication Patterns
-### Durable
-- 
+### Durable (established, 3+ reinforcements)
 
-### Emerging
-- prefers Hindi/Hinglish casual queries and seeks concise direct answers; 1× (first: 2025-08-31) [ref: conversation requesting agent automation info in Hindi]
-- asks for step-by-step instructions when implementing tools; 1× (first: 2025-08-31) [ref: request "tep by step" using n8n]
+### Emerging (new signals, 1-2 reinforcements)
+- prefers Hindi/Hinglish casual language; 1× (first: 2025-08-31) [ref: chat messages using Hindi phrases]
+- asks for step-by-step instructions; 1× (first: 2025-08-31) [ref: request for n8n setup guide]
 
 ## Knowledge & Context
-### Durable
-- 
+### Durable (core expertise, established over time)
 
-### Emerging
-- exploring automation platforms (n8n, agent automation) for free solutions; 1× (started: 2025-08-31) [ref: questions about best free agent automation and n8n usage]
+### Emerging (recent learning, current focus)
+- learning about automation platforms (n8n, AI agents); 1× (started: 2025-08-31) [ref: questions about best automation agent and n8n usage]
 
 ## Thinking & Working Style
-### Durable
-- 
+### Durable (core thinking patterns)
 
-### Emerging
-- prioritizes free, powerful solutions over paid options; 1× (observed: 2025-08-31) [ref: request for "free ho tagda ho most popular agent automation"]
+### Emerging (recent behavioral shifts)
+- prioritizes free and powerful solutions; 1× (observed: 2025-08-31) [ref: preference for "most popular agent automation" that is free]
+- seeks clear actionable steps before proceeding; 1× (observed: 2025-08-31) [ref: asked "tep by step" guide]
 
 ## Platform Usage & Queries
-### Durable
-- 
+### Durable (regular platform activities)
 
-### Emerging
-- frequent queries about automation agents and integration tools; 1× (since 2025-08-31) [ref: discussion on n8n and LinkedIn automation]
+### Emerging (new query patterns)
+- exploring automation/AI agent tools and integrations; 1× (since 2025-08-31) [ref: multiple queries about automation agents and LinkedIn automation]
