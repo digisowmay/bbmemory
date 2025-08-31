@@ -1,28 +1,27 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- (no durable patterns identified yet)
+- none yet
 
 ### Emerging (new signals, 1-2 reinforcements)
-- Provides very brief confirmation replies (e.g., "yes"), expects assistant to guide next steps; 2× (last: 2025-08-31) [refs: responses "yes ." and "yes"]
+- replies with very brief confirmations like "yes", requires guided prompts for specifics; 2× (last: 2025-08-31) [refs: chat responses "yes" after requests for details]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
-- (no durable knowledge traits identified yet)
+- none yet
 
-### Emerging (recent learning, current focus)  
-- Currently job seeking; roles of interest: Data Entry, Back Office, Computer Operator, Billing Executive, Accounts; 1× (started: 2025-08-31) [ref: LinkedIn/Email HR Connect template provided]
-- Shared personal contact details for outreach: email vk836465@gmail.com, phone 9315136157; 1× (first: 2025-08-31) [ref: provided contact information]
+### Emerging (recent learning, current focus)
+- provided contact details (email vk836465@gmail.com, phone 9315136157) for job outreach materials; 1× (first: 2025-08-31) [ref: shared contact info for HR template]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
-- (no durable thinking patterns identified yet)
+- none yet
 
 ### Emerging (recent behavioral shifts)
-- (none at this time)
+- needs step-by-step guidance to clarify objectives; 1× (first: 2025-08-31) [ref: required multiple prompts to choose action]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
-- (no durable usage patterns identified yet)
+- none yet
 
 ### Emerging (new query patterns)
-- Using assistant to draft and send HR outreach via LinkedIn and Gmail; 1× (started: 2025-08-31) [ref: request for LinkedIn/Gmail outreach assistance]
+- seeking assistance in job outreach via LinkedIn and email; 1× (since 2025-08-31) [ref: requested help sending HR outreach messages]
