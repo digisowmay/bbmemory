@@ -1,23 +1,27 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
+- 
 
 ### Emerging (new signals, 1-2 reinforcements)
-- gives concise, directive instructions for visual edits; 2× (last: 2025-08-31) [refs: beard addition request; moustache trim request]
+- concise, direct instructions for iterative image edits; 3× (last: 2025-08-31) [refs: image editing requests to add short beard; 80s mustache; trim mustache]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
+-
 
 ### Emerging (recent learning, current focus)
-- working with realistic 3D open-source character images and facial hair styling; 2× (since 2025-08-31) [refs: beard addition request; 80s moustache request]
+- modifying a realistic 3D open-source character; 1× (started: 2025-08-31) [ref: request to apply various facial hair styles]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
+-
 
 ### Emerging (recent behavioral shifts)
-- iterative refinement approach, requests quick adjustments after initial results; 2× (since 2025-08-31) [refs: initial moustache addition then trim adjustment]
+- prefers incremental refinements based on visual feedback; 2× (since 2025-08-31) [refs: request to trim mustache after seeing result; add goatee subsequently]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
+-
 
 ### Emerging (new query patterns)
-- uses platform for image editing tasks (facial hair modifications); 3× (since 2025-08-31) [refs: beard addition; moustache addition; moustache trim]
+- uses platform for image manipulation, especially facial hair modifications; 3× (since 2025-08-31) [refs: beard addition; mustache styling; goatee addition]
