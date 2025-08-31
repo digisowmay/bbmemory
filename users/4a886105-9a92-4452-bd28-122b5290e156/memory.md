@@ -1,10 +1,10 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
 - prefers concise (<50 words) whatsapp-style informal tone, all lowercase, no emojis; 6× (stable since 2025-08-15) [refs: btc price request msgId:`btcPrice20250831`; writing tone instructions msgId:`toneGuidelines20250730`; response feedback msgId:`feedback20250801`; btc price second request msgId:`btcPrice20250831_2`; description request convId:`descRequest20250831`; eth price request chatId:`4271ff6186b041`]
-- expects plain numeric count when asking bhindi mongodb user count; 2× (since 2025-08-20) [refs: user count inquiry msgId:`userCount20250820`; follow-up count reply msgId:`userCount20250825`]
+- expects plain numeric metrics for dashboards and user counts; 3× [refs: user count inquiry msgId:`userCount20250820`; follow-up count reply msgId:`userCount20250825`; dashboard preference chatId:`f3d71be0e2af46`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- prefers raw JSON output for system/agent info requests; 4× (last: 2025-09-01) [refs: request for bhindi-recall agent info convId:`bhindiInfo20250831`; creation of bhindi-user-memory agent request convId:`agentCreate20250831`; description request convId:`descRequest20250831`; confirmation of preference convoId:`jsonPref20250901`]
+- prefers raw JSON output for system/agent info requests; 5× (last: 2025-09-01) [refs: request for bhindi-recall agent info convId:`bhindiInfo20250831`; creation of bhindi-user-memory agent request convId:`agentCreate20250831`; description request convId:`descRequest20250831`; confirmation of preference convoId:`jsonPref20250901`; dashboard preference chatId:`f3d71be0e2af46`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
