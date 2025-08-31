@@ -1,23 +1,27 @@
 ## Communication Patterns
-### Durable (established, 3+ reinforcements)
+### Durable
 
-### Emerging (new signals, 1-2 reinforcements)
-- seeks concise, template-based wording help for professional outreach; 1× (first: 2025-08-31) [ref: chat about crafting LinkedIn message to HR connections]
+### Emerging
+- Uses Hinglish and informal language; prefers concise direct requests; 1× (first: 2025-08-31) [ref: "hmmm mujhe jaldi karke do ap sabke upar all msg sent just now"]
+- Values rapid turnaround; asks for quick completion; 1× (first: 2025-08-31) [ref: "mujhe jaldi karke do"]
 
 ## Knowledge & Context
-### Durable (core expertise, established over time)
+### Durable
 
-### Emerging (recent learning, current focus)
-- currently exploring job opportunities in MNCs; 1× (started: 2025-08-31) [ref: request for guidance on openings and referrals]
+### Emerging
+- Actively seeking job opportunities in MNCs through LinkedIn; 1× (first: 2025-08-31) [ref: request to craft LinkedIn post for job search]
+- Wants personalized messages to targeted LinkedIn connections; 1× (first: 2025-08-31) [ref: conversation about targeted messages]
 
 ## Thinking & Working Style
-### Durable (core thinking patterns)
+### Durable
 
-### Emerging (recent behavioral shifts)
-- proactive networking approach, leveraging LinkedIn connections for job search; 1× (observed: 2025-08-31) [ref: list of LinkedIn contacts and outreach plan]
+### Emerging
+- Shows urgency and impatience; prioritizes speed over process; 1× (observed: 2025-08-31) [ref: "jaldi karke do"]
+- Direct action-oriented; requests bulk actions; 1× (first: 2025-08-31) [ref: ask to send all messages at once]
 
 ## Platform Usage & Queries
-### Durable (regular platform activities)
+### Durable
 
-### Emerging (new query patterns)
-- using assistant for LinkedIn networking strategies and message drafting; 1× (since 2025-08-31) [ref: request to improve LinkedIn outreach message]
+### Emerging
+- Relies on LinkedIn for networking and job search; 1× (since 2025-08-31) [ref: list of LinkedIn connections provided]
+- Requests assistance with LinkedIn posts and direct messages; 1× (first: 2025-08-31) [ref: ask for LinkedIn post and messages]
