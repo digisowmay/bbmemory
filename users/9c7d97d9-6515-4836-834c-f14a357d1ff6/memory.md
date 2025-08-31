@@ -2,24 +2,23 @@
 ### Durable (established, 3+ reinforcements)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- asks direct, outcome-focused questions; seeks confirmation quickly; 2× (last: 2025-08-31) [refs: asked if scheduled posts will run; asked if tweet will work]
-- uses concise single-word commands for acknowledgement (e.g., "CONFIRM"); 1× (first: 2025-08-31) [ref: typed "CONFIRM" after tweet sent]
+- asks for confirmation to ensure tasks executed correctly; 1× (first: 2025-08-31) [ref: "CONFIRM" message about posted tweet]
+- short, direct requests; uses concise wording; 1× (observed: 2025-08-31) [ref: messages like "great thanks."]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
 
 ### Emerging (recent learning, current focus)
-- manages a finance-focused Twitter account with daily content; 1× (since 2025-08-31) [ref: discussion about morning/evening finance tweet schedules]
+- finance-focused content creator; posts market updates, finance insights; 1× (started: 2025-08-31) [ref: scheduled finance tweets setup]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
 
 ### Emerging (recent behavioral shifts)
-- values automation to handle repetitive tasks; 2× (last: 2025-08-31) [refs: relies on Bhindi scheduler for daily tweets; requested manual tweet to test automation]
-- prefers manual validation before fully trusting automation; 1× (first: 2025-08-31) [ref: asked to post tweet immediately to see how it works]
+- prefers seeing immediate demonstrations before full trust; 1× (first: 2025-08-31) [ref: requested live tweet to see how it works]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
 
 ### Emerging (new query patterns)
-- uses Bhindi scheduler for social media posting and engagement tasks; 2× (since 2025-08-31) [refs: setup of four Twitter schedules; manual tweet via Bhindi tools]
+- uses Bhindi to schedule and automate Twitter posts; 1× (since 2025-08-31) [ref: question about scheduled posts and tweet test]
