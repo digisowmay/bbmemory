@@ -1,29 +1,27 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- prefers detailed expert video analyses before making decisions (e.g., tech purchases); 3× [refs: smartphone review request; reliance on MKBHD; Mrwhosetheboss videos]
+- prefers comprehensive, research-backed answers; asks for evidence and detailed breakdowns; 4× [refs: smartphone purchase advice chats; current request for fashion trend research]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- requests curated learning resources with synthesized takeaways (video analysis + summaries); 1× (first: 2025-08-31) [ref: request for ML video insights]
-- asks for audio format summaries for multitasking during commute; 1× (first: 2025-08-31) [ref: request to create audio summaries]
+- enjoys multimodal deliverables (image, audio, analysis in one package); 2× (last: 2025-08-31) [refs: request for futuristic fashion showcase; follow-up asking for automated image analysis]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
-- tech-savvy consumer who researches extensively before purchases; 3× [refs: smartphone analysis conversation; YouTube review reliance]
+- relies on expert YouTube reviews (MKBHD, Mrwhosetheboss) before tech purchases; 5× [refs: prior discussions about smartphone buying process]
 
 ### Emerging (recent learning, current focus)
-- currently studying data science with focus on machine learning algorithms; 1× (started: 2025-08-31) [ref: stated "I'm studying data science"]
+- exploring futuristic fashion and wearable tech trends; 1× (started: 2025-08-31) [ref: current conversation about fashion showcase]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
-- evidence-based decision maker; prefers expert opinions and data before acting; 3× [refs: smartphone purchase research threads]
+- data-driven decision maker; seeks validation from multiple sources before committing; 4× [refs: smartphone buying research chats; fashion trend research request]
 
 ### Emerging (recent behavioral shifts)
-- favors concise, digestible content (audio summaries) for efficient learning; 1× (observed: 2025-08-31) [ref: audio summary request]
+- interested in immersive, sensory presentations for information; 1× (observed: 2025-08-31) [ref: request for audio narration alongside visuals]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
-- frequently leverages YouTube for in-depth reviews and explanations; 4× [refs: smartphone reviews; ML video search]
+- frequently requests in-depth product or trend analysis; 6× [refs: tech purchase consultations; fashion trend research]
 
 ### Emerging (new query patterns)
-- exploring machine learning educational content on YouTube; 1× (since 2025-08-31) [ref: ML algorithm video search]
-- requests transformation of video content into alternate formats (audio); 1× (since 2025-08-31) [ref: audio summary generation]
+- experimenting with AI-generated media (images, TTS, automated analysis); 2× (since 2025-08-31) [refs: current fashion showcase task; follow-up question about automated analysis]
