@@ -1,28 +1,28 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- 
+- iterative visual feedback loop; repeatedly asks for incremental tweaks to images (e.g., messier hair, thinner mustache); 6× [refs: sequence of image edit requests about Freddie Mercury style hair and mustache]
+- provides clear, specific style references (1970s/80s Freddie Mercury) for guidance; 5× [refs: multiple prompts specifying Freddie Mercury style hair and mustache]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- provides specific, detailed visual editing directives referencing Freddie Mercury look; 10× (last: 2025-08-31) [refs: multiple image edit requests in current session]
-- iterative feedback, requesting adjustments until style meets criteria; 5× (last: 2025-08-31) [refs: beard size change, hair volume adjustments]
+- prefers concise confirmations of edits without extra explanation; 2× (last: 2025-08-31) [refs: responses acknowledged as "Perfect!"]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
-- 
+- working on realistic 3D open-source character styling referencing Freddie Mercury; 4× [refs: repeated requests to modify "realistic 3d open sourced character" images]
 
-### Emerging (recent learning, current focus)  
-- project involves editing open-source 3D character to Freddie Mercury style; 1× (first: 2025-08-31) [ref: initial request to edit open sourced character]
+### Emerging (recent learning, current focus)
+- focusing on hair length/texture variations for retro rock aesthetic; 2× (since 2025-08-31) [refs: requests to adjust length/thickness on sides]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
-- 
+- incremental approach to design; prefers step-by-step refinement rather than one-off changes; 7× [refs: chain of requests adjusting mustache size, hair messiness]
 
 ### Emerging (recent behavioral shifts)
-- prefers incremental refinement; provides feedback on subtle visual tweaks; 4× (since 2025-08-31) [refs: mustache thickness adjustments, hair length changes]
+- attention to historical style accuracy (1970s vs 1980s distinctions); 2× (since 2025-08-31) [refs: distinguishes between 70s long hair and 80s mustache]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
-- frequently uses platform for image editing requests; 12× [refs: continuous image edit calls this session]
+- frequently uses image editing tool for stylistic adjustments; 8× [refs: continuous gemini-image_editImage calls]
 
 ### Emerging (new query patterns)
-- focused on Freddie Mercury style transformations; 8× (since 2025-08-31) [refs: repeated requests for Mercury hair/mustache]
+- none at this time
