@@ -1,30 +1,25 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- 
 
 ### Emerging (new signals, 1-2 reinforcements)
-- highly self-critical and candid about personal struggles; 1× (first: 2025-09-01) [ref: chat admission of addictions and procrastination]
-- brainstorms big ideas despite spelling/grammar errors; 1× (first: 2025-09-01) [ref: app concept messages]
+- candid and self-deprecating; open about personal struggles; 1× (first: 2025-09-01) [ref: conversation admitting addictions and lack of discipline]
+- wants AI to ask deep psychological questions for self-discovery; 1× (first: 2025-09-01) [ref: request for deeper questioning by AI]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
-- 
 
 ### Emerging (recent learning, current focus)
-- exploring creation of an AI-driven self-improvement app; 1× (started: 2025-09-01) [ref: discussion about holistic transformation app]
-- currently seeking methods to build focus and discipline; 1× (since 2025-09-01) [ref: stated need for focus & discipline]
+- currently unemployed with bachelor’s degree; seeking focus and discipline improvements; 1× (first: 2025-09-01) [ref: statement of sitting on couch four years]
+- interested in building an AI app for holistic self-improvement and psychological transformation; 1× (first: 2025-09-01) [ref: discussion about app concept]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
-- 
 
 ### Emerging (recent behavioral shifts)
-- prone to grand, ambitious concepts that may be unrealistic; 1× (observed: 2025-09-01) [ref: brain-hacking app blueprint]
-- acknowledges procrastination and wants structured support; 1× (observed: 2025-09-01) [ref: request for small tasks and reminders]
+- struggles with procrastination but exhibits visionary thinking about complex solutions; 1× (first: 2025-09-01) [ref: juxtaposition of self-described procrastination and detailed app ideas]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
-- 
 
 ### Emerging (new query patterns)
-- asking about AI capabilities and development possibilities; 1× (since 2025-09-01) [ref: inquiry about Bhindi abilities and app features]
+- asks for guidance on AI-driven self-improvement tools and app development; 1× (first: 2025-09-01) [ref: multiple questions on building AI system]
