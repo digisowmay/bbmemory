@@ -1,28 +1,24 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- 
 
 ### Emerging (new signals, 1-2 reinforcements)
-- Gives concise, imperative instructions for successive image edits; 2× (last: 2025-08-31) [refs: repeated "give him long dark messy hair" and "give him short hair" commands during image editing session]
-- Prefers quick iterative adjustments until desired look achieved; 2× (last: 2025-08-31) [refs: asked to trim mustache thickness then make hair messier]
+- gives direct, concise edit instructions for images; 2× (last: 2025-08-31) [refs: repeated commands like “give him long dark messy hair”]
+- prefers iterative refinements, asking for incremental tweaks; 2× (last: 2025-08-31) [refs: requests to trim mustache, make hair messier]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
-- 
 
 ### Emerging (recent learning, current focus)  
-- Currently working on styling a 3D character with Freddie Mercury-inspired hair and facial hair; 1× (since 2025-08-31) [ref: multiple requests to add 80s mustache and 70s hairstyle to character images]
+- working on images needing Freddie-Mercury-style facial hair & hair edits; 2× (since 2025-08-31) [refs: multiple requests for 80s mustache, 70s hair]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
-- 
 
 ### Emerging (recent behavioral shifts)
-- Uses incremental refinement approach, requesting small changes to reach exact visual outcome; 1× (observed: 2025-08-31) [ref: step-by-step modifications of hair and mustache]
+- uses trial-and-error approach, requesting successive modifications until satisfied; 2× (since 2025-08-31) [refs: series of hair/mustache adjustment requests]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
-- 
 
 ### Emerging (new query patterns)
-- Frequently requests AI-powered image editing, especially facial hair and hairstyle modifications; 4× (since 2025-08-31) [refs: successive image edit requests for mustache, goatee, hair length, fringe changes]
+- frequently requests realistic photo manipulations (facial hair, hairstyles); 3× (since 2025-08-31) [refs: adding beard, mustache, hair transformations across images]
