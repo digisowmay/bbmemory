@@ -8,7 +8,7 @@
 ### Durable (core expertise, established over time)
 
 ### Emerging (recent learning, current focus)
-- focused on operational and hiring tasks for the current week; 1× (started: 2025-08-31) [ref: stated work focus in request about Sowmay priorities]
+- focused on operational and hiring tasks for the current week; 1× (started: 2025-08-31) [ref: stated work focus]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
@@ -21,4 +21,4 @@
 
 ### Emerging (new query patterns)
 - uses platform to coordinate team priorities and workflows; 3× (since 2025-08-31) [refs: request to send message to Sowmay via platform; coordination reply chatId:`420b3ce5a2f44e`; reminder setup chatId:`420b3ce5a2f44e`]
-- sets date-based reminders to ensure task follow-ups; 3× (since 2025-09-01) [refs: reminder request chatId:`420b3ce5a2f44e`; slack follow-up reminder creation chatId:`cefde3aa84d94d`; reminder time change chatId:`cefde3aa84d94d`]
+- sets date-based reminders to ensure task follow-ups; 4× (since 2025-09-01) [refs: reminder request chatId:`420b3ce5a2f44e`; slack follow-up reminder creation chatId:`cefde3aa84d94d`; reminder time change chatId:`cefde3aa84d94d`; reminder clarification chatId:`cefde3aa84d94d`]
