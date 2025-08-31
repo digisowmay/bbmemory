@@ -1,23 +1,27 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
+- 
 
 ### Emerging (new signals, 1-2 reinforcements)
-- uses casual slang like "broooo lmao" when amused; 1× (first: 2025-08-31) [ref: chat message reacting to locked-in photo]
+- uses casual, playful remarks like “so cute” and “broooo lmao”; 2× (last: 2025-08-31) [refs: “so cute” response to Barbie with cat; “broooo lmao” reaction to locked-in edit]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
+-
 
 ### Emerging (recent learning, current focus)
-- enjoys playful pop-culture imagery (e.g., Barbie themes and cute cats); 2× (since 2025-08-31) [refs: request for Barbie image; request for Barbie holding a cat]
+- interested in AI-generated images of Barbie and other creative photo edits; 3× (since 2025-08-31) [refs: Barbie image request; Barbie with cat; locked-in transformation]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
+-
 
 ### Emerging (recent behavioral shifts)
-- likes humorous, lighthearted results; 1× (first: 2025-08-31) [ref: laughter response to locked-in transformation]
+- playful experimentation with creative prompts, quickly requests fun variations; 2× (since 2025-08-31) [refs: locked-in picture request; blonde Asian girl portrait request]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
+-
 
 ### Emerging (new query patterns)
-- experimenting with AI image generation and editing for personal and pop-culture photos; 3× (since 2025-08-31) [refs: Barbie image requests; Barbie with cat; locked-in self-edit]
+- frequently requests AI image generation using “Nano Banana” model; 4× (since 2025-08-31) [refs: Barbie image; Barbie with cat; locked-in edit; Asian girl with blonde hair]
