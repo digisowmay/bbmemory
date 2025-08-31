@@ -1,27 +1,27 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- prefers concise, straightforward language without emojis; 4× [refs: instruction to avoid BS and emojis; request for simple language]
+- 
 
 ### Emerging (new signals, 1-2 reinforcements)
-- likes bullet points and arrows for structure; 2× (last: 2025-08-31) [refs: content guidelines message]
+- prefers straightforward language with no emojis; allows bullet points and arrows; 1× (first: 2025-08-31) [ref: request for content style "no BS , straightforward and simple language, no emojis"]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
-- engages in crypto-centric content creation; 3× [refs: requests for Injective/Base threads; analysis of tweets]
+- 
 
 ### Emerging (recent learning, current focus)
-- current task: develop ETF liquidity content for Injective; 1× (started: 2025-08-31) [ref: “ETF Liquidity Effect” request]
+- focused on crypto DeFi topics, specifically content for Injective/Base and ETF impacts; 1× (started: 2025-08-31) [ref: request to create threads about Injective ETF liquidity]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
-- research-driven: demands data accuracy before output; 3× [refs: request to analyze accounts first; “everything should be accurate”]
+- 
 
 ### Emerging (recent behavioral shifts)
-- phased approach: wants analysis step before creation; 1× (observed: 2025-08-31) [ref: instruction to learn first, then create]
+- gives direct feedback and asks for "peak" improved versions, indicating iterative improvement preference; 1× (observed: 2025-08-31) [ref: feedback "it's not peak make it peak"]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
-- repeatedly requests social media content threads on crypto; 3× [refs: multiple thread requests]
+- 
 
 ### Emerging (new query patterns)
-- exploring ETF impact narratives for marketing; 1× (since 2025-08-31) [ref: “ETF Liquidity Effect” post request]
+- requests social media content threads and long posts for crypto Twitter; 1× (since 2025-08-31) [ref: initial request for content creation threads for @injective and @base]
