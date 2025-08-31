@@ -2,22 +2,23 @@
 ### Durable (established, 3+ reinforcements)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- direct, concise questions; 2× (last: 2025-08-31) [refs: request for Sensex dates; one-word confirmation "Yes"]
+- asks for concrete technical solutions (app creation) in a single concise prompt; 1× (first: 2025-08-31) [ref: conversation request to create iPhone family calendar app]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
 
 ### Emerging (recent learning, current focus)
-- interested in Indian stock indices and SME stock fundamentals; 1× (started: 2025-08-31) [refs: queries about Sensex patterns and SME stocks]
+- parent of school-going kids needing better event tracking; 1× (first: 2025-08-31) [ref: stated difficulty keeping tabs on birthdays and school events]
+- uses iPhone ecosystem; 1× (first: 2025-08-31) [ref: requested app specifically for iPhone]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
 
 ### Emerging (recent behavioral shifts)
-- data-driven approach; asks for specific metrics like ROE, P/E, volume; 1× (observed: 2025-08-31) [ref: SME stock screening request]
+- direct, outcome-focused requester; 1× (first: 2025-08-31) [ref: short prompt defining required features]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
 
 ### Emerging (new query patterns)
-- financial market analysis requests; 1× (since 2025-08-31) [ref: Sensex and SME stocks analysis requests]
+- seeks custom app development solutions with multi-user and reminder features; 1× (first: 2025-08-31) [ref: calendar app creation request]
