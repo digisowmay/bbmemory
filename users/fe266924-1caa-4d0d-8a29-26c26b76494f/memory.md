@@ -1,28 +1,31 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- none yet
+- 
 
 ### Emerging (new signals, 1-2 reinforcements)
-- provides iterative, specific visual-edit feedback for image posters; 2× (last: 2025-08-31) [refs: dinosaur poster refinement requests; face-breaking poster layout tweaks]
-- routinely asks for explicit download links after edits; 2× (last: 2025-08-31) [refs: requests download links for Karate Barn and Face Breakers posters]
+- Iterative design refinement; gives specific change requests and checks results; 2× (last: 2025-08-31) [refs: poster plant coverage adjustment; rearranged layout request]
+- Requests direct download links for final images; 2× (last: 2025-08-31) [refs: download link for dinosaur poster; download link for Face Breakers poster]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
-- none yet
+- 
 
-### Emerging (recent learning, current focus)  
-- creating fun movie-style posters from personal photos of children/friends; 2× (since 2025-08-31) [refs: karate barn poster creation; reality-breaking faces poster]
+### Emerging (recent learning, current focus)
+- Creating custom movie posters featuring personal photos of children; 2× (since 2025-08-31) [refs: Karate Barn poster; Battle for Uppsala poster]
+- Uses Swedish locales/themes such as Uppsala in creative projects; 1× (first: 2025-08-31) [ref: destroyed Uppsala battle poster]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
-- none yet
+- 
 
 ### Emerging (recent behavioral shifts)
-- prefers iterative refinement until satisfied, focusing on visual details (names, layout, coverings); 2× (since 2025-08-31) [refs: multiple rounds of adjustments on dinosaur poster; layout changes on face poster]
+- Detail-oriented, requests incremental improvements until satisfied; 2× (since 2025-08-31) [refs: plant height adjustment; bottom section inversion fix]
+- Prefers clear, actionable responses to implement changes quickly; 1× (first: 2025-08-31) [ref: instruction to replace Leo with Oliver]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
-- none yet
+- 
 
 ### Emerging (new query patterns)
-- frequently uses image editing tool to transform and stylize uploaded photos; 3× (since 2025-08-31) [refs: karate barn, raptor riders, face breakers image edits]
+- Frequent image editing and poster generation requests; 3× (since 2025-08-31) [refs: Karate Barn, Raptor Riders, Face Breakers posters]
+- Concerned with image file size and upload limits; 1× (first: 2025-08-31) [ref: 4 MB image size discussion]
