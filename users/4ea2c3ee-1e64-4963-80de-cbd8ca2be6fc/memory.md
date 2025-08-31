@@ -1,24 +1,27 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
+- (none yet)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- uses Hinglish (Hindi-English mix) in requests; 1× (first: 2025-08-31) [ref: request message "Students ko future career aur placements me guidance chahiye"]
-- prefers turnkey, end-to-end execution (build, host, deploy) without needing intermediate steps; 1× (first: 2025-08-31) [ref: asked for complete app creation, hosting, and store publishing]
+- prefers responses in Hinglish (mix of Hindi & English); 1× (first: 2025-08-31) [ref: requested "hinglish mai batao?"]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
+- (none yet)
 
 ### Emerging (recent learning, current focus)
-- working on a Career Guidance & Resume Builder application with AI features for web and mobile; 1× (started: 2025-08-31) [ref: request to create career guidance & resume builder app]
+- seeking help optimizing LinkedIn profile/resume; 1× (started: 2025-08-31) [ref: asked to fix LinkedIn settings and resume]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
+- (none yet)
 
 ### Emerging (recent behavioral shifts)
-- favors automated, comprehensive solutions and delegating technical tasks; 1× (first: 2025-08-31) [ref: asked for full tech stack build, hosting, and deployment]
+- (none yet)
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
+- (none yet)
 
 ### Emerging (new query patterns)
-- requesting full-stack application generation, deployment, and mobile packaging; 1× (first: 2025-08-31) [ref: requested app build, host, and store submission]
+- using platform to improve professional presence on LinkedIn; 1× (since 2025-08-31) [ref: LinkedIn optimization request]
