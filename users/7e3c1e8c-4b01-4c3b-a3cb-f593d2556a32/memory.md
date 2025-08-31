@@ -22,7 +22,7 @@
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
-- frequently issues direct operational commands (GitHub, backroom echo) expecting immediate execution; 6× [refs: echo send commands; earlier GitHub commands]
+- frequently issues direct operational commands (GitHub, backroom echo) expecting immediate execution; 7× [refs: echo send commands; earlier GitHub commands; PR creation command chatId:`5f76ce15051447`]
 
 ### Emerging (new query patterns)
 - actively manages assistant memory and operational workflow, including scheduling reminders; 4× (last: 2025-09-01) [refs: memory update instruction chatId:`20ecd26342b542`; reminder setup chatId:`73a0bbe55a164b`]
