@@ -3,25 +3,26 @@
 - 
 
 ### Emerging (new signals, 1-2 reinforcements)
-- gives concise, direct instructions for creative image edits; 2× (last: 2025-08-31) [refs: multiple requests to transform photos into movie posters, biblical settings]
+- provides very specific creative prompts for image edits, often describing desired artistic styles (movie poster, Renaissance painting); 2× (last: 2025-08-31) [refs: requests for Joker poster; Leonardo Last Supper style birthday]
+- prefers iterative refinement, asking for successive adjustments (remove person, change setting, add title); 2× (last: 2025-08-31) [refs: series of edits on Belgian birthday poster]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
 - 
 
 ### Emerging (recent learning, current focus)
-- working with personal/family photos, wants them stylized for storytelling; 1× (first: 2025-08-31) [ref: supplied family birthday photo for Last Supper adaptation]
+- interested in combining modern family photos with historical art styles and themes; 1× (first: 2025-08-31) [ref: requests for Last Supper style transformations]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
 - 
 
 ### Emerging (recent behavioral shifts)
-- iterative refinement approach, requests successive adjustments to achieve desired creative vision; 2× (since 2025-08-31) [refs: progressive edits – Joker, nuclear device, FIFA victory, Last Supper poster]
+- iterative creative exploration, evaluating visual concepts step-by-step; 1× (observed: 2025-08-31) [ref: multiple modification requests on same images]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
 - 
 
 ### Emerging (new query patterns)
-- frequently requests advanced image transformations, especially cinematic/movie poster style; 3× (since 2025-08-31) [refs: Joker movie poster, FIFA World Cup poster, Last Supper movie poster]
+- frequent image editing and generation requests focused on cinematic or artistic posters; 2× (since 2025-08-31) [refs: Joker, FIFA World Cup, Belgian Birthday posters]
