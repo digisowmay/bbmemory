@@ -2,22 +2,22 @@
 ### Durable (established, 3+ reinforcements)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- gives concise, specific modification instructions for iterative visual edits; 1× (first: 2025-08-31) [ref: requested multiple outfit and lighting changes]
+- requests iterative, step-by-step visual refinements; 1× (first: 2025-08-31) [ref: series of image edit requests adjusting outfit, lighting, beard]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
 
 ### Emerging (recent learning, current focus)
-- interested in vintage mid-century American golf aesthetics; 1× (started: 2025-08-31) [ref: asked for 1950s-60s style edits]
+- shows interest in vintage/retro golf aesthetics and styling; 1× (first: 2025-08-31) [ref: asked for 50s-60s American golf style, golden hour, elegant attire]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
 
 ### Emerging (recent behavioral shifts)
-- prefers iterative refinement approach; step-by-step adjustments; 1× (observed: 2025-08-31) [ref: successive image change requests]
+- follows an incremental improvement approach, refining details progressively; 1× (first: 2025-08-31) [ref: sequential requests modifying image details]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
 
 ### Emerging (new query patterns)
-- explores image editing and generation; iterative visual tweaks; 1× (since 2025-08-31) [ref: requested multiple image edits]
+- uses image editing features for detailed visual adjustments; 1× (first: 2025-08-31) [ref: multiple gemini-image_editImage calls for photo transformations]
