@@ -1,24 +1,29 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
+- 
 
 ### Emerging (new signals, 1-2 reinforcements)
-- asks for detailed itineraries and structured plans when traveling; 1× (first: 2025-08-31) [ref: chat request for 10-day Sikkim bike trip itinerary]
+- requests detailed step-by-step itineraries; 1× (first: 2025-08-31) [ref: asked for detailed bike trip plan]
+- gives concise instructions and expects quick tweaks; 1× (first: 2025-08-31) [ref: requested 500km/day tweak]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
-- hails from Dhanbad, Jharkhand; 1× [ref: stated origin in chat about Sikkim bike trip]
+- 
 
 ### Emerging (recent learning, current focus)
-- planning a 10-day bike trip to Sikkim; 1× (started: 2025-08-31) [ref: same chat request]
+- from Dhanbad, planning 10-day bike trip to Sikkim; 1× (first: 2025-08-31) [ref: initial itinerary request]
+- can comfortably cover 500 km/day on bike; 1× (first: 2025-08-31) [ref: capability statement]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
+- 
 
 ### Emerging (recent behavioral shifts)
-- prefers comprehensive, step-by-step guidance before undertaking tasks; 1× (observed: 2025-08-31) [ref: asked for detailed itinerary with checks and permits]
+- goal-oriented, quickly adjusts plans based on new parameters; 1× (first: 2025-08-31) [ref: requested itinerary tweak]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
+- 
 
 ### Emerging (new query patterns)
-- uses platform to obtain travel itineraries, hidden gems, and packing lists; 1× (since 2025-08-31) [ref: Sikkim bike trip itinerary request]
+- uses platform for detailed travel itinerary planning, especially bike trips; 1× (first: 2025-08-31) [ref: itinerary requests]
