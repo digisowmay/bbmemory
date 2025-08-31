@@ -2,8 +2,8 @@
 ### Durable (established, 3+ reinforcements)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- prefers highly structured, markdown-formatted, data-rich documents and precise numerical breakdowns; 6× (last: 2025-09-01) [refs: salary justification discussion chatId:`0d83e511cae646`; paid campaign defense query chatId:`0d83e511cae646`; metrics calculation chatId:`0d83e511cae646`]
-- requests direct professional assistance on specific career tasks (salary justification, ROI analysis, metric calculations); 6× (last: 2025-09-01) [refs: salary justification help chatId:`0d83e511cae646`; proportional investment calculation chatId:`0d83e511cae646`; realistic metrics recalculation chatId:`0d83e511cae646`]
+- prefers highly structured, markdown-formatted, data-rich documents and precise numerical breakdowns; 7× (last: 2025-09-01) [refs: salary justification discussion chatId:`0d83e511cae646`; paid campaign defense query chatId:`0d83e511cae646`; metrics recalculation chatId:`0d83e511cae646`]
+- requests direct professional assistance on specific career tasks (salary justification, ROI analysis, metric calculations); 7× (last: 2025-09-01) [refs: salary justification help chatId:`0d83e511cae646`; proportional investment calculation chatId:`0d83e511cae646`; realistic metric recalculation chatId:`0d83e511cae646`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -16,8 +16,8 @@
 ### Durable (core thinking patterns)
 
 ### Emerging (recent behavioral shifts)
-- data-driven and ROI-focused; supports arguments with metrics and benchmarks; 6× (last: 2025-09-01) [refs: salary justification presentation chatId:`0d83e511cae646`; paid vs organic campaign analysis chatId:`0d83e511cae646`; conservative recalculation chatId:`0d83e511cae646`]
-- prefers conservative, realistic estimates over inflated numbers; 1× (first: 2025-09-01) [ref: requested realistic financial impact recalculation chatId:`0d83e511cae646`]
+- data-driven and ROI-focused; supports arguments with metrics and benchmarks; 7× (last: 2025-09-01) [refs: salary justification presentation chatId:`0d83e511cae646`; conservative recalculation chatId:`0d83e511cae646`; direct wallet value update chatId:`0d83e511cae646`]
+- prefers conservative, realistic estimates over inflated numbers; 2× (last: 2025-09-01) [refs: requested realistic financial impact recalculation chatId:`0d83e511cae646`; flagged inflated numbers chatId:`0d83e511cae646`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
