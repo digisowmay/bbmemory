@@ -2,7 +2,8 @@
 ### Durable (established, 3+ reinforcements)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- gives concise imperative instructions, expects structured bullet-list outputs; 1× (first: 2025-08-31) [ref: logo extraction request chatId:`260633fe60554a`]
+- gives concise imperative instructions, expects structured bullet-list outputs; 2× (last: 2025-08-31) [ref: logo extraction & tweet request chatId:`260633fe60554a`]
+- prefers explanations that translate complex crypto topics into simple terms for normies; 1× (first: 2025-08-31) [ref: SOON tweet request chatId:`260633fe60554a`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
