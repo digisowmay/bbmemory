@@ -4,7 +4,7 @@
 - expects plain numeric count when asking bhindi mongodb user count; 2× (since 2025-08-20) [refs: user count inquiry msgId:`userCount20250820`; follow-up count reply msgId:`userCount20250825`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- prefers raw JSON output for system/agent info requests; 3× (last: 2025-08-31) [refs: request for bhindi-recall agent info convId:`bhindiInfo20250831`; creation of bhindi-user-memory agent request convId:`agentCreate20250831`; description request convId:`descRequest20250831`]
+- prefers raw JSON output for system/agent info requests; 4× (last: 2025-09-01) [refs: request for bhindi-recall agent info convId:`bhindiInfo20250831`; creation of bhindi-user-memory agent request convId:`agentCreate20250831`; description request convId:`descRequest20250831`; confirmation of preference convoId:`jsonPref20250901`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -14,7 +14,7 @@
 - (none yet)
 
 ## Thinking & Working Style
-### Durable (core thinking patterns)
+### Durable (core patterns)
 - (none yet)
 
 ### Emerging (recent behavioral shifts)
@@ -25,4 +25,4 @@
 - (none yet)
 
 ### Emerging (new query patterns)
-- requests AI-generated images; cute to aggressive; 2× (since 2025-09-01) [refs: cute kitten image request; fierce lion image request]
+- (none yet)
