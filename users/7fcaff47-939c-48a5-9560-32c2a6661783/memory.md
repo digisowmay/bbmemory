@@ -3,33 +3,29 @@
 - uses platform to create and schedule social media content & reply bots; 3× [refs: twitter automation setup chatId:`260633fe60554a`; reply engagement system chatId:`260633fe60554a`; gmail/telegram notification chatId:`260633fe60554a`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- prefers no confirmation prompts after final approval ("YOLO mode"); 2× (last: 2025-08-31) [ref: repeated YOLO instruction chatId:`260633fe60554a`]
-- provides detailed step-by-step directives and iteratively refines requirements; 3× (last: 2025-08-31) [ref: stipulations updates chatId:`260633fe60554a`]
-- prefers content without numbered list formatting in tweets; 1× (first: 2025-08-31) [ref: instruction to remove numbers chatId:`260633fe60554a`]
-- insists on using exact company Twitter profile logos instead of generated images; 1× (first: 2025-08-31) [ref: logo preference chatId:`260633fe60554a`]
+- prefers YOLO mode with no confirmation prompts and provides detailed step-by-step directives; 3× (last: 2025-08-31) [refs: repeated YOLO instruction; directive updates chatId:`260633fe60554a`]
+- requests content formatting without numbered lists and strict adherence to unique, non-repetitive content; 2× (last: 2025-08-31) [refs: instruction to remove numbers; uniqueness requirement chatId:`260633fe60554a`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
-- 
+-  
 
 ### Emerging (recent learning, current focus)
-- building robust Twitter crypto education automation for 96 companies with unique content, handle tagging, and image rules; 1× (started: 2025-08-31) [ref: automation description chatId:`260633fe60554a`]
-- requires GPT/FluxDev logo-only image generation for each thread; 2× (since 2025-08-31) [refs: switch to FluxDev image generation; request to use GPT image generation chatId:`260633fe60554a`]
-- switched preference to GPT4o and direct pfp logo usage over FluxDev generation; 1× (first: 2025-08-31) [ref: GPT4o preference chatId:`260633fe60554a`]
+- building robust Twitter crypto education automation for 96 companies with unique content, handle tagging, schedule control; 2× (since 2025-08-31) [ref: automation description chatId:`260633fe60554a`]
+- requires use of each company's exact Twitter PFP logo (no generated images) attached to first tweet; 1× (first: 2025-08-31) [ref: pfp logo instruction chatId:`260633fe60554a`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
-- 
+-  
 
 ### Emerging (recent behavioral shifts)
-- automation-centric and rapid deployment mindset (adjusts schedules, sets precise launch times); 2× (last: 2025-08-31) [ref: schedule correction to 7:25 chatId:`260633fe60554a`]
-- prioritizes uniqueness/differentiation, forbids repeated content across outputs; 2× (last: 2025-08-31) [ref: instruction to avoid repeated content chatId:`260633fe60554a`]
-- values authenticity over generated visuals (prefers exact logos); 1× (observed: 2025-08-31) [ref: logo authenticity discussion chatId:`260633fe60554a`]
+- automation-centric, rapid deployment mindset with precise scheduling (e.g., 7:25 EST launch); 3× (last: 2025-08-31) [refs: schedule corrections chatId:`260633fe60554a`]
+- prioritizes uniqueness/differentiation and authenticity in content; 3× (last: 2025-08-31) [ref: forbid repeated content; use exact logos chatId:`260633fe60554a`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
-- 
+-  
 
 ### Emerging (new query patterns)
-- switched to FluxDev/GPT image generation for brand visuals; 2× (since 2025-08-31) [refs: adoption of FluxDev image generation; request use GPT image generation chatId:`260633fe60554a`]
-- now specifying GPT4o and direct logo extraction rather than image generation; 1× (first: 2025-08-31) [ref: GPT4o preference chatId:`260633fe60554a`]
+- uses Google Sheets + Gmail/Telegram for automation tracking and notifications; 2× (since 2025-08-31) [refs: sheet creation and email notifications chatId:`260633fe60554a`]
+- prefers GPT4o image handling but ultimately using exact Twitter profile picture logos (no FluxDev generation); 2× (last: 2025-08-31) [refs: switch to GPT4o; instruction to use exact logos chatId:`260633fe60554a`]
