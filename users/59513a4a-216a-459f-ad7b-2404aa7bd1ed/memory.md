@@ -3,25 +3,25 @@
 - 
 
 ### Emerging (new signals, 1-2 reinforcements)
-- prefers concise, bullet-style summaries for job lists; 1× (last: 2025-08-31) [ref: request for Bangalore-specific jobs]
+- gives concise, direct requests; 1× (first: 2025-08-31) [ref: chat request about LinkedIn content pipeline]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
-- runs a hiring agency focused on creative, marketing, tech, brand & design roles; 1× [ref: initial message describing agency]
+- 
 
-### Emerging (recent learning, current focus)
-- actively sourcing latest LinkedIn/job listings (1-14 days old) to pitch to clients; 1× (since 2025-08-31) [ref: requests for latest jobs]
+### Emerging (recent learning, current focus)  
+- building LinkedIn content pipeline focusing on AI, Hiring, trendy topics; 1× (started: 2025-08-31) [ref: chat request about LinkedIn content pipeline]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
-- goal-oriented, requests specific actionable data to use in business; 1× [ref: multiple follow-up location-based job requests]
+- 
 
 ### Emerging (recent behavioral shifts)
-- n/a
+- seeks structured processes to achieve goals (e.g., pipeline setup); 1× (first: 2025-08-31) [ref: chat request about LinkedIn content pipeline]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
--
+- 
 
 ### Emerging (new query patterns)
-- frequently requests curated job listings by role/location; 2× (since 2025-08-31) [refs: India-based jobs request; Bangalore jobs request]
+- exploring social media strategy and content scheduling; 1× (since 2025-08-31) [ref: chat request about LinkedIn content pipeline]
