@@ -31,3 +31,4 @@
 - exploring personal finance management; salary negotiation, loan comparison, expense tracking; 2× (since 2025-09-01) [refs: personal finance tasks request chatId:`cffb1f71f42445`; expense breakdown analysis chatId:`cffb1f71f42445`]
 - asks for code enhancements and regex building; 1× (observed: 2025-09-01) [ref: regex prompt and validation chatId:`f3065311b0cc43`]
 - requests YouTube script drafts on emerging themes; 1× (first: 2025-09-01) [ref: YouTube script request chatId:`941db3860ba443`]
+- exploring SEO and content optimization for ranking; 1× (first: 2025-09-01) [ref: SEO keywords & blog outline chatId:`941db3860ba443`]
