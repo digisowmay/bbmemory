@@ -5,7 +5,7 @@
 - prefers raw JSON output for system/agent info requests; 12× [refs: request for bhindi-recall agent info convId:`bhindiInfo20250831`; creation of bhindi-user-memory agent request convId:`agentCreate20250831`; description request convId:`descRequest20250831`; confirmation of preference convoId:`jsonPref20250901`; dashboard preference chatId:`f3d71be0e2af46`; repeated google-docs sync results chatId:`e6465ef0287f4e`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- wants reminder messages to begin with friendly phrases like “hey, you asked me to remind you about…”, keeping tone personal and helpful; 3× (last: 2025-09-02) [refs: reminder conversation chatId:`e362aab36a6e43`; chatId:`0335004339ac40`]
+- wants reminder messages to begin with friendly phrases like “hey, you asked me to remind you about…”; 2× (last: 2025-09-02) [refs: reminder conversation chatId:`e362aab36a6e43`; chatId:`0335004339ac40`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -20,6 +20,7 @@
 
 ### Emerging (recent behavioral shifts)
 - uses repeated sync cycles for agents; 2× (last: 2025-09-01) [refs: repeated google-docs sync chatId:`e6465ef0287f4e`; agent sync request chatId:`7bae6c37662742`]
+- monitors scheduled tasks for accuracy and questions discrepancies promptly; 1× (first: 2025-09-02) [ref: reminder scheduling error chatId:`0335004339ac40`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
