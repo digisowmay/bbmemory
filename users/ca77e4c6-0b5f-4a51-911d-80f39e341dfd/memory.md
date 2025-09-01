@@ -19,6 +19,6 @@
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
 - frequently requests image transformations (hair, beard, mustache edits); ~20× [refs: entire conversation thread chatId:`0bc48139583947`]
+- explores facial-hair and aging transformations; 4× (promoted from emerging) [refs: beard addition on multiple images; elderly effect request chatId:`0bc48139583947`]
 
 ### Emerging (new query patterns)
-- exploring facial-hair and aging transformations; beard additions, elderly effects; 1× (first: 2025-08-31) [ref: beard and aging requests chatId:`0bc48139583947`]
