@@ -20,5 +20,4 @@
 ### Durable (regular platform activities)
 
 ### Emerging (new query patterns)
-- schedules quick reminders and sends echoes to coordinate with colleagues; 3× (since 2025-09-01) [refs: reminder and echo request chatId:`f0e27490492846`; follow-up chatId:`cf0cc9cda2464e`; chatId:`d4a40d2afdfc43`]
-- handles repository and server deployments via automated commands; PR merges, ssh deploys, agent sync; 1× (first: 2025-09-01) [ref: chatId:`23068aeac7034c`]
+- handles repository and server deployments via automated commands; PR merges, ssh deploys, agent sync; 2× (last: 2025-09-01) [refs: deployment request chatId:`23068aeac7034c`; PR & sync ops chatId:`7250d4330de448`]
