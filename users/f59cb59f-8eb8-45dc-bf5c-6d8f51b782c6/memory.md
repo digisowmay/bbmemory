@@ -4,7 +4,8 @@
 - data-oriented conversations, shares metrics to ground discussion; 4× [refs: funding discipline post metrics chatId:`769c137c4fe14f`; prior e-commerce KPI talks]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- requests detailed LinkedIn post performance analysis; 4× (last: 2025-09-01) [refs: Ravi post impact query chatId:`769c137c4fe14f`; viral potential refinement chatId:`769c137c4fe14f`]
+- requests detailed LinkedIn post performance analysis and actionable drafts; 5× (last: 2025-09-01) [refs: Ravi post viral draft request chatId:`769c137c4fe14f`; transformation guidance chatId:`769c137c4fe14f`]
+- asks for direct content drafts for LinkedIn posts; 1× (first: 2025-09-01) [ref: draft request chatId:`769c137c4fe14f`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -20,7 +21,7 @@
 - values authenticity & operational rigor; 5× [refs: discipline vs vanity funding posts chatId:`769c137c4fe14f`; business philosophy statements]
 
 ### Emerging (recent behavioral shifts)
-- experimenting with narrative storytelling to convey business lessons; 3× (last: 2025-09-01) [refs: Hari funding story post chatId:`769c137c4fe14f`; Ravi post viral draft request chatId:`769c137c4fe14f`; narrative enhancement guidance chatId:`769c137c4fe14f`]
+- experimenting with narrative storytelling to convey business lessons; 4× (last: 2025-09-01) [refs: Ravi post viral draft request chatId:`769c137c4fe14f`; narrative enhancement guidance chatId:`769c137c4fe14f`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
@@ -28,4 +29,4 @@
 - evaluates startup investment opportunities; 6× [refs: mentoring discussions; funding evaluations]
 
 ### Emerging (new query patterns)
-- requests LinkedIn post reviews & engagement analysis; 4× (since 2025-09-01) [refs: post performance metrics conversation chatId:`769c137c4fe14f`; Ravi post impact query chatId:`769c137c4fe14f`; viral potential refinement chatId:`769c137c4fe14f`; viral draft creation chatId:`769c137c4fe14f`]
+- requests LinkedIn post reviews & engagement analysis; 5× (since 2025-09-01) [refs: post performance metrics conversation chatId:`769c137c4fe14f`; Ravi post impact query chatId:`769c137c4fe14f`; viral potential refinement chatId:`769c137c4fe14f`; viral draft creation chatId:`769c137c4fe14f`; post enhancement chatId:`769c137c4fe14f`]
