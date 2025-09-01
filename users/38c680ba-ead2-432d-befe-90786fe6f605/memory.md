@@ -6,8 +6,8 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - expects exhaustive datasets and calls out incomplete summaries; 5× (last: 2025-09-01) [refs: "why only 5 ?" chatId:`db9b4761e5c242`; AWS completeness demand chatId:`db9b4761e5c242`]
-- prefers condensed executive summaries (3-4 paragraphs max) with minimal tables; rejects unsolicited recommendations; 4× (last: 2025-09-01) [refs: "very easy to consume report" chatId:`db9b4761e5c242`; "More short, Just 3-4 para" chatId:`db9b4761e5c242`; "Keep tone human" chatId:`db9b4761e5c242`]
-- likes short, simple sentences in human tone; 1× (first: 2025-09-01) [ref: "Keep tone humna, and very easy to consume short sentenses" chatId:`db9b4761e5c242`]
+- prefers condensed executive summaries (3-4 paragraphs max) with minimal tables; rejects unsolicited recommendations; 3× (last: 2025-09-01) [refs: "very easy to consume report" chatId:`db9b4761e5c242`; "Don't suggest fixes" chatId:`db9b4761e5c242`]
+- requests very short, human-tone sentences and simplified wording; 1× (first: 2025-09-01) [ref: "Keep tone humna, and very easy to consume short sentenses" chatId:`db9b4761e5c242`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
