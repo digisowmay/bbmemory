@@ -4,7 +4,7 @@
 - wants generated content to exactly match text/reference provided; 12× [refs: accuracy complaints with "دقت کنید" remarks chatId:`c4000286cef640`; flag text mismatch corrections; precise crying image request chatId:`9670a2db976045`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- requests faithful recreation of supplied photos; 4× (last: 2025-09-02) [refs: ribbon-cutting photo recreation attempts chatId:`c4000286cef640`; Afghan VP crying image request chatId:`9670a2db976045`]
+- requests faithful recreation of supplied or described photos of real individuals; 5× (last: 2025-09-02) [refs: ribbon-cutting photo recreation attempts chatId:`c4000286cef640`; Afghan VP crying image request chatId:`9670a2db976045`; TikTok personality image request chatId:`9670a2db976045`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -18,6 +18,6 @@
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
+- frequent image generation requests; 5× (since 2025-09-02) [refs: multiple generateImage calls chatId:`c4000286cef640`; Afghan VP crying image chatId:`9670a2db976045`; TikTok personality image chatId:`9670a2db976045`]
 
 ### Emerging (new query patterns)
-- frequent image generation requests; 4× (since 2025-09-02) [refs: multiple generateImage calls chatId:`c4000286cef640`; Afghan VP crying image chatId:`9670a2db976045`]
