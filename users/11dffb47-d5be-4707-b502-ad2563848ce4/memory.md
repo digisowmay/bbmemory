@@ -3,7 +3,8 @@
 - (no durable patterns identified yet)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- общается преимущественно на русском; 7× (last: 2025-09-01) [refs: image alteration request chatId:`08cf85c689e54e`; Jenna Ortega replacement request chatId:`ec0c00fac96640`; current image edit request chatId:`f05a0bf795f945`; latest image edit confirmation chatId:`517ad90010464e`; previous request chatId:`7880449250b04b`; this request chatId:`5a73d53c592d4a`; new request chatId:`8501d09333e947`]
+- общается преимущественно на русском; 8× (last: 2025-09-01) [refs: image alteration request chatId:`08cf85c689e54e`; Jenna Ortega replacement request chatId:`ec0c00fac96640`; current image edit request chatId:`f05a0bf795f945`; latest image edit confirmation chatId:`517ad90010464e`; previous request chatId:`7880449250b04b`; this request chatId:`5a73d53c592d4a`; new request chatId:`8501d09333e947`; soap modification chatId:`8501d09333e947`]
+- использует итеративные уточнения для визуальных правок; 2× (last: 2025-09-01) [refs: follow-up image edit chatId:`8501d09333e947`; earlier follow-up corrections chatId:`517ad90010464e`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -24,4 +25,4 @@
 - (no durable usage patterns identified yet)
 
 ### Emerging (new query patterns)
-- запрашивает креативные изменения изображений с публичными фигурами и поп-культурой; 7× (since 2025-09-01) [refs: Spider-Man poster manipulation chatId:`08cf85c689e54e`; Jenna Ortega replacement chatId:`ec0c00fac96640`; current image edit request chatId:`f05a0bf795f945`; latest image edit confirmation chatId:`517ad90010464e`; previous request chatId:`7880449250b04b`; this request chatId:`5a73d53c592d4a`; new request chatId:`8501d09333e947`]
+- запрашивает креативные изменения изображений с публичными фигурами и поп-культурой; 8× (since 2025-09-01) [refs: Spider-Man poster manipulation chatId:`08cf85c689e54e`; Jenna Ortega replacement chatId:`ec0c00fac96640`; current image edit request chatId:`f05a0bf795f945`; latest image edit confirmation chatId:`517ad90010464e`; previous request chatId:`7880449250b04b`; this request chatId:`5a73d53c592d4a`; liquid soap update chatId:`8501d09333e947`; additional edit chatId:`8501d09333e947`]
