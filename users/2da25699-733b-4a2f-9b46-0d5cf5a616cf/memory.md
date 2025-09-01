@@ -17,4 +17,4 @@
 ### Durable (regular platform activities)
 
 ### Emerging (new query patterns)
-- interested in AI image generation for fantasy transformations; 2× (since 2025-09-01) [refs: Witcher and Viking transformation requests chatId:`c3f6f99654d844`]
+- interested in AI image generation for fantasy transformations; 3× (since 2025-09-01) [refs: multiple Witcher and Viking transformation requests chatId:`c3f6f99654d844`]
