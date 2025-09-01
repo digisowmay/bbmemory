@@ -3,29 +3,28 @@
 -
 
 ### Emerging (new signals, 1-2 reinforcements)
-- asks concise capability questions about document processing (PDF, Excel, drawings) and often uses terse commands like "check" or "resume", expecting immediate action; 6× (last: 2025-09-01) [refs: repeated capability inquiries and short-command messages chatId:`b2776138c89440`]
-- shares lengthy technical documents and expects structured summaries/extraction; 4× (last: 2025-09-01) [refs: Datel Pure DC PDF submission and follow-up analysis requests chatId:`b2776138c89440`]
+- asks concise capability questions about document processing (PDF, Excel, drawings); 6× (last: 2025-09-01) [refs: capability inquiries about AutoCAD PDFs, excel and drawing attachment attempts chatId:`b2776138c89440`]
+- shares lengthy technical documents and expects structured summaries/extraction; 5× (last: 2025-09-01) [refs: Datel Pure DC PDF submission, follow-up analysis requests, Drive link sharing chatId:`b2776138c89440`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
 -
 
 ### Emerging (recent learning, current focus)
-- involved in Pure DC LON01 data centre structured cabling project documentation; 2× (since 2025-09-01) [refs: Datel Pure DC PDF submissions chatId:`b2776138c89440`]
-- working with BMS (Building Management System) architecture diagrams and related documentation; 1× (started: 2025-09-01) [ref: request to attach BMS system architecture diagrams chatId:`b2776138c89440`]
+- involved in Pure DC LON01 data centre structured cabling project documentation; 3× (since 2025-09-01) [refs: repeated Datel proposal discussions chatId:`b2776138c89440`]
+- working with BMS (Building Management System) architecture diagrams and related documentation; 2× (started: 2025-09-01) [refs: request to attach BMS system architecture diagrams chatId:`b2776138c89440`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
 -
 
 ### Emerging (recent behavioral shifts)
-- prefers receiving structured, summarized outputs from large technical documents; 4× (last: 2025-09-01) [refs: summary requests for Datel proposal and additional doc analysis chatId:`b2776138c89440`]
-- needs step-by-step guidance for technical tasks like converting Google Drive links to direct downloads; 1× (first: 2025-09-01) [ref: guidance on link conversion chatId:`b2776138c89440`]
+- prefers receiving structured, summarized outputs from large technical documents; 5× (last: 2025-09-01) [refs: summary requests for Datel proposal and additional document analysis chatId:`b2776138c89440`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
 -
 
 ### Emerging (new query patterns)
-- exploring document parsing capabilities (AutoCAD PDFs, Excel files, system diagrams); 5× (since 2025-09-01) [refs: repeated capability inquiries and file attachment attempts chatId:`b2776138c89440`]
-- interest in BMS system documentation analysis; 1× (started: 2025-09-01) [ref: request to attach BMS system architecture diagrams chatId:`b2776138c89440`]
+- exploring document parsing capabilities (AutoCAD PDFs, Excel files, system diagrams); 6× (since 2025-09-01) [refs: capability inquiries and file attachment attempts chatId:`b2776138c89440`]
+- interest in BMS system documentation analysis; 2× (started: 2025-09-01) [refs: request to attach BMS system architecture diagrams chatId:`b2776138c89440`]
