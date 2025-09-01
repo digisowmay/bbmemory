@@ -3,7 +3,7 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - requests alternative iterations for content; 1× (first: 2025-09-01) [ref: tweet revision request chatId:`2ebb98bc3bcf4c`]
-- requests detailed structured summaries/notes from content; 1× (first: 2025-09-01) [ref: video notes request chatId:`41abc9f64b9d48`]
+- requests detailed structured summaries/notes from content; 2× (last: 2025-09-01) [refs: initial video notes request chatId:`41abc9f64b9d48`; follow-up elaboration request chatId:`41abc9f64b9d48`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -16,7 +16,7 @@
 ### Durable (core thinking patterns)
 
 ### Emerging (recent behavioral shifts)
-- iterative improvement preference; 1× (first: 2025-09-01) [ref: tweet revision request chatId:`2ebb98bc3bcf4c`]
+- iterative improvement preference; 2× (last: 2025-09-01) [refs: tweet revision request chatId:`2ebb98bc3bcf4c`; request to elaborate video topics chatId:`41abc9f64b9d48`]
 - prefers detailed structured information; 1× (observed: 2025-09-01) [ref: video notes request chatId:`41abc9f64b9d48`]
 
 ## Platform Usage & Queries
