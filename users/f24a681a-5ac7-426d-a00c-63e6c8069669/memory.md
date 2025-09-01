@@ -23,6 +23,6 @@
 - exploring multiple vision/image generation and analysis agents for design tasks; 5× [refs: agent integration discussion chatId:`fc54e482317d4d`; futuristic fashion image analysis chatId:`61586ea7b3e942`; futuristic fashion showcase chatId:`50a586c7da246`; nano banana generation chatId:`3549308e42cb46`; matcha logo generation chatId:`1485bc34b23544`]
 
 ### Emerging (new query patterns)
-- exploring automated slide deck generation via Google Slides; 1× (first: 2025-09-01) [ref: slide deck generation request chatId:`878d52774fe040`]
 - exploring mobile app wireframe generation from text description; 3× (last: 2025-09-01) [refs: initial mockup maker request chatId:`1485bc34b23544`; follow-up fitness wireframe generation chatId:`1485bc34b23544`; nano banana wireframe generation chatId:`1485bc34b23544`]
 - exploring code tooling assistance (regex builder, code commenter, algorithm explainer); 2× (since 2025-09-01) [refs: capability request chatId:`1485bc34b23544`; demo prompt creation chatId:`1485bc34b23544`]
+- exploring content creation tools; YouTube scriptwriter, SEO blog assistant; 1× (first: 2025-09-01) [refs: content creation tools request chatId:`1485bc34b23544`]
