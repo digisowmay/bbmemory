@@ -1,7 +1,7 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- gives concise, directive requests and expects brief confirmations; 9× (stable since 2025-08-20) [refs: credit addition command chatId:`e297222bc18d40`; agent usage query chatId:`c946a1a31da646`; subscription creation chatId:`7857e1a6bece41`; verification instruction chatId:`9fd3ecf40d4b4f`; bhindi agent listing chatId:`559c1db32e6741`; AWS agents list request chatId:`db9b4761e5c242`]
-- prefers tabular format specifically for user analysis and DB-related reports; 6× (last: 2025-09-01) [refs: table request chatId:`9fd3ecf40d4b4f`; table formatting chatId:`9fd3ecf40d4b4f`; current report formatting chatId:`9fd3ecf40d4b4f`; clarification chatId:`8120e9f2b17945`; agent usage summary chatId:`f56d373311d743`; AWS usage statistics request chatId:`db9b4761e5c242`]
+- gives concise, directive requests and expects brief confirmations; 10× (stable since 2025-08-20) [refs: credit addition command chatId:`e297222bc18d40`; agent usage query chatId:`c946a1a31da646`; subscription creation chatId:`7857e1a6bece41`; verification instruction chatId:`9fd3ecf40d4b4f`; bhindi agent listing chatId:`559c1db32e6741`; AWS usage statistics request chatId:`db9b4761e5c242`]
+- prefers tabular format specifically for user analysis and DB-related reports; 7× (last: 2025-09-01) [refs: table request chatId:`9fd3ecf40d4b4f`; table formatting chatId:`9fd3ecf40d4b4f`; current report formatting chatId:`9fd3ecf40d4b4f`; clarification chatId:`8120e9f2b17945`; agent usage summary chatId:`f56d373311d743`; AWS usage statistics request chatId:`db9b4761e5c242`]
 
 ### Emerging (new signals, 1-2 reinforcements)
 - insists on verification and cross-referenced counts before decisions; 2× (last: 2025-09-01) [refs: "CRITICAL: Always verify you've checked ALL users" chatId:`9fd3ecf40d4b4f`; ustax chats count request chatId:`559c1db32e6741`]
