@@ -1,1 +1,21 @@
-- open to using Notion as alternative content platform for better image handling; 3× (last: 2025-09-01) [refs: Notion fallback discussion chatId:`941db3860ba443`; Notion integration fix chatId:`941db3860ba443`; essay on PE play via Notion request chatId:`4dc30d7999dd4f`]
+## Communication Patterns
+### Durable (established, 3+ reinforcements)
+
+### Emerging (new signals, 1-2 reinforcements)
+- prefers transparent technical error details; 1× (first: 2025-09-01) [ref: request for exact error message chatId:`4dc30d7999dd4f`]
+
+## Knowledge & Context
+### Durable (core expertise, established over time)
+
+### Emerging (recent learning, current focus)
+
+## Thinking & Working Style
+### Durable (core thinking patterns)
+
+### Emerging (recent behavioral shifts)
+
+## Platform Usage & Queries
+### Durable (regular platform activities)
+- open to using Notion as alternative content platform for better image handling; 4× [refs: Notion fallback discussion chatId:`941db3860ba443`; Notion integration fix chatId:`941db3860ba443`; essay on PE play via Notion request chatId:`4dc30d7999dd4f`; error message introspection chatId:`4dc30d7999dd4f`]
+
+### Emerging (new query patterns)
