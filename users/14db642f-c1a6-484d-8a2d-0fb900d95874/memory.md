@@ -2,22 +2,24 @@
 ### Durable (established, 3+ reinforcements)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- wants detailed expert-backed analysis before making purchase decisions; 1× (first: 2025-08-31) [ref: request for phone recommendations based on YouTube reviews]
+- wants detailed expert-backed analysis before making purchase decisions; 1× (first: 2025-08-31) [ref: phone recommendations discussion chatId:`3f05fd8480d94b`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
 
 ### Emerging (recent learning, current focus)
-- planning to buy a new smartphone; 1× (started: 2025-08-31) [ref: conversation seeking smartphone purchase advice]
+- planning to buy a new smartphone; 1× (started: 2025-08-31) [ref: smartphone purchase advice chatId:`3f05fd8480d94b`]
+- upcoming Delhi trip (Sept 24-29) requiring budget accommodation near Yashobhoomi Convention Centre for 4 people; 1× (first: 2025-09-01) [ref: accommodation request chatId:`3f05fd8480d94b`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
 
 ### Emerging (recent behavioral shifts)
-- research-oriented decision making; seeks multiple expert sources before concluding; 1× (first: 2025-08-31) [ref: phone buying request using MKBHD & Mrwhosetheboss analyses]
+- research-oriented decision making; seeks multiple expert sources before concluding; 1× (first: 2025-08-31) [ref: smartphone buying request chatId:`3f05fd8480d94b`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
 
 ### Emerging (new query patterns)
-- requests curated YouTube tech review content; 1× (since 2025-08-31) [ref: request for latest MKBHD and Mrwhosetheboss review videos]
+- requests curated YouTube tech review content; 1× (since 2025-08-31) [ref: tech review video request chatId:`3f05fd8480d94b`]
+- requests travel accommodation suggestions (budget Airbnb/hotel); 1× (first: 2025-09-01) [ref: Delhi Airbnb request chatId:`3f05fd8480d94b`]
