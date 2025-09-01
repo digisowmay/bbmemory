@@ -1,6 +1,6 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- prefers casual, crisp, stoic, and concise messaging; 10× [refs: global instructions to keep responses short; prior request for succinct message; chatId:`2cc88ef301464e`; chatId:`28708c39a67140`; chatId:`69be524c2ed84f`; chatId:`5b37a9e43d024a`]
+- prefers casual, crisp, stoic, and concise messaging; 11× [refs: global instructions to keep responses short; prior succinct message requests; chatId:`2cc88ef301464e`; chatId:`28708c39a67140`; chatId:`69be524c2ed84f`; chatId:`5b37a9e43d024a`; chatId:`58b686d09c5e40`]
 
 ### Emerging (new signals, 1-2 reinforcements)
 - requests polite wording when messaging others; 2× (last: 2025-09-01) [refs: chatId:`2cc88ef301464e`; chatId:`69be524c2ed84f`]
@@ -11,11 +11,11 @@
 - coordinates team interviews and scheduling; 3× [refs: multiple requests to text colleagues about interviews; chatId:`2cc88ef301464e`]
 
 ### Emerging (recent learning, current focus)
-- none at this time
+- handles invoice creation and finance coordination tasks; 1× (first: 2025-09-01) [ref: invoice creation discussion chatId:`58b686d09c5e40`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
-- delegates brief operational tasks (messaging, scheduling); 6× [refs: repeated requests to send messages and pull calendar events; chatId:`2cc88ef301464e`; chatId:`28708c39a67140`; chatId:`69be524c2ed84f`]
+- delegates brief operational tasks (messaging, scheduling, document creation); 7× [refs: repeated requests to send messages and pull calendar events; invoice generation request chatId:`58b686d09c5e40`]
 
 ### Emerging (recent behavioral shifts)
 - emphasizes polite yet brief communication in external messages; 1× (observed: 2025-09-01) [ref: chatId:`2cc88ef301464e`]
@@ -26,4 +26,4 @@
 - frequently uses calendar data for team coordination; 3× [refs: calendar pull requests; chatId:`2cc88ef301464e`]
 
 ### Emerging (new query patterns)
-- none currently
+- generating invoices and other financial documents; 1× (first: 2025-09-01) [ref: invoice creation chatId:`58b686d09c5e40`]
