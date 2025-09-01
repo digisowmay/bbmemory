@@ -4,17 +4,17 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - interested in detailed revenue projections for fully free, ad-supported products; 1× (first: 2025-09-01) [ref: ad monetization queries chatId:`bdf320c01d4446`]
+- expects assistant to recall previous MVP decisions and summarize; 1× (first: 2025-09-01) [ref: asked about final MVP concept chatId:`458cd9028b454a`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
-- exploring monetization strategies for MVPs, freemium and now ad-supported models; 3× [refs: freemium revenue conversation; fully free app monetization; AdMob revenue discussion chatId:`bdf320c01d4446`]
+- exploring monetization strategies for MVPs, freemium and ad-supported models; 3× [refs: freemium revenue conversation; fully free app monetization; AdMob revenue discussion chatId:`bdf320c01d4446`]
 
 ### Emerging (recent learning, current focus)
 - learning about AdMob and ad-based revenue for free apps; 1× (first: 2025-09-01) [ref: Google Play ad revenue discussion chatId:`bdf320c01d4446`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
-- 
 
 ### Emerging (recent behavioral shifts)
 - prefers ad-supported, fully free solutions for user accessibility; 2× (since 2025-09-01) [refs: fully free app strategy; ad-only revenue model chatId:`bdf320c01d4446`]
