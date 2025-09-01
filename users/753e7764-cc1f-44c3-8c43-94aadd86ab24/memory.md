@@ -1,8 +1,8 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
+- uses Arabic language in queries; 4× (stable since 2025-09-01) [refs: gender ultrasound question chatId:`91116e584c954d`; health calc chatId:`199df3766e8c47`; fetal gender request chatId:`2489e85a5c994b`; umbilical cord questions chatId:`2489e85a5c994b`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- uses Arabic language in queries; 3× (last: 2025-09-01) [refs: gender ultrasound question chatId:`91116e584c954d`; health calc chatId:`199df3766e8c47`; fetal gender request chatId:`2489e85a5c994b`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -16,6 +16,7 @@
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
+- asks health-related date calculations and fetal gender inquiries; 4× (stable since 2025-09-01) [refs: last period calc chatId:`199df3766e8c47`; gender ultrasound question chatId:`91116e584c954d`; fetal gender request chatId:`2489e85a5c994b`; umbilical cord questions chatId:`2489e85a5c994b`]
 
 ### Emerging (new query patterns)
-- asks health-related date calculations and fetal gender inquiries; 3× (last: 2025-09-01) [refs: last period calc chatId:`199df3766e8c47`; gender ultrasound question chatId:`91116e584c954d`; fetal gender request chatId:`2489e85a5c994b`]
+- requests ultrasound image interpretation; 1× (first: 2025-09-01) [ref: umbilical cord questions chatId:`2489e85a5c994b`]
