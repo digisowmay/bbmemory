@@ -1,0 +1,27 @@
+## Communication Patterns
+### Durable (established, 3+ reinforcements)
+- 
+
+### Emerging (new signals, 1-2 reinforcements)
+- shares detailed technical reports (Lighthouse) and asks for actionable analysis; 1× (first: 2025-09-01) [ref: website audit request chatId:`3ac6996d724c48`]
+
+## Knowledge & Context
+### Durable (core expertise, established over time)
+-
+
+### Emerging (recent learning, current focus)
+- working on improving performance of own website emiliobeaufort.com; 1× (started: 2025-09-01) [ref: lighthouse report conversation chatId:`3ac6996d724c48`]
+
+## Thinking & Working Style
+### Durable (core thinking patterns)
+-
+
+### Emerging (recent behavioral shifts)
+- seeks structured, technical optimization guidance; 1× (observed: 2025-09-01) [ref: performance optimization request chatId:`3ac6996d724c48`]
+
+## Platform Usage & Queries
+### Durable (regular platform activities)
+-
+
+### Emerging (new query patterns)
+- requests website audits and performance improvement advice; 1× (since 2025-09-01) [ref: lighthouse report discussion chatId:`3ac6996d724c48`]
