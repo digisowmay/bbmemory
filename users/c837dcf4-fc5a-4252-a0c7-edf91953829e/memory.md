@@ -5,6 +5,7 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - iterative request/feedback cycle, asking for successive refinements; 2× (last: 2025-09-01) [refs: pagination fix discussion chatId:`5b62ec55210b4c`]
+- uses screenshots to illustrate UI options when text unclear; 1× (first: 2025-09-01) [refs: images showing merge options URLs: https://client-uploads.nyc3.digitaloceanspaces.com/images/c837dcf4-fc5a-4252-a0c7-edf91953829e/2025-09-01T09-15-29-498Z-f5bb87b4.png; https://client-uploads.nyc3.digitaloceanspaces.com/images/c837dcf4-fc5a-4252-a0c7-edf91953829e/2025-09-01T09-15-29-500Z-ba2ca6d2.png]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
