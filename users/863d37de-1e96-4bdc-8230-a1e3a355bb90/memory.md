@@ -26,6 +26,6 @@
 - uses Google Forms agent for listing forms and retrieving response counts; 3× [refs: initial list forms request; multiple getResponses calls]
 
 ### Emerging (new query patterns)
-- configures new Bhindi agents and adds variables; 5× (since 2025-09-01) [refs: kg-auth and kg-pdf agent setup chatId:`12ea94ff333843`; diagram generation]
+- configures new Bhindi agents and adds variables; 6× (since 2025-09-01) [refs: kg-auth and kg-pdf agent setup chatId:`12ea94ff333843`; diagram generation; creation of agent kg-bl chatId:`c8d6c6e913d541`]
 - monitors recruitment form responses frequently; 2× (since 2025-08-31) [refs: repeated getResponses checks]
 - generates diagrams using chart agent; 1× (first: 2025-09-01) [ref: chart generation request]
