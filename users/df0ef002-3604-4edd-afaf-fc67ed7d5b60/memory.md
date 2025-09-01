@@ -11,8 +11,8 @@
 -
 
 ### Emerging (recent learning, current focus)
-- current project: building an AI agent for automated multi-platform social media posting; 1× (started: 2025-09-01) [ref: AI agent creation discussion chatId:`b589fcbeb37446`]
-- prefers posting business-oriented content (PNG or MP4) across all platforms; 1× (first: 2025-09-01) [ref: content preference statement chatId:`b589fcbeb37446`]
+- current project: building an AI agent for automated multi-platform social media posting with business-oriented content; 1× (since 2025-09-01) [ref: AI agent creation discussion chatId:`b589fcbeb37446`]
+- current project: launching a technology podcast; 1× (started: 2025-09-01) [ref: podcast planning request chatId:`273a4e44e86e42`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
@@ -27,3 +27,4 @@
 
 ### Emerging (new query patterns)
 - exploring social media automation and cross-platform posting; 1× (since 2025-09-01) [ref: AI agent creation discussion chatId:`b589fcbeb37446`]
+- exploring podcast content creation and multimedia asset generation; 1× (started: 2025-09-01) [ref: podcast planning request chatId:`273a4e44e86e42`]
