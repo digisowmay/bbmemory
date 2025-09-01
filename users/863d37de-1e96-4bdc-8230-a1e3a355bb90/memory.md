@@ -1,6 +1,6 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- prefers concise, one-line commands and follow-ups like “now?” to refresh data; 4× (stable since 2025-08-31) [refs: chat messages repeatedly "now?" when checking Google Form responses; request "try the auth agent;s 2-3 tools" chatId:`61f23243aa9941`]
+- prefers concise, one-line commands and follow-ups like “now?” to refresh data; 5× (stable since 2025-08-31) [refs: chat messages repeatedly "now?" when checking Google Form responses; request "try the auth agent;s 2-3 tools" chatId:`61f23243aa9941`; custom agents list request chatId:`0bd6b8a2c40a41`]
 
 ### Emerging (new signals, 1-2 reinforcements)
 - expects rapid, real-time updates from tools; 2× (last: 2025-08-31) [refs: repeated requests to check for new Google Form entries]
