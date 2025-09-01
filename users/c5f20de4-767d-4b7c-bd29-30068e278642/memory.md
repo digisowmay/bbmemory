@@ -25,4 +25,4 @@
 - uses image generation prompts for design asset creation; 6× (last: 2025-09-02) [refs: billboard, stick figure, style adaptation chats chatId:`1004b8a2f07b4d`]
 
 ### Emerging (new query patterns)
-- manages subscription plans via agent commands; 2× (last: 2025-09-01) [refs: subscription add commands]
+- manages subscription plans via agent commands; 3× (last: 2025-09-02) [refs: subscription add commands chatId:`51f711cfcc7343`; previous subscription add commands]
