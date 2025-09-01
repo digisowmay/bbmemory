@@ -5,7 +5,7 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - iterative request/feedback cycle, asking for successive refinements; 3× (last: 2025-09-01) [refs: pagination fix discussion; mapping fields issue chatId:`5b62ec55210b4c`]
-- uses screenshots to illustrate UI options when text unclear; 2× (last: 2025-09-01) [refs: merge options screenshot; map fields red indicator screenshot URLs in chatId:`5b62ec55210b4c`]
+- uses screenshots to illustrate UI options when text unclear; 3× (last: 2025-09-01) [refs: merge options screenshot; map fields red indicator screenshot URLs in chatId:`5b62ec55210b4c`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
