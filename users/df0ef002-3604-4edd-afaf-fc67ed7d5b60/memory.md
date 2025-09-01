@@ -3,8 +3,8 @@
 -
 
 ### Emerging (new signals, 1-2 reinforcements)
-- asks direct, goal-oriented questions to build technical solutions; 2× (last: 2025-09-01) [ref: AI agent creation discussion chatId:`b589fcbeb37446`]
-- provides very concise, often single-word answers when prompted; 1× (first: 2025-09-01) [ref: response "Business / All / Yes" chatId:`b589fcbeb37446`]
+- asks direct, goal-oriented questions to build technical solutions; 3× (last: 2025-09-01) [refs: AI agent creation discussion chatId:`b589fcbeb37446`; tech podcast planning chatId:`273a4e44e86e42`]
+- provides very concise, often single-word answers when prompted; 2× (last: 2025-09-01) [refs: response "Business / All / Yes" chatId:`b589fcbeb37446`; query "Ook but how to launch?" chatId:`273a4e44e86e42`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
