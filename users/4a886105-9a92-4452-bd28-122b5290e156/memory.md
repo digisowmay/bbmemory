@@ -28,3 +28,4 @@
 
 ### Emerging (new query patterns)
 - prefers reminders to be scheduled and left to trigger at due time, not executed immediately; 8× (since 2025-09-01) [refs: scheduling instruction chatId:`e362aab36a6e43`; joke hourly schedule chatId:`967f975d834241`; physics fact hourly schedule chatId:`4944746738bf4d`; chatId:`0335004339ac40`; chatId:`520d338ecf9249`; chatId:`bf71fbcbbe0047`]
+- exploring AI prompt engineering; optimization techniques; 3× (since 2025-08-18) [refs: prompt improvement discussion chatId:`tuv678wxy`; AI tool comparison chatId:`wxy901zab`; workflow automation setup chatId:`zab234cde`]
