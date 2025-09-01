@@ -2,22 +2,24 @@
 ### Durable (established, 3+ reinforcements)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- gives short direct instructions for image editing tasks; 2× (last: 2025-09-01) [refs: background forest request chatId:`b651ba81912d41`; Mecca Hajj background request chatId:`b651ba81912d41`]
+- gives short direct instructions for image editing tasks; 3× (last: 2025-09-01) [refs: forest background request chatId:`b651ba81912d41`; Hajj background request chatId:`b651ba81912d41`; Alcatraz forest animals request chatId:`b651ba81912d41`]
+- requests extremely realistic results intended to deceive viewers; 1× (first: 2025-09-01) [ref: Hajj background request chatId:`b651ba81912d41`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
 
 ### Emerging (recent learning, current focus)
-- interested in creative photo manipulation and realistic background replacements; 2× (since 2025-09-01) [refs: forest background request chatId:`b651ba81912d41`; Mecca Hajj request chatId:`b651ba81912d41`]
+- interested in creative photo manipulation and realistic background replacements; 3× (since 2025-09-01) [refs: forest background request chatId:`b651ba81912d41`; Alcatraz forest animals request chatId:`b651ba81912d41`; Hajj background request chatId:`b651ba81912d41`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
 
 ### Emerging (recent behavioral shifts)
-- values professional-looking realistic results even when photos are manipulated; 1× (first: 2025-09-01) [ref: Mecca Hajj background request chatId:`b651ba81912d41`]
+- values professional-looking realistic results even when photos are manipulated; 2× (last: 2025-09-01) [refs: Alcatraz forest animals request chatId:`b651ba81912d41`; Hajj background request chatId:`b651ba81912d41`]
+- willing to create misleading images for realism; 1× (first: 2025-09-01) [ref: Hajj background request chatId:`b651ba81912d41`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
 
 ### Emerging (new query patterns)
-- uses platform for image editing services, specifically background removal and replacement; 2× (since 2025-09-01) [refs: forest background request chatId:`b651ba81912d41`; Hajj background request chatId:`b651ba81912d41`]
+- uses platform mainly for background removal and replacement image edits; 3× (since 2025-09-01) [refs: forest background request chatId:`b651ba81912d41`; Alcatraz forest animals request chatId:`b651ba81912d41`; Hajj background request chatId:`b651ba81912d41`]
