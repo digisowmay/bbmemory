@@ -5,7 +5,7 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - requests specific AI model (Gemini "nano banana"); 8× (last: 2025-09-01) [refs: nano banana image request chatId:`3549308e42cb46`; fitness wireframe chatId:`6774927f60b146`]
-- asks for detailed code documentation with Google-style docstrings for readability; 1× (first: 2025-09-01) [ref: code readability docstring request chatId:`6774927f60b146`]
+- asks for detailed code documentation with Google-style docstrings for readability; 2× (last: 2025-09-01) [refs: docstring request chatId:`6774927f60b146`; code readability enhancement chatId:`6774927f60b146`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -18,7 +18,7 @@
 ### Durable (core thinking patterns)
 
 ### Emerging (recent behavioral shifts)
-- values maintainable, well-documented code; 1× (observed: 2025-09-01) [ref: docstring documentation request chatId:`6774927f60b146`]
+- values maintainable, well-documented code; 2× (observed: 2025-09-01) [refs: docstring documentation request chatId:`6774927f60b146`; code readability enhancement chatId:`6774927f60b146`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
