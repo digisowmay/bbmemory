@@ -14,7 +14,7 @@
 - preparing for CAT exam in 9 weeks; 1× (started: 2025-09-01) [ref: pomodoro planner request chatId:`1485bc34b23544`]
 - saving for a Dior handbag purchase; researching best online deals; 1× (first: 2025-09-01) [ref: luxury bag deal research chatId:`b0d68ba3611241`]
 - exploring mobile app wireframe generation; 5× (since 2025-09-01) [refs: initial mockup maker request chatId:`1485bc34b23544`; follow-up fitness wireframe generation chatId:`1485bc34b23544`; nano banana wireframe generation chatId:`1485bc34b23544`; fitness app wireframe chatId:`f3065311b0cc43`; regex prompt wireframe context chatId:`f3065311b0cc43`]
-- runs a YouTube channel targeting Indian audience aged 20-28; personal finance & lifestyle content; 1× (first: 2025-09-01) [ref: YouTube script request chatId:`941db3860ba443`]
+- YouTuber creating content for 20-28 Indian audience on personal finance & lifestyle; 1× (first: 2025-09-01) [ref: YouTube script request chatId:`941db3860ba443`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
@@ -30,3 +30,4 @@
 - exploring mobile app wireframe generation; 5× (since 2025-09-01) [refs: initial mockup maker request chatId:`1485bc34b23544`; follow-up fitness wireframe generation chatId:`1485bc34b23544`; nano banana wireframe generation chatId:`1485bc34b23544`; fitness app wireframe chatId:`f3065311b0cc43`; regex prompt wireframe context chatId:`f3065311b0cc43`]
 - exploring personal finance management; salary negotiation, loan comparison, expense tracking; 2× (since 2025-09-01) [refs: personal finance tasks request chatId:`cffb1f71f42445`; expense breakdown analysis chatId:`cffb1f71f42445`]
 - asks for code enhancements and regex building; 1× (observed: 2025-09-01) [ref: regex prompt and validation chatId:`f3065311b0cc43`]
+- requests YouTube script drafts on emerging themes; 1× (first: 2025-09-01) [ref: YouTube script request chatId:`941db3860ba443`]
