@@ -3,7 +3,7 @@
 - (none yet)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- uses concise transformation commands like "reimagine me as ..." or "turn me into ..."; 6× (last: 2025-09-01) [refs: repeated image transformation requests chatId:`c3f6f99654d844`]
+- uses concise transformation commands like "reimagine me as ..." or "turn me into ..."; 11× (last: 2025-09-01) [refs: repeated image transformation requests chatId:`c3f6f99654d844`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -24,4 +24,4 @@
 - (none yet)
 
 ### Emerging (new query patterns)
-- interested in AI image generation for fantasy, historical and character transformations; 8× (since 2025-09-01) [refs: Witcher, multiple Viking, James Bond transformation requests chatId:`c3f6f99654d844`]
+- interested in AI image generation for fantasy, historical and character transformations; 13× (since 2025-09-01) [refs: Witcher, multiple Viking, James Bond, Elvis transformation requests chatId:`c3f6f99654d844`]
