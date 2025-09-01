@@ -4,6 +4,7 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - expects rapid, real-time updates from tools; 4× (last: 2025-09-01) [refs: immediate retry requests after variable setup and repeated sync attempts chatId:`12ea94ff333843`]
+- prefers context-rich yet concise questions that reference specific past details; 1× (first: 2025-09-01) [ref: instruction to craft short context-rich question chatId:`da5144d6dd564f`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
