@@ -1,21 +1,27 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- prefers Persian language responses; 11× (last: 2025-09-02) [refs: image generation request chatId:`d49850fc850348`; shepherd request chatId:`f61879e9fdd24a`; bazaar image request chatId:`1a1d005ec70943`; complaint about accuracy chatId:`c4000286cef640`]
+- prefers Persian language responses; 12× (last: 2025-09-02) [refs: image generation accuracy complaint chatId:`c4000286cef640`; shepherd request chatId:`f61879e9fdd24a`; bazaar image request chatId:`1a1d005ec70943`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- wants generated content to closely match provided reference; 2× (last: 2025-09-02) [refs: dissatisfaction with image accuracy chatId:`d49850fc850348`; complaint about attention chatId:`c4000286cef640`]
+- wants generated content to closely match provided reference; 3× (last: 2025-09-02) [refs: dissatisfaction with image accuracy chatId:`d49850fc850348`; complaint about attention chatId:`c4000286cef640`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
+- (no entries yet)
 
 ### Emerging (recent learning, current focus)
+- (no entries yet)
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
+- (no entries yet)
 
 ### Emerging (recent behavioral shifts)
+- (no entries yet)
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
+- (no entries yet)
 
 ### Emerging (new query patterns)
+- (no entries yet)
