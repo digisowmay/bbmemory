@@ -1,8 +1,8 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- communicates primarily in Russian and gives instructions in that language; 14× (stable since 2025-08-30) [refs: image editing request chatId:`470b9d47a6f840`; ongoing edit requests chatId:`a645ebeddae94c`; latest request chatId:`0a74a4a5c3e641`]
-- provides detailed artistic direction for visual edits (pose, location, camera angle, objects, color palette); 14× [refs: image edit request chatId:`470b9d47a6f840`; ongoing edit requests chatId:`a645ebeddae94c`; latest request chatId:`0a74a4a5c3e641`]
-- incorporates pop-culture characters/actors into requested edits; 6× (promoted from emerging) [refs: current edit request chatId:`73efc16281e84c`; previous LotR meme reference chatId:`a645ebeddae94c`]
+- communicates primarily in Russian and gives instructions in that language; 15× (stable since 2025-08-30) [refs: image editing request chatId:`470b9d47a6f840`; ongoing edit requests chatId:`a645ebeddae94c`; latest request chatId:`0a74a4a5c3e641`; new edit chatId:`779c7b9cc02649`]
+- provides detailed artistic direction for visual edits (pose, location, camera angle, objects, color palette); 15× [refs: image edit request chatId:`470b9d47a6f840`; ongoing edit requests chatId:`a645ebeddae94c`; latest request chatId:`0a74a4a5c3e641`; new edit chatId:`779c7b9cc02649`]
+- incorporates pop-culture characters/actors into requested edits; 7× [refs: current edit request chatId:`73efc16281e84c`; previous LotR meme reference chatId:`a645ebeddae94c`; new Jenna Ortega replacement chatId:`779c7b9cc02649`]
 
 ### Emerging (new signals, 1-2 reinforcements)
 - requests iterative refinements, focusing on small realism details (e.g., hand femininity, background cleanup); 2× (last: 2025-09-01) [refs: finger/background adjustment chatId:`f27383acc20446`; current edit chatId:`73efc16281e84c`]
