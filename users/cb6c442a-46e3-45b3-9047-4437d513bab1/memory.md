@@ -23,5 +23,5 @@
 ### Durable (regular platform activities)
 
 ### Emerging (new query patterns)
-- uses assistant for social media copywriting; 1× (first: 2025-09-01) [ref: tweet creation request chatId:`2ebb98bc3bcf4c`]
+- uses assistant for social media copywriting and personal branding/profile evaluation; 2× (last: 2025-09-01) [refs: tweet creation request chatId:`2ebb98bc3bcf4c`; LinkedIn profile rating chatId:`969e4308a77048`]
 - uses assistant for video summarization and note-taking; 1× (first: 2025-09-01) [ref: video notes request chatId:`41abc9f64b9d48`]
