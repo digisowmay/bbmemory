@@ -3,14 +3,14 @@
 - (none yet)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- gives concise, imperative instructions to perform tasks (asset edits, agent operations); 3× (last: 2025-09-01) [refs: request for high-quality logo enhancement; agent management commands chatId:`e36264aa759b49`; subscription privilege requests chatId:`e36264aa759b49`]
+- gives concise, imperative instructions to perform tasks (asset edits, agent operations, business docs); 4× (last: 2025-09-01) [refs: request for high-quality logo enhancement; agent management commands chatId:`e36264aa759b49`; subscription privilege requests chatId:`e36264aa759b49`; printing quotation request chatId:`5ab459562f7342`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
 - (none yet)
 
 ### Emerging (recent learning, current focus)
-- (none yet)
+- owns or manages printing business "Ashapura"; 1× (first: 2025-09-01) [ref: printing quotation request chatId:`5ab459562f7342`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
@@ -25,3 +25,4 @@
 
 ### Emerging (new query patterns)
 - requests agent operations and subscription management actions; 2× (last: 2025-09-01) [refs: agent management commands chatId:`e36264aa759b49`; early user subscription request chatId:`e36264aa759b49`]
+- generates business documents (quotations/invoices) using tools; 1× (first: 2025-09-01) [ref: printing quotation generation chatId:`5ab459562f7342`]
