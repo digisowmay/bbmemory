@@ -5,9 +5,9 @@
 - insists on verification and cross-referenced counts before decisions; 3× (promoted from emerging) (last: 2025-09-01) [refs: "CRITICAL: Always verify you've checked ALL users" chatId:`9fd3ecf40d4b4f`; AWS users completeness follow-up chatId:`db9b4761e5c242`; "why only 5 ?" chatId:`db9b4761e5c242`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- expects exhaustive datasets and calls out incomplete summaries; 5× (last: 2025-09-01) [refs: "why only 5 ?" chatId:`db9b4761e5c242`; AWS completeness demand chatId:`db9b4761e5c242`]
-- prefers condensed executive summaries (3-4 paragraphs max) with minimal tables; rejects unsolicited recommendations; 3× (last: 2025-09-01) [refs: "very easy to consume report" chatId:`db9b4761e5c242`; "Don't suggest fixes" chatId:`db9b4761e5c242`]
-- requests very short, human-tone sentences and simplified wording; 1× (first: 2025-09-01) [ref: "Keep tone humna, and very easy to consume short sentenses" chatId:`db9b4761e5c242`]
+- expects exhaustive datasets and calls out incomplete summaries; 6× (last: 2025-09-01) [refs: "why only 5 ?" chatId:`db9b4761e5c242`; follow-up drill-down requests chatId:`db9b4761e5c242`]
+- prefers condensed executive summaries (3-4 paragraphs max) with minimal, insight-rich tables; rejects unsolicited fixes and wants problem-only views; 4× (last: 2025-09-01) [refs: "very easy to consume report" chatId:`db9b4761e5c242`; "Don't suggest fixes" chatId:`db9b4761e5c242`; "Tables can be more insightfull" chatId:`db9b4761e5c242`]
+- requests very short, human-tone sentences and simplified wording; 2× (last: 2025-09-01) [refs: "Keep tone humna, and very easy to consume short sentenses" chatId:`db9b4761e5c242`; "more short" chatId:`db9b4761e5c242`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
