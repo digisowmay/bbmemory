@@ -3,7 +3,7 @@
 - 
 
 ### Emerging (new signals, 1-2 reinforcements)
-- seeks confirmation of task completion before ending chat; 1× (first: 2025-09-02) [ref: asked if anything pending chatId:`78a3dc113b5a4d`]
+- seeks confirmation of task completion before ending chat; 2× (last: 2025-09-02) [refs: asked if anything pending chatId:`78a3dc113b5a4d`; asked again if should close window chatId:`78a3dc113b5a4d`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
