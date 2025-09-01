@@ -5,7 +5,7 @@
 - incorporates pop-culture characters/actors into requested edits; 8× [refs: current edit request chatId:`73efc16281e84c`; previous LotR meme reference chatId:`a645ebeddae94c`; new Jenna Ortega replacement chatId:`779c7b9cc02649`; current request chatId:`1e1a3408a3c24d`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- requests iterative refinements, focusing on small realism details (e.g., hand femininity, background cleanup); 2× (last: 2025-09-01) [refs: finger/background adjustment chatId:`f27383acc20446`; current edit chatId:`73efc16281e84c`]
+- requests iterative refinements, focusing on small realism details (e.g., hand femininity, background cleanup); 3× (last: 2025-09-01) [refs: finger/background adjustment chatId:`f27383acc20446`; current edit chatId:`73efc16281e84c`; rework attempt chatId:`09de21addd2d47`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
