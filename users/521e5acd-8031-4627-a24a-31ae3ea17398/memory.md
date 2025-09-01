@@ -4,7 +4,7 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - requests actionable lists for event planning; 1× (first: 2025-09-01) [ref: masterclass topics and speakers request chatId:`65242c0b8e7d44`]
-- prefers concise, imperative requests (e.g., "Pls find ..."); 2× (last: 2025-09-01) [refs: CEO email request chatId:`d7add70fb04f43`; Siddhnath Goswami email request chatId:`d7add70fb04f43`]
+- prefers concise, imperative requests (e.g., "Pls find ..."); 3× (last: 2025-09-01) [refs: CEO email request chatId:`d7add70fb04f43`; Siddhnath Goswami email request chatId:`d7add70fb04f43`; 2nd contact search this chat]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -25,4 +25,4 @@
 -
 
 ### Emerging (new query patterns)
-- requests contact details (influencers, executives) for outreach collaborations; 3× (last: 2025-09-01) [refs: speaker outreach request chatId:`65242c0b8e7d44`; CEO email request chatId:`d7add70fb04f43`; Siddhnath Goswami email request chatId:`d7add70fb04f43`]
+- requests contact details (influencers, executives) for outreach collaborations; 4× (last: 2025-09-01) [refs: speaker outreach request chatId:`65242c0b8e7d44`; CEO email request chatId:`d7add70fb04f43`; Siddhnath Goswami email request chatId:`d7add70fb04f43`; 100x CEO email request this chat]
