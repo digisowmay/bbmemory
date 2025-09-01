@@ -4,6 +4,7 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - prefers concise bullet-point responses for marketing ideas; 2× (last: 2025-09-01) [ref: carousel tips discussions chatId:`afd7676c123043`]
+- responds with friendly appreciation and enthusiasm when greeted; 1× (first: 2025-09-01) [ref: welcome reply to kuber chatId:`40ccced377c94a`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -18,6 +19,7 @@
 
 ### Emerging (recent behavioral shifts)
 - pragmatic request style—asks for immediate actionable content; 2× (since 2025-09-01) [refs: carousel content requests chatId:`afd7676c123043`]
+- collaborative mindset—expresses desire to work with the team; 1× (first: 2025-09-01) [ref: welcome reply to kuber chatId:`40ccced377c94a`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
