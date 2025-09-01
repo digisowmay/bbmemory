@@ -2,7 +2,7 @@
 ### Durable (established, 3+ reinforcements)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- drafts and validates outgoing messages for alignment with recipient’s tone; 1× (first: 2025-09-01) [ref: response crafting for sowmay chatId:`1fb2611896b64d`]
+- drafts and validates outgoing messages for alignment with recipient’s tone; 2× (last: 2025-09-01) [refs: response crafting for sowmay chatId:`1fb2611896b64d`; file resizer agent message crafting chatId:`1fb2611896b64d`]
 - shares full academic PDFs for discussion/analysis; 1× (first: 2025-09-01) [ref: shared Dynamo paper chatId:`b3eafc0bcbc641`]
 
 ## Knowledge & Context
