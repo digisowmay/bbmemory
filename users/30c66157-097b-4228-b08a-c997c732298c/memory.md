@@ -11,6 +11,7 @@
 
 ### Emerging (recent learning, current focus)
 - exploring cryptocurrency market data and API usage; 5× (since 2025-09-01) [ref: multiple coingecko queries chatId:`f2e7badcdbc64c`]
+- developing/testing an app that needs image rendering across aspect ratios; 1× (first: 2025-09-01) [ref: image aspect ratio generation chatId:`41d002c45fc84e`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
@@ -24,3 +25,5 @@
 
 ### Emerging (new query patterns)
 - exploring Telegram bot functions; 3× (since 2025-09-01) [ref: telegram-bot tool interactions chatId:`f2e7badcdbc64c`]
+- uses image generation tools for testing UI (varied aspect ratios); 1× (first: 2025-09-01) [ref: image aspect ratio generation chatId:`41d002c45fc84e`]
+- requests technical write-ups on web technologies (e.g., SSE); 1× (first: 2025-09-01) [ref: SSE explanation request chatId:`41d002c45fc84e`]
