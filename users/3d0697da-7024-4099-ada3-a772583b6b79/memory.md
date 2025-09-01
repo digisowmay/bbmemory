@@ -27,6 +27,4 @@
 
 ### Emerging (new query patterns)
 - uses Todoist for task management; 1× (since 2025-08-31) [ref: add tasks to Todoist]
-- exploring AI-generated multimedia content (images, audio narration); 1× (first: 2025-09-01) [ref: futuristic fashion request chatId:`976df388b00c44`]
-- seeking job search assistance; 1× (first: 2025-09-01) [ref: marketing jobs request chatId:`5ae756b89a9443`]
-- uses assistant to post tweets on X; 2× (since 2025-09-01) [refs: initial tweet posting chatId:`5dd3b78eca0543`; current silly tweet posting chatId:`5dd3b78eca0543`]
+- uses assistant to create and publish social content (tweets, Google Forms) for interactions with friends; 3× (since 2025-09-01) [refs: tweet posting chatId:`5dd3b78eca0543`; additional tweet request chatId:`5dd3b78eca0543`; google form creation chatId:`f43391e07f9c49`]
