@@ -1,6 +1,6 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- prefers concise (<50 words), informal WhatsApp-style messages with clear ask; 10× [refs: global instruction set; multiple echo reply threads chatId:`1325c42b5b4f4c`; cc50e528c2fe4a]
+- prefers concise (<50 words), informal WhatsApp-style messages with clear ask; 11× [refs: global instruction set; multiple echo reply threads chatId:`1325c42b5b4f4c`; cc50e528c2fe4a; credit addition chatId:`97d0f1e317c54c`]
 
 ### Emerging (new signals, 1-2 reinforcements)
 - prefers single-word acknowledgments ("ack") to confirm receipt; 1× (first: 2025-09-01) [ref: chatId:`cc50e528c2fe4a`]
@@ -21,3 +21,4 @@
 ### Emerging (new query patterns)
 - asks for crypto prices; Ethereum inquiry; 1× (first: 2025-09-01) [ref: crypto price request chatId:`ebeb842e80e249`]
 - schedules quick reminders and sends echoes to coordinate with colleagues; 1× (first: 2025-09-01) [ref: reminder and echo request chatId:`f0e27490492846`]
+- performs admin credit management via subs agent; 1× (first: 2025-09-01) [ref: credit addition chatId:`97d0f1e317c54c`]
