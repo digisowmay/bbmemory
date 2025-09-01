@@ -5,6 +5,7 @@
 ### Emerging (new signals, 1-2 reinforcements)
 - asks assistant to propose echo drafts first for approval before sending and to pause before any subsequent actions; 4× (last: 2025-09-01) [refs: echo draft confirmation chatId:`12d57ffff79e4c`; current draft approval chatId:`73a0bbe55a164b`]
 - instructs assistant to perform explicit memory updates with traceable chatId references; 3× (last: 2025-09-01) [refs: memory update requests chatId:`20ecd26342b542`; current memory review chatId:`73a0bbe55a164b`]
+- immediately corrects assistant's inaccurate assumptions; zero tolerance for misinformation; 1× (first: 2025-09-01) [ref: correction about file-resizer status chatId:`094638fe64ba4c`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
