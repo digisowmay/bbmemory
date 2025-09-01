@@ -4,7 +4,7 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - shares information in mixed Hindi-English bullet lists for clarity; 4× (last: 2025-09-01) [refs: resume submission chatId:`efe1936c6d7440`; step-by-step request chatId:`efe1936c6d7440`; job portal guidance chatId:`efe1936c6d7440`; GitHub assistance request chatId:`efe1936c6d7440`]
-- attempts to delegate execution to assistant (apply to jobs, send emails, configure GitHub settings); 8× (last: 2025-09-01) [refs: repeated "apply for me" requests chatId:`efe1936c6d7440`; email send request chatId:`efe1936c6d7440`; GitHub settings request chatId:`efe1936c6d7440`]
+- attempts to delegate execution to assistant (apply to jobs, send emails, configure GitHub settings); 9× (last: 2025-09-01) [refs: repeated "apply for me" requests chatId:`efe1936c6d7440`; email send request chatId:`efe1936c6d7440`; GitHub settings request chatId:`efe1936c6d7440`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -28,5 +28,5 @@
 
 ### Emerging (new query patterns)
 - actively searching and requesting back-office job listings and quick-apply portals; 3× (since 2025-09-01) [refs: job portal conversation chatId:`efe1936c6d7440`; repeated apply requests chatId:`efe1936c6d7440`; job openings follow-up chatId:`efe1936c6d7440`]
-- exploring GitHub profile optimization and settings; 2× (last: 2025-09-01) [refs: GitHub settings request chatId:`efe1936c6d7440`; GitHub profile strengthening discussion chatId:`efe1936c6d7440`]
-- exploring ChatGPT Agent mode features; 1× (first: 2025-09-01) [ref: ChatGPT Agent option query chatId:`efe1936c6d7440`]
+- exploring GitHub profile optimization and settings; 3× (last: 2025-09-01) [refs: GitHub settings request chatId:`efe1936c6d7440`; GitHub profile strengthening discussion chatId:`efe1936c6d7440`; new GitHub settings ask chatId:`efe1936c6d7440`]
+- exploring ChatGPT Agent mode features; 2× (since 2025-09-01) [refs: ChatGPT Agent option query chatId:`efe1936c6d7440`; Agent availability follow-up chatId:`efe1936c6d7440`]
