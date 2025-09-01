@@ -4,7 +4,7 @@
 - provides detailed artistic direction for visual edits (pose, location, camera angle, objects, color palette); 14× [refs: image edit request chatId:`470b9d47a6f840`; ongoing edit requests chatId:`a645ebeddae94c`; latest request chatId:`0a74a4a5c3e641`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- often incorporates pop-culture characters/actors into requested edits; 4× (last: 2025-09-01) [refs: current edit request chatId:`0a74a4a5c3e641`; previous LotR meme reference chatId:`a645ebeddae94c`]
+- often incorporates pop-culture characters/actors into requested edits; 5× (last: 2025-09-01) [refs: current edit request chatId:`f27383acc20446`; previous LotR meme reference chatId:`a645ebeddae94c`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
