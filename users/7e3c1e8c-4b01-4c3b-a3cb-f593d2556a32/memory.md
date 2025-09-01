@@ -26,4 +26,4 @@
 
 ### Emerging (new query patterns)
 - handles repository and server deployments via automated commands; PR merges, ssh deploys, agent sync; 6× (last: 2025-09-02) [refs: deployment request chatId:`23068aeac7034c`; PR & sync ops chatId:`7250d4330de448`; repo merge & deploy chatId:`9f55e81e3aaa48`; current repo merge & deploy chatId:`1efa68630e504a`; latest deployment chatId:`10a968c111a54a`]
-- exploring biology/zoology topics, e.g., metabolic rate and lifespan correlation in mammals; 1× (first: 2025-09-02) [ref: mammal breathing correlation discussion chatId:`dabdcface7a946`]
+- exploring biology/zoology topics, e.g., metabolic rate and lifespan correlation; 2× (since 2025-09-02) [refs: mammal breathing correlation discussion chatId:`dabdcface7a946`; turtle correlation question chatId:`dabdcface7a946`]
