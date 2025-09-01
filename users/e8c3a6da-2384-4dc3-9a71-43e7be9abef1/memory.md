@@ -4,6 +4,7 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - expects assistant to directly fix issues and provide working links/apps; 2× (last: 2025-09-01) [refs: LinkedIn settings automation chatId:`357adce986d445`; 404 link fix request chatId:`da818e3956b743`]
+- prefers content/captions to be long and include bullet points; 1× (first: 2025-09-01) [ref: LinkedIn post content request chatId:`357adce986d445`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -25,3 +26,4 @@
 
 ### Emerging (new query patterns)
 - exploring project deployment links and debugging deployment errors; 1× (first: 2025-09-01) [ref: 404 link fix request chatId:`da818e3956b743`]
+- leveraging LinkedIn automation for profile enhancements and post creation; 1× (first: 2025-09-01) [ref: LinkedIn content creation chatId:`357adce986d445`]
