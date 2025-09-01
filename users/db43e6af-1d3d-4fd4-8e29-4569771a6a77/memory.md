@@ -1,9 +1,9 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
 - prefers Persian language responses; 15× (last: 2025-09-02) [refs: image creation feedback chatId:`c4000286cef640`; shepherd request chatId:`f61879e9fdd24a`; bazaar image request chatId:`1a1d005ec70943`]
+- wants generated content to exactly match text/reference provided; 8× (promoted from emerging) (last: 2025-09-02) [refs: repeated accuracy complaints chatId:`c4000286cef640`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- wants generated content to closely match provided reference; 7× (last: 2025-09-02) [refs: repeated accuracy complaints chatId:`c4000286cef640`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
