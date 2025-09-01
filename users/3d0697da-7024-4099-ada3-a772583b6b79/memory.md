@@ -3,9 +3,8 @@
 - none yet
 
 ### Emerging (new signals, 1-2 reinforcements)
-- casual, informal wording with slang; 1× (first: 2025-08-31) [ref: initial task planning request chatId:`get my shit ready`]
-- requests explicit scheduling/task planning from assistant; 1× (first: 2025-08-31) [ref: asked to add tasks and reminders]
-- gives direct imperative commands for cross-platform actions (e.g., "CONFIRM"); 1× (first: 2025-09-01) [ref: Telegram confirmation chatId:`8a7bbee82a5847`]
+- gives direct imperative commands for cross-platform actions; 1× (first: 2025-09-01) [ref: Telegram confirmation chatId:`8a7bbee82a5847`]
+- requests detailed multi-step multimedia content generation; 1× (first: 2025-09-01) [ref: futuristic fashion request chatId:`976df388b00c44`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -28,6 +27,4 @@
 
 ### Emerging (new query patterns)
 - uses Todoist for task management; 1× (since 2025-08-31) [ref: add tasks to Todoist]
-- uses Bhindi scheduler for reminders; 1× (since 2025-08-31) [ref: wake-up and project reminders set]
-- exploring consumer electronics purchases; smartphone buying advice; 1× (since 2025-09-01) [ref: phone comparison chatId:`4a98be3fce854c`]
-- uses Telegram for cross-platform communication with assistant; comfortable sharing phone number; 1× (first: 2025-09-01) [ref: Telegram message request chatId:`8a7bbee82a5847`]
+- exploring AI-generated multimedia content (images, audio narration); 1× (first: 2025-09-01) [ref: futuristic fashion request chatId:`976df388b00c44`]
