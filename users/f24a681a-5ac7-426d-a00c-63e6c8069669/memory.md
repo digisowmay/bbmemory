@@ -1,10 +1,10 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
 - prioritizes perfect text accuracy and embedded images; 5× (stable since 2025-09-01) [refs: poster typo correction chatId:`fc54e482317d4d`; insistence on images in Notion chatId:`941db3860ba443`; futuristic fashion showcase chatId:`50a586c7da246`; QR & image inclusion chatId:`3549308e42cb46`; matcha logo concepts chatId:`1485bc34b23544`]
-- issues concise tool-named imperative commands; 10× [refs: "Logo Generator" command chatId:`1485bc34b23544`; "Mockup Maker" command chatId:`1485bc34b23544`; "use nanobanana" chatId:`1485bc34b23544`; regex/coder/explainer request chatId:`1485bc34b23544`; demo prompt request chatId:`1485bc34b23544`; slide deck generation command chatId:`878d52774fe040`; pomodoro planner command chatId:`1485bc34b23544`; personal finance tasks request chatId:`cffb1f71f42445`; expense breakdown "do it" command chatId:`cffb1f71f42445`]
+- issues concise tool-named imperative commands; 11× [refs: "Logo Generator" command chatId:`1485bc34b23544`; "Mockup Maker" command chatId:`1485bc34b23544`; "use nanobanana" chatId:`1485bc34b23544`; regex/coder/explainer request chatId:`1485bc34b23544`; demo prompt request chatId:`1485bc34b23544`; slide deck generation command chatId:`878d52774fe040`; pomodoro planner command chatId:`1485bc34b23544`; personal finance tasks request chatId:`cffb1f71f42445`; expense breakdown "do it" command chatId:`cffb1f71f42445`; poster creation chatId:`673669aee6e440`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- requests specific AI model (Gemini "nano banana"); 4× (last: 2025-09-01) [refs: nano banana image request chatId:`3549308e42cb46`; repeat nano banana usage chatId:`1485bc34b23544`; "use nanobanana" command chatId:`1485bc34b23544`; fitness wireframe generation chatId:`1485bc34b23544`]
+- requests specific AI model (Gemini "nano banana"); 5× (last: 2025-09-01) [refs: nano banana image request chatId:`3549308e42cb46`; repeat nano banana usage chatId:`1485bc34b23544`; "use nanobanana" command chatId:`1485bc34b23544`; fitness wireframe generation chatId:`1485bc34b23544`; poster creation chatId:`673669aee6e440`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
