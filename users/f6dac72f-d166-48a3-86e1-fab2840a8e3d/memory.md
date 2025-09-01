@@ -1,6 +1,6 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- provides detailed Russian instructions for image editing, specifying precise composition details; 19× (stable since 2025-09-01) [refs: image editing request chatId:`89a279023f0340`; chatId:`89b61a63e0cb49`; chatId:`d63e8d9dd16e42`; chatId:`0df2900de97d44`]
+- provides detailed Russian instructions for image editing, specifying precise composition details; 20× (stable since 2025-09-01) [refs: image editing request chatId:`89a279023f0340`; chatId:`89b61a63e0cb49`; chatId:`d63e8d9dd16e42`; chatId:`579243a9e2cf49`]
 
 ### Emerging (new signals, 1-2 reinforcements)
 - requests immediate repetition/iteration of edits when outcome needs reconfirmation; 1× (first: 2025-09-01) [ref: image edit repeat chatId:`d63e8d9dd16e42`]
