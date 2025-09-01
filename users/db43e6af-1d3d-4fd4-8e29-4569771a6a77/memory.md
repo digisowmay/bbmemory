@@ -1,22 +1,28 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- prefers Persian language responses; 15× (last: 2025-09-02) [refs: image creation feedback chatId:`c4000286cef640`; shepherd request chatId:`f61879e9fdd24a`; bazaar image request chatId:`1a1d005ec70943`]
-- wants generated content to exactly match text/reference provided; 10× [refs: repeated accuracy complaints chatId:`c4000286cef640`; flag text mismatch corrections chatId:`c4000286cef640`]
+- prefers Persian language responses; 16× (stable since 2024-08-15) [refs: repeated image creation feedback chatId:`c4000286cef640`; shepherd request; bazaar image request]
+- wants generated content to exactly match text/reference provided; 11× [refs: accuracy complaints with "دقت کنید" remarks chatId:`c4000286cef640`; flag text mismatch corrections]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- requests faithful recreation of supplied photos; 2× (last: 2025-09-02) [refs: ribbon-cutting photo recreation chatId:`c4000286cef640`; follow-up accuracy request chatId:`c4000286cef640`]
+- requests faithful recreation of supplied photos; 3× (last: 2025-09-02) [refs: ribbon-cutting photo recreation attempts chatId:`c4000286cef640`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
+- 
 
 ### Emerging (recent learning, current focus)
+- 
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
+- 
 
 ### Emerging (recent behavioral shifts)
+- 
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
+- 
 
 ### Emerging (new query patterns)
+- frequent image generation requests; 3× (since 2025-09-02) [refs: multiple generateImage calls chatId:`c4000286cef640`]
