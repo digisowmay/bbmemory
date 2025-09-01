@@ -27,4 +27,4 @@
 ### Emerging (new query patterns)
 - Initiating aerospace part number searches and vendor quote outreach; 3× (since 2025-09-01) [refs: part number master sheet request chatId:`7432f24ce8af4e`; vendor data population chatId:`7432f24ce8af4e`; remaining columns completion chatId:`7432f24ce8af4e`]
 - Exploring habit tracking and automation using Notion; 1× (first: 2025-09-01) [ref: Notion habit tracker creation chatId:`30e5206963db4c`]
-- Exploring audio editing & YouTube to MP3 conversions; 1× (first: 2025-09-01) [ref: youtube audio request chatId:`10d6a499a35543`]
+- Exploring audio editing & YouTube to MP3 conversions; 2× (since 2025-09-01) [refs: youtube audio request chatId:`10d6a499a35543`; current YouTube audio extraction conversation chatId:`10d6a499a35543`]
