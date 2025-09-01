@@ -2,8 +2,8 @@
 ### Durable (established, 3+ reinforcements)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- prefers quick confirmations via "CONFIRM"; 2× (last: 2025-09-01) [refs: LinkedIn post confirmation requests chatId:`c5dec0fc8bb746`]
-- uses Hindi-English mixed informal phrases; 2× (last: 2025-09-01) [refs: task requests chatId:`c5dec0fc8bb746`]
+- prefers quick confirmations via "CONFIRM"; 3× (last: 2025-09-01) [refs: LinkedIn connect request chatId:`c5dec0fc8bb746`]
+- uses Hindi-English mixed informal phrases; 3× (last: 2025-09-01) [refs: LinkedIn profile optimization request chatId:`c5dec0fc8bb746`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -24,5 +24,5 @@
 ### Durable (regular platform activities)
 
 ### Emerging (new query patterns)
-- frequently requests LinkedIn profile and post management; 3× (since 2025-09-01) [refs: LinkedIn posting sequence chatId:`c5dec0fc8bb746`]
+- frequently requests LinkedIn profile and post management & optimization; 4× (since 2025-09-01) [refs: LinkedIn about section request chatId:`c5dec0fc8bb746`]
 - uses GitHub for projects, wants LinkedIn promotion; 2× (since 2025-09-01) [refs: GitHub listing and posting chatId:`c5dec0fc8bb746`]
