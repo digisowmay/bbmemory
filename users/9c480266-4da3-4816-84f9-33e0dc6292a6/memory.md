@@ -28,4 +28,5 @@
 
 ### Emerging (new query patterns)
 - actively searching and requesting back-office job listings and quick-apply portals; 3× (since 2025-09-01) [refs: job portal conversation chatId:`efe1936c6d7440`; repeated apply requests chatId:`efe1936c6d7440`; job openings follow-up chatId:`efe1936c6d7440`]
-- exploring GitHub profile optimization and settings; 1× (first: 2025-09-01) [ref: GitHub settings request chatId:`efe1936c6d7440`]
+- exploring GitHub profile optimization and settings; 2× (last: 2025-09-01) [refs: GitHub settings request chatId:`efe1936c6d7440`; GitHub profile strengthening discussion chatId:`efe1936c6d7440`]
+- exploring ChatGPT Agent mode features; 1× (first: 2025-09-01) [ref: ChatGPT Agent option query chatId:`efe1936c6d7440`]
