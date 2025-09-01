@@ -4,6 +4,7 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - shares detailed technical reports (Lighthouse) and asks for actionable analysis; 2× (last: 2025-09-01) [ref: website optimization discussion chatId:`3ac6996d724c48`]
+- prefers step-by-step, actionable solutions with code/config examples; 1× (first: 2025-09-01) [ref: "how we can improve with solution" request chatId:`3ac6996d724c48`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -18,6 +19,7 @@
 
 ### Emerging (recent behavioral shifts)
 - seeks structured, technical optimization guidance; 2× (observed: 2025-09-01) [ref: future-proof optimization strategy request chatId:`3ac6996d724c48`]
+- learns best through concrete implementation snippets and examples; 1× (observed: 2025-09-01) [ref: code/config example demand chatId:`3ac6996d724c48`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
