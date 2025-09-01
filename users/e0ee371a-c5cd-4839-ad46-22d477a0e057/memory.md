@@ -3,7 +3,7 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - uses detailed prompt-style requests for AI image generation with tags and parameters; 1× (first: 2025-09-01) [refs: fantasy sorceress image prompt chatId:`47a98e2c06da48`]
-- issues concise imperative commands for image transformations (e.g., "Make it nighttime", "Make it under a summer umbrella casted light"); 3× (last: 2025-09-01) [refs: nighttime transformation request; summer umbrella request; bird adult transformation chatId:`a6b27296123448`]
+- issues concise imperative commands for image transformations and generation; 4× (last: 2025-09-01) [refs: nighttime transformation request; summer umbrella request; bird adult transformation chatId:`a6b27296123448`; comic strip request chatId:`3a189f27eff54c`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -21,4 +21,4 @@
 ### Durable (regular platform activities)
 
 ### Emerging (new query patterns)
-- experimenting with AI image generation tools; 5× (since 2025-09-01) [refs: fluxproultra-imagegen request chatId:`47a98e2c06da48`; bird adult transformation; nighttime transformation; summer umbrella transformation chatId:`a6b27296123448`; other image requests]
+- experimenting with AI image generation tools; 6× (since 2025-09-01) [refs: fluxproultra-imagegen request chatId:`47a98e2c06da48`; bird adult transformation; nighttime transformation; summer umbrella transformation chatId:`a6b27296123448`; comic strip request chatId:`3a189f27eff54c`; other image requests]
