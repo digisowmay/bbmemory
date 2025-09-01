@@ -2,8 +2,8 @@
 ### Durable (established, 3+ reinforcements)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- prefers transparent technical error details; 1× (first: 2025-09-01) [ref: request for exact error message chatId:`4dc30d7999dd4f`]
-- prioritizes perfect text accuracy and embedded images over links in AI-generated visuals; 2× (last: 2025-09-01) [refs: poster typo correction chatId:`fc54e482317d4d`; insistence on images in Notion chatId:`941db3860ba443`]
+- prioritizes perfect text accuracy and embedded images; 3× (last: 2025-09-01) [refs: poster typo correction chatId:`fc54e482317d4d`; insistence on images in Notion chatId:`941db3860ba443`; futuristic fashion showcase chatId:`50a5866c7da246`]
+- requests integrated multi-modal deliverables (image + audio + analysis); 1× (first: 2025-09-01) [ref: futuristic fashion showcase chatId:`50a5866c7da246`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -21,4 +21,4 @@
 
 ### Emerging (new query patterns)
 - exploring automated slide deck generation via Google Slides; 1× (first: 2025-09-01) [ref: slide deck generation request chatId:`878d52774fe040`]
-- exploring multiple vision/image generation and analysis agents for design tasks; 2× (last: 2025-09-01) [refs: agent integration discussion chatId:`fc54e482317d4d`; futuristic fashion image analysis chatId:`61586ea7b3e942`]
+- exploring multiple vision/image generation and analysis agents for design tasks; 3× (last: 2025-09-01) [refs: agent integration discussion chatId:`fc54e482317d4d`; futuristic fashion image analysis chatId:`61586ea7b3e942`; futuristic fashion showcase chatId:`50a5866c7da246`]
