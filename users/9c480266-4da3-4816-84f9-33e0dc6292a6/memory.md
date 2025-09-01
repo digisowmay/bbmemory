@@ -3,8 +3,8 @@
 -
 
 ### Emerging (new signals, 1-2 reinforcements)
-- shares information in mixed Hindi-English bullet lists for clarity; 2× (last: 2025-09-01) [refs: resume submission chatId:`efe1936c6d7440`; step-by-step request chatId:`efe1936c6d7440`]
-- asks for quick, actionable step-by-step instructions to apply fast; 1× (first: 2025-09-01) [ref: urgent apply request chatId:`efe1936c6d7440`]
+- shares information in mixed Hindi-English bullet lists for clarity; 3× (last: 2025-09-01) [refs: resume submission chatId:`efe1936c6d7440`; step-by-step request chatId:`efe1936c6d7440`; steps bullet list chatId:`efe1936c6d7440`]
+- asks for quick, actionable step-by-step instructions to apply fast; 2× (last: 2025-09-01) [refs: urgent apply request chatId:`efe1936c6d7440`; follow-up steps request chatId:`efe1936c6d7440`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -20,7 +20,7 @@
 
 ### Emerging (recent behavioral shifts)
 - prefers immediate actionable guidance and fast solutions; 1× (observed: 2025-09-01) [ref: apply fast request chatId:`efe1936c6d7440`]
-- attempts to delegate execution (e.g., asks if assistant applied on their behalf); 1× (first: 2025-09-01) [ref: "Apne apply kar dya?" chatId:`efe1936c6d7440`]
+- attempts to delegate execution (e.g., asks assistant to apply or email on their behalf); 2× (last: 2025-09-01) [refs: "Apne apply kar dya?" chatId:`efe1936c6d7440`; request to send email/apply chatId:`efe1936c6d7440`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
