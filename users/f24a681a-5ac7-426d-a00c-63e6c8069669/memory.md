@@ -4,7 +4,7 @@
 - Seeks troubleshooting details and alternative tool options when initial solutions fall short; 7× [refs: alternate agent for Gemini Vision; tool replacement recommendations; DigitalIllustrator agent request; Harmony poster corrections chatId:`fc54e482317d4d`; agent integration suggestions chatId:`fc54e482317d4d`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- Prefers embedded images over plain links; 5× (last: 2025-09-01) [refs: insistence on embedded images chatId:`941db3860ba443`; poster image confirmation chatId:`fc54e482317d4d`; feedback about missing QR & image chatId:`3549308e42cb46`; asked why QR and image not provided chatId:`3549308e42cb46`; re-affirmed embed preference chatId:`d9b9b2f3fb0843`]
+- Prefers embedded images over plain links and requests direct embedding into docs; 6× (last: 2025-09-01) [refs: insistence on embedded images chatId:`941db3860ba443`; poster image confirmation chatId:`fc54e482317d4d`; feedback about missing QR & image chatId:`3549308e42cb46`; asked why QR and image not provided chatId:`3549308e42cb46`; re-affirmed embed preference chatId:`d9b9b2f3fb0843`; latest request to embed in Google Docs chatId:`d06ae443bbd74f`]
 - Asks about agent/tool integrations and developer-oriented solutions for better output; 2× (last: 2025-09-01) [refs: integration inquiry chatId:`fc54e482317d4d`; discussion on additional agents and ideogramv2 chatId:`fc54e482317d4d`]
 
 ## Knowledge & Context
