@@ -3,23 +3,24 @@
 - requests concrete, step-by-step MVP guidance and rapid timelines; 4× [refs: MVP roadmap chatId:`bdf320c01d4446`; 15-day MVP plan chatId:`bdf320c01d4446`; voice-interactive MVP timeline chatId:`bdf320c01d4446`; current 15-day voice command MVP chatId:`bdf320c01d4446`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- proposes highly ambitious, large-scale ideas and valuations (e.g., $5T goal); 2× (last: 2025-09-01) [refs: $5T business expansion chatId:`bdf320c01d4446`; current scaling question chatId:`bdf320c01d4446`]
-- shows strong preference for voice-interactive explanations and commands; 1× (first: 2025-09-01) [ref: voice command MVP discussion chatId:`bdf320c01d4446`]
+- proposes highly ambitious, large-scale ideas and valuations (e.g., $5T goal); 2× (last: 2025-09-01) [refs: $5T business expansion chatId:`bdf320c01d4446`; scaling question chatId:`bdf320c01d4446`]
+- shows strong preference for voice-interactive explanations and commands; 2× (last: 2025-09-01) [refs: voice command MVP discussions chatId:`bdf320c01d4446`; current voice command build chatId:`bdf320c01d4446`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
 - lacks coding skills and relies on no-code/AI tools to build apps; 4× [refs: no-code MVP discussion chatId:`bdf320c01d4446`; 15-day MVP build plan chatId:`bdf320c01d4446`; voice-interactive MVP chatId:`bdf320c01d4446`; current MVP planning chatId:`bdf320c01d4446`]
-- developing "Metamorphosis AI" personal transformation app concept; 3× [refs: concept discussions chatId:`bdf320c01d4446`; IoT & psychology features chatId:`bdf320c01d4446`; current refined MVP chatId:`bdf320c01d4446`]
+- developing "Metamorphosis AI" personal transformation app concept; 3× [refs: concept discussions chatId:`bdf320c01d4446`; IoT & psychology features chatId:`bdf320c01d4446`; refined MVP chatId:`bdf320c01d4446`]
 
 ### Emerging (recent learning, current focus)
-- interested in screen-blocking, productivity, and sleep-affirmation techniques for user transformation; 1× (first: 2025-09-01) [ref: current MVP feature list chatId:`bdf320c01d4446`]
-- struggling with procrastination, porn addiction, low self-esteem; seeking psychological self-improvement; 1× (first: 2025-09-01) [ref: self-description of challenges chatId:`bdf320c01d4446`]
+- interested in screen-blocking, productivity, and sleep-affirmation techniques for user transformation; 2× (since 2025-09-01) [refs: feature list chatId:`bdf320c01d4446`; focused productivity transformer MVP chatId:`bdf320c01d4446`]
+- struggling with procrastination, porn addiction, low self-esteem; seeking psychological self-improvement; 1× (first: 2025-09-01) [ref: self-description chatId:`bdf320c01d4446`]
+- exploring subconscious mind programming (binaural beats, affirmation audio, brain hacking) for behavior change; 1× (first: 2025-09-01) [ref: sleep reprogramming feature discussion chatId:`bdf320c01d4446`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
 
 ### Emerging (recent behavioral shifts)
-- visionary thinker aiming for massive impact and rapid scale; 2× (last: 2025-09-01) [refs: $5T goal conversation chatId:`bdf320c01d4446`; current expansion question chatId:`bdf320c01d4446`]
+- visionary thinker aiming for massive impact and rapid scale; 2× (last: 2025-09-01) [refs: $5T goal conversation chatId:`bdf320c01d4446`; expansion feature brainstorm chatId:`bdf320c01d4446`]
 - prefers accelerated execution (e.g., 15-day MVP targets); 4× (last: 2025-09-01) [refs: multiple 15-day MVP requests chatId:`bdf320c01d4446`]
 
 ## Platform Usage & Queries
