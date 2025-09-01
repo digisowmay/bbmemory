@@ -14,6 +14,7 @@
 - preparing for CAT exam in 9 weeks; 1× (started: 2025-09-01) [ref: pomodoro planner request chatId:`1485bc34b23544`]
 - saving for a Dior handbag purchase; researching best online deals; 1× (first: 2025-09-01) [ref: luxury bag deal research chatId:`b0d68ba3611241`]
 - exploring mobile app wireframe generation; 5× (since 2025-09-01) [refs: initial mockup maker request chatId:`1485bc34b23544`; follow-up fitness wireframe generation chatId:`1485bc34b23544`; nano banana wireframe generation chatId:`1485bc34b23544`; fitness app wireframe chatId:`f3065311b0cc43`; regex prompt wireframe context chatId:`f3065311b0cc43`]
+- runs a YouTube channel targeting Indian audience aged 20-28; personal finance & lifestyle content; 1× (first: 2025-09-01) [ref: YouTube script request chatId:`941db3860ba443`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
