@@ -5,7 +5,7 @@
 - insists on verification and cross-referenced counts before decisions; 4× (promoted from emerging) (last: 2025-09-01) [refs: "CRITICAL: Always verify you've checked ALL users" chatId:`9fd3ecf40d4b4f`; AWS users completeness follow-up chatId:`db9b4761e5c242`; "why only 5 ?" chatId:`db9b4761e5c242`; method explanation request chatId:`4e261e1b31e742`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- expects exhaustive datasets and calls out incomplete summaries; 8× (last: 2025-09-01) [refs: "others ?" chatId:`4e261e1b31e742`; follow-up drill-down requests chatId:`db9b4761e5c242`]
+- expects exhaustive datasets and calls out incomplete summaries; 9× (last: 2025-09-01) [refs: "others ?" chatId:`4e261e1b31e742`; follow-up drill-down requests chatId:`db9b4761e5c242`; grouping request chatId:`4e261e1b31e742`]
 - prefers condensed executive summaries (3-4 paragraphs max) with minimal, insight-rich tables; rejects unsolicited fixes and wants problem-only views; 4× (last: 2025-09-01) [refs: "very easy to consume report" chatId:`db9b4761e5c242`; "Don't suggest fixes" chatId:`db9b4761e5c242`; "Tables can be more insightfull" chatId:`db9b4761e5c242`]
 
 ## Knowledge & Context
