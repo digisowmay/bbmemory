@@ -1,20 +1,21 @@
 ## Communication Patterns
-### Durable
+### Durable (established, 3+ reinforcements)
 
-### Emerging
+### Emerging (new signals, 1-2 reinforcements)
+- issues short, direct commands for tasks; 2× (last: 2025-08-31) [refs: demo background agent command chatId:`d91fd07345a14e`; add reminder command chatId:`d91fd07345a14e`]
 
 ## Knowledge & Context
-### Durable
+### Durable (core expertise, established over time)
 
-### Emerging
+### Emerging (recent learning, current focus)
 
 ## Thinking & Working Style
-### Durable
+### Durable (core thinking patterns)
 
-### Emerging
+### Emerging (recent behavioral shifts)
 
 ## Platform Usage & Queries
-### Durable
+### Durable (regular platform activities)
 
-### Emerging
-- exploring Bhindi background agent features; 1× (first: 2025-08-31) [ref: chatId:`d91fd07345a14e`]
+### Emerging (new query patterns)
+- exploring Bhindi background agent features; 2× (since 2025-08-31) [refs: background agent demo request chatId:`d91fd07345a14e`; reminder scheduling chatId:`d91fd07345a14e`]
