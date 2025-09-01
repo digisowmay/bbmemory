@@ -14,11 +14,11 @@
 ### Durable (core thinking patterns)
 
 ### Emerging (recent behavioral shifts)
-- delegates operational tasks to assistant (github, communication, contact introductions); 5× (last: 2025-09-01) [refs: repo creation chatId:`d724c81825db43`; issue creation upsurgeio/bhindi-client; repo info request chatId:`1ca5ab44cb9346`; echo response assistance chatId:`a4daaefac5f34a`; echo reply drafting chatId:`86f73807007040`]
+- delegates operational tasks to assistant (github, communication, contact introductions); 6× (last: 2025-09-01) [refs: repo creation chatId:`d724c81825db43`; issue creation upsurgeio/bhindi-client; repo info request chatId:`1ca5ab44cb9346`; echo response assistance chatId:`a4daaefac5f34a`; echo reply drafting chatId:`86f73807007040`; issue creation chatId:`29d87cd1522841`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
 
 ### Emerging (new query patterns)
-- uses assistant to manage GitHub repository tasks; 3× (since 2025-09-01) [refs: created issue in upsurgeio/bhindi-client; repo creation chatId:`d724c81825db43`; repo info request chatId:`1ca5ab44cb9346`]
+- uses assistant to manage GitHub repository tasks; 4× (since 2025-09-01) [refs: created issue in upsurgeio/bhindi-client; repo creation chatId:`d724c81825db43`; repo info request chatId:`1ca5ab44cb9346`; issue creation chatId:`29d87cd1522841`]
 - uses assistant to handle internal echo communications; 2× (last: 2025-09-01) [refs: echo response assistance chatId:`a4daaefac5f34a`; manager introduction drafting chatId:`86f73807007040`]
