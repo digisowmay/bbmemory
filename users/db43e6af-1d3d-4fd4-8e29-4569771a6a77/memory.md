@@ -1,6 +1,6 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- prefers Persian language responses; 7× (last: 2025-09-02) [refs: image generation request chatId:`0a70bc99bc3247`; image generation continuation chatId:`ee95539c592842`; shepherd request chatId:`f61879e9fdd24a`; bazaar image request chatId:`1a1d005ec70943`]
+- prefers Persian language responses; 8× (last: 2025-09-02) [refs: image generation request chatId:`0a70bc99bc3247`; shepherd request chatId:`f61879e9fdd24a`; bazaar image request chatId:`1a1d005ec70943`]
 
 ### Emerging (new signals, 1-2 reinforcements)
 
@@ -18,4 +18,4 @@
 ### Durable (regular platform activities)
 
 ### Emerging (new query patterns)
-- exploring AI image generation; 6× (since 2025-09-02, last: 2025-09-02) [refs: image generation request chatId:`0a70bc99bc3247`; new image request chatId:`ee95539c592842`; shepherd request chatId:`f61879e9fdd24a`; Hazara shepherd request chatId:`f61879e9fdd24a`; Persian conversation chatId:`0a70bc99bc3247`; bazaar image request chatId:`1a1d005ec70943`]
+- exploring AI image generation; 7× (since 2025-09-02, last: 2025-09-02) [refs: image generation request chatId:`0a70bc99bc3247`; shepherd request chatId:`f61879e9fdd24a`; bazaar image request chatId:`1a1d005ec70943`]
