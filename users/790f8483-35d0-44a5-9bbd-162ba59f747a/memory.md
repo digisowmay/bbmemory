@@ -1,6 +1,6 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- delegates crafting and sending exact outbound messages to match recipient tone; 5× (promoted from emerging) [refs: response crafting for sowmay chatId:`1fb2611896b64d`; file resizer agent message crafting chatId:`1fb2611896b64d`; hello echo instruction chatId:`1fb2611896b64d`; exact technical message send chatId:`1fb2611896b64d`; multiple casual hello echoes chatId:`1fb2611896b64d`]
+- delegates crafting and sending exact outbound messages to match recipient tone; 6× [refs: response crafting for sowmay chatId:`1fb2611896b64d`; file resizer agent message crafting chatId:`1fb2611896b64d`; hello echo instruction chatId:`1fb2611896b64d`; exact technical message send chatId:`1fb2611896b64d`; multiple casual hello echoes chatId:`1fb2611896b64d`; echo greeting chatId:`e6da8193a94246`]
 
 ### Emerging (new signals, 1-2 reinforcements)
 - shares full academic PDFs for discussion/analysis; 1× (first: 2025-09-01) [ref: shared Dynamo paper chatId:`b3eafc0bcbc641`]
@@ -24,7 +24,7 @@
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
-- uses echo tool to relay messages to teammate (@sowmay) frequently; 5× (promoted from emerging) [refs: multiple echo sends chatId:`1fb2611896b64d`; hello echo chatId:`1fb2611896b64d`; exact message echo chatId:`1fb2611896b64d`; additional hello echoes chatId:`1fb2611896b64d`; technical error echo chatId:`1fb2611896b64d`]
+- uses echo tool to relay messages to teammate (@sowmay) frequently; 6× [refs: multiple echo sends chatId:`1fb2611896b64d`; hello echo chatId:`1fb2611896b64d`; exact message echo chatId:`1fb2611896b64d`; additional hello echoes chatId:`1fb2611896b64d`; technical error echo chatId:`1fb2611896b64d`; echo greeting chatId:`e6da8193a94246`]
 
 ### Emerging (new query patterns)
 - seeks luxury fashion price comparisons (e.g., Dior bags); 1× (first: 2025-09-01) [ref: Dior bag deal research chatId:`2be368dbcfc549`]
