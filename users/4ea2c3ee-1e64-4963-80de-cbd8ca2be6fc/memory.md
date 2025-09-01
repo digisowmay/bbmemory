@@ -24,5 +24,5 @@
 - seeks job application assistance and LinkedIn optimization; 4× [refs: LinkedIn settings request; job portal apply request; resume share; follow-up apply directive]
 
 ### Emerging (new query patterns)
-- interested in multi-portal automated job applications; 3× (since 2025-08-31) [refs: "jitne online portal hh job k lye apply kardo"; PDF resume upload with URL; bulk email request chatId:`5ee6e10310a548`]
-- authorizes Gmail integration for automatic email sending; 1× (first: 2025-09-01) [ref: Gmail connect instruction chatId:`5ee6e10310a548`]
+- interested in multi-portal automated job applications; 4× (since 2025-08-31) [refs: "jitne online portal hh job k lye apply kardo"; PDF resume upload with URL; previous apply directive chatId:`5ee6e10310a548`; current bulk email send chatId:`5ee6e10310a548`]
+- authorizes Gmail integration for automatic email sending; 2× (last: 2025-09-01) [refs: initial Gmail connect instruction chatId:`5ee6e10310a548`; repeat request for Gmail connect and bulk emails chatId:`5ee6e10310a548`]
