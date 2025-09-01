@@ -4,7 +4,7 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - asks assistant to propose echo drafts first for approval before sending and to pause before any subsequent actions; 4× (last: 2025-09-01) [refs: echo draft confirmation chatId:`12d57ffff79e4c`; current draft approval chatId:`73a0bbe55a164b`]
-- meta-aware of assistant operations, ensuring compliance and correcting inaccuracies; 4× (last: 2025-09-01) [refs: memory update request chatId:`20ecd26342b542`; correction about file-resizer status chatId:`094638fe64ba4c`]
+- meta-aware of assistant operations, ensuring compliance, correcting inaccuracies, and dislikes redundant questions about established instructions; 5× (last: 2025-09-01) [refs: memory update request chatId:`20ecd26342b542`; correction about file-resizer status and assignment flow questioning chatId:`094638fe64ba4c`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -19,7 +19,7 @@
 - fast decision-maker who delegates execution to assistant; 6× [refs: rapid timeline choice after suggestion; direct echo commands; PR merge command chatId:`5f76ce15051447`; GitHub issue directive chatId:`cc50e528c2fe4a`]
 
 ### Emerging (recent behavioral shifts)
-- meta-aware of assistant operations, ensuring compliance; 4× (last: 2025-09-01) [refs: memory update instructions chatId:`20ecd26342b542`; correction interaction chatId:`094638fe64ba4c`]
+- meta-aware of assistant operations, ensuring compliance; 5× (last: 2025-09-01) [refs: memory update instructions chatId:`20ecd26342b542`; correction interaction chatId:`094638fe64ba4c`]
 - expects automated retries on transient failures (e.g., 502) and persistence in execution; 1× (first: 2025-09-01) [ref: agent sync retry instruction chatId:`cda7e7aaede64c`]
 
 ## Platform Usage & Queries
