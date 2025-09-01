@@ -17,6 +17,7 @@
 ### Durable (core thinking patterns)
 
 ### Emerging (recent behavioral shifts)
+- pide cambios drásticos y no se conforma hasta notar diferencia evidente; 1× (first: 2025-09-01) [ref: "no se nota nada" feedback y solicitud de edición más extrema chatId:`60878928de534b`]
 - preferencia estética retro (años 80 y pop español 2000s) para imágenes; 6× (last: 2025-09-01) [refs: múltiples solicitudes de estética 80s; chatId:`60878928de534b`]
 
 ## Platform Usage & Queries
