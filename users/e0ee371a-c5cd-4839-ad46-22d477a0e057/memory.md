@@ -2,13 +2,13 @@
 ### Durable (established, 3+ reinforcements)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- uses detailed prompt-style requests for AI image generation with tags and parameters; 1× (first: 2025-09-01) [ref: fantasy sorceress image prompt chatId:`47a98e2c06da48`]
+- uses detailed prompt-style requests for AI image generation with tags and parameters; 1× (first: 2025-09-01) [refs: fantasy sorceress image prompt chatId:`47a98e2c06da48`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
 
 ### Emerging (recent learning, current focus)
-- interested in fantasy-themed artwork and character design; 1× (started: 2025-09-01) [ref: sorceress image generation chatId:`47a98e2c06da48`]
+- interested in fantasy-themed artwork and character design; 2× (since 2025-09-01) [refs: sorceress image generation chatId:`47a98e2c06da48`; bird adult transformation chatId:`a6b27296123448`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
@@ -20,4 +20,4 @@
 ### Durable (regular platform activities)
 
 ### Emerging (new query patterns)
-- experimenting with AI image generation tools; 1× (since 2025-09-01) [ref: fluxproultra-imagegen request chatId:`47a98e2c06da48`]
+- experimenting with AI image generation tools; 2× (since 2025-09-01) [refs: fluxproultra-imagegen request chatId:`47a98e2c06da48`; bird adult transformation chatId:`a6b27296123448`]
