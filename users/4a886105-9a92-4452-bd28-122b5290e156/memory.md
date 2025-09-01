@@ -19,12 +19,12 @@
 - (none yet)
 
 ### Emerging (recent behavioral shifts)
-- uses repeated sync cycles for agents, showing iterative persistence until desired state; 1× (first: 2025-09-01) [ref: repeated google-docs sync chatId:`e6465ef0287f4e`]
+- uses repeated sync cycles for agents; 2× (last: 2025-09-01) [refs: repeated google-docs sync chatId:`e6465ef0287f4e`; agent sync request chatId:`7bae6c37662742`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
 - checks crypto prices frequently; Bitcoin, Ethereum tracking; 5× [refs: btc price request msgId:`btcPrice20250831`; btc price second request msgId:`btcPrice20250831_2`; eth price request chatId:`4271ff6186b041`; eth price request chatId:`d74ecba952644e`; chatId:`2b3e3256998445`]
-- manages bhindi agents (add, sync, retrieve prompts) via bhindi-agent-manager and bhindi-admin; 12× [refs: multiple sync and prompt retrieval chatId:`e6465ef0287f4e`]
+- manages bhindi agents (add, sync, retrieve prompts) via bhindi-agent-manager and bhindi-admin; 13× [refs: multiple sync and prompt retrieval chatId:`e6465ef0287f4e`; agent sync request chatId:`7bae6c37662742`]
 
 ### Emerging (new query patterns)
 - sends operational messages via bhindi-echo to team members; 1× (first: 2025-09-01) [ref: echo credits request chatId:`e6465ef0287f4e`]
