@@ -20,6 +20,7 @@
 
 ### Emerging (recent behavioral shifts)
 - prefers receiving structured, summarized outputs from large technical documents; 5× (last: 2025-09-01) [refs: summary requests for Datel proposal and additional document analysis chatId:`b2776138c89440`]
+- seeks quick, on-point learning resources to rapidly upskill (AI/data science); 1× (first: 2025-09-01) [ref: course search request chatId:`99d4e14f11624f`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
