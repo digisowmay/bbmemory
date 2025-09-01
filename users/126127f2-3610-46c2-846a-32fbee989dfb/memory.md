@@ -2,10 +2,10 @@
 ### Durable (established, 3+ reinforcements)
 - communicates primarily in Russian and gives instructions in that language; 14× (stable since 2025-08-30) [refs: image editing request chatId:`470b9d47a6f840`; ongoing edit requests chatId:`a645ebeddae94c`; latest request chatId:`0a74a4a5c3e641`]
 - provides detailed artistic direction for visual edits (pose, location, camera angle, objects, color palette); 14× [refs: image edit request chatId:`470b9d47a6f840`; ongoing edit requests chatId:`a645ebeddae94c`; latest request chatId:`0a74a4a5c3e641`]
+- incorporates pop-culture characters/actors into requested edits; 6× (promoted from emerging) [refs: current edit request chatId:`73efc16281e84c`; previous LotR meme reference chatId:`a645ebeddae94c`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- often incorporates pop-culture characters/actors into requested edits; 5× (last: 2025-09-01) [refs: current edit request chatId:`f27383acc20446`; previous LotR meme reference chatId:`a645ebeddae94c`]
-- requests iterative refinements, focusing on small realism details (e.g., hand femininity, background cleanup); 1× (first: 2025-09-01) [ref: finger/background adjustment chatId:`f27383acc20446`]
+- requests iterative refinements, focusing on small realism details (e.g., hand femininity, background cleanup); 2× (last: 2025-09-01) [refs: finger/background adjustment chatId:`f27383acc20446`; current edit chatId:`73efc16281e84c`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
