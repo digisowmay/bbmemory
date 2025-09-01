@@ -4,7 +4,7 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - prefers concise bullet-point responses for marketing ideas; 2× (last: 2025-09-01) [ref: carousel tips discussions chatId:`afd7676c123043`]
-- pragmatic request style—asks for immediate actionable content; 3× (last: 2025-09-01) [refs: carousel content requests chatId:`afd7676c123043`; tasks request chatId:`49014cdbca0d41`]
+- pragmatic request style—asks for immediate actionable content; 4× (last: 2025-09-01) [refs: carousel content requests chatId:`afd7676c123043`; tasks request chatId:`49014cdbca0d41`; clipper list demand chatId:`49014cdbca0d41`; earlier follow-up]
 - collaborative mindset—expresses desire to work with the team; 1× (first: 2025-09-01) [ref: welcome reply to kuber chatId:`40ccced377c94a`]
 
 ## Knowledge & Context
@@ -20,7 +20,7 @@
 - none identified yet; 0× [ref: insufficient data]
 
 ### Emerging (recent behavioral shifts)
-- pragmatic request style—asks for immediate actionable content; 3× (last: 2025-09-01) [refs: carousel content requests chatId:`afd7676c123043`; tasks request chatId:`49014cdbca0d41`]  
+- pragmatic request style—asks for immediate actionable content; 4× (last: 2025-09-01) [refs: carousel content requests chatId:`afd7676c123043`; tasks request chatId:`49014cdbca0d41`; clipper list demand chatId:`49014cdbca0d41`; earlier follow-up]
 - collaborative mindset—expresses desire to work with the team; 1× (first: 2025-09-01) [ref: welcome reply to kuber chatId:`40ccced377c94a`]
 
 ## Platform Usage & Queries
@@ -29,3 +29,4 @@
 
 ### Emerging (new query patterns)
 - requests social media content creation (carousel ideas); 2× (since 2025-09-01) [refs: repeated carousel content requests chatId:`afd7676c123043`]
+- seeking influencer outreach and clipper discovery guidance; 2× (since 2025-09-01) [refs: clipper strategy discussions chatId:`49014cdbca0d41`; clipper list demand chatId:`49014cdbca0d41`]
