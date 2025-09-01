@@ -20,6 +20,7 @@
 
 ### Emerging (recent behavioral shifts)
 - prefers immediate actionable guidance and fast solutions; 1× (observed: 2025-09-01) [ref: apply fast request chatId:`efe1936c6d7440`]
+- attempts to delegate execution (e.g., asks if assistant applied on their behalf); 1× (first: 2025-09-01) [ref: "Apne apply kar dya?" chatId:`efe1936c6d7440`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
