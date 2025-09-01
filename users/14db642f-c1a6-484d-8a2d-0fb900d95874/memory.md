@@ -4,13 +4,14 @@
 ### Emerging (new signals, 1-2 reinforcements)
 - wants detailed expert-backed analysis before making purchase/booking decisions; 5× (last: 2025-09-01) [refs: smartphone buying advice; multiple Delhi accommodation queries chatId:`3f05fd8480d94b`]
 - prefers direct actionable links (URLs) for recommendations; 4× (last: 2025-09-01) [refs: Airbnb links request; corridor options request; latest link follow-up chatId:`3f05fd8480d94b`]
+- requests precise location keywords/terms to perform own searches; 1× (first: 2025-09-01) [ref: asked for locations to search chatId:`3f05fd8480d94b`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
 
 ### Emerging (recent learning, current focus)
 - planning to buy a new smartphone; 1× (started: 2025-08-31) [ref: smartphone purchase advice chatId:`3f05fd8480d94b`]
-- upcoming Delhi trip (Sept 24-29) requiring budget accommodation near Yashobhoomi Convention Centre for 4 people; 1× (first: 2025-09-01) [ref: accommodation request chatId:`3f05fd8480d94b`]
+- upcoming Delhi trip (Sept 24-29) requiring budget accommodation near Yashobhoomi Convention Centre for 4 people; 2× (last: 2025-09-01) [refs: accommodation requests; event proximity discussion chatId:`3f05fd8480d94b`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
