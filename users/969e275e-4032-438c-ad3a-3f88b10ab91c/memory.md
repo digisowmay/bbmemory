@@ -1,6 +1,6 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- prefers concise, direct questions with minimal context; 4× (stable since 2025-08-31) [refs: asked "What is yolo"; asked "How can i take ss in fold 5"; Gujarat news request chatId:`72d2ea4881464e`; crypto indicators request chatId:`a3e427fd350243`]
+- prefers concise, direct questions with minimal context; 5× (stable since 2025-08-31) [refs: asked "What is yolo"; asked "How can i take ss in fold 5"; Gujarat news request chatId:`72d2ea4881464e`; crypto indicators request chatId:`a3e427fd350243`; trend indicators request chatId:`a3e427fd350243`]
 
 ### Emerging (new signals, 1-2 reinforcements)
 - requests task scheduling with few details; 1× (first: 2025-08-31) [ref: requested to set Maharashtra trip reminder]
@@ -26,4 +26,4 @@
 
 ### Emerging (new query patterns)
 - requests news/current affairs updates; 1× (first: 2025-09-01) [ref: Gujarat news request chatId:`72d2ea4881464e`]
-- asks about crypto trading indicators; 1× (first: 2025-09-01) [ref: crypto indicators request chatId:`a3e427fd350243`]
+- asks about crypto trading indicators; 2× (since 2025-09-01) [refs: crypto indicators request chatId:`a3e427fd350243`; trend indicators request chatId:`a3e427fd350243`]
