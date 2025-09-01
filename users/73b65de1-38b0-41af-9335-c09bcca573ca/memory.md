@@ -5,8 +5,8 @@
 - frequently asks meta questions about the assistant's identity and capabilities; 8× [refs: "Who are you" chatId:`0d38b969c2a748`; "Are you really a human being" chatId:`0d38b969c2a748`; "How do you shine" chatId:`0d38b969c2a748`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- short single-word greetings to initiate chat (e.g., "Hii"); 2× (last: 2025-09-01) [refs: greeting messages chatId:`0d38b969c2a748`]
-- requests custom assistant naming and pronunciation guidance; 1× (first: 2025-09-01) [ref: "Give me a name to call you" & "How can you sound that name" chatId:`0d38b969c2a748`]
+- short single-word greetings to initiate chat (e.g., "Hii"); 3× (last: 2025-09-01) [refs: greeting messages chatId:`0d38b969c2a748`]
+- requests custom assistant naming and pronunciation guidance; 2× (last: 2025-09-01) [refs: "Give me a name to call you" & "How can you sound that name" chatId:`0d38b969c2a748`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
