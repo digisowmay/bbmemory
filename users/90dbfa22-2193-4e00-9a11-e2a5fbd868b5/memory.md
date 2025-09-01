@@ -4,6 +4,7 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - requests polite wording when messaging others; 1× (first: 2025-09-01) [ref: chatId:`2cc88ef301464e`]
+- prefers precise terminology; rapid correction of wording (e.g., 'POC' vs 'manager'); 1× (first: 2025-09-01) [ref: chatId:`73bb586bed0c41`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
