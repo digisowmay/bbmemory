@@ -1,10 +1,10 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
+- wants detailed expert-backed analysis before making purchase/booking decisions; 5× (stable since 2025-09-01) [refs: smartphone buying advice; multiple Delhi accommodation queries chatId:`3f05fd8480d94b`]
+- prefers direct actionable links (URLs) for recommendations; 4× (stable since 2025-09-01) [refs: Airbnb links request; corridor options request; latest link follow-up chatId:`3f05fd8480d94b`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- wants detailed expert-backed analysis before making purchase/booking decisions; 5× (last: 2025-09-01) [refs: smartphone buying advice; multiple Delhi accommodation queries chatId:`3f05fd8480d94b`]
-- prefers direct actionable links (URLs) for recommendations; 4× (last: 2025-09-01) [refs: Airbnb links request; corridor options request; latest link follow-up chatId:`3f05fd8480d94b`]
-- requests precise location keywords/terms to perform own searches; 1× (first: 2025-09-01) [ref: asked for locations to search chatId:`3f05fd8480d94b`]
+- issues direct transactional commands for blockchain operations; 1× (first: 2025-09-01) [ref: USDC transfer instruction chatId:`a4b58f06220b4c`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -15,12 +15,13 @@
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
+- research-oriented decision making; seeks multiple expert sources before concluding; 5× [refs: smartphone advice; successive accommodation refinement chats chatId:`3f05fd8480d94b`]
 
 ### Emerging (recent behavioral shifts)
-- research-oriented decision making; seeks multiple expert sources before concluding; 5× (last: 2025-09-01) [refs: smartphone advice; successive accommodation refinement chats chatId:`3f05fd8480d94b`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
+- requests travel accommodation suggestions (budget Airbnb/hotel); 5× [refs: initial Delhi Airbnb request; links follow-up; corridor accommodation request; Aerocity corridor query; best place near Yashobhoomi chatId:`3f05fd8480d94b`]
 
 ### Emerging (new query patterns)
-- requests travel accommodation suggestions (budget Airbnb/hotel); 5× (since 2025-09-01) [refs: initial Delhi Airbnb request; links follow-up; corridor accommodation request; Aerocity corridor query; best place near Yashobhoomi chatId:`3f05fd8480d94b`]
+- initiates blockchain token transfers via Brewit; salary disbursement commands and email notifications; 1× (first: 2025-09-01) [ref: USDC transfer instruction chatId:`a4b58f06220b4c`]
