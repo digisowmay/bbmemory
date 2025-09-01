@@ -3,7 +3,7 @@
 -
 
 ### Emerging (new signals, 1-2 reinforcements)
-- asks concise capability questions about document processing (PDF, Excel, drawings); 5× (last: 2025-09-01) [refs: capability inquiries about AutoCAD PDFs and excel/drawing attachment discussion chatId:`b2776138c89440`]
+- asks concise capability questions about document processing (PDF, Excel, drawings) and often uses terse commands like "check" or "resume", expecting immediate action; 6× (last: 2025-09-01) [refs: repeated capability inquiries and short-command messages chatId:`b2776138c89440`]
 - shares lengthy technical documents and expects structured summaries/extraction; 4× (last: 2025-09-01) [refs: Datel Pure DC PDF submission and follow-up analysis requests chatId:`b2776138c89440`]
 
 ## Knowledge & Context
@@ -20,6 +20,7 @@
 
 ### Emerging (recent behavioral shifts)
 - prefers receiving structured, summarized outputs from large technical documents; 4× (last: 2025-09-01) [refs: summary requests for Datel proposal and additional doc analysis chatId:`b2776138c89440`]
+- needs step-by-step guidance for technical tasks like converting Google Drive links to direct downloads; 1× (first: 2025-09-01) [ref: guidance on link conversion chatId:`b2776138c89440`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
