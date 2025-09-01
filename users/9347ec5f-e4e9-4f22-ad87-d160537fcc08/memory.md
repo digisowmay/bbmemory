@@ -1,8 +1,8 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
+- prefers communication in Bangla; 4× (promoted from emerging) [refs: chatId:`8e3b10a2735444`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- prefers communication in Bangla; 3× (last: 2025-09-01) [refs: chatId:`8e3b10a2735444`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
