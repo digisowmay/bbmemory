@@ -1,11 +1,11 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
 - provides very detailed, specific instructions for visual content editing; 11× (stable since 2025-09-01) [refs: multiple image edit/combination requests chatId:`c47d3c6aa3004c`]
-- requests iterative refinements and regeneration until output precisely matches reference images, expresses dissatisfaction if not; 5× [refs: iterative generation/combination steps chatId:`c47d3c6aa3004c`]
+- requests iterative refinements and regeneration until output precisely matches reference images; 5× [refs: iterative generation/combination steps chatId:`c47d3c6aa3004c`]
+- prefers photorealistic photography style over 3D renders; 4× (promoted from emerging) [refs: repeated requests for realistic photography output chatId:`c47d3c6aa3004c`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- insists on direct usage of reference images in generation, prefers image combine approach for accuracy; 3× (last: 2025-09-01) [refs: combineImages requests chatId:`c47d3c6aa3004c`]
-- prefers photorealistic photography style over 3D renders; 2× (last: 2025-09-01) [refs: requests for realistic photography output chatId:`c47d3c6aa3004c`]
+- insists on direct usage of reference images in generation, prefers image combine approach for accuracy; 5× (last: 2025-09-01) [refs: combineImages requests chatId:`c47d3c6aa3004c`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
