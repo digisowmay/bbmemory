@@ -4,8 +4,8 @@
 - expects prompt confirmation of presence ("are you there") before continuing; 3× [ref: quick check-in chatId:`5b62ec55210b4c`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- iterative request/feedback cycle, asking for successive refinements; 2× (last: 2025-09-01) [refs: pagination fix discussion chatId:`5b62ec55210b4c`]
-- uses screenshots to illustrate UI options when text unclear; 1× (first: 2025-09-01) [refs: images showing merge options URLs: https://client-uploads.nyc3.digitaloceanspaces.com/images/c837dcf4-fc5a-4252-a0c7-edf91953829e/2025-09-01T09-15-29-498Z-f5bb87b4.png; https://client-uploads.nyc3.digitaloceanspaces.com/images/c837dcf4-fc5a-4252-a0c7-edf91953829e/2025-09-01T09-15-29-500Z-ba2ca6d2.png]
+- iterative request/feedback cycle, asking for successive refinements; 3× (last: 2025-09-01) [refs: pagination fix discussion; mapping fields issue chatId:`5b62ec55210b4c`]
+- uses screenshots to illustrate UI options when text unclear; 2× (last: 2025-09-01) [refs: merge options screenshot; map fields red indicator screenshot URLs in chatId:`5b62ec55210b4c`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
