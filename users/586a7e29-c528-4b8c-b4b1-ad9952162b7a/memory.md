@@ -1,9 +1,10 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- communicates in Russian; provides detailed, step-by-step visual edit instructions; 16× (last: 2025-09-02) [refs: image edit request chatId:`541f44f3d74a42`; creative selfie edit chatId:`584c3634338542`; follow-up edit chatId:`01a0d84d69e445`; stairwell couple scene chatId:`b569f7fbf56042`; recent edit chatId:`87444e80ff4a43`; current request chatId:`e76cd8d963c54c`; this session chatId:`3355f11cfe8845`]
-- asks for iterative refinements and precise adjustments on images; 13× [refs: image edit request chatId:`541f44f3d74a42`; creative selfie edit chatId:`584c3634338542`; follow-up edit chatId:`01a0d84d69e445`; stairwell couple scene chatId:`b569f7fbf56042`; recent edit chatId:`87444e80ff4a43`; this session chatId:`3355f11cfe8845`]
+- communicates in Russian; provides detailed, step-by-step visual edit instructions; 17× (last: 2025-09-02) [refs: image edit request chatId:`541f44f3d74a42`; creative selfie edit chatId:`584c3634338542`; follow-up edit chatId:`01a0d84d69e445`; stairwell couple scene chatId:`b569f7fbf56042`; recent edit chatId:`87444e80ff4a43`; current request chatId:`e76cd8d963c54c`; this session chatId:`3355f11cfe8845`]
+- asks for iterative refinements and precise adjustments on images; 14× [refs: image edit request chatId:`541f44f3d74a42`; creative selfie edit chatId:`584c3634338542`; follow-up edit chatId:`01a0d84d69e445`; stairwell couple scene chatId:`b569f7fbf56042`; recent edit chatId:`87444e80ff4a43`; this session chatId:`3355f11cfe8845`]
 
 ### Emerging (new signals, 1-2 reinforcements)
+- prefers outcome explanations to be concise, confirming changes without extra detail; 1× (first: 2025-09-02) [ref: confirmation replies chatId:`3355f11cfe8845`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -15,9 +16,10 @@
 - imaginative and narrative-driven visual requests; 12× (last: 2025-09-02) [refs: image edit request chatId:`541f44f3d74a42`; creative selfie edit chatId:`584c3634338542`; stairwell couple scene chatId:`b569f7fbf56042`; recent edit chatId:`87444e80ff4a43`; current request chatId:`e76cd8d963c54c`; this session chatId:`3355f11cfe8845`]
 
 ### Emerging (recent behavioral shifts)
+- prefers natural, realistic color grading resembling iPhone photos; 1× (first: 2025-09-02) [ref: color grading request chatId:`3355f11cfe8845`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
-- uses platform for creative image editing with fictional/Marvel and real political figures; 14× (last: 2025-09-02) [refs: image edit request chatId:`541f44f3d74a42`; creative selfie edit chatId:`584c3634338542`; stairwell couple scene chatId:`b569f7fbf56042`; recent edit chatId:`87444e80ff4a43`; current request chatId:`e76cd8d963c54c`; this session chatId:`3355f11cfe8845`]
+- uses platform for creative image editing with fictional/Marvel and real political figures; 15× (last: 2025-09-02) [refs: image edit request chatId:`541f44f3d74a42`; creative selfie edit chatId:`584c3634338542`; stairwell couple scene chatId:`b569f7fbf56042`; recent edit chatId:`87444e80ff4a43`; current request chatId:`e76cd8d963c54c`; this session chatId:`3355f11cfe8845`]
 
 ### Emerging (new query patterns)
