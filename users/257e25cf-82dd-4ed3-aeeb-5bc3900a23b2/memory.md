@@ -1,21 +1,22 @@
 ## Communication Patterns
-### Durable
+### Durable (established, 3+ reinforcements)
 
-### Emerging
-- uses concise command-style requests (e.g., "send hii to @1bb"); 1× (first: 2025-09-01) [ref: message sending request chatId:`a9ff6356397242`]
+### Emerging (new signals, 1-2 reinforcements)
+- uses concise command-style requests (e.g., "send hii to @1bb"); 2× (last: 2025-09-01) [refs: message sending request chatId:`a9ff6356397242`; clarification follow-up chatId:`a9ff6356397242`]
 
 ## Knowledge & Context
-### Durable
+### Durable (core expertise, established over time)
 
-### Emerging
+### Emerging (recent learning, current focus)
 
 ## Thinking & Working Style
-### Durable
+### Durable (core thinking patterns)
 
-### Emerging
+### Emerging (recent behavioral shifts)
 
 ## Platform Usage & Queries
-### Durable
+### Durable (regular platform activities)
 
-### Emerging
-- experimenting with Telegram messaging integration via backroom; 1× (first: 2025-09-01) [ref: failed telegram tool call chatId:`a9ff6356397242`]
+### Emerging (new query patterns)
+- experimenting with Bhindi backroom messaging integrations; 1× (since 2025-09-01) [refs: request to send message on Bhindi backroom chatId:`a9ff6356397242`]
+- experimenting with Telegram messaging attempts; 1× (first: 2025-09-01) [refs: failed telegram tool call chatId:`a9ff6356397242`]
