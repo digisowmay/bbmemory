@@ -3,8 +3,8 @@
 -
 
 ### Emerging (new signals, 1-2 reinforcements)
-- asks concise capability questions about document processing (PDF, Excel, drawings); 4× (last: 2025-09-01) [refs: capability inquiries and file attachment requests chatId:`b2776138c89440`]
-- shares lengthy technical documents and expects structured summaries/extraction; 3× (last: 2025-09-01) [refs: Datel Pure DC PDF submission, subsequent large text paste and analysis request chatId:`b2776138c89440`]
+- asks concise capability questions about document processing (PDF, Excel, drawings); 5× (last: 2025-09-01) [refs: capability inquiries about AutoCAD PDFs and excel/drawing attachment discussion chatId:`b2776138c89440`]
+- shares lengthy technical documents and expects structured summaries/extraction; 4× (last: 2025-09-01) [refs: Datel Pure DC PDF submission and follow-up analysis requests chatId:`b2776138c89440`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -19,12 +19,12 @@
 -
 
 ### Emerging (recent behavioral shifts)
-- prefers receiving structured, summarized outputs from large technical documents; 3× (last: 2025-09-01) [refs: summary requests for Datel proposal and document analysis chatId:`b2776138c89440`]
+- prefers receiving structured, summarized outputs from large technical documents; 4× (last: 2025-09-01) [refs: summary requests for Datel proposal and additional doc analysis chatId:`b2776138c89440`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
 -
 
 ### Emerging (new query patterns)
-- exploring document parsing capabilities (AutoCAD PDFs, Excel files, system diagrams); 4× (since 2025-09-01) [refs: repeated capability inquiries and file attachment attempts chatId:`b2776138c89440`]
+- exploring document parsing capabilities (AutoCAD PDFs, Excel files, system diagrams); 5× (since 2025-09-01) [refs: repeated capability inquiries and file attachment attempts chatId:`b2776138c89440`]
 - interest in BMS system documentation analysis; 1× (started: 2025-09-01) [ref: request to attach BMS system architecture diagrams chatId:`b2776138c89440`]
