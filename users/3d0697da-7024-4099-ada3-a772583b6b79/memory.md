@@ -19,7 +19,7 @@
 - none yet
 
 ### Emerging (recent behavioral shifts)
-- prefers outsourcing scheduling and reminders to assistant/tools; 1× (first: 2025-08-31) [ref: tasks and wake-up reminders request]
+- prefers outsourcing scheduling and reminders to assistant/tools; 2× (last: 2025-09-01) [refs: tasks and wake-up reminders request; reminder follow-up chatId:`072ab2d8aae54c`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
