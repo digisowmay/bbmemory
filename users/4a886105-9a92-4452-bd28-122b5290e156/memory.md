@@ -5,7 +5,7 @@
 - prefers raw JSON output for system/agent info requests; 12× [refs: request for bhindi-recall agent info convId:`bhindiInfo20250831`; creation of bhindi-user-memory agent request convId:`agentCreate20250831`; description request convId:`descRequest20250831`; confirmation of preference convoId:`jsonPref20250901`; dashboard preference chatId:`f3d71be0e2af46`; repeated google-docs sync results chatId:`e6465ef0287f4e`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- (none)
+- wants reminder messages to begin with friendly phrases like “hey, you asked me to remind you about…”, keeping tone personal and helpful; 1× (first: 2025-09-01) [ref: reminder conversation chatId:`e362aab36a6e43`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -27,5 +27,5 @@
 - manages bhindi agents (add, sync, retrieve prompts) via bhindi-agent-manager and bhindi-admin; 13× [refs: multiple sync and prompt retrieval chatId:`e6465ef0287f4e`; agent sync request chatId:`7bae6c37662742`]
 
 ### Emerging (new query patterns)
-- sends operational messages via bhindi-echo to team members; 1× (first: 2025-09-01) [ref: echo credits request chatId:`e6465ef0287f4e`]
-- uses bhindi scheduler to manage reminders; 1× (first: 2025-09-01) [ref: list reminders chatId:`18d1245d899848`]
+- exploring AI prompt engineering; optimization techniques; 3× (since 2025-08-18) [refs: prompt improvement discussion chatId:`tuv678wxy`; AI tool comparison chatId:`wxy901zab`; workflow automation setup chatId:`zab234cde`]
+- prefers reminders to be scheduled and left to trigger at due time, not executed immediately; 1× (first: 2025-09-01) [ref: scheduling instruction chatId:`e362aab36a6e43`]
