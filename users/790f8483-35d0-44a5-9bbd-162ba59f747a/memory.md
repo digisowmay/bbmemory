@@ -3,7 +3,7 @@
 - no durable communication patterns identified yet
 
 ### Emerging (new signals, 1-2 reinforcements)
-- gives brief imperative commands; expects quick action or implementation; 3× (last: 2025-09-01) [refs: chatId:`92665348120c45`]
+- gives brief imperative commands; expects quick action or implementation; 4× (last: 2025-09-01) [refs: chatId:`92665348120c45`; chatId:`8ca3cb93a8714b`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -24,4 +24,4 @@
 - no durable platform patterns identified yet
 
 ### Emerging (new query patterns)
-- asks cryptocurrency prices daily; Bitcoin, Ethereum tracking; 10× (since 2025-09-01) [refs: BTC price request chatId:`0ecffd4a876841`; ETH price request chatId:`49e0f1ec66e141`; ETH price request chatId:`cd4d47ba2f5942`; ETH price check chatId:`0531641775964d`; BTC price request chatId:`2cdcf869dca542`; BTC price request chatId:`cc6a4011d52342`; BTC price request chatId:`8afaf45a28254b`; BTC price request chatId:`f28a6e75b65f49`; BTC price request chatId:`bcad956bb1b547`; BTC price request chatId:`2938714a8ee348`]
+- asks cryptocurrency prices daily; Bitcoin, Ethereum tracking; 11× (since 2025-09-01) [refs: BTC price request chatId:`0ecffd4a876841`; ETH price request chatId:`49e0f1ec66e141`; ETH price request chatId:`cd4d47ba2f5942`; ETH price check chatId:`0531641775964d`; BTC price request chatId:`2cdcf869dca542`; BTC price request chatId:`cc6a4011d52342`; BTC price request chatId:`8afaf45a28254b`; BTC price request chatId:`f28a6e75b65f49`; BTC price request chatId:`bcad956bb1b547`; BTC price request chatId:`2938714a8ee348`; chatId:`8ca3cb93a8714b`]
