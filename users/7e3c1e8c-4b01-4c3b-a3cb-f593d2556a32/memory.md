@@ -3,8 +3,8 @@
 - prefers concise (<50 words), informal WhatsApp-style messages with clear ask; 13× [refs: global instruction set; multiple echo reply threads chatId:`1325c42b5b4f4c`; cc50e528c2fe4a; credit addition chatId:`97d0f1e317c54c`; echo approval chatId:`74a232636c2b4d`; new echo directive chatId:`088468582df347`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- prefers single-word acknowledgments ("ack") to confirm receipt; 1× (last: 2025-09-01) [ref: chatId:`cc50e528c2fe4a`]
-- wants reminder messages to start with friendly phrases like “Hey, you asked me to remind you...” for natural tone; 1× (last: 2025-09-01) [ref: chatId:`cf0cc9cda2464e`]
+- prefers single-word acknowledgments ("ack") to confirm receipt; 1× (first: 2025-09-01) [ref: chatId:`cc50e528c2fe4a`]
+- wants reminder messages to start with friendly phrases like “Hey, you asked me to remind you...” for natural tone; 2× (last: 2025-09-01) [refs: chatId:`cf0cc9cda2464e`; chatId:`d4a40d2afdfc43`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -20,5 +20,5 @@
 ### Durable (regular platform activities)
 
 ### Emerging (new query patterns)
-- schedules quick reminders and sends echoes to coordinate with colleagues; 2× (since 2025-09-01) [refs: reminder and echo request chatId:`f0e27490492846`; follow-up chatId:`cf0cc9cda2464e`]
-- handles repository and server deployments via automated commands; PR merges, ssh deploys, agent sync; 2× (last: 2025-09-01) [refs: initial deployment command chatId:`23068aeac7034c`; PR merge request chatId:`357f6118889142`]
+- schedules quick reminders and sends echoes to coordinate with colleagues; 3× (since 2025-09-01) [refs: reminder and echo request chatId:`f0e27490492846`; follow-up chatId:`cf0cc9cda2464e`; chatId:`d4a40d2afdfc43`]
+- handles repository and server deployments via automated commands; PR merges, ssh deploys, agent sync; 1× (first: 2025-09-01) [ref: chatId:`23068aeac7034c`]
