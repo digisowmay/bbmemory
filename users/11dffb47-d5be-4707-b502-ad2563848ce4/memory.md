@@ -1,10 +1,11 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- communicates predominantly in Russian; 12× (stable since 2024-08-15) [refs: latest request chatId:`1fecdb2b2a304c`; iterative request chatId:`9b5c46457a0148`; earlier edits chatId:`25c85167d1084b`]
-- uses iterative, strict directives for image edits (e.g., "DO NOT ADD nothing else"); 11× [refs: latest clarification chatId:`1fecdb2b2a304c`; previous edits chatId:`f33ad1b20bba40`; chatId:`ad0ca21d0f4345`]
+- communicates predominantly in Russian; 13× (stable since 2024-08-15) [refs: chatId:`428f6395a58441`; iterative request chatId:`1fecdb2b2a304c`; earlier edits chatId:`9b5c46457a0148`]
+- uses iterative, strict directives for image edits (e.g., "DO NOT ADD nothing else"); 12× [refs: chatId:`428f6395a58441`; previous edits chatId:`f33ad1b20bba40`; chatId:`ad0ca21d0f4345`]
+- requests English versions of prompts for image edits; 3× (promoted from emerging) (last: 2025-09-01) [refs: chatId:`428f6395a58441`; chatId:`1fecdb2b2a304c`; chatId:`25c85167d1084b`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- requests English versions of prompts for image edits; 2× (last: 2025-09-01) [refs: chatId:`1fecdb2b2a304c`; chatId:`428f6395a58441`]
+- (no current emerging patterns)
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
