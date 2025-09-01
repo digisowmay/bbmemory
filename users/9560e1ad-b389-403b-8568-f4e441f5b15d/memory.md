@@ -10,7 +10,7 @@
 ### Durable (core expertise, established over time)
 - strong interest in Token 2049 event and related networking; 3× (promoted from emerging) [refs: Twitter scraping Token 2049; speaker spreadsheet; social media handle gathering chatId:`5f7ad9ddd47046`]
 
-### Emerging (recent learning, current focus)
+### Emerging (recent learning, current focus)  
 - collecting social media contact info (Telegram/Twitter) of crypto leaders; 1× (since 2025-09-01) [ref: request for Telegram/Twitter handles of 300+ speakers chatId:`5f7ad9ddd47046`]
 
 ## Thinking & Working Style
@@ -26,3 +26,4 @@
 
 ### Emerging (new query patterns)
 - seeks large-scale extraction of public website data for outreach; 1× (first: 2025-09-01) [ref: scrape singapore2049 speakers list chatId:`5f7ad9ddd47046`]
+- inquiring about cross-platform social media scheduling (Instagram, YouTube) automation; 1× (first: 2025-09-01) [ref: scheduling request chatId:`02ad5abab06147`]
