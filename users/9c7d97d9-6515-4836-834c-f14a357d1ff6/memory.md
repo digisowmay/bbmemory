@@ -4,6 +4,7 @@
 ### Emerging (new signals, 1-2 reinforcements)
 - prefers positive, solution-oriented tone over negative/whiny language in finance content; 2× (last: 2025-09-01) [refs: feedback about not cribbing chatId:`a5c480e124a344`; evening post issue chatId:`6f41e83c4b4441`]
 - asks concise, direct questions when troubleshooting automation issues; 2× (last: 2025-09-01) [refs: scheduler troubleshooting chatId:`6f41e83c4b4441`; evening post issue chatId:`6f41e83c4b4441`]
+- prefers no confirmation prompts for routine automated tasks once configured; 1× (first: 2025-09-01) [ref: confirmation preference discussion chatId:`6f41e83c4b4441`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
