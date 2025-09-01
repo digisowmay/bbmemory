@@ -5,7 +5,7 @@
 - insists on verification and cross-referenced counts before decisions; 3× (promoted from emerging) (last: 2025-09-01) [refs: "CRITICAL: Always verify you've checked ALL users" chatId:`9fd3ecf40d4b4f`; ustax chats count request chatId:`559c1db32e6741`; "why only 5 ?" chatId:`db9b4761e5c242`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- expects exhaustive datasets and calls out incomplete summaries; 3× (last: 2025-09-01) [refs: "why only 5 ?" chatId:`db9b4761e5c242`; AWS user emails request chatId:`db9b4761e5c242`; AWS users completeness follow-up chatId:`db9b4761e5c242`]
+- expects exhaustive datasets and calls out incomplete summaries; 4× (last: 2025-09-01) [refs: "why only 5 ?" chatId:`db9b4761e5c242`; AWS user emails request chatId:`db9b4761e5c242`; AWS users completeness follow-up chatId:`db9b4761e5c242`; this session chatId:`db9b4761e5c242`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
