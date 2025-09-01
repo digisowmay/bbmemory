@@ -28,4 +28,4 @@
 
 ### Emerging (new query patterns)
 - exploring AI prompt engineering; optimization techniques; 3× (since 2025-08-18) [refs: prompt improvement discussion chatId:`tuv678wxy`; AI tool comparison chatId:`wxy901zab`; workflow automation setup chatId:`zab234cde`]
-- prefers reminders to be scheduled and left to trigger at due time, not executed immediately; 1× (first: 2025-09-01) [ref: scheduling instruction chatId:`e362aab36a6e43`]
+- prefers reminders to be scheduled and left to trigger at due time; 2× (last: 2025-09-01) [refs: scheduling instruction chatId:`e362aab36a6e43`; joke every hour request chatId:`967f975d834241`]
