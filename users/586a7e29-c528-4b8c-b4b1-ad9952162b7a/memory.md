@@ -5,7 +5,7 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - prefers outcome explanations to be concise confirmations of changes; 3× (last: 2025-09-02) [refs: assistant confirmations in chatId:`ee2db5d4f3ed4d`]
-- incorporates Russian cultural elements into edits (e.g., Pyaterочка bag); 1× (first: 2025-09-02) [ref: bag swap chatId:`ee2db5d4f3ed4d`]
+- incorporates real-world cultural or brand elements into edits (e.g., Pyaterочка bag, PUMA yoga top); 2× (last: 2025-09-02) [refs: bag swap chatId:`ee2db5d4f3ed4d`; PUMA yoga request chatId:`f2a738d4fc3244`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -27,4 +27,3 @@
 - uses platform for creative image editing with fictional and real elements; 21× (last: 2025-09-02) [refs: ongoing edits chatId:`ee2db5d4f3ed4d`]
 
 ### Emerging (new query patterns)
-- 
