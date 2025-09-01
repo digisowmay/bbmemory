@@ -3,6 +3,7 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - يقدم مسودات محتوى عربية منظمة تتضمن عناوين ورموز تعبيرية لإدراجها في الكتب الإلكترونية؛ 2× (last: 2025-09-01) [refs: ebook content draft chatId:`15341292abcc4e`]
+- يعطي أوامر مباشرة لتعديل الصور بشكل إبداعي وسريع؛ 1× (observed: 2025-09-01) [ref: image edit commands chatId:`89b824019b954a`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -20,4 +21,4 @@
 ### Durable (regular platform activities)
 
 ### Emerging (new query patterns)
-- يطلب إنشاء كتب إلكترونية PDF مع تصميم وغلاف وصور، ويطلب كذلك مهام دمج صور وتعديل خلفيات بشكل احترافي؛ 3× (last: 2025-09-01, since 2025-09-01) [refs: ebook creation request chatId:`15341292abcc4e`; image merge request chatId:`e0ff60109c584e`; horse edit request chatId:`89b824019b954a`]
+- يطلب إنشاء كتب إلكترونية PDF مع تصميم وغلاف وصور، ويطلب كذلك مهام دمج صور وتعديل خلفيات بشكل احترافي؛ 4× (last: 2025-09-01) [refs: ebook creation request chatId:`15341292abcc4e`; image merge request chatId:`e0ff60109c584e`; horse edit request chatId:`89b824019b954a`; space background edit chatId:`89b824019b954a`]
