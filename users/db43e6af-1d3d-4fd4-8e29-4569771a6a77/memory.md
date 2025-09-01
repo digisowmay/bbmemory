@@ -4,7 +4,7 @@
 - wants generated content to exactly match text/reference provided; 10× [refs: repeated accuracy complaints chatId:`c4000286cef640`; flag text mismatch corrections chatId:`c4000286cef640`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- requests faithful recreation of supplied photos; 1× (first: 2025-09-02) [ref: ribbon-cutting photo recreation chatId:`c4000286cef640`]
+- requests faithful recreation of supplied photos; 2× (last: 2025-09-02) [refs: ribbon-cutting photo recreation chatId:`c4000286cef640`; follow-up accuracy request chatId:`c4000286cef640`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -20,4 +20,3 @@
 ### Durable (regular platform activities)
 
 ### Emerging (new query patterns)
-- frequently requests recreations of provided reference images; 1× (since 2025-09-02) [ref: ribbon-cutting photo recreation chatId:`c4000286cef640`]
