@@ -1,31 +1,26 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- Gives one-word confirmations ("yes") to trigger actions; 4× (stable since 2025-09-01) [refs: multiple "yes" replies for tool executions chatId:`f2e7badcdbc64c`]
-- Requests function argument lists before allowing execution; 3× (stable since 2025-09-01) [refs: argument list requests for twitter getUserTweets & coingecko functions chatId:`f2e7badcdbc64c`]
-- Sends random keyboard smash strings to keep conversation going; 22× (promoted from emerging) (last: 2025-09-01) [refs: repeated random strings like "akdh..." chatId:`f2e7badcdbc64c`]
+- gives one-word confirmations ("yes") to trigger actions; 7× (stable since 2025-09-01) [refs: multiple tool call confirmations chatId:`f2e7badcdbc64c`]
+- uses playful informal greetings ("yoooo", "wasssuppp", "hellooo", "hehehe", "tyoooo"); 9× [refs: series of casual greetings chatId:`f2e7badcdbc64c`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- Uses informal elongated greetings ("yoooo", "wasssuppp", "hellooo", "tyoooo"); 18× (last: 2025-09-01) [refs: greeting messages chatId:`f2e7badcdbc64c`]
+- sends random keyboard smashes as filler messages; 12× (last: 2025-09-01) [refs: extended sequence of random key messages chatId:`f2e7badcdbc64c`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
--  
 
 ### Emerging (recent learning, current focus)
-- Exploring cryptocurrency market data and API usage; 6× (since 2025-09-01) [refs: multiple coingecko queries chatId:`f2e7badcdbc64c`]
-- Exploring Telegram bot capabilities; 1× (started: 2025-09-01) [ref: telegram-bot toolcalls list chatId:`f2e7badcdbc64c`]
+- exploring cryptocurrency market data and API usage; 5× (since 2025-09-01) [ref: multiple coingecko queries chatId:`f2e7badcdbc64c`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
--  
 
 ### Emerging (recent behavioral shifts)
-- Methodical API testing approach: ask for args then execute step-by-step; 3× (observed: 2025-09-01) [refs: sequence of tool calls chatId:`f2e7badcdbc64c`]
+- methodical API testing approach: ask for args then execute step-by-step; 3× (last: 2025-09-01) [ref: sequence of tool calls chatId:`f2e7badcdbc64c`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
--  
+- frequent use of crypto data tools (CoinGecko) via API calls; 5× [refs: successive coingecko calls chatId:`f2e7badcdbc64c`]
 
 ### Emerging (new query patterns)
-- Frequent use of crypto data tools (CoinGecko) via API calls; 6× (since 2025-09-01) [refs: getPrice, searchCoins, getMarketData, getGlobalMarketData, convertCurrency, getCategories chatId:`f2e7badcdbc64c`]
-- Testing Telegram bot functions; 1× (since 2025-09-01) [ref: telegram-bot toolcalls list chatId:`f2e7badcdbc64c`]
+- exploring Telegram bot functions; 2× (since 2025-09-01) [ref: telegram-bot tool interactions chatId:`f2e7badcdbc64c`]
