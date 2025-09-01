@@ -2,13 +2,13 @@
 ### Durable (established, 3+ reinforcements)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- uses concise, imperative requests (e.g., "make photo in full person size. standing"); 1× (first: 2025-09-01) [ref: image generation request chatId:`9cb00e1932f646`]
+- uses concise, imperative requests (e.g., "make photo in full person size. standing"); 2× (last: 2025-09-01) [refs: image generation request chatId:`9cb00e1932f646`; follow-up "try again" command chatId:`9cb00e1932f646`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
 
 ### Emerging (recent learning, current focus)
-- interested in AI-assisted photo editing and generating full-body images; 1× (first: 2025-09-01) [ref: image generation request chatId:`9cb00e1932f646`]
+- interested in AI-assisted photo editing and generating full-body images; 2× (last: 2025-09-01) [refs: initial image generation request chatId:`9cb00e1932f646`; follow-up request with own photo chatId:`9cb00e1932f646`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
@@ -19,4 +19,4 @@
 ### Durable (regular platform activities)
 
 ### Emerging (new query patterns)
-- using platform to generate or transform images via AI tools; 1× (first: 2025-09-01) [ref: image generation request chatId:`9cb00e1932f646`]
+- using platform to generate or transform images via AI tools; 2× (last: 2025-09-01) [refs: first AI image generation chatId:`9cb00e1932f646`; second AI image generation chatId:`9cb00e1932f646`]
