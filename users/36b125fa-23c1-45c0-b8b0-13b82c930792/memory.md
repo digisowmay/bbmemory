@@ -1,11 +1,10 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
--
+- asks for immediate confirmation after each action using concise keyword "CONFIRM"; 4× (promoted from emerging) [refs: multiple repo creation confirmations chatId:`eec4233bf5e242`]
 
 ### Emerging (new signals, 1-2 reinforcements)
 - prefers visual confirmation via screenshots; 2× (last: 2025-09-01) [refs: asked for live site screenshots; requested "screenshort k sath dikao"]
-- asks for immediate confirmation after each action using concise keyword "CONFIRM"; 4× (last: 2025-09-01) [refs: multiple repo creation confirmations chatId:`eec4233bf5e242`]
-- prefers final deliverables in image format (e.g., resume as downloadable image); 1× (first: 2025-09-01) [ref: requested resume in image format chatId:`eec4233bf5e242`]
+- prefers final deliverables in image format (e.g., resume as downloadable image); 2× (last: 2025-09-01) [ref: requested resume image chatId:`eec4233bf5e242`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -28,4 +27,4 @@
 
 ### Emerging (new query patterns)
 - exploring GitHub workflows and live site debugging; 2× (since 2025-08-31) [refs: asked to check GitHub issues and deployments; multiple repo creations chatId:`eec4233bf5e242`]
-- exploring resume optimization and career guidance; 3× (since 2025-09-01) [refs: resume build request chatId:`eec4233bf5e242`; requested resume format; asked for resume image]
+- exploring resume optimization and career guidance; 4× (since 2025-09-01) [refs: resume build request chatId:`eec4233bf5e242`; requested resume format; asked for resume image; asked to add GitHub link]
