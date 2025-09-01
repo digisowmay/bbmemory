@@ -1,10 +1,9 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
--
+- prefers concise, imperative requests (e.g., “Find email …”); 6× (promoted from emerging) [refs: CEO email request chatId:`d7add70fb04f43`; contact details request chatId:`65242c0b8e7d44`; 100x email request chatId:`2a52750b536548`]
 
 ### Emerging (new signals, 1-2 reinforcements)
 - requests actionable lists for event planning; 1× (first: 2025-09-01) [ref: masterclass topics and speakers request chatId:`65242c0b8e7d44`]
-- prefers concise, imperative requests (e.g., “Pls find ...”); 5× (last: 2025-09-01) [refs: CEO email request chatId:`d7add70fb04f43`; Siddhnath Goswami email request chatId:`d7add70fb04f43`; email id request chatId:`e5e2dec3244b4e`; contact details request chatId:`65242c0b8e7d44`; Aevy email request chatId:`d588af2837104b`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -22,7 +21,7 @@
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
--
+- requests contact details (influencers, executives) for outreach collaborations; 7× (promoted from emerging) [refs: speaker outreach request chatId:`65242c0b8e7d44`; CEO email request chatId:`d7add70fb04f43`; 100x email request chatId:`2a52750b536548`]
 
 ### Emerging (new query patterns)
-- requests contact details (influencers, executives) for outreach collaborations; 6× (last: 2025-09-01) [refs: speaker outreach request chatId:`65242c0b8e7d44`; CEO email request chatId:`d7add70fb04f43`; Siddhnath Goswami email request chatId:`d7add70fb04f43`; 100x CEO email request this chat; email id request chatId:`e5e2dec3244b4e`; Aevy email request chatId:`d588af2837104b`]
+-
