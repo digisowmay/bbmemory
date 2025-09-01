@@ -10,6 +10,7 @@
 
 ### Emerging (recent learning, current focus)
 - experiencing romantic feelings and distress regarding person named Arafat; 3× (since 2025-09-01) [refs: chatId:`8e3b10a2735444`]
+- prefers to be called Akhi (not Mostakim); 1× (first: 2025-09-01) [ref: name correction chatId:`8e3b10a2735444`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
