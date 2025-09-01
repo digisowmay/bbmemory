@@ -28,4 +28,4 @@
 
 ### Emerging (new query patterns)
 - seeks luxury fashion price comparisons (e.g., Dior bags); 1× (first: 2025-09-01) [ref: Dior bag deal research chatId:`2be368dbcfc549`]
-- asks cryptocurrency prices (e.g., ETH); 1× (first: 2025-09-01) [ref: ETH price request chatId:`cd4d47ba2f5942`]
+- asks cryptocurrency prices (e.g., ETH); 2× (since 2025-09-01) [refs: ETH price request chatId:`cd4d47ba2f5942`; ETH price check chatId:`0531641775964d`]
