@@ -8,21 +8,22 @@
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
--
+- 
 
 ### Emerging (recent learning, current focus)  
 - compiling Alliance DAO company data into structured table; 1× (started: 2025-08-31) [ref: request to organize URLs into table columns]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
--
+- 
 
 ### Emerging (recent behavioral shifts)
 - prefers incremental delivery—asks for first few entries to review before full output; 1× (observed: 2025-08-31) [ref: instruction to show first results and will decide if wants all]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
--
+- 
 
 ### Emerging (new query patterns)
 - monitors account credit consumption closely; 2× (since 2025-08-31) [refs: repeated questions about credit deductions]
+- requesting social media actions via Twitter agent; tweeting & DM; 1× (first: 2025-09-01) [refs: tweet request and DM instruction chatId:`4bf3b72254ed4d`]
