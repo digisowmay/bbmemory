@@ -4,6 +4,7 @@
 ### Emerging (new signals, 1-2 reinforcements)
 - prefers transparent technical error details; 1× (first: 2025-09-01) [ref: request for exact error message chatId:`4dc30d7999dd4f`]
 - prioritizes perfect text accuracy in AI-generated visuals; 1× (first: 2025-09-01) [ref: poster typo correction chatId:`fc54e482317d4d`]
+- wants embedded images instead of links; 1× (first: 2025-09-01) [ref: insistence on images in Notion chatId:`941db3860ba443`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -17,7 +18,7 @@
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
-- open to using Notion as alternative content platform for better image handling; 5× [refs: Notion fallback discussion chatId:`941db3860ba443`; Notion integration fix chatId:`941db3860ba443`; essay on PE play via Notion request chatId:`4dc30d7999dd4f`; error message introspection chatId:`4dc30d7999dd4f`; PE essay creation chatId:`ddfccb3b7fa54c`]
+- open to using Notion as alternative content platform for better image handling; 6× [refs: Notion fallback discussion chatId:`941db3860ba443`; Notion integration fix chatId:`941db3860ba443`; essay on PE play via Notion request chatId:`4dc30d7999dd4f`; error message introspection chatId:`4dc30d7999dd4f`; PE essay creation chatId:`ddfccb3b7fa54c`; sustainable fashion blog Notion page creation chatId:`941db3860ba443`]
 
 ### Emerging (new query patterns)
 - requests automated slide deck generation; Google Slides; 1× (first: 2025-09-01) [ref: slide deck generation request chatId:`878d52774fe040`]
