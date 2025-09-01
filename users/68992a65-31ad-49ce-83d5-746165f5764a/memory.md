@@ -10,6 +10,7 @@
 
 ### Emerging (recent learning, current focus)
 - actively working on authentication flow deployment and testing; 1× (started: 2025-09-01) [ref: auth flow testing request chatId:`d81fe048d82946`]
+- manages user subscriptions as admin; 1× (started: 2025-09-01) [ref: subscription creation chatId:`f5fa10cf806f48`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
@@ -22,3 +23,4 @@
 
 ### Emerging (new query patterns)
 - uses AI to compose Backroom echo messages for developer collaboration; 2× (since 2025-09-01) [ref: message drafting chatId:`d81fe048d82946`]
+- uses AI to manage subscriptions for users via internal tools; 1× (since 2025-09-01) [ref: subscription creation chatId:`f5fa10cf806f48`]
