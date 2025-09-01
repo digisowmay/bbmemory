@@ -3,7 +3,7 @@
 - (no durable patterns identified yet)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- prefers concise responses; 1× (first: 2025-09-01) [ref: asked for 1-line explanation chatId:`65f2248a664346`]
+- prefers concise responses; 2× (last: 2025-09-01) [refs: asked for 1-line explanation chatId:`65f2248a664346`; follow-up short help request chatId:`65f2248a664346`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
