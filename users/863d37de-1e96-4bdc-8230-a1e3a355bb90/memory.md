@@ -1,7 +1,7 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- prefers concise, one-line commands and follow-ups like “now?” or “sync and try again” to refresh data; 15× (stable since 2025-08-31) [refs: repeated "sync and try again" loops chatId:`12ea94ff333843`; endpoint update command chatId:`21794fdee3394d`; agent creation and updates chatId:`c8d6c6e913d541`]
-- expects rapid, real-time updates from tools; 9× [refs: immediate retry requests chatId:`12ea94ff333843`; sync failure follow-up chatId:`c8d6c6e913d541`; latest endpoint update & resync chatId:`c8d6c6e913d541`]
+- prefers concise, one-line commands and follow-ups like “now?” or “sync and try again” to refresh data; 16× (stable since 2025-08-31) [refs: repeated "sync and try again" loops chatId:`12ea94ff333843`; latest agent call instruction chatId:`c8d6c6e913d541`; endpoint update command chatId:`21794fdee3394d`]
+- expects rapid, real-time updates from tools; 10× [refs: immediate retry requests chatId:`12ea94ff333843`; sync failure follow-up chatId:`c8d6c6e913d541`; agent call status check chatId:`c8d6c6e913d541`]
 
 ### Emerging (new signals, 1-2 reinforcements)
 - prefers context-rich yet concise questions that reference specific past details; 1× (first: 2025-09-01) [ref: instruction to craft short context-rich question chatId:`da5144d6dd564f`]
@@ -11,7 +11,7 @@
 - developer at Upsurge Labs working on Bhindi agents; 4× [refs: global instructions introduction; prior chats about role]
 
 ### Emerging (recent learning, current focus)
-- configuring and troubleshooting Bhindi agents (kg-pdf, kg-bl) and variables; 6× (since 2025-09-01) [refs: kg-auth & kg-pdf setup chatId:`12ea94ff333843`; kg-bl creation & sync chatId:`c8d6c6e913d541`]
+- configuring and troubleshooting Bhindi agents (kg-pdf, kg-bl) & voice AI/telephony flows; 7× (since 2025-09-01) [refs: kg-auth & kg-pdf setup chatId:`12ea94ff333843`; Bolna agent creation & outbound call chatId:`c8d6c6e913d541`]
 - managing a Google Form for recruiting Video Editor Interns; 1× (started: 2025-08-31) [ref: request to see responses]
 
 ## Thinking & Working Style
@@ -26,5 +26,5 @@
 - uses Google Forms agent for listing forms and retrieving response counts; 3× [refs: initial list forms request; multiple getResponses calls]
 
 ### Emerging (new query patterns)
-- configuring Bhindi agents & variables frequently; 6× (since 2025-09-01) [refs: kg-auth & kg-pdf setup chatId:`12ea94ff333843`; kg-bl creation chatId:`c8d6c6e913d541`]
+- configuring Bhindi agents & variables frequently, including voice AI agent creation and outbound calls; 7× (since 2025-09-01) [refs: kg-auth & kg-pdf setup chatId:`12ea94ff333843`; Bolna agent creation, sync, and call chatId:`c8d6c6e913d541`]
 - monitors recruitment form responses frequently; 2× (since 2025-08-31) [refs: repeated getResponses checks]
