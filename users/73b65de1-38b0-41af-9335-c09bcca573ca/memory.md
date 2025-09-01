@@ -10,6 +10,7 @@
 
 ### Emerging (recent learning, current focus)
 - interested in learning trading basics; 5× (since 2025-09-01) [refs: trading basics request; "Can you teach me how to trade" message; follow-up trading education request; "Can you start now" for trading; trading basics discussion chatId:`0d38b969c2a748`]
+- exploring math topics; 1× (first: 2025-09-01) [ref: "Tell me more about math" chatId:`0d38b969c2a748`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
