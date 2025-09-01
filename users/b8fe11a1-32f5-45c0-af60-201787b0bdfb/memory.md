@@ -5,7 +5,7 @@
 - switches between Swedish and English; 4× (promoted from emerging) [refs: 20-year-younger request; 30-year-old transformation; swimsuits beach request; Swedish words in reference screenshot chatId:`e26ceb22a9084b`]
 
 ### Emerging (new signals, 1-2 reinforcements)
--
+- emphasizes keeping original facial features while altering background, clothing, or pose; 1× (last: 2025-09-01) [refs: “Keep the faces from the original image” request chatId:`e26ceb22a9084b`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -13,7 +13,7 @@
 - exploring creative scene and attire edits (clothing/background changes); 5× [refs: swimsuits beach request; tropical beach background; blue swimsuit and bikini changes chatId:`e26ceb22a9084b`; sun-tan adjustment]
 
 ### Emerging (recent learning, current focus)
--
+- experimenting with pose changes (kneeling, squatting) in edited images; 1× (started: 2025-09-01) [refs: “Make them kneel”, “Make them squat” requests chatId:`e26ceb22a9084b`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
