@@ -12,6 +12,7 @@
 ### Emerging (recent learning, current focus)
 - planning a Maharashtra trip on 2025-09-01; 1× (since 2025-08-31) [ref: "Set want to set my maharashtra trip of 1 September"]
 - pursuing data analytics skills and career; 2× (since 2025-09-01) [refs: asked how to become a data analyst chatId:`a3e427fd350243`; requested 6-month guided plan chatId:`a3e427fd350243`]
+- pursuing QA assurance skills and career; 1× (first: 2025-09-02) [ref: QA assurance question chatId:`a40fdaee95e545`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
@@ -26,3 +27,4 @@
 ### Emerging (new query patterns)
 - asks about crypto trading indicators; 3× (since 2025-09-01) [refs: crypto indicators request chatId:`a3e427fd350243`; trend indicators lesson chatId:`a3e427fd350243`; best indicators request chatId:`a3e427fd350243`]
 - exploring learning resources for data analytics; 2× (since 2025-09-01) [refs: data analytics roadmap request chatId:`a3e427fd350243`; commitment to daily lessons chatId:`a3e427fd350243`]
+- exploring learning resources for QA assurance; 1× (first: 2025-09-02) [ref: QA assurance question chatId:`a40fdaee95e545`]
