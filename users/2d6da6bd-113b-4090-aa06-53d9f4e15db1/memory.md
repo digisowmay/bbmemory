@@ -1,10 +1,10 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
 - prefiere comunicarse en español; 8× (since 2025-09-01) [refs: múltiples solicitudes de portadas y transformaciones de imagen; mensajes "convierte esta foto", repetidas instrucciones en español chatId:`60878928de534b`]
+- insiste en usar "nano banana" y rechaza el uso de FluxDev; 11× (since 2025-09-01) [refs: reiteradas peticiones "usa nano banana", múltiples rechazos a FluxDev y reintentos chatId:`60878928de534b`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- prefiere que se use "nano banana" para generar imágenes; 8× (last: 2025-09-01) [refs: peticiones "usa nano banana" repetidas; "hazlo con nano banana solamente"; insistencia al reintentar generación chatId:`60878928de534b`]
-- evita el uso de la herramienta FluxDev; 5× (last: 2025-09-01) [refs: mensajes "no uses fluxdev" reiterados; peticiones de reintento sin FluxDev chatId:`60878928de534b`]
+- solicita reintentos constantes cuando una herramienta falla; 2× (last: 2025-09-01) [refs: "prueba de nuevo" tras errores 500; insistencia en reintentos chatId:`60878928de534b`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
