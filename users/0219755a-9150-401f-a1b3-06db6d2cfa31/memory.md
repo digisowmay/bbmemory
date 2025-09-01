@@ -2,7 +2,7 @@
 ### Durable (established, 3+ reinforcements)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- task-oriented, concise instructions; expects quick tangible deliverables; 1× (first: 2025-09-01) [ref: no-code tools repo request chatId:`d287f054596d4c`]
+- task-oriented, concise instructions; expects quick tangible deliverables; 2× (last: 2025-09-01) [ref: repo transformation request chatId:`d287f054596d4c`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -14,10 +14,10 @@
 ### Durable (core thinking patterns)
 
 ### Emerging (recent behavioral shifts)
-- prioritizes concrete outputs (repos, full-stack apps, charts) over explanations; 1× (observed: 2025-09-01) [ref: demand for full-stack application chatId:`d287f054596d4c`]
+- prioritizes concrete outputs (repos, full-stack apps, charts) over explanations; 2× (observed: 2025-09-01) [ref: full-stack AI project demand chatId:`d287f054596d4c`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
 
 ### Emerging (new query patterns)
-- requests automated GitHub repo creation and AI/no-code tool implementations; 1× (since 2025-09-01) [ref: repo creation and implementation commands chatId:`d287f054596d4c`]
+- requests automated GitHub repo creation and AI/no-code tool implementations; 2× (since 2025-09-01) [ref: AI productivity suite repo creation chatId:`d287f054596d4c`]
