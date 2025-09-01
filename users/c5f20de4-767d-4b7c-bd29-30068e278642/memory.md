@@ -10,7 +10,7 @@
 
 ### Emerging (recent learning, current focus)  
 - working on t-shirt template design project; 1× (started: 2025-08-31) [ref: requests for black/beige t-shirt template images]
-- prefers minimalistic design aesthetic; 1× (first: 2025-09-02) [ref: minimal billboard ideas request chatId:`1004b8a2f07b4d`]
+- prefers minimalistic design aesthetic; 2× (last: 2025-09-02) [refs: minimal billboard ideas requests chatId:`1004b8a2f07b4d`; stick figure illustration request chatId:`1004b8a2f07b4d`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
@@ -22,5 +22,5 @@
 ### Durable (regular platform activities)
 
 ### Emerging (new query patterns)
-- uses image generation prompts for design asset creation; 2× (last: 2025-09-02) [refs: asked for AI-generated t-shirt images; minimal billboard ideas chatId:`1004b8a2f07b4d`]
+- uses image generation prompts for design asset creation; 3× (last: 2025-09-02) [refs: asked for AI-generated t-shirt images; minimal billboard ideas chatId:`1004b8a2f07b4d`; stick figure illustration chatId:`1004b8a2f07b4d`]
 - manages subscription plans via agent commands; 2× (last: 2025-09-01) [refs: subscription add command chatId:`683d942f817548`; subscription add command chatId:`5ba8bdb53e2d43`]
