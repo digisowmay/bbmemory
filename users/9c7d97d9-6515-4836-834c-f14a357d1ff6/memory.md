@@ -21,4 +21,4 @@
 ### Durable (regular platform activities)
 
 ### Emerging (new query patterns)
-- frequently schedules and monitors automated Twitter posts, seeks quick diagnostics when issues arise; 2× (last: 2025-09-01) [refs: scheduler query chatId:`6f41e83c4b4441`; evening post issue chatId:`6f41e83c4b4441`]
+- frequently schedules and monitors automated Twitter posts, specifically morning (9 AM) and evening (6:30 PM) tweets; 3× (last: 2025-09-01) [refs: scheduler query chatId:`6f41e83c4b4441`; evening post issue chatId:`6f41e83c4b4441`; automation refresh chatId:`6f41e83c4b4441`]
