@@ -3,8 +3,8 @@
 -
 
 ### Emerging (new signals, 1-2 reinforcements)
-- shares information in mixed Hindi-English bullet lists for clarity; 3× (last: 2025-09-01) [refs: resume submission chatId:`efe1936c6d7440`; step-by-step request chatId:`efe1936c6d7440`; steps bullet list chatId:`efe1936c6d7440`]
-- asks for quick, actionable step-by-step instructions to apply fast; 2× (last: 2025-09-01) [refs: urgent apply request chatId:`efe1936c6d7440`; follow-up steps request chatId:`efe1936c6d7440`]
+- shares information in mixed Hindi-English bullet lists for clarity; 3× (last: 2025-09-01) [refs: resume submission chatId:`efe1936c6d7440`; step-by-step request chatId:`efe1936c6d7440`; recent job apply instructions chatId:`efe1936c6d7440`]
+- asks for quick, actionable step-by-step instructions to apply fast; 2× (last: 2025-09-01) [refs: urgent apply request chatId:`efe1936c6d7440`; multiple "steps" prompts chatId:`efe1936c6d7440`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -19,12 +19,12 @@
 -
 
 ### Emerging (recent behavioral shifts)
-- prefers immediate actionable guidance and fast solutions; 1× (observed: 2025-09-01) [ref: apply fast request chatId:`efe1936c6d7440`]
-- attempts to delegate execution (e.g., asks assistant to apply or email on their behalf); 2× (last: 2025-09-01) [refs: "Apne apply kar dya?" chatId:`efe1936c6d7440`; request to send email/apply chatId:`efe1936c6d7440`]
+- prefers immediate actionable guidance and fast solutions; 2× (last: 2025-09-01) [refs: apply fast request chatId:`efe1936c6d7440`; repeated urgency messages chatId:`efe1936c6d7440`]
+- attempts to delegate execution (e.g., asks assistant to apply or email on their behalf); 5× (last: 2025-09-01) [refs: "Apne apply kar dya?" requests; email apply requests; share Gmail/phone for assistant to use chatId:`efe1936c6d7440`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
 -
 
 ### Emerging (new query patterns)
-- actively searching and requesting back-office job listings and quick-apply portals; 2× (since 2025-09-01) [refs: job portal conversation chatId:`efe1936c6d7440`; urgent apply request chatId:`efe1936c6d7440`]
+- actively searching and requesting back-office job listings and quick-apply portals; 3× (since 2025-09-01) [refs: job portal conversation chatId:`efe1936c6d7440`; repeated apply requests chatId:`efe1936c6d7440`; job openings follow-up chatId:`efe1936c6d7440`]
