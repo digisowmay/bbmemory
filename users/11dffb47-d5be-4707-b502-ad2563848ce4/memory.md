@@ -1,10 +1,10 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- (no durable patterns identified yet)
+- communicates predominantly in Russian; 12× (promoted from emerging) [refs: latest request chatId:`1fecdb2b2a304c`; iterative request chatId:`9b5c46457a0148`; earlier edits chatId:`25c85167d1084b`]
+- uses iterative, strict directives for image edits (e.g., "DO NOT ADD nothing else"); 11× (promoted from emerging) [refs: latest clarification chatId:`1fecdb2b2a304c`; previous edits chatId:`f33ad1b20bba40`; chatId:`ad0ca21d0f4345`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- общается преимущественно на русском; 12× (last: 2025-09-01) [refs: iterative request chatId:`9b5c46457a0148`; previous requests chatId:`25c85167d1084b`; current request chatId:`1fecdb2b2a304c`]
-- использует итеративные уточнения и строгие указания для визуальных правок ("DO NOT ADD nothing else"); 11× (last: 2025-09-01) [refs: latest repeat request chatId:`9b5c46457a0148`; earlier edits chatId:`f33ad1b20bba40`; current request chatId:`1fecdb2b2a304c`]
+- requests English versions of prompts for image edits; 1× (first: 2025-09-01) [ref: chatId:`1fecdb2b2a304c`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -22,7 +22,7 @@
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
-- (no durable usage patterns identified yet)
+- frequently requests creative image edits featuring public/pop-culture figures; 17× (promoted from emerging) [refs: latest Thor edit chatId:`1fecdb2b2a304c`; repeated edits chatId:`3f504acccec14b`; Jenna Ortega edits chatId:`25c85167d1084b`]
 
 ### Emerging (new query patterns)
-- запрашивает креативные изменения изображений с публичными фигурами и поп-культурой; 17× (since 2025-09-01) [refs: repeated edit chatId:`9b5c46457a0148`; other edits chatId:`3f504acccec14b`; current request chatId:`1fecdb2b2a304c`]
+- (no new emerging patterns identified)
