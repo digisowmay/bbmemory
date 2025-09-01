@@ -24,6 +24,7 @@
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
 - checks crypto prices frequently; Bitcoin, Ethereum tracking; 5× [refs: btc price request msgId:`btcPrice20250831`; btc price second request msgId:`btcPrice20250831_2`; eth price request chatId:`4271ff6186b041`; eth price request chatId:`d74ecba952644e`; chatId:`2b3e3256998445`]
+- manages bhindi agents (add, sync, retrieve prompts) via bhindi-agent-manager and bhindi-admin; 8× (promoted from emerging) [refs: multiple sync and prompt retrieval chatId:`e6465ef0287f4e`]
 
 ### Emerging (new query patterns)
-- manages bhindi agents (add, sync, retrieve prompts) via bhindi-agent-manager and bhindi-admin; 5× (since 2025-09-01) [refs: agent sync and prompt retrieval chatId:`e6465ef0287f4e`; repeated sync calls chatId:`e6465ef0287f4e`]
+- (none)
