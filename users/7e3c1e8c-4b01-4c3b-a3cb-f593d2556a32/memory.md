@@ -13,6 +13,7 @@
 
 ### Emerging (recent learning, current focus)
 - initiating file resizer agent to bypass LLM upload limits for users; 2× (since 2025-09-01) [refs: file resizer agent request chatId:`73a0bbe55a164b`; reminder setup chatId:`73a0bbe55a164b`]
+- understands AI concepts and explores AI-hardware integration (e.g., AI-powered lamp); 1× (first: 2025-09-01) [ref: reminder request for delegation chatId:`1f3696809c344c`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
@@ -27,5 +28,5 @@
 - frequently issues direct operational commands (GitHub, backroom echo) expecting immediate execution; 10× [refs: echo send commands; earlier GitHub commands; PR creation command chatId:`5f76ce15051447`; PR merge command chatId:`5f76ce15051447`; GitHub issue creation chatId:`cc50e528c2fe4a`]
 
 ### Emerging (new query patterns)
-- actively manages assistant memory and operational workflow, including scheduling reminders; 4× (last: 2025-09-01) [refs: memory update instruction chatId:`20ecd26342b542`; reminder setup chatId:`73a0bbe55a164b`]
+- actively manages assistant memory and operational workflow, including scheduling reminders; 5× (last: 2025-09-01) [refs: memory update instruction chatId:`20ecd26342b542`; reminder setup chatId:`73a0bbe55a164b`; new reminder for GEEVE chatId:`1f3696809c344c`]
 - asks cryptocurrency prices; Ethereum tracking; 2× (last: 2025-09-01) [refs: ETH price requests chatId:`017587caee1c42`]
