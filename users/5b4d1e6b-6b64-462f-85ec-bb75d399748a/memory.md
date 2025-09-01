@@ -2,25 +2,25 @@
 ### Durable (established, 3+ reinforcements)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- expresses personal struggles candidly but with informal spelling; seeks deep understanding from AI; 2× (last: 2025-09-01) [refs: conversation confessing addictions and lack of focus; request for AI friend concept]
+- expresses personal struggles candidly with informal spelling; seeks deep understanding from AI; 3× (last: 2025-09-01) [refs: self-description of addictions & lack of focus chatId:`bdf320c01d4446`; earlier confession]
+- shares grand visionary ideas, looking for all-in-one holistic solutions; 1× (first: 2025-09-01) [ref: discussion of complete life transformation AI chatId:`bdf320c01d4446`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
 
 ### Emerging (recent learning, current focus)
-- unemployed for ~4 years after bachelor's, struggling with focus, addictions, desires self-improvement; 2× (since 2025-09-01) [refs: self-description as "looser" couch-sitting; need focus and discipline discussion]
-- interested in building transformative AI app for self-improvement; 1× (started: 2025-09-01) [ref: idea to analyze phone and brain hack]
+- unemployed ~4 years after bachelor's, struggling with focus/addictions, desires self-improvement; 2× (since 2025-09-01) [refs: couch-sitting description; focus & discipline discussion chatId:`bdf320c01d4446`]
+- interested in building holistic AI app for deep personal transformation using NLP, IoT, psychology; 2× (since 2025-09-01) [refs: ultimate life transformation AI concept chatId:`bdf320c01d4446`; request to include workouts & study help]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
 
 ### Emerging (recent behavioral shifts)
-- visionary creative ideas but acknowledges procrastination and lack of execution; 2× (since 2025-09-01) [refs: proposing ultimate AI system; admits unrealistic money ideas]
-- seeks deep psychological hacks and comprehensive solutions rather than small steps; 1× (first: 2025-09-01) [ref: insistence on brain hacking and NLP]
+- visionary creative ideas but acknowledges procrastination; 3× (last: 2025-09-01) [refs: proposal of revolutionary AI system chatId:`bdf320c01d4446`; earlier unrealistic money ideas]
+- seeks deep psychological hacks and comprehensive solutions over small steps; 2× (since 2025-09-01) [refs: insistence on brain hacking, NLP integration chatId:`bdf320c01d4446`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
 
 ### Emerging (new query patterns)
-- queries focus, discipline, personal development tools; 2× (since 2025-09-01) [refs: asked for focus plan; concept of AI companion]
-- interest in finance literacy and life management assistance; 1× (first: 2025-09-01) [ref: mention of financial latency teaching]
+- queries AI app design and psychological transformation features; 2× (since 2025-09-01) [refs: life transformation AI architecture chatId:`bdf320c01d4446`; request to add workouts & study tutor]
