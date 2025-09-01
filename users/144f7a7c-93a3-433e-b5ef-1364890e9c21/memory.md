@@ -2,7 +2,7 @@
 ### Durable (established, 3+ reinforcements)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- prefers concise, direct technical guidance for integrations; 1× (first: 2025-09-01) [ref: chatId:`4a296b42883e48`]
+- prefers concise, direct technical guidance for integrations; 2× (last: 2025-09-01) [ref: chatId:`4a296b42883e48`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -15,9 +15,11 @@
 
 ### Emerging (recent behavioral shifts)
 - solution-oriented developer looking for API/OAuth automation; 1× (first: 2025-09-01) [ref: chatId:`4a296b42883e48`]
+- budget-conscious, seeks free or low-cost solutions; 1× (first: 2025-09-01) [ref: chatId:`4a296b42883e48`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
 
 ### Emerging (new query patterns)
 - exploring Bhindi API to integrate LinkedIn data into own app; 1× (since 2025-09-01) [ref: chatId:`4a296b42883e48`]
+- evaluating free alternatives to paid APIs; 1× (first: 2025-09-01) [ref: chatId:`4a296b42883e48`]
