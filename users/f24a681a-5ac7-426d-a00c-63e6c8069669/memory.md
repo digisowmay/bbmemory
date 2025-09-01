@@ -17,7 +17,7 @@
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
-- open to using Notion as alternative content platform for better image handling; 4× [refs: Notion fallback discussion chatId:`941db3860ba443`; Notion integration fix chatId:`941db3860ba443`; essay on PE play via Notion request chatId:`4dc30d7999dd4f`; error message introspection chatId:`4dc30d7999dd4f`]
+- open to using Notion as alternative content platform for better image handling; 5× [refs: Notion fallback discussion chatId:`941db3860ba443`; Notion integration fix chatId:`941db3860ba443`; essay on PE play via Notion request chatId:`4dc30d7999dd4f`; error message introspection chatId:`4dc30d7999dd4f`; PE essay creation chatId:`ddfccb3b7fa54c`]
 
 ### Emerging (new query patterns)
 - requests automated slide deck generation; Google Slides; 1× (first: 2025-09-01) [ref: slide deck generation request chatId:`878d52774fe040`]
