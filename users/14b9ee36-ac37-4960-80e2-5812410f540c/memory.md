@@ -3,7 +3,7 @@
 -
 
 ### Emerging (new signals, 1-2 reinforcements)
-- Requests concierge-style execution (e.g., wants AI to directly send LinkedIn messages); 2× (last: 2025-09-01) [ref: request to connect LinkedIn and message prospects chatId:`3c26ee0614e247`]
+- Requests concierge-style execution (e.g., wants AI to directly send LinkedIn messages); 3× (last: 2025-09-01) [refs: request to connect LinkedIn and message prospects chatId:`3c26ee0614e247`; asks AI to send LinkedIn messages and emails chatId:`3c26ee0614e247`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -25,4 +25,4 @@
 -
 
 ### Emerging (new query patterns)
-- Seeks automated LinkedIn outreach assistance (contact search, message sending); 3× (last: 2025-09-01) [refs: multiple LinkedIn outreach assistance requests chatId:`3c26ee0614e247`]
+- Seeks automated LinkedIn outreach assistance (contact search, message sending); 4× (last: 2025-09-01) [refs: multiple LinkedIn outreach assistance requests chatId:`3c26ee0614e247`; asks AI to find emails & send messages chatId:`3c26ee0614e247`]
