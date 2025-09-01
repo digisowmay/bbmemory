@@ -3,7 +3,7 @@
 - regularly requests idea lists and step-by-step examples for automations with tool mentions; 4× (promoted from emerging) [refs: content writing assistance chatId:`edba2b0d2dad4f`; easy tools request chatId:`edba2b0d2dad4f`; fun automation ideas chatId:`dcd610c08e274d`; Sahil birthday schedule creation chatId:`dcd610c08e274d`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- provides concise imperative follow-up commands (e.g., "send it on whatsapp"); 1× (observed: 2025-09-01) [ref: send it on whatsapp chatId:`dcd610c08e274d`]
+- provides concise imperative follow-up commands (e.g., "send it on whatsapp", "Create a simple command"); 2× (last: 2025-09-01) [refs: send it on whatsapp chatId:`dcd610c08e274d`; simple command request chatId:`46c84315309e42`]
 - asks about capabilities/privacy (e.g., location usage); 2× (since 2025-09-01) [refs: location capability question chatId:`46c84315309e42`; location-based WhatsApp message request chatId:`46c84315309e42`]
 
 ## Knowledge & Context
