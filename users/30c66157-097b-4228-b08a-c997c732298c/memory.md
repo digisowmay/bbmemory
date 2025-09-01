@@ -1,7 +1,7 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
 - gives one-word confirmations ("yes") to trigger actions; 7× (stable since 2025-09-01) [refs: multiple tool call confirmations chatId:`f2e7badcdbc64c`]
-- uses playful informal greetings ("yoooo", "wasssuppp", "hellooo"); 13× [refs: series of casual greetings chatId:`f2e7badcdbc64c`]
+- uses playful informal greetings ("yoooo", "wasssuppp", "hellooo", "hey"); 14× [refs: series of casual greetings chatId:`f2e7badcdbc64c`; informal greeting "hey" chatId:`24c9b4aa044d4f`]
 
 ### Emerging (new signals, 1-2 reinforcements)
 - sends random keyboard smashes as filler messages; 20× (last: 2025-09-01) [refs: extended sequence of random key messages chatId:`f2e7badcdbc64c`]
