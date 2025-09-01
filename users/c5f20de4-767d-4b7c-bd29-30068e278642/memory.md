@@ -2,7 +2,7 @@
 ### Durable (established, 3+ reinforcements)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- prefers concise directive-style requests and iterative refinement; 2× (last: 2025-09-01) [refs: chat about adjusting t-shirt templates consistency; subscription management command chatId:`683d942f817548`]
+- prefers concise directive-style requests and iterative refinement; 3× (last: 2025-09-01) [refs: chat about adjusting t-shirt templates consistency; subscription management command chatId:`683d942f817548`; chatId:`244a7479529142`]
 - wants conversational casual tone and no corporate language; 1× (first: 2025-08-31) [ref: global instructions and follow-up reminders]
 
 ## Knowledge & Context
