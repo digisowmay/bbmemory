@@ -3,7 +3,7 @@
 - (no durable patterns identified yet)
 
 ### Emerging
-- communicates primarily in Russian; 1× (first: 2025-09-01) [ref: image alteration request chatId:`08cf85c689e54e`]
+- общается преимущественно на русском; 2× (last: 2025-09-01) [refs: image alteration request chatId:`08cf85c689e54e`; Jenna Ortega replacement request chatId:`ec0c00fac96640`]
 
 ## Knowledge & Context
 ### Durable
@@ -24,4 +24,4 @@
 - (no durable usage patterns identified yet)
 
 ### Emerging
-- requests creative image edits with public figures and pop culture; 1× (first: 2025-09-01) [ref: Spider-Man poster manipulation chatId:`08cf85c689e54e`]
+- запрашивает креативные изменения изображений с публичными фигурами и поп-культурой; 2× (since 2025-09-01) [refs: Spider-Man poster manipulation chatId:`08cf85c689e54e`; Jenna Ortega replacement chatId:`ec0c00fac96640`]
