@@ -1,16 +1,15 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- prefiere comunicarse en español; 8× (since 2025-09-01) [refs: múltiples solicitudes de portadas y transformaciones de imagen; mensajes "convierte esta foto", "hazlo con nano banana" chatId:`60878928de534b`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- prefiere que se use "nano banana" para generar imágenes; 5× (last: 2025-09-01) [refs: peticiones "usa nano banana" repetidas; "hazlo con nano banana solamente" chatId:`60878928de534b`]
-- evita el uso de la herramienta FluxDev; 3× (last: 2025-09-01) [refs: mensajes "no uses fluxdev"; rechazo de FluxDev chatId:`60878928de534b`]
+- prefiere comunicarse en español; 8× (last: 2025-09-01) [refs: múltiples solicitudes de portadas, escena gasolinera cassette, repetidas peticiones en español chatId:`60878928de534b`]
+- insiste en usar "nano banana" y evitar FluxDev para la generación de imágenes; 4× (last: 2025-09-01) [refs: peticiones "usa nano banana", "no uses fluxdev", reintentos con Gemini chatId:`60878928de534b`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
 
 ### Emerging (recent learning, current focus)
-- trabajando en visuales de álbum para dúo "Daviz y Arecio"; 2× (since 2025-09-01) [refs: solicitudes de portadas y escena gasolinera chatId:`60878928de534b`]
+- trabajando en visuales de álbum para dúo "Daviz y Arecio"; 2× (since 2025-09-01) [refs: solicitudes de portadas y escenas relacionadas chatId:`60878928de534b`]
 - busca escenas de gasolinera 80s con cassettes de "Daviz y Arecio" y título "Camino a un Sueño"; 1× (started: 2025-09-01) [ref: escena gasolinera con cassettes chatId:`60878928de534b`]
 
 ## Thinking & Working Style
