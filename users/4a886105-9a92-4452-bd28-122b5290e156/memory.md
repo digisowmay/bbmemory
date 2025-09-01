@@ -19,8 +19,7 @@
 - (none yet)
 
 ### Emerging (recent behavioral shifts)
-- uses repeated sync cycles for agents; 2× (last: 2025-09-01) [refs: repeated google-docs sync chatId:`e6465ef0287f4e`; agent sync request chatId:`7bae6c37662742`]
-- monitors scheduled tasks for accuracy and questions discrepancies promptly; 1× (first: 2025-09-02) [ref: reminder scheduling error chatId:`0335004339ac40`]
+- monitors scheduled tasks for accuracy and questions discrepancies promptly; 2× (last: 2025-09-02) [refs: reminder scheduling error chatId:`0335004339ac40`; time mismatch question chatId:`bf71fbcbbe0047`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
