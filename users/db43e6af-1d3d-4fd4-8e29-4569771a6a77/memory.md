@@ -1,27 +1,22 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- prefers Persian language responses; 13× (last: 2025-09-02) [refs: image generation accuracy complaint chatId:`c4000286cef640`; shepherd request chatId:`f61879e9fdd24a`; bazaar image request chatId:`1a1d005ec70943`]
+- prefers Persian language responses; 14× (last: 2025-09-02) [refs: image creation feedback chatId:`c4000286cef640`; shepherd request chatId:`f61879e9fdd24a`; bazaar image request chatId:`1a1d005ec70943`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- wants generated content to closely match provided reference; 5× (last: 2025-09-02) [refs: dissatisfaction with image accuracy chatId:`d49850fc850348`; complaint about attention chatId:`c4000286cef640`; repeated accuracy complaint chatId:`c4000286cef640`]
+- wants generated content to closely match provided reference; 6× (last: 2025-09-02) [refs: repeated accuracy complaints chatId:`c4000286cef640`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
-- (no entries yet)
 
 ### Emerging (recent learning, current focus)
-- (no entries yet)
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
-- (no entries yet)
 
 ### Emerging (recent behavioral shifts)
-- (no entries yet)
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
-- (no entries yet)
 
 ### Emerging (new query patterns)
-- requests politically sensitive or controversial imagery; 1× (first: 2025-09-02) [ref: request for trans youth vs Taliban violent scene chatId:`c4000286cef640`]
+- requests politically sensitive or controversial imagery; 2× (last: 2025-09-02) [refs: trans youth Taliban request chatId:`c4000286cef640`; earlier violent scene request chatId:`c4000286cef640`]
