@@ -9,6 +9,7 @@
 - relies on Google Workspace (Gmail, Calendar, Sheets) and Discord for team coordination; 3× (promoted from emerging) [refs: automation request chatId:`72925fd25f764e`; follow-up tasks chatId:`159dc881ed734e`; meet creation chatId:`159dc881ed734e`]
 
 ### Emerging (recent learning, current focus)
+- adopting Asana for team task management; 1× (first: 2025-09-01) [ref: Asana task reminder request chatId:`32c1a23e70064a`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
@@ -21,3 +22,4 @@
 - asks for cross-platform automation involving Gmail, Calendar, Sheets, and Discord; 3× (promoted from emerging) [refs: initial request chatId:`72925fd25f764e`; follow-up chatId:`159dc881ed734e`; meeting scheduling chatId:`159dc881ed734e`]
 
 ### Emerging (new query patterns)
+- asks for automation involving Asana; 1× (first: 2025-09-01) [ref: Asana task reminder request chatId:`32c1a23e70064a`]
