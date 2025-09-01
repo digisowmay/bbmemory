@@ -1,6 +1,6 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- prefers concise, one-line commands and follow-ups like “now?” or “sync and try again” to refresh data; 11× (stable since 2025-08-31) [refs: repeated "sync and try again" loops chatId:`12ea94ff333843`; latest sync commands chatId:`12ea94ff333843`]
+- prefers concise, one-line commands and follow-ups like “now?” or “sync and try again” to refresh data; 12× (stable since 2025-08-31) [refs: repeated "sync and try again" loops chatId:`12ea94ff333843`; latest sync commands chatId:`12ea94ff333843`; zip retry chatId:`21794fdee3394d`]
 
 ### Emerging (new signals, 1-2 reinforcements)
 - expects rapid, real-time updates from tools; 6× (last: 2025-09-01) [refs: immediate retry requests and successive sync attempts chatId:`12ea94ff333843`]
@@ -16,7 +16,7 @@
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
-- iterative checking approach: asks for updates repeatedly until satisfied; 6× [refs: multiple “sync and try again” loops chatId:`12ea94ff333843`; earlier retries]
+- iterative checking approach: asks for updates repeatedly until satisfied; 7× [refs: multiple “sync and try again” loops chatId:`12ea94ff333843`; zip retry chatId:`21794fdee3394d`]
 
 ### Emerging (recent behavioral shifts)
 - values up-to-date data accuracy over summary explanations; 2× (observed: 2025-09-01) [refs: insisted on continued retries despite error chatId:`12ea94ff333843`]
