@@ -1,10 +1,10 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
 - prioritizes perfect text accuracy and embedded images; 5× (stable since 2025-09-01) [refs: poster typo correction chatId:`fc54e482317d4d`; insistence on images in Notion chatId:`941db3860ba443`; futuristic fashion showcase chatId:`50a586c7da246`; QR & image inclusion chatId:`3549308e42cb46`; matcha logo concepts chatId:`1485bc34b23544`]
-- issues concise tool-named imperative commands; 11× [refs: "Logo Generator" command chatId:`1485bc34b23544`; "Mockup Maker" command chatId:`1485bc34b23544`; "use nanobanana" chatId:`1485bc34b23544`; regex/coder/explainer request chatId:`1485bc34b23544`; demo prompt request chatId:`1485bc34b23544`; slide deck generation command chatId:`878d52774fe040`; pomodoro planner command chatId:`1485bc34b23544`; personal finance tasks request chatId:`cffb1f71f42445`; expense breakdown "do it" command chatId:`cffb1f71f42445`; poster creation chatId:`673669aee6e440`]
+- issues concise tool-named imperative commands; 12× [refs: "Logo Generator" command chatId:`1485bc34b23544`; "Mockup Maker" command chatId:`1485bc34b23544`; "use nanobanana" chatId:`1485bc34b23544`; regex/coder/explainer request chatId:`1485bc34b23544`; demo prompt request chatId:`1485bc34b23544`; slide deck generation command chatId:`878d52774fe040`; pomodoro planner command chatId:`1485bc34b23544`; personal finance tasks request chatId:`cffb1f71f42445`; expense breakdown "do it" command chatId:`cffb1f71f42445`; poster creation chatId:`673669aee6e440`; fitness wireframe request chatId:`f3065311b0cc43`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- requests specific AI model (Gemini "nano banana"); 5× (last: 2025-09-01) [refs: nano banana image request chatId:`3549308e42cb46`; repeat nano banana usage chatId:`1485bc34b23544`; "use nanobanana" command chatId:`1485bc34b23544`; fitness wireframe generation chatId:`1485bc34b23544`; poster creation chatId:`673669aee6e440`]
+- requests specific AI model (Gemini "nano banana"); 6× (last: 2025-09-01) [refs: nano banana image request chatId:`3549308e42cb46`; repeat nano banana usage chatId:`1485bc34b23544`; "use nanobanana" command chatId:`1485bc34b23544`; fitness wireframe generation chatId:`1485bc34b23544`; poster creation chatId:`673669aee6e440`; fitness app wireframe chatId:`f3065311b0cc43`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -25,5 +25,5 @@
 - exploring multiple vision/image generation and analysis agents for design tasks; 5× [refs: agent integration discussion chatId:`fc54e482317d4d`; futuristic fashion image analysis chatId:`61586ea7b3e942`; futuristic fashion showcase chatId:`50a586c7da246`; nano banana generation chatId:`3549308e42cb46`; matcha logo generation chatId:`1485bc34b23544`]
 
 ### Emerging (new query patterns)
-- exploring mobile app wireframe generation; 3× (since 2025-09-01) [refs: initial mockup maker request chatId:`1485bc34b23544`; follow-up fitness wireframe generation chatId:`1485bc34b23544`; nano banana wireframe generation chatId:`1485bc34b23544`]
+- exploring mobile app wireframe generation; 4× (since 2025-09-01) [refs: initial mockup maker request chatId:`1485bc34b23544`; follow-up fitness wireframe generation chatId:`1485bc34b23544`; nano banana wireframe generation chatId:`1485bc34b23544`; fitness app wireframe chatId:`f3065311b0cc43`]
 - exploring personal finance management; salary negotiation, loan comparison, expense tracking; 2× (since 2025-09-01) [refs: personal finance tasks request chatId:`cffb1f71f42445`; expense breakdown analysis chatId:`cffb1f71f42445`]
