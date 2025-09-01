@@ -3,8 +3,8 @@
 - 
 
 ### Emerging (new signals, 1-2 reinforcements)
-- asks for corrections when output is wrong and persists until requirement met; 2× (last: 2025-09-01) [refs: invoice generation chatId:`92100943325142`]
-- prefers explicit INR currency and simple invoice format; 1× (first: 2025-09-01) [ref: invoice generation chatId:`92100943325142`]
+- asks for corrections when output is wrong and persists until requirement met; 3× (last: 2025-09-01) [refs: invoice generation chatId:`92100943325142`]
+- prefers explicit INR currency and simple invoice format; 3× (last: 2025-09-01) [refs: invoice generation chatId:`92100943325142`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -25,4 +25,4 @@
 - 
 
 ### Emerging (new query patterns)
-- frequently uses platform to generate invoices; 3× (since 2025-09-01) [refs: invoice generation chatId:`92100943325142`]
+- frequently uses platform to generate invoices; 4× (since 2025-09-01) [refs: invoice generation chatId:`92100943325142`]
