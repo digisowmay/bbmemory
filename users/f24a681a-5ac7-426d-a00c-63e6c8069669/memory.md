@@ -28,3 +28,4 @@
 ### Emerging (new query patterns)
 - exploring mobile app wireframe generation; 5× (since 2025-09-01) [refs: initial mockup maker request chatId:`1485bc34b23544`; follow-up fitness wireframe generation chatId:`1485bc34b23544`; nano banana wireframe generation chatId:`1485bc34b23544`; fitness app wireframe chatId:`f3065311b0cc43`; regex prompt wireframe context chatId:`f3065311b0cc43`]
 - exploring personal finance management; salary negotiation, loan comparison, expense tracking; 2× (since 2025-09-01) [refs: personal finance tasks request chatId:`cffb1f71f42445`; expense breakdown analysis chatId:`cffb1f71f42445`]
+- asks for code enhancements and regex building; 1× (observed: 2025-09-01) [ref: regex prompt and validation chatId:`f3065311b0cc43`]
