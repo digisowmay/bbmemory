@@ -4,8 +4,8 @@
 - requests detailed explanations, granular data, and deep-dive breakdowns; 4× (last: 2025-09-02) [refs: benchmarking data and exhaustive case study explanation chatId:`78a3dc113b5a4d`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- asks for multimedia deliverables (video scripts, presentation frameworks); 2× (last: 2025-09-02) [refs: requested video for case study explanation; earlier video script request chatId:`78a3dc113b5a4d`]
-- requests explicit source validation/transparency for provided information; 1× (first: 2025-09-02) [ref: asked "From where you find this case study" chatId:`78a3dc113b5a4d`]
+- asks for multimedia deliverables (video scripts, presentation frameworks); 3× (last: 2025-09-02) [refs: requested video to explain case study; earlier video script request chatId:`78a3dc113b5a4d`]
+- requests explicit source validation/transparency for provided information; 2× (last: 2025-09-02) [refs: asked "From where you find this case study" chatId:`78a3dc113b5a4d`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
