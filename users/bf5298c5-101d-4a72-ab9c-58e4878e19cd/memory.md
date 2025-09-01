@@ -5,6 +5,7 @@
 ### Emerging (new signals, 1-2 reinforcements)
 - prefers receiving multiple tweet options before choosing; 3× (last: 2025-09-01) [refs: tweet suggestion exchanges chatId:`8ab2b8a7b8da44`]
 - enjoys humorous tone but occasionally asks for toned-down/normal versions; 3× (last: 2025-09-01) [refs: humor adjustment requests chatId:`8ab2b8a7b8da44`]
+- prefers variety across tweets, avoids single-theme day; 1× (first: 2025-09-01) [ref: request for non-internship-only tweets chatId:`8ab2b8a7b8da44`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
