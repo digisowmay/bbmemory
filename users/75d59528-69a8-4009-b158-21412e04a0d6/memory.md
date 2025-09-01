@@ -2,7 +2,7 @@
 ### Durable (established, 3+ reinforcements)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- prefers social media drafts without emojis; 2× (last: 2025-09-01) [ref: draft X posts requests chatId:`b90fc4f0d4ac44`]
+- prefers social media drafts without emojis; 3× (last: 2025-09-01) [ref: draft X posts requests chatId:`b90fc4f0d4ac44`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
