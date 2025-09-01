@@ -4,7 +4,7 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - asks for structured, step-by-step learning plans; 3× (last: 2025-09-01) [refs: trend indicators lesson request chatId:`a3e427fd350243`; 6-month data analytics plan chatId:`a3e427fd350243`; request to start daily detailed teaching chatId:`a3e427fd350243`]
-- requests daily learning schedule and commitment; 1× (first: 2025-09-01) [ref: confirmation to start from tomorrow with day 1 detailed lesson chatId:`a3e427fd350243`]
+- requests daily learning schedule and commitment; 2× (last: 2025-09-01) [refs: confirmation to start from tomorrow with day 1 detailed lesson chatId:`a3e427fd350243`; acceptance to begin Day 1 tomorrow chatId:`a3e427fd350243`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
