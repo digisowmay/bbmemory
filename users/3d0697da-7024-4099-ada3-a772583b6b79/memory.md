@@ -1,9 +1,8 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- none yet
+- gives direct imperative commands for information lookup and cross-platform actions; 3× (promoted from emerging, last: 2025-09-01) [refs: Telegram confirmation chatId:`8a7bbee82a5847`; marketing jobs request chatId:`5ae756b89a9443`; X posting request chatId:`5dd3b78eca0543`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- gives direct imperative commands for information lookup and cross-platform actions; 2× (last: 2025-09-01) [refs: Telegram confirmation chatId:`8a7bbee82a5847`; marketing jobs request chatId:`5ae756b89a9443`]
 - requests detailed multi-step multimedia content generation; 1× (first: 2025-09-01) [ref: futuristic fashion request chatId:`976df388b00c44`]
 
 ## Knowledge & Context
@@ -30,3 +29,4 @@
 - uses Todoist for task management; 1× (since 2025-08-31) [ref: add tasks to Todoist]
 - exploring AI-generated multimedia content (images, audio narration); 1× (first: 2025-09-01) [ref: futuristic fashion request chatId:`976df388b00c44`]
 - seeking job search assistance; 1× (first: 2025-09-01) [ref: marketing jobs request chatId:`5ae756b89a9443`]
+- uses assistant to post tweets on X; 1× (first: 2025-09-01) [ref: X posting request chatId:`5dd3b78eca0543`]
