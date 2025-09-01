@@ -2,7 +2,7 @@
 ### Durable (established, 3+ reinforcements)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- communicates in Spanish; 2× (last: 2025-09-01) [refs: chatId:`4af627750fd348`; earlier chatId:`4af627750fd348`]
+- communicates in Spanish; 3× (last: 2025-09-01) [refs: chatId:`4af627750fd348`; earlier chatId:`4af627750fd348`; chatId:`ff85887b7cf848`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -20,4 +20,4 @@
 
 ### Emerging (new query patterns)
 - requests historical summaries; 1× (since 2025-09-01) [ref: chatId:`4af627750fd348`]
-- exploring AI image generation for personal transformations; 1× (first: 2025-09-01) [ref: chatId:`4af627750fd348`]
+- exploring AI image generation for personal transformations; 2× (since 2025-09-01) [refs: chatId:`4af627750fd348`; chatId:`ff85887b7cf848`]
