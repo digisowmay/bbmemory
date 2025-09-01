@@ -4,7 +4,7 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - requests text-free/minimalist visuals; 5× (last: 2025-09-01) [refs: “i dont want text” request chatId:`607d0969a2f34b`; MacBook request chatId:`2e2b70530cf142`]
-- asks for vector formats to ensure scalability; 1× (first: 2025-09-01) [ref: vector MacBook request chatId:`2e2b70530cf142`]
+- asks for vector formats to ensure scalability; 2× (last: 2025-09-01) [refs: vector MacBook request chatId:`2e2b70530cf142`; repeat vector request chatId:`2e2b70530cf142`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
