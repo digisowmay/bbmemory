@@ -26,5 +26,5 @@
 
 ### Emerging (new query patterns)
 - monitors recruitment form responses frequently; 2× (since 2025-08-31) [refs: repeated getResponses checks for Video Editor Interns form]
-- configures new Bhindi agents and adds variables; 3× (since 2025-09-01) [refs: kg-auth agent creation and sync chatId:`87b103051a9f45`; attempted kg-auth tool calls chatId:`61f23243aa9941`]
+- configures new Bhindi agents and adds variables; 4× (since 2025-09-01) [refs: kg-auth agent creation and sync chatId:`87b103051a9f45`; attempted kg-auth tool calls chatId:`61f23243aa9941`; diagram generation chatId:`0bd6b8a2c40a41`; new kg-pdf agent setup chatId:`12ea94ff333843`]
 - generates diagrams using chart agent; 1× (first: 2025-09-01) [ref: chart generation request chatId:`0bd6b8a2c40a41`]
