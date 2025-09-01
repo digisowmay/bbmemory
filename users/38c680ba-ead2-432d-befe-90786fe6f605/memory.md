@@ -1,7 +1,7 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
 - gives concise, directive requests and expects brief confirmations; 7× (stable since 2025-08-20) [refs: credit addition command chatId:`e297222bc18d40`; agent usage query chatId:`c946a1a31da646`; subscription creation chatId:`7857e1a6bece41`]
-- prefers tabular format for data-heavy reports; 3× (promoted from emerging) (last: 2025-09-01) [refs: request for tables chatId:`9fd3ecf40d4b4f`; "Can you give me table" chatId:`9fd3ecf40d4b4f`; current report formatting chatId:`9fd3ecf40d4b4f`]
+- prefers tabular format specifically for user analysis and DB-related reports; 4× (last: 2025-09-01) [refs: request for tables chatId:`9fd3ecf40d4b4f`; "Can you give me table" chatId:`9fd3ecf40d4b4f`; current report formatting chatId:`9fd3ecf40d4b4f`; clarification about tables chatId:`8120e9f2b17945`]
 
 ### Emerging (new signals, 1-2 reinforcements)
 - insists on verification and cross-referenced counts before decisions; 1× (first: 2025-09-01) [ref: "CRITICAL: Always verify you've checked ALL users" chatId:`9fd3ecf40d4b4f`]
