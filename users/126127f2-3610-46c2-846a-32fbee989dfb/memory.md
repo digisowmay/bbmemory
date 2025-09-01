@@ -5,6 +5,7 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - often incorporates pop-culture characters/actors into requested edits; 5× (last: 2025-09-01) [refs: current edit request chatId:`f27383acc20446`; previous LotR meme reference chatId:`a645ebeddae94c`]
+- requests iterative refinements, focusing on small realism details (e.g., hand femininity, background cleanup); 1× (first: 2025-09-01) [ref: finger/background adjustment chatId:`f27383acc20446`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
