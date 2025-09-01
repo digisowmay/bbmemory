@@ -12,6 +12,7 @@
 ### Emerging (recent learning, current focus)
 - branding a matcha cafe startup; 3× (since 2025-09-01) [refs: minimalist logo request chatId:`1485bc34b23544`; minimalist logo branding discussion chatId:`1485bc34b23544`; current matcha logo variations chatId:`1485bc34b23544`]
 - preparing for CAT exam in 9 weeks; 1× (started: 2025-09-01) [ref: pomodoro planner request chatId:`1485bc34b23544`]
+- saving for a Dior handbag purchase; researching best online deals; 1× (first: 2025-09-01) [ref: luxury bag deal research chatId:`b0d68ba3611241`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
