@@ -4,7 +4,7 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - Direct, task-oriented requests for specific deliverables; 3× (last: 2025-09-01) [refs: calendar event creation request; futuristic fashion showcase request chatId:`61586ea7b3e942`; automated analysis inquiry chatId:`61586ea7b3e942`]
-- Seeks troubleshooting, detailed explanations, and alternative tool options when initial solution fails; 2× (last: 2025-09-01) [refs: alternate agent for Gemini Vision chatId:`61586ea7b3e942`; perplexity capability question chatId:`61586ea7b3e942`]
+- Seeks troubleshooting, detailed explanations, and alternative tool options when initial solution fails; 3× (last: 2025-09-01) [refs: alternate agent for Gemini Vision chatId:`61586ea7b3e942`; perplexity capability question chatId:`61586ea7b3e942`; tool replacement recommendation chatId:`61586ea7b3e942`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -19,7 +19,7 @@
 - (none)
 
 ### Emerging (recent behavioral shifts)
-- Prefers concrete, shareable assets (links, images) to confirm progress; 3× (last: 2025-09-01) [refs: request for fashion showcase image and audio; follow-up asset confirmations chatId:`61586ea7b3e942`]
+- Prefers concrete, shareable assets (links, images) to confirm progress; 3× (last: 2025-09-01) [refs: request for fashion showcase image and audio; follow-up asset confirmations chatId:`61586ea7b3e942`; vision analysis request]
 - Iterative problem-solver; requests detailed, objective metrics and alternative solutions; 2× (last: 2025-09-01) [refs: automated analysis request; alternate agent inquiry chatId:`61586ea7b3e942`]
 
 ## Platform Usage & Queries
