@@ -21,3 +21,4 @@
 
 ### Emerging (new query patterns)
 - handles repository and server deployments via automated commands; PR merges, ssh deploys, agent sync; 2× (last: 2025-09-01) [refs: deployment request chatId:`23068aeac7034c`; PR & sync ops chatId:`7250d4330de448`]
+- uses Bhindi Scheduler agent to check schedule execution times; automation schedule management; 1× (first: 2025-09-01) [ref: schedule query chatId:`3899765864f540`]
