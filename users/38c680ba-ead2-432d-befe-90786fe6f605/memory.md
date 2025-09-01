@@ -3,7 +3,7 @@
 - 
 
 ### Emerging (new signals, 1-2 reinforcements)
-- gives concise, directive requests and expects brief confirmations; 2× (last: 2025-08-31) [refs: "CONFIRM" instruction after email; query "did you check my calendar?"]
+- gives concise, directive requests and expects brief confirmations; 3× (last: 2025-09-01) [ref: credit addition command chatId:`e297222bc18d40`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -17,11 +17,11 @@
 - 
 
 ### Emerging (recent behavioral shifts)
-- delegates operational tasks (email sending, calendar checking) to assistant; 2× (since 2025-08-31) [refs: request to send weather email; request to check calendar]
+- delegates operational tasks (email sending, calendar, credits) to assistant; 3× (last: 2025-09-01) [ref: credit addition command chatId:`e297222bc18d40`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
 - 
 
 ### Emerging (new query patterns)
-- uses assistant to handle email and calendar management; 2× (since 2025-08-31) [refs: email send task; calendar query]
+- uses assistant to handle admin tasks (email, calendar, credits); 3× (last: 2025-09-01) [ref: credit addition command chatId:`e297222bc18d40`]
