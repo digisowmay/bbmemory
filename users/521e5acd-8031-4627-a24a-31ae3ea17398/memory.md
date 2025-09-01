@@ -3,7 +3,7 @@
 - prefers concise, imperative requests (e.g., “Find email …”); 7× (stable since 2024-08-15) [refs: CEO email request chatId:`d7add70fb04f43`; contact details request chatId:`65242c0b8e7d44`; 100x email request chatId:`2a52750b536548`; influencer names request chatId:`ac461929585741`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- requests actionable lists for event planning; 1× (first: 2025-09-01) [ref: masterclass topics and speakers request chatId:`65242c0b8e7d44`]
+- requests actionable lists for event planning; 2× (last: 2025-09-01) [refs: masterclass topics and speakers request chatId:`65242c0b8e7d44`; communication creators list request chatId:`ac461929585741`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
