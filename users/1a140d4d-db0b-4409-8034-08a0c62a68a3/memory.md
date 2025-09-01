@@ -2,7 +2,8 @@
 ### Durable (established, 3+ reinforcements)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- requests exhaustive, A-to-Z style guidance for tasks; 2× (last: 2025-09-01) [refs: website build request chatId:`3ee43553eaf942`; examples of agency websites request chatId:`3ee43553eaf942`]
+- requests exhaustive, A-to-Z style guidance for tasks; 3× (last: 2025-09-01) [refs: website build request; examples of agency websites request; wow websites request chatId:`3ee43553eaf942`]
+- prefers responses in curated list format; 1× (first: 2025-09-01) [ref: wow websites examples chatId:`3ee43553eaf942`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -21,4 +22,4 @@
 
 ### Emerging (new query patterns)
 - seeks detailed tech stack & component suggestions for web development; 1× (since 2025-09-01) [ref: chatId:`3ee43553eaf942`]
-- seeks reference agency websites and design inspiration; 1× (first: 2025-09-01) [ref: chatId:`3ee43553eaf942`]
+- seeks reference agency websites and design inspiration; 3× (since 2025-09-01) [refs: agency websites list; best agency examples; wow websites examples chatId:`3ee43553eaf942`]
