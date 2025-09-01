@@ -1,1 +1,1 @@
-- prefers casual, crisp, stoic, and concise messaging; 5× [refs: global instructions to keep responses short; request to keep message casual and useful; coordination reply chatId:`420b3ce5a2f44e`; chatId:`19621c74bbc949`]
+- prefers casual, crisp, stoic, and concise messaging; 6× [refs: global instructions to keep responses short; request to keep message casual and useful; coordination reply chatId:`420b3ce5a2f44e`; chatId:`19621c74bbc949`; chatId:`2cc88ef301464e`]
