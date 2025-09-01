@@ -4,7 +4,7 @@
 - Seeks troubleshooting, detailed explanations, and alternative tool options when initial solution fails; 5× [refs: alternate agent for Gemini Vision chatId:`61586ea7b3e942`; perplexity capability question chatId:`61586ea7b3e942`; tool replacement recommendation chatId:`61586ea7b3e942`; inquiry about other image agents chatId:`941db3860ba443`; request for alternate image agent "digitalIllustrator" chatId:`941db3860ba443`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- (none at this time)
+- Prefers embedded images over plain links when receiving visual content; 1× (first: 2025-09-01) [ref: insistence on "MAKE SURE YOU GIVE ME IMAGES NOT LINKS" chatId:`941db3860ba443`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
