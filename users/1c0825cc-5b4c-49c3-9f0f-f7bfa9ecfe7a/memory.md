@@ -1,8 +1,8 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
+- provides concise, direct image-editing instructions and supplies explicit image URLs/tool names; 6× (stable since 2025-09-01) [refs: multiple AI image edit requests chatId:`e350e966ac4248`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- gives concise, direct instructions and supplies explicit image URLs/tool names; 3× (last: 2025-09-01) [refs: AI image edit request chatId:`e350e966ac4248`; clothing edit request chatId:`e350e966ac4248`; saree selfie edit request chatId:`e350e966ac4248`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -16,6 +16,6 @@
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
+- frequently requests AI image editing/generation; combining photos, clothing edits, background changes; 6× [refs: repeated image-edit requests chatId:`e350e966ac4248`]
 
 ### Emerging (new query patterns)
-- experimenting with AI image editing/generation (combining photos, clothing edits); 3× (since 2025-09-01) [refs: romantic scene request chatId:`e350e966ac4248`; luxury jacket/jeans edit chatId:`e350e966ac4248`; saree selfie request chatId:`e350e966ac4248`]
