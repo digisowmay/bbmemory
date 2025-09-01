@@ -13,6 +13,7 @@
 
 ### Emerging (recent learning, current focus)
 - interested in screen-blocking, productivity, and sleep-affirmation techniques for user transformation; 1× (first: 2025-09-01) [ref: current MVP feature list chatId:`bdf320c01d4446`]
+- struggling with procrastination, porn addiction, low self-esteem; seeking psychological self-improvement; 1× (first: 2025-09-01) [ref: self-description of challenges chatId:`bdf320c01d4446`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
@@ -23,7 +24,8 @@
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
-- exploring no-code platforms, voice AI, and IoT/device integration tools for app development; 4× (promoted from emerging) [refs: no-code MVP roadmap chatId:`bdf320c01d4446`; IoT integration query chatId:`bdf320c01d4446`; voice-interactive MVP chatId:`bdf320c01d4446`; current voice command MVP chatId:`bdf320c01d4446`]
+- exploring no-code platforms, voice AI, and IoT/device integration tools for app development; 4× [refs: no-code MVP roadmap chatId:`bdf320c01d4446`; IoT integration query chatId:`bdf320c01d4446`; voice-interactive MVP chatId:`bdf320c01d4446`; current voice command MVP chatId:`bdf320c01d4446`]
 
 ### Emerging (new query patterns)
 - focusing on voice command implementation and speech technologies; 1× (started: 2025-09-01) [ref: voice command implementation discussion chatId:`bdf320c01d4446`]
+- exploring productivity tracking and screen-blocking solutions to enhance focus; 1× (first: 2025-09-01) [ref: screen blocking MVP conversation chatId:`bdf320c01d4446`]
