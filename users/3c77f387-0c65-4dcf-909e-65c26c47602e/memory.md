@@ -20,4 +20,4 @@
 ### Durable (regular platform activities)
 
 ### Emerging (new query patterns)
-- يطلب إنشاء كتب إلكترونية PDF مع تصميم وغلاف وصور، ويطلب كذلك مهام دمج صور وتعديل خلفيات بشكل احترافي؛ 2× (since 2025-09-01, last: 2025-09-01) [refs: ebook creation request chatId:`15341292abcc4e`; image merge request chatId:`e0ff60109c584e`]
+- يطلب إنشاء كتب إلكترونية PDF مع تصميم وغلاف وصور، ويطلب كذلك مهام دمج صور وتعديل خلفيات بشكل احترافي؛ 3× (last: 2025-09-01, since 2025-09-01) [refs: ebook creation request chatId:`15341292abcc4e`; image merge request chatId:`e0ff60109c584e`; horse edit request chatId:`89b824019b954a`]
