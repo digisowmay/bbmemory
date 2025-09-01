@@ -1,6 +1,6 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- prefers concise, one-line commands and follow-ups like “now?” to refresh data; 3× (stable since 2025-08-31) [refs: chat messages repeatedly "now?" when checking Google Form responses]
+- prefers concise, one-line commands and follow-ups like “now?” to refresh data; 4× (stable since 2025-08-31) [refs: chat messages repeatedly "now?" when checking Google Form responses; request "try the auth agent;s 2-3 tools" chatId:`61f23243aa9941`]
 
 ### Emerging (new signals, 1-2 reinforcements)
 - expects rapid, real-time updates from tools; 2× (last: 2025-08-31) [refs: repeated requests to check for new Google Form entries]
@@ -11,7 +11,7 @@
 
 ### Emerging (recent learning, current focus)
 - managing a Google Form for recruiting Video Editor Interns; 1× (started: 2025-08-31) [ref: request to see responses for “Video Editor Interns” form]
-- setting up ‘kg-auth’ authentication agent; 2× (since 2025-09-01) [refs: agent creation and configuration chatId:`87b103051a9f45`]
+- setting up ‘kg-auth’ authentication agent; 3× (since 2025-09-01) [refs: agent creation and configuration chatId:`87b103051a9f45`; attempted tool calls chatId:`61f23243aa9941`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
@@ -26,4 +26,4 @@
 
 ### Emerging (new query patterns)
 - monitors recruitment form responses frequently; 2× (since 2025-08-31) [refs: repeated getResponses checks for Video Editor Interns form]
-- configures new Bhindi agents and adds variables; 2× (since 2025-09-01) [refs: kg-auth agent creation and sync chatId:`87b103051a9f45`]
+- configures new Bhindi agents and adds variables; 3× (since 2025-09-01) [refs: kg-auth agent creation and sync chatId:`87b103051a9f45`; attempted kg-auth tool calls chatId:`61f23243aa9941`]
