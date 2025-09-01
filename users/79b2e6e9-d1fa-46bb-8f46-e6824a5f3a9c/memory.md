@@ -5,6 +5,7 @@
 ### Emerging (new signals, 1-2 reinforcements)
 - seeks iterative clarification to refine outputs; 3× (last: 2025-09-01) [refs: quotation refinement chatId:`5ab459562f7342`; job management follow-up chatId:`ad17d68da41b47`; Trello assignment explanation chatId:`ad17d68da41b47`]
 - requests broad option lists and integration possibilities before deciding; 2× (last: 2025-09-01) [refs: integration apps inquiry chatId:`ad17d68da41b47`; Trello capabilities request chatId:`ad17d68da41b47`]
+- prefers quick code-based templates for job details; efficiency focus; 1× (first: 2025-09-01) [ref: efficient format request chatId:`ad17d68da41b47`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -21,6 +22,7 @@
 ### Emerging (recent behavioral shifts)
 - asks for root-cause explanations when operations fail; 2× (last: 2025-09-01) [refs: problem inquiries chatId:`5ab459562f7342`; chatId:`5ab459562f7342`]
 - persistence via iterative refinement requests to achieve optimal output; 1× (first: 2025-09-01) [ref: repeated quotation adjustments chatId:`5ab459562f7342`]
+- prioritizes streamlined, time-saving formats; asks agent to "think deeply" for efficient solutions; 1× (first: 2025-09-01) [ref: efficient format request chatId:`ad17d68da41b47`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
@@ -28,4 +30,4 @@
 
 ### Emerging (new query patterns)
 - generates business quotations/invoices via tools; 3× (last: 2025-09-01) [refs: multiple quotation generations chatId:`5ab459562f7342`]
-- explores automation and integrations for job management & project tools; 4× (since 2025-09-01) [refs: automation discussion chatId:`ad17d68da41b47`; integration apps inquiry chatId:`ad17d68da41b47`; Trello capabilities request chatId:`ad17d68da41b47`; Trello assignment explanation chatId:`ad17d68da41b47`]
+- explores automation and integrations for job management & project tools; 5× (since 2025-09-01) [refs: automation discussion chatId:`ad17d68da41b47`; integration apps inquiry chatId:`ad17d68da41b47`; Trello capabilities request chatId:`ad17d68da41b47`; Trello assignment explanation chatId:`ad17d68da41b47`; efficient format request chatId:`ad17d68da41b47`]
