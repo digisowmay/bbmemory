@@ -1,6 +1,6 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- prefers casual, crisp, stoic, and concise messaging; 9× [refs: global instructions to keep responses short; prior request for succinct message; chatId:`2cc88ef301464e`; chatId:`28708c39a67140`; chatId:`69be524c2ed84f`]
+- prefers casual, crisp, stoic, and concise messaging; 10× [refs: global instructions to keep responses short; prior request for succinct message; chatId:`2cc88ef301464e`; chatId:`28708c39a67140`; chatId:`69be524c2ed84f`; chatId:`5b37a9e43d024a`]
 
 ### Emerging (new signals, 1-2 reinforcements)
 - requests polite wording when messaging others; 2× (last: 2025-09-01) [refs: chatId:`2cc88ef301464e`; chatId:`69be524c2ed84f`]
