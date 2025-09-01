@@ -2,10 +2,10 @@
 ### Durable (established, 3+ reinforcements)
 - prefers concise, structured feedback; 5× [refs: LinkedIn post assessment chatId:`769c137c4fe14f`; strategy discussions in earlier sessions]
 - data-oriented conversations, shares metrics to ground discussion; 4× [refs: funding discipline post metrics chatId:`769c137c4fe14f`; prior e-commerce KPI talks]
-- regularly requests LinkedIn post drafting and performance analysis; 6× (promoted from emerging) [refs: Ravi vs Hari content refinement chatId:`769c137c4fe14f`; viral drafting guidance chatId:`769c137c4fe14f`]
+- regularly requests LinkedIn post drafting and performance analysis; 6× [refs: Ravi vs Hari content refinement chatId:`769c137c4fe14f`; viral drafting guidance chatId:`769c137c4fe14f`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- n/a
+- asks for multiple headline options to A/B choose best; 1× (first: 2025-09-01) [ref: headline comparison chatId:`769c137c4fe14f`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -21,13 +21,13 @@
 - values authenticity & operational rigor; 5× [refs: discipline vs vanity funding posts chatId:`769c137c4fe14f`; business philosophy statements]
 
 ### Emerging (recent behavioral shifts)
-- experimenting with narrative storytelling to convey business lessons; 4× (last: 2025-09-01) [refs: Ravi post viral draft request chatId:`769c137c4fe14f`; narrative enhancement guidance chatId:`769c137c4fe14f`]
+- experimenting with narrative storytelling to convey business lessons; 5× (last: 2025-09-01) [refs: Ravi post viral draft request chatId:`769c137c4fe14f`; narrative enhancement guidance chatId:`769c137c4fe14f`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
 - seeks strategic advice on retail/e-commerce growth; 8× [refs: omnichannel strategy chats; KPI deep dives]
 - evaluates startup investment opportunities; 6× [refs: mentoring discussions; funding evaluations]
-- requests LinkedIn post reviews & engagement analysis; 6× (promoted from emerging) [refs: post performance metrics conversations chatId:`769c137c4fe14f`; viral potential refinement chats chatId:`769c137c4fe14f`]
+- requests LinkedIn post reviews & engagement analysis; 6× [refs: post performance metrics conversations chatId:`769c137c4fe14f`; viral potential refinement chats chatId:`769c137c4fe14f`]
 
 ### Emerging (new query patterns)
-- n/a
+- exploring headline optimization techniques for LinkedIn posts; 1× (started 2025-09-01) [ref: headline comparison chatId:`769c137c4fe14f`]
