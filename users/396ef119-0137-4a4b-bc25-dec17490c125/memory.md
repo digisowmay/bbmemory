@@ -3,7 +3,7 @@
 -
 
 ### Emerging (new signals, 1-2 reinforcements)
-- Prefers simple, straightforward language with bullet points, no emojis, and clear CTAs; 4× (last: 2025-09-01) [refs: multiple content simplification requests, CTA inclusion reminders chatId:`9466b6557c044e`]
+- Prefers simple, straightforward language with bullet points, clear CTAs, no emojis; 5× (last: 2025-09-01) [refs: multiple content simplification & CTA inclusion requests chatId:`9466b6557c044e`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -17,11 +17,11 @@
 -
 
 ### Emerging (recent behavioral shifts)
-- Provides iterative feedback to refine content towards desired tone and simplicity; 1× (observed: 2025-09-01) [ref: feedback loop chatId:`9466b6557c044e`]
+- Provides iterative feedback to refine content toward desired tone and simplicity; 1× (observed: 2025-09-01) [ref: feedback loop chatId:`9466b6557c044e`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
 -
 
 ### Emerging (new query patterns)
-- Regularly requests social media copywriting for crypto projects; 1× (since 2025-09-01) [ref: multiple content creation requests chatId:`9466b6557c044e`]
+- Regularly requests social media copywriting for crypto projects; 2× (since 2025-09-01) [refs: multiple content creation and recap requests chatId:`9466b6557c044e`]
