@@ -22,7 +22,7 @@
 ### Emerging (recent behavioral shifts)
 - prefers assistant to perform tasks rather than just give guidance; 3× (last: 2025-09-01) [refs: delegation requests chatId:`efe1936c6d7440`]
 - persists after refusals, repeatedly seeking direct action; 2× (last: 2025-09-01) [refs: multiple follow-ups chatId:`efe1936c6d7440`]
-- cost sensitive; actively seeks free or trial versions of paid AI tools; 1× (first: 2025-09-01) [ref: requests for free ChatGPT Agent mode chatId:`efe1936c6d7440`]
+- cost sensitive; actively seeks free or trial versions of paid AI tools; 2× (last: 2025-09-01) [refs: requests for free ChatGPT Agent mode chatId:`efe1936c6d7440`; search for free access chatId:`efe1936c6d7440`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
