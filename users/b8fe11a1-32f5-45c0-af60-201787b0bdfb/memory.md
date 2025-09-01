@@ -1,9 +1,10 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
 - gives very specific, iterative instructions for image edits and expects quick successive adjustments; 6× (stable since 2025-09-01) [refs: series of swimsuit/body type change requests chatId:`e26ceb22a9084b`]
+- requests precise camera perspectives/angles (rear, side, behind); 3× (promoted from emerging, last: 2025-09-01) [refs: rear-view resort request; view-from-behind resort; side angle request chatId:`e26ceb22a9084b`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- requests precise camera perspectives/angles (e.g., rear view, squatting viewpoint); 1× (first: 2025-09-01) [ref: rear-view resort request chatId:`e26ceb22a9084b`]
+- 
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
