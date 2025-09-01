@@ -1,9 +1,10 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- Provides very specific, technical instructions for visual edits (camera model, lens, aperture, aspect ratio, lighting); 4× (promoted from emerging, stable since 2025-09-01) [refs: image edit request chatId:`ace699c5405c4c`; cinematic portrait request chatId:`ace699c5405c4c`; fitness photos request chatId:`ace699c5405c4c`; red carpet request chatId:`ace699c5405c4c`]
+- Provides very specific, technical instructions for visual edits (camera model, lens, aperture, aspect ratio, lighting); 4× (stable since 2025-09-01) [refs: image edit request chatId:`ace699c5405c4c`; cinematic portrait request chatId:`ace699c5405c4c`; fitness photos request chatId:`ace699c5405c4c`; red carpet request chatId:`ace699c5405c4c`]
+- Emphasizes keeping face unchanged or obscured in edited images; 3× (promoted from emerging, stable since 2025-09-01) [refs: cinematic portrait request chatId:`ace699c5405c4c`; fitness photos request chatId:`ace699c5405c4c`; lifestyle photos request chatId:`ace699c5405c4c`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- Emphasizes keeping face unchanged or obscured in edited images; 2× (last: 2025-09-01) [refs: cinematic portrait request chatId:`ace699c5405c4c`; fitness photos request chatId:`ace699c5405c4c`]
+- Requests multiple images with varied realistic backgrounds and casual smartphone-style authenticity; 1× (first: 2025-09-01) [ref: lifestyle photos request chatId:`ace699c5405c4c`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
