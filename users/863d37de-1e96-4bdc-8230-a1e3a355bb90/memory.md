@@ -11,6 +11,7 @@
 
 ### Emerging (recent learning, current focus)
 - managing a Google Form for recruiting Video Editor Interns; 1× (started: 2025-08-31) [ref: request to see responses for “Video Editor Interns” form]
+- setting up ‘kg-auth’ authentication agent; 1× (started: 2025-09-01) [ref: agent creation command chatId:`87b103051a9f45`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
@@ -25,3 +26,4 @@
 
 ### Emerging (new query patterns)
 - monitors recruitment form responses frequently; 2× (since 2025-08-31) [refs: repeated getResponses checks for Video Editor Interns form]
+- configures new Bhindi agents and adds variables; 1× (first: 2025-09-01) [ref: agent creation command chatId:`87b103051a9f45`]
