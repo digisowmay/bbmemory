@@ -2,6 +2,7 @@
 ### Durable (established, 3+ reinforcements)
 - asks broad requests with minimal detail; 7× (stable since 2025-09-01) [refs: account creation request; trading basics request; Siri setup request; "Can you provide siri" request chatId:`0d38b969c2a748`; "How do you shine" open-ended query chatId:`0d38b969c2a748`; "Hii" greeting vague ask; "Do you have live or enter live" vague ask]
 - prefers immediate action start; 4× (promoted from emerging) [refs: "Can you start now" prompt chatId:`0d38b969c2a748`; repeated immediate start prompt; prior immediate start request; "Can you start now" follow-up]
+- frequently asks meta questions about the assistant's identity and capabilities; 5× (stable since 2025-09-01) [refs: "Who are you" chatId:`0d38b969c2a748`; "Are you really a human being" chatId:`0d38b969c2a748`; "How do you shine" chatId:`0d38b969c2a748`; "Do you have live or enter live" chatId:`0d38b969c2a748`; "How many people do you work for besides me" chatId:`0d38b969c2a748`]
 
 ### Emerging (new signals, 1-2 reinforcements)
 
