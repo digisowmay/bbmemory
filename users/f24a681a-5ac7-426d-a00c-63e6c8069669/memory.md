@@ -3,8 +3,8 @@
 - prioritizes perfect text accuracy and embedded images; 5× (stable since 2025-09-01) [refs: poster typo correction chatId:`fc54e482317d4d`; insistence on images in Notion chatId:`941db3860ba443`; futuristic fashion showcase chatId:`50a586c7da246`; request to include QR & image without re-asking chatId:`3549308e42cb46`; matcha logo concept images chatId:`1485bc34b23544`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- requests specific AI model (Gemini "nano banana"); 3× (last: 2025-09-01) [refs: nano banana image request chatId:`3549308e42cb46`; repeat nano banana usage chatId:`1485bc34b23544`; "use nanobanana" command chatId:`1485bc34b23544`]
-- issues concise tool-named imperative commands; 5× (last: 2025-09-01) [refs: "Logo Generator" command chatId:`1485bc34b23544`; "Mockup Maker" command chatId:`1485bc34b23544`; previous tool commands chatId:`1485bc34b23544`; very terse capability request chatId:`1485bc34b23544`]
+- requests specific AI model (Gemini "nano banana"); 4× (last: 2025-09-01) [refs: nano banana image request chatId:`3549308e42cb46`; repeat nano banana usage chatId:`1485bc34b23544`; "use nanobanana" command chatId:`1485bc34b23544`; fitness wireframe nano banana generation chatId:`1485bc34b23544`]
+- issues concise tool-named imperative commands; 6× (last: 2025-09-01) [refs: "Logo Generator" command chatId:`1485bc34b23544`; "Mockup Maker" command chatId:`1485bc34b23544`; previous tool commands chatId:`1485bc34b23544`; regex/coder/explainer capabilities chatId:`1485bc34b23544`; demo prompt request chatId:`1485bc34b23544`; slide deck generation command chatId:`878d52774fe040`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
