@@ -2,7 +2,7 @@
 ### Durable (established, 3+ reinforcements)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- prefers concise directive-style requests and iterative refinement; 1× (first: 2025-08-31) [ref: chat about adjusting t-shirt templates consistency]
+- prefers concise directive-style requests and iterative refinement; 2× (last: 2025-09-01) [refs: chat about adjusting t-shirt templates consistency; subscription management command chatId:`683d942f817548`]
 - wants conversational casual tone and no corporate language; 1× (first: 2025-08-31) [ref: global instructions and follow-up reminders]
 
 ## Knowledge & Context
@@ -22,3 +22,4 @@
 
 ### Emerging (new query patterns)
 - uses image generation prompts for design asset creation; 1× (first: 2025-08-31) [ref: asked for AI-generated t-shirt images]
+- manages subscription plans via agent commands; 1× (first: 2025-09-01) [ref: subscription add command chatId:`683d942f817548`]
