@@ -1,28 +1,31 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- Provides very specific, technical instructions for visual edits (camera model, lens, aperture, aspect ratio, lighting); 6× (stable since 2025-09-01) [refs: image edit request chatId:`ace699c5405c4c`; cinematic portrait request; fitness photos set; red carpet request; lifestyle casual set; latest varied outfits request]
-- Emphasizes keeping face unchanged or subtly obscured in edited images; 4× [refs: cinematic portrait chatId:`ace699c5405c4c`; fitness photos request; lifestyle photos set; latest four-photo lifestyle set]
+- Provides very specific, technical instructions for visual edits (camera model, lens, aperture, aspect ratio, lighting); 7× [refs: multiple image edit requests chatId:`ace699c5405c4c`]
+- Requests multiple images with varied realistic smartphone-style backgrounds and casual authenticity; 6× (promoted from emerging) [refs: latest 4-photo and 8-photo lifestyle sets chatId:`ace699c5405c4c`]
+- Emphasizes keeping face unchanged or subtly obscured in edited images; 5× [refs: red carpet, gym, beach, balcony sets chatId:`ace699c5405c4c`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- Requests multiple images with varied realistic backgrounds and smartphone-style authenticity; 4× (last: 2025-09-01) [refs: lifestyle photos set; latest four-photo lifestyle set; coffee shop/beach/car/kitchen set chatId:`ace699c5405c4c`; second multi-outfit request]
-- Focus on showcasing athletic physique across different casual outfits/settings; 2× (last: 2025-09-01) [refs: latest four-photo lifestyle set; follow-up smartphone casual set]
+- Specifies exact count of shirtless vs clothed photos for physique focus; 2× (last: 2025-09-01) [refs: 4-photo athletic set; 8-photo request chatId:`ace699c5405c4c`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
-- Demonstrates knowledge of professional photography gear/settings (Sony A7 IV, Canon EOS R5, RF 50mm f/1.2) and realism focus; 4× [refs: red carpet request; cinematic portrait; initial selfie edit; fitness photo set]
+- Demonstrates knowledge of professional and smartphone photography aesthetics; 5× [refs: gear specs in requests; smartphone grain/lens-flare details chatId:`ace699c5405c4c`]
+- Prefers authentic smartphone look for casual daily-life photos; 5× (promoted from emerging) [refs: lifestyle sets, beach, car, rooftop photos]
 
 ### Emerging (recent learning, current focus)
-- Prefers authentic smartphone aesthetics for casual daily-life photos; 3× (since 2025-09-01) [refs: lifestyle varied outfits request; latest multi-outfit smartphone set; coffee shop/beach/car/kitchen set]
+- Experimenting with nuanced authenticity cues (grain, slight over/underexposure, lens flare) to mimic real phone shots; 2× (since 2025-09-01) [refs: beach photo lens flare; coffee shop grain request]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
-- Detail-oriented about output format and technical parameters; 3× [refs: multiple image edit requests chatId:`ace699c5405c4c`]
+- Detail-oriented and iterative: provides stepwise refinements and additional sets after initial delivery; 4× [refs: follow-up requests for more photos chatId:`ace699c5405c4c`]
 
 ### Emerging (recent behavioral shifts)
+- Prefers bulk outputs (4-8 images per request) to cover multiple scenarios at once; 2× (since 2025-09-01) [refs: 4-image, 8-image requests]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
-- Frequently uses platform for advanced photo editing and transformations (background changes, lighting, angle variations); 4× [refs: all image edit requests chatId:`ace699c5405c4c`]
+- Frequently uses platform for advanced photo editing and background/outfit transformations; 5× [refs: all edit requests chatId:`ace699c5405c4c`]
+- Regularly requests multi-image lifestyle/fitness sets with varied settings and outfits; 6× (promoted from emerging) [refs: latest multi-set requests]
 
 ### Emerging (new query patterns)
-- Increasing requests for multi-image lifestyle sets with varied backgrounds/outfits; 4× (since 2025-09-01) [refs: lifestyle photos set; latest varied outfits request; four-image athletic set; follow-up smartphone casual set]
+- Increasing focus on realistic physique showcase across everyday contexts; 2× (since 2025-09-01) [refs: outdoor workout, bathroom mirror, bedroom shots]
