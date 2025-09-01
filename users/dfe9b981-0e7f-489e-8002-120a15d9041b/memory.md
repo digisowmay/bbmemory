@@ -3,8 +3,8 @@
 -
 
 ### Emerging (new signals, 1-2 reinforcements)
-- prefers minimal aesthetic and strict adherence to brand assets; 2× (last: 2025-09-01) [refs: branded poster request chatId:`9d66ad882d5d40`; logo consistency insistence chatId:`9d66ad882d5d40`]
-- requests multiple design options and reviews before external sharing; 1× (first: 2025-09-01) [ref: poster variations approval chatId:`9d66ad882d5d40`]
+- prefers minimal aesthetic and strict adherence to brand assets; 3× (last: 2025-09-01) [refs: branded poster request chatId:`9d66ad882d5d40`; logo consistency insistence chatId:`9d66ad882d5d40`; skip poster due to brand mismatch chatId:`9d66ad882d5d40`]
+- requests multiple design options and reviews before external sharing; 2× (last: 2025-09-01) [refs: poster variations approval chatId:`9d66ad882d5d40`; asked three variations chatId:`9d66ad882d5d40`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -19,11 +19,11 @@
 -
 
 ### Emerging (recent behavioral shifts)
-- iterative decision-making: asks for alternatives then selects; 1× (observed: 2025-09-01) [ref: choice among poster variations chatId:`9d66ad882d5d40`]
+- iterative decision-making: asks for alternatives then selects; 2× (last: 2025-09-01) [refs: choice among poster variations chatId:`9d66ad882d5d40`; decided to skip poster and proceed chatId:`9d66ad882d5d40`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
 -
 
 ### Emerging (new query patterns)
-- uses AI image generation tools for marketing collateral; 1× (since 2025-09-01) [ref: poster generation request chatId:`9d66ad882d5d40`]
+- uses AI image generation tools for marketing collateral; 2× (since 2025-09-01) [refs: poster generation attempts chatId:`9d66ad882d5d40`; multiple tool calls for image edits chatId:`9d66ad882d5d40`]
