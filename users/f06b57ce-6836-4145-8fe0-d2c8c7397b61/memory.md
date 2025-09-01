@@ -4,13 +4,13 @@
 - requests iterative refinements step-by-step; 9× (stable since 2025-09-01) [refs: consecutive Death Star edits chatId:`7c19af7c3f5b4b`; house abandoned follow-up chatId:`8a1ae27325784b`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- insists on accurate canonical details and realism (e.g., laser must originate from correct Death Star dish); 1× (first: 2025-09-01) [ref: laser origin correction chatId:`7c19af7c3f5b4b`]
+- insists on accurate canonical details and realism (e.g., star positions, laser origin); 2× (last: 2025-09-01) [refs: laser origin correction chatId:`7c19af7c3f5b4b`; astrophotography star preservation chatId:`20a1cd1ff2494e`]
 
 ## Knowledge & Context
 ### Durable (core expertise)
 
 ### Emerging (recent learning, current focus)
-- experimenting with AI-based image editing; 8× (since 2025-08-31) [refs: portrait creation chatId:`8a1ae27325784b`; Death Star composites chatId:`7c19af7c3f5b4b`; new image combination chatId:`67618ab976c54c`]
+- experimenting with AI-based image editing; 9× (since 2025-08-31) [refs: portrait creation chatId:`8a1ae27325784b`; Death Star composites chatId:`7c19af7c3f5b4b`; astrophotography enhancement chatId:`20a1cd1ff2494e`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
