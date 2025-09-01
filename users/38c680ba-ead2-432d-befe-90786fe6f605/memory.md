@@ -5,7 +5,7 @@
 - insists on verification and cross-referenced counts before decisions; 3× (promoted from emerging) (last: 2025-09-01) [refs: "CRITICAL: Always verify you've checked ALL users" chatId:`9fd3ecf40d4b4f`; ustax chats count request chatId:`559c1db32e6741`; "why only 5 ?" chatId:`db9b4761e5c242`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- expects exhaustive datasets and calls out incomplete summaries; 1× (first: 2025-09-01) [ref: "why only 5 ?" chatId:`db9b4761e5c242`]
+- expects exhaustive datasets and calls out incomplete summaries; 2× (last: 2025-09-01) [refs: "why only 5 ?" chatId:`db9b4761e5c242`; AWS user emails request chatId:`db9b4761e5c242`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -17,7 +17,7 @@
 - delegates operational tasks (email, calendar, subscriptions, analytics) to assistant; 6× (stable since 2025-08-20) [refs: credit addition command chatId:`e297222bc18d40`; subscription creation chatId:`7857e1a6bece41`]
 
 ### Emerging (recent behavioral shifts)
-- prioritizes data integrity and validation in reports; 1× (observed: 2025-09-01) [ref: "verify every step" instruction chatId:`9fd3ecf40d4b4f`]
+- prioritizes data integrity and validation in reports; 2× (observed: 2025-09-01) [refs: "verify every step" instruction chatId:`9fd3ecf40d4b4f`; AWS pain point analysis chatId:`db9b4761e5c242`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
