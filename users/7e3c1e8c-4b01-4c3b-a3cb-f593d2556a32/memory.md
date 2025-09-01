@@ -1,6 +1,6 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- prefers concise (<50 words), informal WhatsApp-style messages with clear ask; 8× [refs: global instruction set; echo reply suggestions; quick update preference chatId:`1325c42b5b4f4c`; PR merge command chatId:`5f76ce15051447`; directive to create GitHub issue chatId:`cc50e528c2fe4a`]
+- prefers concise (<50 words), informal WhatsApp-style messages with clear ask; 9× [refs: global instruction set; echo reply suggestions; quick update preference chatId:`1325c42b5b4f4c`; PR merge command chatId:`5f76ce15051447`; directive to create GitHub issue chatId:`cc50e528c2fe4a`; latest conciseness reminder chatId:`cc50e528c2fe4a`]
 
 ### Emerging (new signals, 1-2 reinforcements)
 - asks assistant to propose echo drafts first for approval before sending and to pause before any subsequent actions; 4× (last: 2025-09-01) [refs: echo draft confirmation chatId:`12d57ffff79e4c`; current draft approval chatId:`73a0bbe55a164b`]
