@@ -2,7 +2,7 @@
 ### Durable (established, 3+ reinforcements)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- asks for step-by-step post drafts with tool mentions; 1× (first: 2025-09-01) [ref: content writing assistance chatId:`edba2b0d2dad4f`]
+- asks for step-by-step post drafts with tool mentions; 2× (last: 2025-09-01) [refs: content writing assistance chatId:`edba2b0d2dad4f`; easy tools request chatId:`edba2b0d2dad4f`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -14,10 +14,10 @@
 ### Durable (core thinking patterns)
 
 ### Emerging (recent behavioral shifts)
-- prefers structured, actionable instructions; 1× (observed: 2025-09-01) [ref: request for step-by-step guidance chatId:`edba2b0d2dad4f`]
+- prefers structured, actionable instructions; 2× (observed: 2025-09-01) [refs: request for step-by-step guidance chatId:`edba2b0d2dad4f`; simple tools prompt request chatId:`edba2b0d2dad4f`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
 
 ### Emerging (new query patterns)
-- exploring AI automation tools and social media content creation; 1× (since 2025-09-01) [ref: post creation with tools list chatId:`edba2b0d2dad4f`]
+- exploring AI automation tools and social media content creation; 2× (since 2025-09-01) [refs: post creation with tools list chatId:`edba2b0d2dad4f`; easy tools automation request chatId:`edba2b0d2dad4f`]
