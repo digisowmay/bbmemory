@@ -24,7 +24,8 @@
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
+- uses echo tool to relay messages to teammate (@sowmay) frequently; 5× (promoted from emerging) [refs: multiple echo sends chatId:`1fb2611896b64d`; hello echo chatId:`1fb2611896b64d`; exact message echo chatId:`1fb2611896b64d`; additional hello echoes chatId:`1fb2611896b64d`; technical error echo chatId:`1fb2611896b64d`]
 
 ### Emerging (new query patterns)
-- uses echo tool to relay messages to teammate (@sowmay) frequently; 5× (since 2025-09-01) [refs: multiple echo sends chatId:`1fb2611896b64d`; hello echo chatId:`1fb2611896b64d`; exact message echo chatId:`1fb2611896b64d`; additional hello echoes chatId:`1fb2611896b64d`; technical error echo chatId:`1fb2611896b64d`]
 - seeks luxury fashion price comparisons (e.g., Dior bags); 1× (first: 2025-09-01) [ref: Dior bag deal research chatId:`2be368dbcfc549`]
+- asks cryptocurrency prices (e.g., ETH); 1× (first: 2025-09-01) [ref: ETH price request chatId:`cd4d47ba2f5942`]
