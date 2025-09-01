@@ -4,7 +4,7 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - switches between Swedish and English; 3× (last: 2025-09-01) [refs: 20-year-younger request; 30-year-old transformation chatId:`e26ceb22a9084b`; swimsuits beach request]
-- supplies image URLs along with transformation instructions; 1× (first: 2025-09-01) [ref: swimsuits beach request]
+- supplies image URLs along with transformation instructions; 4× (last: 2025-09-01) [refs: swimsuits beach request; handsome 80-year-old request; tropical beach transformation; sun-tan adjustment chatId:`e26ceb22a9084b`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -15,7 +15,7 @@
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
-- prefers iterative refinement approach to reach desired visuals; 3× (consistent pattern) [refs: second edit after first outcome; specific adjustment instructions; swimsuits beach request]
+- prefers iterative refinement approach to reach desired visuals; 3× [refs: second edit after first outcome; specific adjustment instructions; swimsuits beach request]
 
 ### Emerging (recent behavioral shifts)
 - 
