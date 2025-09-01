@@ -3,7 +3,7 @@
 - no durable patterns identified yet; 0× [ref: initial interactions]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- prefers visual block diagrams to represent technical workflows; 1× (first: 2025-09-01) [ref: block diagram request chatId:`d165d12a589749`]
+- prefers visual block diagrams to represent technical workflows; 2× (last: 2025-09-01) [refs: original block diagram request; follow-up noting missing diagram chatId:`d165d12a589749`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -24,4 +24,4 @@
 - no durable usage patterns yet; 0× [ref: initial]
 
 ### Emerging (new query patterns)
-- asking for graphical representations (charts/diagrams) of workflows; 1× (since 2025-09-01) [ref: block diagram request chatId:`d165d12a589749`]
+- asking for graphical representations (charts/diagrams) of workflows; 2× (since 2025-09-01) [refs: repeated block diagram requests chatId:`d165d12a589749`]
