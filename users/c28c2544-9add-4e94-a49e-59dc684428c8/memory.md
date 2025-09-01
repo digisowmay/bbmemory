@@ -3,7 +3,7 @@
 - gives concise, direct task instructions for graphics/image generation; 16× (promoted from emerging) [refs: successive 3D mockup & gradient background requests chatId:`607d0969a2f34b`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- requests text-free/minimalist visuals; 3× (last: 2025-09-01) [refs: “i dont want text”, hot-pink gradient version chatId:`607d0969a2f34b`]
+- requests text-free/minimalist visuals; 4× (last: 2025-09-01) [refs: “i dont want text” request chatId:`607d0969a2f34b`; follow-up rejection of copy chatId:`e9d8eeca4fa140`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
