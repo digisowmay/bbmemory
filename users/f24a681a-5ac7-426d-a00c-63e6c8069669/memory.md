@@ -3,6 +3,7 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - prefers transparent technical error details; 1× (first: 2025-09-01) [ref: request for exact error message chatId:`4dc30d7999dd4f`]
+- prioritizes perfect text accuracy in AI-generated visuals; 1× (first: 2025-09-01) [ref: poster typo correction chatId:`fc54e482317d4d`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -20,3 +21,4 @@
 
 ### Emerging (new query patterns)
 - requests automated slide deck generation; Google Slides; 1× (first: 2025-09-01) [ref: slide deck generation request chatId:`878d52774fe040`]
+- exploring multiple image generation agents for design tasks; 1× (first: 2025-09-01) [ref: agent integration discussion chatId:`fc54e482317d4d`]
