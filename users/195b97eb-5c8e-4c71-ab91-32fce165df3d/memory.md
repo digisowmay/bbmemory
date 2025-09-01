@@ -3,7 +3,7 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - provides very detailed, specific instructions for visual content editing; 9× (last: 2025-09-01) [refs: multiple image edit requests chatId:`c47d3c6aa3004c`]
-- requests iterative refinements until result matches reference images; 1× (first: 2025-09-01) [ref: feedback about reference skin tone chatId:`c47d3c6aa3004c`]
+- requests iterative refinements and regeneration until output precisely matches reference images, expressing dissatisfaction if not; 3× (last: 2025-09-01) [refs: multiple revise/regenerate requests chatId:`c47d3c6aa3004c`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
