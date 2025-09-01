@@ -24,4 +24,4 @@
 - no durable platform patterns identified yet
 
 ### Emerging (new query patterns)
-- asks cryptocurrency prices daily; Bitcoin, Ethereum tracking; 9× (since 2025-09-01) [refs: BTC price request chatId:`0ecffd4a876841`; ETH price request chatId:`49e0f1ec66e141`; ETH price request chatId:`cd4d47ba2f5942`; ETH price check chatId:`0531641775964d`; BTC price request chatId:`2cdcf869dca542`; BTC price request chatId:`cc6a4011d52342`; BTC price request chatId:`8afaf45a28254b`; BTC price request chatId:`f28a6e75b65f49`; BTC price request chatId:`bcad956bb1b547`]
+- asks cryptocurrency prices daily; Bitcoin, Ethereum tracking; 10× (since 2025-09-01) [refs: BTC price request chatId:`0ecffd4a876841`; ETH price request chatId:`49e0f1ec66e141`; ETH price request chatId:`cd4d47ba2f5942`; ETH price check chatId:`0531641775964d`; BTC price request chatId:`2cdcf869dca542`; BTC price request chatId:`cc6a4011d52342`; BTC price request chatId:`8afaf45a28254b`; BTC price request chatId:`f28a6e75b65f49`; BTC price request chatId:`bcad956bb1b547`; BTC price request chatId:`2938714a8ee348`]
