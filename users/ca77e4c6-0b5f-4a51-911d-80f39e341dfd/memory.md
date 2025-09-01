@@ -7,9 +7,10 @@
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
 
-### Emerging (recent learning, current focus)  
+### Emerging (recent learning, current focus)
 - enjoys Freddie Mercury 1970s glam aesthetic; hair/mustache modifications; 17× (since 2025-08-31) [refs: sequence of 1970s style requests chatId:`0bc48139583947`]
 - explores Freddie Mercury 1986 short-hair aesthetic; requests era-specific shorter hair; 5× (since 2025-09-01) [refs: short-hair requests chatId:`0bc48139583947`]
+- prefers hair-only transformations; wants facial features unchanged; 1× (first: 2025-09-01) [refs: hair-only preference chatId:`63c2210265944d`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
