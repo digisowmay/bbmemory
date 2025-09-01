@@ -6,7 +6,7 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - expects exhaustive datasets and calls out incomplete summaries; 5× (last: 2025-09-01) [refs: "why only 5 ?" chatId:`db9b4761e5c242`; AWS user emails request chatId:`db9b4761e5c242`; AWS users completeness follow-up chatId:`db9b4761e5c242`; this session chatId:`db9b4761e5c242`; AWS analysis depth request chatId:`db9b4761e5c242`]
-- prefers condensed executive summaries (3-4 paragraphs + minimal tables); 2× (last: 2025-09-01) [refs: easy-to-consume report request chatId:`db9b4761e5c242`; "Tables can be more insightfull" chatId:`db9b4761e5c242`]
+- prefers condensed executive summaries (3-4 paragraphs + minimal tables); 3× (last: 2025-09-01) [refs: easy-to-consume report request chatId:`db9b4761e5c242`; "More short, Just 3-4 para and few tables" chatId:`db9b4761e5c242`; "Tables can be more insightfull" chatId:`db9b4761e5c242`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
