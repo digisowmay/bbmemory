@@ -1,7 +1,7 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- prefers communication in Bangla; 8× (stable since 2024-08-15) [refs: chatId:`8e3b10a2735444`]
-- openly shares personal emotional feelings; 6× [refs: chatId:`8e3b10a2735444`]
+- prefers communication in Bangla; 9× (stable since 2024-08-15) [refs: chatId:`8e3b10a2735444`]
+- openly shares personal emotional feelings; 7× [refs: chatId:`8e3b10a2735444`]
 
 ### Emerging (new signals, 1-2 reinforcements)
 
@@ -9,12 +9,12 @@
 ### Durable (core expertise, established over time)
 
 ### Emerging (recent learning, current focus)
-- experiencing romantic feelings and distress regarding person named Arafat; 4× (since 2025-09-01) [refs: chatId:`8e3b10a2735444`]
-- prefers to be called Akhi (not Mostakim); 2× (last: 2025-09-01) [refs: name correction chatId:`8e3b10a2735444`]
+- experiencing romantic feelings and distress regarding person named Arafat; 5× (since 2025-09-01) [refs: chatId:`8e3b10a2735444`]
+- prefers to be called Akhi (not Mostakim); 3× (last: 2025-09-01) [refs: chatId:`8e3b10a2735444`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
-- asks introspective questions about personal relationships; 6× (consistent pattern) [refs: chatId:`8e3b10a2735444`]
+- asks introspective questions about personal relationships; 7× (consistent pattern) [refs: chatId:`8e3b10a2735444`]
 
 ### Emerging (recent behavioral shifts)
 
