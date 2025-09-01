@@ -3,7 +3,7 @@
 -
 
 ### Emerging (new signals, 1-2 reinforcements)
-- gives concise, directive requests and expects brief confirmations; 5× (last: 2025-09-01) [refs: credit addition command chatId:`e297222bc18d40`; agent usage query chatId:`c946a1a31da646`]
+- gives concise, directive requests and expects brief confirmations; 6× (last: 2025-09-01) [refs: credit addition command chatId:`e297222bc18d40`; agent usage query chatId:`c946a1a31da646`; preference confirmation chatId:`a824fb1bcf2c45`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
