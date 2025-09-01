@@ -1,15 +1,15 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- gives concise, direct task instructions for graphics/image generation; 16× (promoted from emerging) [refs: successive 3D mockup & gradient background requests chatId:`607d0969a2f34b`]
+- gives concise, direct task instructions for graphics/image generation; 17× (stable since 2025-09-01) [refs: successive 3D mockup & gradient background requests chatId:`607d0969a2f34b`; new MacBook request chatId:`2e2b70530cf142`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- requests text-free/minimalist visuals; 4× (last: 2025-09-01) [refs: “i dont want text” request chatId:`607d0969a2f34b`; follow-up rejection of copy chatId:`e9d8eeca4fa140`]
+- requests text-free/minimalist visuals; 5× (last: 2025-09-01) [refs: “i dont want text” request chatId:`607d0969a2f34b`; MacBook request chatId:`2e2b70530cf142`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
 
 ### Emerging (recent learning, current focus)
-- creating marketing mockups with gradient backgrounds and floating laptops; 20× (since 2025-09-01) [refs: multiple mockup iterations chatId:`607d0969a2f34b`]
+- creating marketing mockups with gradient backgrounds and floating laptops; 21× (since 2025-09-01) [refs: multiple mockup iterations chatId:`607d0969a2f34b`; floating MacBook generation chatId:`2e2b70530cf142`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
@@ -21,4 +21,4 @@
 ### Durable (regular platform activities)
 
 ### Emerging (new query patterns)
-- frequently uses platform to generate 3D graphic assets/mockups; 20× (since 2025-09-01) [refs: repeated image generation calls chatId:`607d0969a2f34b`]
+- frequently uses platform to generate 3D graphic assets/mockups; 21× (since 2025-09-01) [refs: repeated image generation calls chatId:`607d0969a2f34b`; MacBook request chatId:`2e2b70530cf142`]
