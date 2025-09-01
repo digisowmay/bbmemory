@@ -4,14 +4,14 @@
 - Seeks troubleshooting details and alternative tool options when initial solutions fall short; 7× [refs: alternate agent for Gemini Vision; tool replacement recommendations; DigitalIllustrator agent request; Harmony poster corrections chatId:`fc54e482317d4d`; agent integration suggestions chatId:`fc54e482317d4d`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- Prefers embedded images over plain links; 4× (last: 2025-09-01) [refs: insistence on embedded images chatId:`941db3860ba443`; poster image confirmation chatId:`fc54e482317d4d`; feedback about missing QR & image chatId:`3549308e42cb46`; asked why QR and image not provided chatId:`3549308e42cb46`]
+- Prefers embedded images over plain links; 5× (last: 2025-09-01) [refs: insistence on embedded images chatId:`941db3860ba443`; poster image confirmation chatId:`fc54e482317d4d`; feedback about missing QR & image chatId:`3549308e42cb46`; asked why QR and image not provided chatId:`3549308e42cb46`; re-affirmed embed preference chatId:`d9b9b2f3fb0843`]
 - Asks about agent/tool integrations and developer-oriented solutions for better output; 2× (last: 2025-09-01) [refs: integration inquiry chatId:`fc54e482317d4d`; discussion on additional agents and ideogramv2 chatId:`fc54e482317d4d`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
 -
 
-### Emerging (recent learning, current focus)
+### Emerging (recent learning, current focus)  
 - Frequently engaged in visual design and poster creation tasks; 3× (since 2025-09-01) [refs: sustainable fashion blog illustration chatId:`941db3860ba443`; charity concert poster creation chatId:`fc54e482317d4d`; Harmony poster refinement chatId:`fc54e482317d4d`]
 - Exploring developer integrations (custom poster generators, additional image agents) for enhanced text accuracy; 1× (started: 2025-09-01) [ref: query about Bhindi developer tool integration chatId:`fc54e482317d4d`]
 
