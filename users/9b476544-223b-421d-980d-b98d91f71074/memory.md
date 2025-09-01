@@ -2,7 +2,8 @@
 ### Durable (established, 3+ reinforcements)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- prefers exact, casual phrasing and reacts negatively if assistant paraphrases; 1× (first: 2025-09-01) [ref: chatId:`47040f22581d4c`]
+- prefers exact, casual phrasing and reacts negatively if assistant paraphrases; 2× (last: 2025-09-01) [refs: chatId:`47040f22581d4c`; chatId:`7d63d5b8bbca49`]
+- dislikes overuse of em dashes and prefers simple punctuation; 1× (first: 2025-09-01) [ref: chatId:`7d63d5b8bbca49`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
