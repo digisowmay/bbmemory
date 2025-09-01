@@ -3,8 +3,8 @@
 - (none yet)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- uses concise transformation commands like "reimagine me as ..." or "turn me into ..."; 33× (last: 2025-09-01) [refs: multiple image transformation requests chatId:`c3f6f99654d844`]
-- requests iterative adjustments to generated images for better personal resemblance (e.g., "make last image look more like me", "redo last picture"); 6× (last: 2025-09-01) [refs: adjustment requests chatId:`c3f6f99654d844`]
+- uses concise transformation commands like "reimagine me as ..." or "turn me into ..."; 40× (last: 2025-09-01) [refs: multiple image transformation requests chatId:`c3f6f99654d844`]
+- requests iterative adjustments to generated images for better personal resemblance (e.g., "make last image look more like me", "redo last picture"); 10× (last: 2025-09-01) [refs: adjustment requests chatId:`c3f6f99654d844`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -25,4 +25,4 @@
 - (none yet)
 
 ### Emerging (new query patterns)
-- interested in AI image generation for fantasy, historical, and character transformations; 36× (since 2025-09-01) [refs: transformations across Witcher, Viking, Bond, Elvis chatId:`c3f6f99654d844`]
+- interested in AI image generation for fantasy, historical, and character transformations; 45× (since 2025-09-01) [refs: transformations across Witcher, Viking, Bond, Elvis, Musketeers chatId:`c3f6f99654d844`]
