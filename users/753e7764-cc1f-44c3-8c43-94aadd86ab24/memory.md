@@ -2,7 +2,7 @@
 ### Durable (established, 3+ reinforcements)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- uses Arabic language in queries; 2× (last: 2025-09-01) [ref: gender ultrasound question chatId:`91116e584c954d`]
+- uses Arabic language in queries; 3× (last: 2025-09-01) [refs: gender ultrasound question chatId:`91116e584c954d`; health calc chatId:`199df3766e8c47`; fetal gender request chatId:`2489e85a5c994b`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -18,4 +18,4 @@
 ### Durable (regular platform activities)
 
 ### Emerging (new query patterns)
-- asks health-related date calculations and fetal gender inquiries; 2× (last: 2025-09-01) [refs: last period months calculation chatId:`199df3766e8c47`; gender ultrasound question chatId:`91116e584c954d`]
+- asks health-related date calculations and fetal gender inquiries; 3× (last: 2025-09-01) [refs: last period calc chatId:`199df3766e8c47`; gender ultrasound question chatId:`91116e584c954d`; fetal gender request chatId:`2489e85a5c994b`]
