@@ -3,7 +3,8 @@
 - 
 
 ### Emerging (new signals, 1-2 reinforcements)
-- requests concise lists of opportunities and leads; 2× (last: 2025-09-01) [refs: job opportunities search chatId:`f9ff7e833fc74f`; leads search chatId:`f9ff7e833fc74f`]
+- requests concise lists of opportunities and leads; 3× (last: 2025-09-01) [refs: job opportunities search chatId:`f9ff7e833fc74f`; leads search chatId:`f9ff7e833fc74f`; contact details request chatId:`f9ff7e833fc74f`]
+- asks for contact details of leads for actionable outreach; 1× (first: 2025-09-01) [ref: contact details request chatId:`f9ff7e833fc74f`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -18,7 +19,7 @@
 - 
 
 ### Emerging (recent behavioral shifts)
-- seeks actionable information quickly; 2× (last: 2025-09-01) [refs: job search chatId:`f9ff7e833fc74f`; leads search chatId:`f9ff7e833fc74f`]
+- seeks actionable information quickly; 3× (last: 2025-09-01) [refs: job search chatId:`f9ff7e833fc74f`; leads search chatId:`f9ff7e833fc74f`; contact details request chatId:`f9ff7e833fc74f`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
