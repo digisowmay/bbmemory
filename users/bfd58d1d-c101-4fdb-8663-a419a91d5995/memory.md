@@ -3,6 +3,7 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - asks for step-by-step post drafts with tool mentions; 2× (last: 2025-09-01) [refs: content writing assistance chatId:`edba2b0d2dad4f`; easy tools request chatId:`edba2b0d2dad4f`]
+- regularly requests idea lists for automations; 1× (first: 2025-09-01) [ref: automation ideas request chatId:`dcd610c08e274d`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -20,4 +21,4 @@
 ### Durable (regular platform activities)
 
 ### Emerging (new query patterns)
-- exploring AI automation tools and social media content creation; 2× (since 2025-09-01) [refs: post creation with tools list chatId:`edba2b0d2dad4f`; easy tools automation request chatId:`edba2b0d2dad4f`]
+- exploring AI automation tools and social media content creation; 3× (since 2025-09-01) [refs: post creation with tools list chatId:`edba2b0d2dad4f`; easy tools automation request chatId:`edba2b0d2dad4f`; automation ideas request chatId:`dcd610c08e274d`]
