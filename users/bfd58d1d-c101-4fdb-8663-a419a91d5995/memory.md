@@ -4,6 +4,7 @@
 ### Emerging (new signals, 1-2 reinforcements)
 - regularly requests idea lists and step-by-step examples for automations with tool mentions; 4× (last: 2025-09-01) [refs: content writing assistance chatId:`edba2b0d2dad4f`; easy tools request chatId:`edba2b0d2dad4f`; fun automation ideas chatId:`dcd610c08e274d`; Sahil birthday schedule creation chatId:`dcd610c08e274d`]
 - requests direct automation implementation demos; 1× (first: 2025-09-01) [ref: Sahil birthday schedule creation chatId:`dcd610c08e274d`]
+- provides concise imperative follow-up commands (e.g., "send it on whatsapp"); 1× (observed: 2025-09-01) [ref: send it on whatsapp chatId:`dcd610c08e274d`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -22,3 +23,4 @@
 
 ### Emerging (new query patterns)
 - exploring AI automation tools and social media content creation; 5× (since 2025-09-01) [refs: post creation with tools list chatId:`edba2b0d2dad4f`; easy tools automation request chatId:`edba2b0d2dad4f`; automation ideas request chatId:`dcd610c08e274d`; birthday compliment automation chatId:`dcd610c08e274d`; fun automation ideas chatId:`dcd610c08e274d`]
+- setting up WhatsApp message automations; 1× (first: 2025-09-01) [ref: Sahil WhatsApp birthday automation chatId:`dcd610c08e274d`]
