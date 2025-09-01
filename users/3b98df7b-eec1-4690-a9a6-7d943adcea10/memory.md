@@ -1,6 +1,6 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- Gives concise, imperative commands; 7× (stable since 2025-08-14) [refs: BudgetBae daily update chats chatId:`e9bcae06a33a4c`; master sheet request chatId:`7432f24ce8af4e`; vendor fill request chatId:`7432f24ce8af4e`]
+- Gives concise, imperative commands; 8× (stable since 2025-08-14) [refs: BudgetBae daily update chats chatId:`e9bcae06a33a4c`; master sheet request chatId:`7432f24ce8af4e`; vendor fill request chatId:`7432f24ce8af4e`; youtube audio request chatId:`10d6a499a35543`]
 - Frequently incorporates emojis in instructions and responses; 6× [refs: BudgetBae task message with 🎯; Notion link request chatId:`e9bcae06a33a4c`; aerospace part finder prompt chatId:`7432f24ce8af4e`]
 
 ### Emerging (new signals, 1-2 reinforcements)
@@ -27,3 +27,4 @@
 ### Emerging (new query patterns)
 - Initiating aerospace part number searches and vendor quote outreach; 3× (since 2025-09-01) [refs: part number master sheet request chatId:`7432f24ce8af4e`; vendor data population chatId:`7432f24ce8af4e`; remaining columns completion chatId:`7432f24ce8af4e`]
 - Exploring habit tracking and automation using Notion; 1× (first: 2025-09-01) [ref: Notion habit tracker creation chatId:`30e5206963db4c`]
+- Exploring audio editing & YouTube to MP3 conversions; 1× (first: 2025-09-01) [ref: youtube audio request chatId:`10d6a499a35543`]
