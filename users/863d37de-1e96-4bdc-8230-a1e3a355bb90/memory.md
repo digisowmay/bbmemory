@@ -1,7 +1,7 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- prefers concise, one-line commands and follow-ups like “now?” or “sync and try again” to refresh data; 17× (stable since 2025-08-31) [refs: repeated "sync and try again" loops chatId:`12ea94ff333843`; latest agent call instruction chatId:`c8d6c6e913d541`; endpoint update command chatId:`21794fdee3394d`]
-- expects rapid, real-time updates from tools; 11× [refs: immediate retry requests chatId:`12ea94ff333843`; sync failure follow-up chatId:`c8d6c6e913d541`; agent call status check chatId:`c8d6c6e913d541`]
+- prefers concise, one-line commands and follow-ups like “now?” or “sync and try again” to refresh data; 18× (stable since 2025-08-31) [refs: repeated quick commands during agent creation & calling chatId:`c8d6c6e913d541`]
+- expects rapid, real-time updates from tools; 12× [refs: multiple immediate retry requests and call initiations chatId:`c8d6c6e913d541`]
 
 ### Emerging (new signals, 1-2 reinforcements)
 - prefers context-rich yet concise questions that reference specific past details; 1× (first: 2025-09-01) [ref: instruction to craft short context-rich question chatId:`da5144d6dd564f`]
@@ -16,7 +16,7 @@
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
-- iterative checking approach: asks for updates repeatedly until satisfied; 11× [refs: multiple “sync and try again” loops chatId:`12ea94ff333843`; endpoint update command chatId:`21794fdee3394d`; update & resync chatId:`c8d6c6e913d541`]
+- iterative checking approach: asks for updates repeatedly until satisfied; 12× [refs: multiple “sync and try again” loops and successive call commands chatId:`c8d6c6e913d541`]
 
 ### Emerging (recent behavioral shifts)
 - values up-to-date data accuracy over summary explanations; 3× (last: 2025-09-01) [refs: insisted on continued retries despite error chatId:`12ea94ff333843`; sync failure follow-up chatId:`c8d6c6e913d541`]
@@ -26,5 +26,5 @@
 - uses Google Forms agent for listing forms and retrieving response counts; 3× [refs: initial list forms request; multiple getResponses calls]
 
 ### Emerging (new query patterns)
-- configuring Bhindi agents & variables frequently, including voice AI agent creation and outbound calls; 7× (since 2025-09-01) [refs: kg-auth & kg-pdf setup chatId:`12ea94ff333843`; Bolna agent creation, sync, and call chatId:`c8d6c6e913d541`]
+- configuring Bhindi agents & variables frequently, including voice AI agent creation and outbound calls; 10× (since 2025-09-01) [refs: kg-auth & kg-pdf setup chatId:`12ea94ff333843`; Bolna agent creation, sync, multiple outbound calls chatId:`c8d6c6e913d541`]
 - monitors recruitment form responses frequently; 2× (since 2025-08-31) [refs: repeated getResponses checks]
