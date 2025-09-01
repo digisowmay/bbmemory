@@ -20,3 +20,4 @@
 
 ### Emerging (new query patterns)
 - asks for crypto prices; Ethereum inquiry; 1× (first: 2025-09-01) [ref: crypto price request chatId:`ebeb842e80e249`]
+- schedules quick reminders and sends echoes to coordinate with colleagues; 1× (first: 2025-09-01) [ref: reminder and echo request chatId:`f0e27490492846`]
