@@ -20,5 +20,5 @@
 ### Durable (regular platform activities)
 
 ### Emerging (new query patterns)
-- requests scheduling reminders via assistant; 9× (since 2025-09-01) [refs: repeated reminder scheduling interactions chatId:`04b0c1da45a44a`]
-- asks for current date/time information; 3× (first: 2025-09-02, last: 2025-09-02) [refs: date/time queries chatId:`04b0c1da45a44a`]
+- requests scheduling reminders via assistant; 12× (since 2025-09-01) [refs: repeated reminder scheduling interactions chatId:`04b0c1da45a44a`]
+- tracks Ethereum (ETH) price; asks reminders to check ETH; 2× (since 2025-09-02) [refs: ETH price reminder requests chatId:`04b0c1da45a44a`]
