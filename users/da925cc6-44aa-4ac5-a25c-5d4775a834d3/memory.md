@@ -1,6 +1,6 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- insists on keeping own face unaltered in edited photos; authenticity important; 4× (since 2025-09-01) [refs: original headshot request; face-change complaint; new suit color request; social media pfp complaint chatId:`055d2578d64542`]
+- insists on keeping own face unaltered in edited photos; authenticity important; 5× (since 2025-09-01) [refs: original headshot request; face-change complaint; new suit color request; social media pfp complaint chatId:`055d2578d64542`; enhancement-only request chatId:`055d2578d64542`]
 - prefers multiple options and variety (different suits/backgrounds) for final selection; 4× (promoted from emerging) [refs: navy suit options request; color suit request; additional navy suit variations; beige/other suit colors chatId:`055d2578d64542`]
 
 ### Emerging (new signals, 1-2 reinforcements)
