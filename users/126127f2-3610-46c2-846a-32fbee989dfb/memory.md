@@ -4,6 +4,7 @@
 - provides detailed artistic direction for visual edits (pose, location, camera angle, objects); 10× [refs: initial edit chatId:`226689961a064d`; second edit chatId:`371520ea9d6644`; outfit swap chatId:`8990636b81ae4b`; Rolls Royce scene chatId:`679fe134144343`; selfie update chatId:`679fe134144343`; satire edit chatId:`69afa5430c0b4a`; pool scene chatId:`77cf803e783347`; previous request chatId:`f64d564d09194b`; current request chatId:`c2cdc35314e348`; chatId:`e86f224c7dda46`]
 
 ### Emerging (new signals, 1-2 reinforcements)
+- sent request in English instead of Russian; 1× (first: 2025-09-01) [ref: image edit request chatId:`b4900538dd844b`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
