@@ -1,16 +1,15 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
--
+- prefers concise, direct questions with minimal context; 4× (stable since 2025-08-31) [refs: asked "What is yolo"; asked "How can i take ss in fold 5"; Gujarat news request chatId:`72d2ea4881464e`; crypto indicators request chatId:`a3e427fd350243`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- prefers concise, direct questions with minimal context; 3× (last: 2025-09-01) [refs: asked "What is yolo"; asked "How can i take ss in fold 5"; Gujarat news request chatId:`72d2ea4881464e`]
 - requests task scheduling with few details; 1× (first: 2025-08-31) [ref: requested to set Maharashtra trip reminder]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
 -
 
-### Emerging (recent learning, current focus)  
+### Emerging (recent learning, current focus)
 - planning a Maharashtra trip on 2025-09-01; 1× (started: 2025-08-31) [ref: "Set want to set my maharashtra trip of 1 September"]
 - owns/uses Samsung Galaxy Z Fold 5; 1× (first: 2025-08-31) [ref: asked screenshot instructions for Fold 5]
 
@@ -26,6 +25,5 @@
 -
 
 ### Emerging (new query patterns)
-- beginning to use assistant for travel reminders; 1× (since 2025-08-31) [ref: Maharashtra trip reminder]
-- technical how-to queries about personal devices; 1× (first: 2025-08-31) [ref: screenshot instructions for Fold 5]
 - requests news/current affairs updates; 1× (first: 2025-09-01) [ref: Gujarat news request chatId:`72d2ea4881464e`]
+- asks about crypto trading indicators; 1× (first: 2025-09-01) [ref: crypto indicators request chatId:`a3e427fd350243`]
