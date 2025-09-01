@@ -20,5 +20,5 @@
 ### Durable (regular platform activities)
 
 ### Emerging (new query patterns)
-- handles repository and server deployments via automated commands; PR merges, ssh deploys, agent sync; 2× (last: 2025-09-01) [refs: deployment request chatId:`23068aeac7034c`; PR & sync ops chatId:`7250d4330de448`]
+- handles repository and server deployments via automated commands; PR merges, ssh deploys, agent sync; 3× (last: 2025-09-02) [refs: deployment request chatId:`23068aeac7034c`; PR & sync ops chatId:`7250d4330de448`; repo merge & deploy chatId:`9f55e81e3aaa48`]
 - uses agent tool calls to retrieve schedule details; 1× (first: 2025-09-01) [ref: schedule details request chatId:`a835fb8f050d44`]
