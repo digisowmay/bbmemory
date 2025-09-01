@@ -3,6 +3,7 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - prefers assistant to begin scheduled-task responses with proactive, action-oriented phrases (e.g., "Time to execute..."); 2× (since 2025-08-31) [refs: request specifying start phrases for executing tweet task; clarification about future confirmations chatId:`a5c480e124a344`]
+- requests post-execution verification when unsure if scheduled actions ran; 1× (first: 2025-09-01) [ref: asked to check 9 AM tweet execution chatId:`a5c480e124a344`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
