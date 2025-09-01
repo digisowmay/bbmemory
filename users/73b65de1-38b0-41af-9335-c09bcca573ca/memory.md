@@ -5,8 +5,8 @@
 - frequently asks meta questions about the assistant's identity and capabilities; 10× [refs: "Who are you"; "Are you really a human being"; "How do you shine"; "When I call you..." chatId:`0d38b969c2a748`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- short single-word greetings to initiate chat (e.g., "Hii"); 3× (last: 2025-09-01) [refs: greeting messages chatId:`0d38b969c2a748`]
-- requests custom assistant naming and pronunciation guidance; 3× (last: 2025-09-01) [refs: "Give me a name to call you"; "How can you sound that name" chatId:`0d38b969c2a748`]
+- short single-word greetings to initiate chat (e.g., "Hii"); 4× (last: 2025-09-01) [refs: greeting messages chatId:`0d38b969c2a748`]
+- requests custom assistant naming and pronunciation guidance; 5× (last: 2025-09-01) [refs: "Give me a name to call you"; "How can you sound that name" chatId:`0d38b969c2a748`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -22,7 +22,7 @@
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
-- asks for setup of phone voice assistants; 4× [refs: Siri setup request; "Can you be my Siri"; "When I call you ..." chatId:`0d38b969c2a748`]
+- asks for setup of phone voice assistants; 5× [refs: Siri setup request; "Can you be my Siri"; "When I call you ..." chatId:`0d38b969c2a748`]
 
 ### Emerging (new query patterns)
 - requests help with creating accounts on external platforms; 3× (since 2025-09-01) [refs: account creation request chatId:`0d38b969c2a748`; Exness account setup discussion]
