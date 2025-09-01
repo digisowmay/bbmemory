@@ -4,7 +4,7 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - delegates casual friendly backroom greetings to assistant automatically except for specific users; 1× (since 2025-09-01) [refs: backroom greeting laxmanbb chatId:`31e3c899f88245`]
-- monitors Bhindi Intellect agent status; uses advanced agent capabilities; 4× (last: 2025-09-01) [refs: agent activation check chatId:`70a6e788dc9f4f`; info retrieval request chatId:`543085eb432641`]
+- monitors Bhindi Intellect agent status; uses advanced agent capabilities; 5× (last: 2025-09-01) [refs: agent activation check chatId:`70a6e788dc9f4f`; info retrieval request chatId:`543085eb432641`; retrieval command chatId:`ea719794d4a04b`]
 - provides structured project/task updates for agent memory storage; 1× (first: 2025-09-01) [ref: project details message chatId:`543085eb432641`]
 
 ## Knowledge & Context
@@ -29,5 +29,5 @@
 -
 
 ### Emerging (new query patterns)
-- monitors Bhindi Intellect agent status; advanced agent interactions; 4× (last: 2025-09-01) [refs: agent activation check chatId:`70a6e788dc9f4f`; memory store/retrieve chatId:`543085eb432641`]
+- monitors Bhindi Intellect agent status; advanced agent interactions; 5× (last: 2025-09-01) [refs: agent activation check chatId:`70a6e788dc9f4f`; memory store/retrieve chatId:`543085eb432641`; retrieval command chatId:`ea719794d4a04b`]
 - uses assistant to store and recall project details and reminders; 1× (first: 2025-09-01) [ref: project memory storage chatId:`543085eb432641`]
