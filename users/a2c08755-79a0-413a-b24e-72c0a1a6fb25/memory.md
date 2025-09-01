@@ -2,7 +2,7 @@
 ### Durable (established, 3+ reinforcements)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- requests polished multi-format deliverables (text + audio) ready to share via Slack; 1× (first: 2025-09-01) [ref: investment briefing request chatId:`f50f2279d73540`]
+- requests polished multi-format deliverables (text + audio, image, analysis); 2× (last: 2025-09-01) [refs: investment briefing request chatId:`f50f2279d73540`; futuristic fashion showcase chatId:`37518eb9bc5f4f`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
