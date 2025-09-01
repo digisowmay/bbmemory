@@ -3,7 +3,7 @@
 -
 
 ### Emerging (new signals, 1-2 reinforcements)
-- Prefers simple, straightforward language with bullet points, clear CTAs, no emojis; 5× (last: 2025-09-01) [refs: multiple content simplification & CTA inclusion requests chatId:`9466b6557c044e`]
+- Prefers simple, straightforward language with bullet points, clear CTAs, no emojis; 6× (last: 2025-09-01) [refs: multiple content simplification & CTA inclusion requests chatId:`9466b6557c044e`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
