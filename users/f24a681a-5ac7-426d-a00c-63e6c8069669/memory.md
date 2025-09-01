@@ -19,3 +19,4 @@
 - open to using Notion as alternative content platform for better image handling; 4× [refs: Notion fallback discussion chatId:`941db3860ba443`; Notion integration fix chatId:`941db3860ba443`; essay on PE play via Notion request chatId:`4dc30d7999dd4f`; error message introspection chatId:`4dc30d7999dd4f`]
 
 ### Emerging (new query patterns)
+- requests automated slide deck generation; Google Slides; 1× (first: 2025-09-01) [ref: slide deck generation request chatId:`878d52774fe040`]
