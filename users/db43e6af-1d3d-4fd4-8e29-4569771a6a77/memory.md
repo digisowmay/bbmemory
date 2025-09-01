@@ -3,7 +3,7 @@
 - (no durable patterns identified yet)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- prefers Persian language responses; 1× (first: 2025-09-02) [ref: request to speak Persian chatId:`0a70bc99bc3247`]
+- prefers Persian language responses; 2× (last: 2025-09-02) [ref: request to speak Persian chatId:`0a70bc99bc3247`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
