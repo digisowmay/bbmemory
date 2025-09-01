@@ -5,7 +5,7 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - insists on direct usage of reference images in generation, prefers image combine approach for accuracy; 3× (last: 2025-09-01) [refs: combineImages requests chatId:`c47d3c6aa3004c`]
-- prefers photorealistic photography style over 3D renders; 1× (first: 2025-09-01) [ref: photorealistic request chatId:`c47d3c6aa3004c`]
+- prefers photorealistic photography style over 3D renders; 2× (last: 2025-09-01) [refs: requests for realistic photography output chatId:`c47d3c6aa3004c`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
