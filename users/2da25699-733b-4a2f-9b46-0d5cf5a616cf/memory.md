@@ -4,7 +4,7 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - uses concise transformation commands like "reimagine me as ..." or "turn me into ..."; 17× (last: 2025-09-01) [refs: multiple image transformation requests chatId:`c3f6f99654d844`]
-- requests iterative adjustments to generated images for better personal resemblance; 1× (first: 2025-09-01) [ref: make last image look more like me chatId:`c3f6f99654d844`]
+- requests iterative adjustments to generated images for better personal resemblance; 2× (last: 2025-09-01) [refs: "make last image look more like me"; "redo last picture" chatId:`c3f6f99654d844`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
