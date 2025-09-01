@@ -2,7 +2,7 @@
 ### Durable (established, 3+ reinforcements)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- casual, concise requests; uses direct asks and slang like "bro"; 3× (last: 2025-09-01) [refs: memory storage request chatId:`81b771b1030d41`; agent creation requests chatId:`81b771b1030d41`]
+- casual, concise requests; uses direct asks and slang like "bro"; 4× (last: 2025-09-01) [refs: memoryos agent query chatId:`1e311dd875cd48`]
 - provides structured detail lists when specifying information; prefers incremental, blunt answers over sugarcoated ones; 2× (last: 2025-09-01) [refs: memory profile specification chatId:`81b771b1030d41`; agent parameters list chatId:`81b771b1030d41`]
 
 ## Knowledge & Context
@@ -23,5 +23,5 @@
 ### Durable (regular platform activities)
 
 ### Emerging (new query patterns)
-- manages agent configurations (create/delete agents) within platform; 2× (since 2025-09-01) [refs: agent deletion request chatId:`4daf0386ab364d`; agent creation requests chatId:`81b771b1030d41`]
-- privacy-conscious; actively manages chat memory agents and requests deletion; 1× (first: 2025-09-01) [ref: agent deletion request chatId:`4daf0386ab364d`]
+- manages agent configurations (create/delete/inspect memory); 3× (last: 2025-09-01) [refs: agent deletion request chatId:`4daf0386ab364d`; agent creation & query chatId:`81b771b1030d41`; memory inspection chatId:`1e311dd875cd48`]
+- privacy-conscious; actively manages chat memory agents, requests deletion, and asks to inspect stored info; 2× (last: 2025-09-01) [refs: agent deletion request chatId:`4daf0386ab364d`; memory inspection chatId:`1e311dd875cd48`]
