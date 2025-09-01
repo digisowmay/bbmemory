@@ -3,6 +3,7 @@
 - provides detailed Russian instructions for image editing, specifying precise composition details; 16× (stable since 2025-09-01) [refs: image editing request chatId:`89b61a63e0cb49`; chatId:`319468f2752746`; chatId:`68525ed244e34d`; chatId:`b8897e843db147`; chatId:`0df2900de97d44`; chatId:`eeadb63c7d2f4e`; chatId:`76e3ce9d843c40`; chatId:`d63e8d9dd16e42`]
 
 ### Emerging (new signals, 1-2 reinforcements)
+- requests immediate repetition/iteration of edits when outcome needs reconfirmation; 1× (first: 2025-09-01) [ref: image edit repeat chatId:`d63e8d9dd16e42`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
