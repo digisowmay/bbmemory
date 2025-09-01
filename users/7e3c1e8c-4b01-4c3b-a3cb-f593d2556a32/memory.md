@@ -4,6 +4,7 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - prefers single-word acknowledgments ("ack") to confirm receipt; 1× (first: 2025-09-01) [ref: chatId:`cc50e528c2fe4a`]
+- wants reminder messages to start with friendly phrases like “Hey, you asked me to remind you...” for natural tone; 1× (first: 2025-09-01) [ref: chatId:`cf0cc9cda2464e`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -20,5 +21,6 @@
 
 ### Emerging (new query patterns)
 - asks for crypto prices; Ethereum inquiry; 1× (first: 2025-09-01) [ref: crypto price request chatId:`ebeb842e80e249`]
-- schedules quick reminders and sends echoes to coordinate with colleagues; 1× (first: 2025-09-01) [ref: reminder and echo request chatId:`f0e27490492846`]
+- schedules quick reminders and sends echoes to coordinate with colleagues; 2× (since 2025-09-01) [refs: reminder and echo request chatId:`f0e27490492846`; current reminder follow-up chatId:`cf0cc9cda2464e`]
 - performs admin credit management via subs agent; 1× (first: 2025-09-01) [ref: credit addition chatId:`97d0f1e317c54c`]
+- prefers tasks/reminders to be scheduled and executed at due date rather than immediately; 1× (first: 2025-09-01) [ref: chatId:`cf0cc9cda2464e`]
