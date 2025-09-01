@@ -28,3 +28,4 @@
 - monitors account credit consumption closely; 2× (since 2025-08-31) [refs: repeated questions about credit deductions]
 - requesting social media actions via Twitter agent; tweeting, likes & attempted DM; 3× (since 2025-09-01) [refs: tweet request; DM request; like tweets chatId:`4bf3b72254ed4d`]
 - requesting messaging actions via Telegram agent; 2× (since 2025-09-01) [refs: telegram DM request, phone number & 2FA chatId:`22aa4e89152d4e`]
+- exploring agents for GTM strategy; 1× (first: 2025-09-01) [ref: GTM agents inquiry chatId:`da87de65a5024b`]
