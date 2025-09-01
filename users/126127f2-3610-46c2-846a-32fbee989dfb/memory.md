@@ -1,10 +1,10 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- communicates primarily in Russian and gives instructions in that language; 13× (stable since 2025-08-30) [refs: image editing request chatId:`470b9d47a6f840`; ongoing edit requests chatId:`a645ebeddae94c`]
-- provides detailed artistic direction for visual edits (pose, location, camera angle, objects, color palette); 13× [refs: image edit request chatId:`470b9d47a6f840`; ongoing edit requests chatId:`a645ebeddae94c`]
+- communicates primarily in Russian and gives instructions in that language; 14× (stable since 2025-08-30) [refs: image editing request chatId:`470b9d47a6f840`; ongoing edit requests chatId:`a645ebeddae94c`; latest request chatId:`0a74a4a5c3e641`]
+- provides detailed artistic direction for visual edits (pose, location, camera angle, objects, color palette); 14× [refs: image edit request chatId:`470b9d47a6f840`; ongoing edit requests chatId:`a645ebeddae94c`; latest request chatId:`0a74a4a5c3e641`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- often incorporates pop-culture characters/actors into requested edits; 3× (last: 2025-09-01) [refs: current edit requests chatId:`a645ebeddae94c`; previous LotR meme reference]
+- often incorporates pop-culture characters/actors into requested edits; 4× (last: 2025-09-01) [refs: current edit request chatId:`0a74a4a5c3e641`; previous LotR meme reference chatId:`a645ebeddae94c`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
