@@ -3,7 +3,7 @@
 - prefers Hinglish responses; 3× (stable since 2025-08-31) [refs: "hinglish mai batao ?"; resume apply request in Hinglish; LinkedIn settings request]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- gives direct action commands, expects autonomous execution; 2× (last: 2025-08-31) [refs: "meri linkedin ki setting saro ok kardo"; "jitne online portal hh job k lye apply kardo"]
+- gives direct action commands, expects autonomous execution; 3× (last: 2025-09-01) [refs: "meri linkedin ki setting saro ok kardo"; "jitne online portal hh job k lye apply kardo"; bulk email request chatId:`5ee6e10310a548`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -24,4 +24,4 @@
 - seeks job application assistance and LinkedIn optimization; 4× [refs: LinkedIn settings request; job portal apply request; resume share; follow-up apply directive]
 
 ### Emerging (new query patterns)
-- interested in multi-portal automated job applications; 2× (since 2025-08-31) [refs: "jitne online portal hh job k lye apply kardo"; PDF resume upload with URL]
+- interested in multi-portal automated job applications; 3× (since 2025-08-31) [refs: "jitne online portal hh job k lye apply kardo"; PDF resume upload with URL; bulk email request chatId:`5ee6e10310a548`]
