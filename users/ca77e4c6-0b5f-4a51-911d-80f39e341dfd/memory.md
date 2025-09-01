@@ -7,7 +7,7 @@
 ### Durable (core expertise, established over time)
 
 ### Emerging (recent learning, current focus)  
-- prefers hair-only transformations; wants facial features unchanged; 3× (last: 2025-09-01) [refs: multiple hair-only requests chatId:`63c2210265944d`]
+- prefers hair-only transformations; wants facial features unchanged; 6× (last: 2025-09-01) [refs: multiple hair-only requests chatId:`63c2210265944d`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
