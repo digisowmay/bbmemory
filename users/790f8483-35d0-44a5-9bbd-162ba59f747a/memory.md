@@ -3,7 +3,7 @@
 - no durable communication patterns identified yet
 
 ### Emerging (new signals, 1-2 reinforcements)
-- no emerging communication patterns identified yet
+- gives brief imperative commands; expects quick action or implementation; 1× (first: 2025-09-01) [ref: chatId:`92665348120c45`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
