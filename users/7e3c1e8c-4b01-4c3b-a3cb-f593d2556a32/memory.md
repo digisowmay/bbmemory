@@ -22,8 +22,8 @@
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
-- handles repository and server deployments via automated commands; PR merges, ssh deploys, agent sync; 6× (promoted from emerging) [refs: deployment request chatId:`23068aeac7034c`; PR & sync ops chatId:`7250d4330de448`; repo merge & deploy chatId:`9f55e81e3aaa48`; current repo merge & deploy chatId:`1efa68630e504a`; latest deployment chatId:`10a968c111a54a`]
+- handles repository and server deployments via automated commands; PR merges, ssh deploys, agent sync; 6× [refs: deployment request chatId:`23068aeac7034c`; PR & sync ops chatId:`7250d4330de448`; repo merge & deploy chatId:`9f55e81e3aaa48`; current repo merge & deploy chatId:`1efa68630e504a`; latest deployment chatId:`10a968c111a54a`]
 
 ### Emerging (new query patterns)
 - exploring biology/zoology topics, e.g., metabolic rate and lifespan correlation; 2× (since 2025-09-02) [refs: mammal breathing correlation discussion chatId:`dabdcface7a946`; turtle correlation question chatId:`dabdcface7a946`]
-- scheduling personal greetings/reminders using scheduler; 1× (first: 2025-09-02) [ref: good morning schedule chatId:`b8d82bb726d04b`]
+- scheduling personal greetings/reminders using scheduler; 2× (last: 2025-09-02) [refs: good morning schedule chatId:`b8d82bb726d04b`; daily greeting adjustment chatId:`b8d82bb726d04b`]
