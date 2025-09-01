@@ -4,7 +4,7 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - общается преимущественно на русском; 9× (last: 2025-09-01) [refs: image alteration request chatId:`25c85167d1084b`; earlier requests chatId:`08cf85c689e54e`; `ec0c00fac96640`; `f05a0bf795f945`]
-- использует итеративные уточнения для визуальных правок; 3× (last: 2025-09-01) [refs: follow-up image edit chatId:`517ad90010464e`; additional edits chatId:`8501d09333e947`; new request chatId:`3f504acccec14b`]
+- использует итеративные уточнения для визуальных правок; 4× (last: 2025-09-01) [refs: follow-up image edit chatId:`517ad90010464e`; additional edits chatId:`8501d09333e947`; new request chatId:`3f504acccec14b`; current request chatId:`ea38da5a62474d`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -25,4 +25,4 @@
 - (no durable usage patterns identified yet)
 
 ### Emerging (new query patterns)
-- запрашивает креативные изменения изображений с публичными фигурами и поп-культурой; 10× (since 2025-09-01) [refs: Jenna Ortega bathroom edit chatId:`25c85167d1084b`; earlier edits chatId:`08cf85c689e54e`; `ec0c00fac96640`; `f05a0bf795f945`; new request chatId:`3f504acccec14b`]
+- запрашивает креативные изменения изображений с публичными фигурами и поп-культурой; 11× (since 2025-09-01) [refs: Jenna Ortega bathroom edit chatId:`25c85167d1084b`; earlier edits chatId:`08cf85c689e54e`; `ec0c00fac96640`; `f05a0bf795f945`; new request chatId:`3f504acccec14b`; current request chatId:`ea38da5a62474d`]
