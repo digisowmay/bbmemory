@@ -2,7 +2,7 @@
 ### Durable (established, 3+ reinforcements)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- prefiere comunicarse en español; 3× (last: 2025-09-01) [refs: photo cover request chatId:`60878928de534b`; nano banana request chatId:`60878928de534b`; "Camino a un Sueño" cover request chatId:`60878928de534b`]
+- prefiere comunicarse en español; 6× (last: 2025-09-01) [refs: múltiples solicitudes de portadas, petición de nano banana, solicitud de título "Daviz y Arecio" chatId:`60878928de534b`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -18,4 +18,4 @@
 ### Durable (regular platform activities)
 
 ### Emerging (new query patterns)
-- solicita ediciones creativas de imágenes (transformaciones estilo portada de álbum); 3× (since 2025-09-01) [refs: photo cover request chatId:`60878928de534b`; nano banana request chatId:`60878928de534b`; "Camino a un Sueño" cover request chatId:`60878928de534b`]
+- solicita ediciones creativas de imágenes (transformaciones estilo portada de álbum); 6× (since 2025-09-01) [refs: varias solicitudes de portadas chatId:`60878928de534b`]
