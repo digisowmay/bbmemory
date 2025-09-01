@@ -3,7 +3,7 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - Prefers structured markdown with headings and bullet-point slides; 1× (first: 2025-09-01) [ref: presentation outline chatId:`383c6ed1a2ae46`]
-- Requests explicit resource links (e.g., Overleaf URL) when not provided; 1× (first: 2025-09-01) [ref: Overleaf link request chatId:`383c6ed1a2ae46`]
+- Requests explicit and working resource links (e.g., Overleaf URL); 2× (last: 2025-09-01) [refs: Overleaf link request chatId:`383c6ed1a2ae46`; link troubleshooting chatId:`383c6ed1a2ae46`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
