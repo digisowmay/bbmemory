@@ -3,7 +3,7 @@
 - (none yet)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- gives concise, imperative instructions for asset edits (e.g., "use nano", "make it downloadable as JPG"); 1× (first: 2025-08-31) [ref: request to enhance logo and convert to JPG]
+- gives concise, imperative instructions to perform tasks (asset edits, agent operations); 2× (last: 2025-09-01) [refs: request for high-quality logo enhancement; agent management commands chatId:`e36264aa759b49`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -25,3 +25,4 @@
 
 ### Emerging (new query patterns)
 - requests image enhancement and file format conversion (PNG→JPG); 1× (first: 2025-08-31) [ref: request to make logo downloadable as JPG]
+- requests agent operations and subscription management actions; 1× (first: 2025-09-01) [ref: agent management commands chatId:`e36264aa759b49`]
