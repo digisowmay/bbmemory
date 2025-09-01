@@ -2,7 +2,7 @@
 ### Durable (established, 3+ reinforcements)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- asks for detailed, iterative image edits and specific stylistic directions; 2× (last: 2025-08-31) [refs: gritty filter request; head size correction]
+- asks for detailed, iterative image edits and specific stylistic directions; 3× (last: 2025-09-01) [refs: gritty filter request; head size correction; professional headshot request chatId:`c601118e29c848`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -20,4 +20,4 @@
 ### Durable (regular platform activities)
 
 ### Emerging (new query patterns)
-- frequently requests advanced image manipulation via tools; 1× (started: 2025-08-31) [refs: sequence of gemini-image_edit calls]
+- frequently requests advanced image manipulation via tools; 2× (last: 2025-09-01) [refs: sequence of gemini-image_edit calls; professional headshot request chatId:`c601118e29c848`]
