@@ -3,7 +3,7 @@
 -
 
 ### Emerging (new signals, 1-2 reinforcements)
-- gives concise, imperative instructions; 4× (last: 2025-09-02) [refs: request to create lead-gen automation; directive to post without confirmation chatId:`1a5f016aabb745`; instruction to post automatically without confirmation chatId:`1a5f016aabb745`; reminder not to ask for confirmation chatId:`1a5f016aabb745`]
+- gives concise, imperative instructions; 5× (last: 2025-09-02) [refs: request to create lead-gen automation; directive to post without confirmation chatId:`1a5f016aabb745`; instruction to post automatically without confirmation chatId:`1a5f016aabb745`; reminder not to ask for confirmation chatId:`1a5f016aabb745`; follow-up complaint about confirmation chatId:`1a5f016aabb745`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -17,7 +17,7 @@
 -
 
 ### Emerging (recent behavioral shifts)
-- prefers automation and scheduled tasks for efficiency; 4× (last: 2025-09-02) [refs: instructions to schedule emails and voice summaries; directive to post automatically chatId:`1a5f016aabb745`; instruction to post without confirmation chatId:`1a5f016aabb745`; reminder not to ask for confirmation chatId:`1a5f016aabb745`]
+- prefers automation and scheduled tasks for efficiency; 5× (last: 2025-09-02) [refs: instructions to schedule emails and voice summaries; directive to post automatically chatId:`1a5f016aabb745`; instruction to post without confirmation chatId:`1a5f016aabb745`; reminder not to ask for confirmation chatId:`1a5f016aabb745`; complaint about not auto-posting today chatId:`1a5f016aabb745`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
@@ -25,4 +25,4 @@
 
 ### Emerging (new query patterns)
 - using platform to create email campaigns, tagging, and TTS summaries; 1× (since 2025-08-31) [ref: requests for lead-gen automation, relevant tags, and voice message generation]
-- automating LinkedIn design posts; 2× (started: 2025-09-02) [refs: LinkedIn post automation discussion chatId:`1a5f016aabb745`; follow-up confirmation avoidance chatId:`1a5f016aabb745`]
+- automating LinkedIn design posts; 3× (since 2025-09-02) [refs: LinkedIn post automation discussion chatId:`1a5f016aabb745`; follow-up confirmation avoidance chatId:`1a5f016aabb745`; complaint about not auto-posting today chatId:`1a5f016aabb745`]
