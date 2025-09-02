@@ -7,6 +7,7 @@
 ### Emerging (new signals, 1-2 reinforcements)
 - expects exhaustive datasets and calls out incomplete summaries; 10× (last: 2025-09-01) [refs: "others ?" chatId:`4e261e1b31e742`; follow-up drill-down requests chatId:`db9b4761e5c242`; grouping request chatId:`4e261e1b31e742`]
 - prefers condensed executive summaries (3-4 paragraphs max) with minimal, insight-rich tables; 5× (last: 2025-09-01) [refs: "very easy to consume report" chatId:`db9b4761e5c242`; grouping summary chatId:`4e261e1b31e742`]
+- requests copyable outputs inside code blocks for lists; 1× (first: 2025-09-02) [ref: code block email list chatId:`04d7a7e287fe46`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -15,7 +16,7 @@
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
-- delegates operational tasks (email, calendar, subscriptions, analytics) to assistant; 7× (stable since 2025-08-20) [refs: credit addition command chatId:`e297222bc18d40`; subscription creation chatId:`7857e1a6bece41`; subscription addition command chatId:`7e1cf712b7d842`]
+- delegates operational tasks (email, calendar, subscriptions, analytics, internal comms) to assistant; 8× [refs: credit addition command chatId:`e297222bc18d40`; subscription creation chatId:`7857e1a6bece41`; subscription addition command chatId:`7e1cf712b7d842`; echo to Sowmay chatId:`04d7a7e287fe46`]
 
 ### Emerging (recent behavioral shifts)
 - prioritizes data integrity and validation in reports; 2× (observed: 2025-09-01) [refs: "verify every step" instruction chatId:`9fd3ecf40d4b4f`; AWS pain point analysis chatId:`db9b4761e5c242`]
