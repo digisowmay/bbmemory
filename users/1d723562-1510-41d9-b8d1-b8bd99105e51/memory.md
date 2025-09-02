@@ -2,22 +2,22 @@
 ### Durable (established, 3+ reinforcements)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- shares website URLs of their project succinctly; 1× (first: 2025-09-02) [ref: conversation about Gradient site chatId:`c9c9f2b7fc9549`]
+- prefers concise messages; often sends URLs and brief prompts expecting agent actions; 1× (first: 2025-09-02) [ref: conversation about usegradientapp.com chatId:`c9c9f2b7fc9549`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
 
 ### Emerging (recent learning, current focus)
-- founder of AI safety startup "Gradient"; 1× (started: 2025-09-02) [ref: message stating it is their idea chatId:`c9c9f2b7fc9549`]
-- preparing YC W27 application; 1× (started: 2025-09-02) [ref: message about preparing for YC chatId:`c9c9f2b7fc9549`]
+- founder of Gradient AI safety startup; preparing for YC W27 batch; 1× (first: 2025-09-02) [ref: "this is my idea and startup, i am preparing for yc w27" chatId:`c9c9f2b7fc9549`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
 
 ### Emerging (recent behavioral shifts)
+- seeks quick validation and feedback on startup ideas; 1× (first: 2025-09-02) [ref: "how is this idea??" chatId:`c9c9f2b7fc9549`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
 
 ### Emerging (new query patterns)
-- seeks scheduling/reminder assistance for startup tasks; 1× (since 2025-09-02) [ref: assistant offering scheduling help chatId:`c9c9f2b7fc9549`]
+- uses agent to review startup website and gather insights; 1× (first: 2025-09-02) [ref: requested website analysis chatId:`c9c9f2b7fc9549`]
