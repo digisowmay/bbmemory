@@ -2,7 +2,7 @@
 ### Durable (established, 3+ reinforcements)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- uses informal, promotional tone and requests quick feedback on marketing copy; 1× (first: 2025-09-02) [ref: LinkedIn post evaluation chatId:`ab86caebe1614a`]
+- uses informal, promotional tone and requests quick feedback on marketing copy; 2× (last: 2025-09-02) [refs: LinkedIn post evaluation; LinkedIn post transformation chatId:`ab86caebe1614a`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -20,4 +20,4 @@
 
 ### Emerging (new query patterns)
 - exploring Google Sheets for schedule management; 2× (last: 2025-09-02) [refs: Google Sheets schedule request chatId:`1ef3ea06939b4b`]
-- seeks marketing content feedback for LinkedIn posts; 1× (first: 2025-09-02) [ref: LinkedIn post evaluation chatId:`ab86caebe1614a`]
+- seeks marketing content feedback for LinkedIn posts; 2× (last: 2025-09-02) [refs: LinkedIn post evaluation; LinkedIn post transformation chatId:`ab86caebe1614a`]
