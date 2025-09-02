@@ -1,6 +1,6 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- prefers concise, directive-style commands for actions; 13× (last: 2025-09-02) [refs: minimal billboard ideas chatId:`1004b8a2f07b4d`; stick figure edits chatId:`1004b8a2f07b4d`; posture instruction chatId:`1004b8a2f07b4d`; early user plan chatId:`44f078a4ce2048`]
+- prefers concise, directive-style commands for actions; 14× (last: 2025-09-02) [refs: minimal billboard ideas chatId:`1004b8a2f07b4d`; stick figure edits chatId:`1004b8a2f07b4d`; posture instruction chatId:`1004b8a2f07b4d`; early user plan & credit requests chatId:`44f078a4ce2048`]
 
 ### Emerging (new signals, 1-2 reinforcements)
 - wants conversational casual tone and no corporate language; 2× (last: 2025-09-02) [refs: global instructions; design refinement chatId:`1004b8a2f07b4d`]
@@ -23,7 +23,7 @@
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
 - uses image generation prompts for design asset creation; 6× (last: 2025-09-02) [refs: billboard, stick figure, style adaptation chats chatId:`1004b8a2f07b4d`]
-- manages subscription plans via agent commands; 6× (last: 2025-09-02) [refs: subscription add commands chatId:`51f711cfcc7343`; previous subscription add commands; subscription creation chatId:`da570a38ca8945`; early user plan chatId:`44f078a4ce2048`]
+- manages subscription plans via agent commands; 7× (last: 2025-09-02) [refs: subscription add commands chatId:`51f711cfcc7343`; previous subscription add commands; subscription creation chatId:`da570a38ca8945`; early user plan & credit addition chatId:`44f078a4ce2048`]
 
 ### Emerging (new query patterns)
 - exploring youtube analyzer for video analysis tasks; 3× (since 2025-09-02) [refs: youtube analyzer query chatId:`c5b89446732a42`; video length question chatId:`c5b89446732a42`; wise insights request chatId:`c5b89446732a42`]
