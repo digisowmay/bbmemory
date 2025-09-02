@@ -23,7 +23,7 @@
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
-- frequently manages schedules (create, list, pause, delete) and checks counts; 7× [refs: schedule listing, deletion, id request, new schedule creation chatId:`85ffbfdfe94742`; joke/physics schedule creation]
+- frequently manages schedules (create, list, pause, delete) and checks counts; 8× (stable since 2025-09-01) [refs: schedule listing, deletion, id request, new schedule creation chatId:`85ffbfdfe94742`; joke/physics schedule creation; schedule listing chatId:`6b369771688145`]
 
 ### Emerging (new query patterns)
 - directly requests raw MongoDB queries for schedule insights; 2× (since 2025-09-02) [refs: mongodb detail request chatId:`85ffbfdfe94742`; water/pee detail request chatId:`85ffbfdfe94742`]
