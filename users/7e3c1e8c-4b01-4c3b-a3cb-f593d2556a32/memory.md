@@ -16,6 +16,7 @@
 ### Durable (core thinking patterns)
 
 ### Emerging (recent behavioral shifts)
+- expects automated retries on errors; resilience built-in; 1× (first: 2025-09-03) [ref: retry instruction during agent sync chatId:`8760f717f7764a`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
@@ -25,4 +26,4 @@
 
 ### Emerging (new query patterns)
 - queries database via bhindi-mongodb; debug echo details; 2× (last: 2025-09-03) [refs: db query for echo details chatId:`c0eaf80af4824c`; executions count query chatId:`ed28c933852c4d`]
-- asks user growth and analytics metrics; 1× (first: 2025-09-03) [ref: user milestone query chatId:`403cdd62445444`]
+- syncs agents via bhindi-agent-manager; expects retry on failures; 1× (first: 2025-09-03) [ref: agent sync request chatId:`8760f717f7764a`]
