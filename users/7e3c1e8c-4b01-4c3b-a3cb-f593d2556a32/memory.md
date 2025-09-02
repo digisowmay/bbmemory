@@ -5,7 +5,7 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - uses informal lowercase language and expresses frustration bluntly; 3× (last: 2025-09-02) [refs: acquisition schedule failure chatId:`92dcf0c4bc2347`; schedule interval request chatId:`92dcf0c4bc2347`; SaaS paid user query chatId:`800b4bd946834b`]
-- prefers notifications/reminders delivered naturally without technical system details; 4× (last: 2025-09-03) [refs: reminder delivery preference chatId:`f565cf2a97ee4c`; hydration reminder chatId:`9e3105e767414d`; new reminder setup chatId:`38006aec8b4d40`; delete reminder chatId:`0879cfb9ae0d44`]
+- prefers notifications/reminders delivered naturally without technical system details; 5× (last: 2025-09-03) [refs: reminder delivery preference chatId:`f565cf2a97ee4c`; hydration reminder chatId:`9e3105e767414d`; new reminder setup chatId:`38006aec8b4d40`; delete reminder chatId:`0879cfb9ae0d44`; ETH price update action clarification chatId:`b49e12ecc55241`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -23,4 +23,4 @@
 
 ### Emerging (new query patterns)
 - requests GitHub repo actions (pull requests, issue creation) for bhindi repos; 3× (last: 2025-09-02) [refs: PR creation & merge commands chatId:`f7dbf111fc6242`; current PR & sync chatId:`8a3a8fcaeccd45`; issue creation preference global instructions]
-- asks for cryptocurrency price data; 2× (last: 2025-09-03) [refs: ETH price query chatId:`ab9dfe3236784b`; ETH reminders setup chatId:`b49e12ecc55241`]
+- asks for cryptocurrency price data; 3× (last: 2025-09-03) [refs: ETH price query chatId:`ab9dfe3236784b`; ETH reminders setup chatId:`b49e12ecc55241`; ETH price update action clarification chatId:`b49e12ecc55241`]
