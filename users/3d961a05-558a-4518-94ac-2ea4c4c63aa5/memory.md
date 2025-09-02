@@ -5,6 +5,7 @@
 ### Emerging (new signals, 1-2 reinforcements)
 - expects proactive, action-oriented phrasing exactly at scheduled execution time; 2× (last: 2025-09-02) [refs: chatId:`bc86f4e5f1fb40`]
 - asks for frequent automated status updates and scheduling tweaks; 4× (last: 2025-09-02) [refs: chatId:`3cc65e5c75b949`]
+- demands transparency and verification of task execution; cross-checks claimed actions; 1× (first: 2025-09-02) [ref: chatId:`bc86f4e5f1fb40`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -22,6 +23,7 @@
 
 ### Emerging (recent behavioral shifts)
 - action-oriented; requests immediate execution of tasks and schedule adjustments; 3× (observed: 2025-09-02) [ref: chatId:`3cc65e5c75b949`]
+- detail-oriented and quality control; verifies claimed actions vs actual; 1× (first: 2025-09-02) [ref: chatId:`bc86f4e5f1fb40`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
