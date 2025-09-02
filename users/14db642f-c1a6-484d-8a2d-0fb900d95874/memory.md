@@ -11,7 +11,7 @@
 
 ### Emerging (recent learning, current focus)
 - planning quick romantic getaways near Bangalore; 1× (started: 2025-09-02) [ref: couple getaway & waterfall queries chatId:`888e103d2b4949`]
-- interested in waterfall destinations and spa experiences; 1× (first: 2025-09-02) [ref: waterfall places & Hogenakkal spa plan chatId:`888e103d2b4949`]
+- planning international travel; looking for visa agents; 1× (started: 2025-09-02) [ref: visa agent request chatId:`6288dd29934844`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
@@ -21,7 +21,8 @@
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
-- requests travel accommodation suggestions (budget Airbnb/hotel); 7× [refs: initial Delhi Airbnb request; links follow-up; corridor accommodation request; Aerocity corridor query; best place near Yashobhoomi chatId:`3f05fd8480d94b`; couple getaway suggestion chatId:`888e103d2b4949`]
+- requests travel accommodation suggestions (budget Airbnb/hotel); 7× [refs: initial Delhi Airbnb request; links follow-up; corridor accommodation request; Yashobhoomi place chatId:`3f05fd8480d94b`; couple getaway suggestion chatId:`888e103d2b4949`]
 
 ### Emerging (new query patterns)
 - asks for waterfall/nature destinations and spa plans; 2× (since 2025-09-02) [refs: waterfall places request chatId:`888e103d2b4949`; Hogenakkal spa plan chatId:`888e103d2b4949`]
+- seeks local service provider recommendations (visa agents); 1× (first: 2025-09-02) [ref: visa agent request chatId:`6288dd29934844`]
