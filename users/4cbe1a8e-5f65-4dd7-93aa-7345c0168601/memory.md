@@ -2,8 +2,8 @@
 ### Durable (established, 3+ reinforcements)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- prefers solution-oriented responses with multiple options when asking for feedback on UI; 2× (last: 2025-09-02) [ref: UX improvement discussion chatId:`ba2d44bb613f40`]
-- requests visual/structured deliverables like designs or tables when refining UX; 1× (first: 2025-09-02) [ref: design/table request chatId:`ba2d44bb613f40`]
+- prefers solution-oriented responses with multiple options when asking for feedback on UI; 2× (last: 2025-09-02) [refs: UX improvement discussion chatId:`ba2d44bb613f40`; link request chatId:`214d0b46b49d43`]
+- requests visual/structured deliverables (designs, tables) and shareable markdown links; 2× (last: 2025-09-02) [refs: design/table request chatId:`ba2d44bb613f40`; markdown link request chatId:`214d0b46b49d43`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
