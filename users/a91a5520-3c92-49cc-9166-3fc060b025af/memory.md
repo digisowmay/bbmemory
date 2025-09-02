@@ -10,7 +10,7 @@
 - 
 
 ### Emerging (recent learning, current focus)
-- familiar with Bhindi.AI capabilities and creates ready-to-use prompts for various workflows; 1× (since 2025-09-02) [ref: prompt idea list chatId:`016ff9b79c9841`]
+- familiar with Bhindi.AI capabilities and creates ready-to-use prompts for various workflows; 2× (since 2025-09-02, last: 2025-09-02) [refs: prompt idea list chatId:`016ff9b79c9841`; AWS integrations discussion chatId:`016ff9b79c9841`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
@@ -24,4 +24,4 @@
 - 
 
 ### Emerging (new query patterns)
-- exploring prompt engineering for Bhindi.AI to automate workflows; 1× (started: 2025-09-02) [ref: prompt idea list chatId:`016ff9b79c9841`]
+- exploring prompt engineering for Bhindi.AI to automate workflows; 2× (since 2025-09-02, last: 2025-09-02) [refs: prompt idea list chatId:`016ff9b79c9841`; AWS integrations discussion chatId:`016ff9b79c9841`]
