@@ -14,6 +14,7 @@
 ### Emerging (recent learning, current focus)
 - VC-funded startup preparing quarterly update calls; needs MIS templates for investors; 1× (first: 2025-09-02) [ref: MIS template request chatId:`5aac8767e2714e`]
 - owner/operator of matcha cafe brand 'sipz' targeting Gen-Z and millennials; 1× (started: 2025-09-02) [ref: logo design request chatId:`d5bcc3e22fb24d`]
+- preparing for CAT entrance exam; wants structured daily schedule with progressive intensity; 1× (first: 2025-09-02) [ref: CAT schedule request chatId:`e436306ba22f4e`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
@@ -33,3 +34,4 @@
 - exploring luxury fashion deals and price comparisons (e.g., Dior bags); 2× (since 2025-09-02) [refs: Dior bag deal request chatId:`fbe68d0f8bcc40`; follow-up Dior pricing chatId:`fbe68d0f8bcc40`]
 - exploring Indian trading platforms (DhanHQ, Groww) for portfolio/trading automation; 1× (first: 2025-09-02) [ref: DhanHQ + Groww prompt request chatId:`5aac8767e2714e`]
 - requests YouTube scripts and content assets (financial education); 1× (first: 2025-09-02) [ref: YouTube script request chatId:`8d6e98e3722542`]
+- exploring CAT exam preparation schedules and study plans; 1× (first: 2025-09-02) [ref: CAT schedule request chatId:`e436306ba22f4e`]
