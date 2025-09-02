@@ -1,6 +1,6 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- uses direct, concise commands for tasks; 6× (stable since 2025-09-02) [refs: "create a project on devfolio"; "create a random one"; ": RESUME" chatId:`173f4b5cb15541`]
+- uses direct, concise commands for tasks; 7× (stable since 2025-09-02) [refs: "create a project on devfolio"; "create a random one"; ": RESUME" chatId:`173f4b5cb15541`; single-letter option selection chatId:`306bb9f78cfe47`]
 
 ### Emerging (new signals, 1-2 reinforcements)
 - prefers to preview output before final action; 1× (since 2025-09-02) [ref: requested preview before tweeting chatId:`18baa70f7ad645`]
