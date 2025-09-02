@@ -3,7 +3,7 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - prefers positive, solution-oriented tone over negative/whiny language in finance content; 2× (last: 2025-09-01) [refs: feedback about not cribbing chatId:`a5c480e124a344`; evening post issue chatId:`6f41e83c4b4441`]
-- asks concise, direct questions when troubleshooting automation issues; 3× (last: 2025-09-02) [refs: scheduler troubleshooting chatId:`6f41e83c4b4441`; evening post issue chatId:`6f41e83c4b4441`; schedule failure chatId:`3b26d7c8731144`]
+- asks concise, direct questions when troubleshooting automation issues; 4× (last: 2025-09-02) [refs: scheduler troubleshooting chatId:`6f41e83c4b4441`; evening post issue chatId:`6f41e83c4b4441`; schedule failure chatId:`3b26d7c8731144`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -21,4 +21,4 @@
 ### Durable (regular platform activities)
 
 ### Emerging (new query patterns)
-- frequently schedules and monitors automated Twitter posts, specifically morning (9 AM) and evening (6:30 PM) tweets; 4× (last: 2025-09-02) [refs: scheduler query chatId:`6f41e83c4b4441`; evening post issue chatId:`6f41e83c4b4441`; automation refresh chatId:`6f41e83c4b4441`; schedule failure chatId:`3b26d7c8731144`]
+- frequently schedules and monitors automated Twitter posts, specifically morning (9 AM) and evening (6:30 PM) tweets; 5× (last: 2025-09-02) [refs: scheduler query chatId:`6f41e83c4b4441`; evening post issue chatId:`6f41e83c4b4441`; automation refresh chatId:`6f41e83c4b4441`; schedule failure chatId:`3b26d7c8731144`]
