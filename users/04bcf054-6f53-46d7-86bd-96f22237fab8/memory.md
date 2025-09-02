@@ -8,8 +8,9 @@
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
 
-### Emerging (recent learning, current focus)
+### Emerging (recent learning, current focus)  
 - manages social media communications for Finoa (regulated custodian); 3× (last: 2025-09-02) [refs: auto-reply task chatId:`e6abdfbda44046`; LinkedIn post publishing chatId:`e6abdfbda44046`; comment management inquiry chatId:`e6abdfbda44046`]
+- exploring marketing and lead generation automation use cases for Finoa; 1× (first: 2025-09-02) [ref: marketing lead gen use cases request chatId:`e6abdfbda44046`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
@@ -24,3 +25,4 @@
 ### Emerging (new query patterns)
 - requests generation of social media replies for institutional brand; 3× (since 2025-09-02) [refs: Finoa auto-reply request chatId:`e6abdfbda44046`; sample comments replies request chatId:`e6abdfbda44046`; comment management test chatId:`e6abdfbda44046`]
 - exploring social media platform automation capabilities (LinkedIn/Twitter) including comment management; 2× (since 2025-09-02) [refs: question about comment management functionality chatId:`e6abdfbda44046`; Twitter vs LinkedIn functionality discussion chatId:`e6abdfbda44046`]
+- seeking marketing and lead generation automation use cases; 1× (since 2025-09-02) [ref: marketing lead gen use cases request chatId:`e6abdfbda44046`]
