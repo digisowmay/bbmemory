@@ -19,7 +19,7 @@
 
 ### Emerging (recent behavioral shifts)
 - values maintainable, well-documented code; 2× (observed: 2025-09-01) [refs: docstring documentation request chatId:`6774927f60b146`]
-- delegates repetitive tasks via automation/scheduling; 2× (last: 2025-09-02) [refs: Friday X post scheduling chatId:`1ef3ea06939b4b`; recurring Friday post update chatId:`1ef3ea06939b4b`]
+- delegates repetitive tasks via automation/scheduling; 3× (last: 2025-09-02) [refs: Friday X post scheduling chatId:`1ef3ea06939b4b`; recurring Friday post update chatId:`1ef3ea06939b4b`; daily AI post schedule chatId:`1ef3ea06939b4b`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
@@ -29,3 +29,4 @@
 ### Emerging (new query patterns)
 - exploring personal finance management; 2× (since 2025-09-01) [refs: expense tracking chatId:`cffb1f71f42445`]
 - interested in agent/tool orchestration details; 2× (last: 2025-09-01) [refs: agent usage query chatId:`6774927f60b146`]
+- exploring Google Sheets for schedule management; 1× (first: 2025-09-02) [ref: Google Sheets schedule request chatId:`1ef3ea06939b4b`]
