@@ -5,6 +5,7 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - gives meta-instructions in English about memory/process handling; 1× (first: 2025-09-03) [ref: memory update request chatId:`4484186269674f`]
+- marks desired edit areas directly on the image using visual indicators (e.g., black stripe) to guide edits; 1× (first: 2025-09-03) [ref: brand placement indication chatId:`4484186269674f`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
