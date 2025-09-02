@@ -1,6 +1,6 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- gives very specific, step-by-step instructions for image editing tasks; 7× (last: 2025-09-02) [refs: repeated image edit requests chatId:`7bbefde9248e4b`]
+- gives very specific, step-by-step instructions for image editing tasks; 8× (last: 2025-09-02) [refs: repeated image edit requests chatId:`7bbefde9248e4b`]
 
 ### Emerging (new signals, 1-2 reinforcements)
 - no additional emerging patterns noted
