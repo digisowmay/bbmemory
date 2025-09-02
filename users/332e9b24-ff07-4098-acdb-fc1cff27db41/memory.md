@@ -4,18 +4,19 @@
 - provides direct image URLs along with requests for edits; 4× [refs: monitor PANASONIC edit chatId:`8d4904c805454d`; earlier URL messages chatId:`ba37f7104a1e43`]
 
 ### Emerging (new signals, 1-2 reinforcements)
+- gives meta-instructions in English about memory/process handling; 1× (first: 2025-09-03) [ref: memory update request chatId:`4484186269674f`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
 
 ### Emerging (recent learning, current focus)
-- working on multiple small appliance and electronics image refinements (kettle, monitor) requiring object labeling/markers; 10× (since 2025-09-03) [refs: monitor PANASONIC edit chatId:`8d4904c805454d`; kettle indicator edits chatId:`b3c88db3ebd64f`]
+- working on multiple small appliance & electronics image refinements needing brand labeling; 10× (since 2025-09-03) [refs: monitor PANASONIC edit chatId:`8d4904c805454d`; kettle indicator edits chatId:`b3c88db3ebd64f`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
 
 ### Emerging (recent behavioral shifts)
-- values precise visual accuracy and recognizability in edited outputs (clear markers, correct branding); 10× (observed: 2025-09-03) [refs: monitor PANASONIC edit chatId:`8d4904c805454d`; brand logo placement chatId:`ba37f7104a1e43`]
+- values precise visual accuracy and recognizability in edited outputs; 10× (observed: 2025-09-03) [refs: monitor PANASONIC edit chatId:`8d4904c805454d`; brand logo placement chatId:`ba37f7104a1e43`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
