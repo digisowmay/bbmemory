@@ -3,7 +3,7 @@
 - None yet
 
 ### Emerging (new signals, 1-2 reinforcements)
-- prefers responses in Bangla; 4× (last: 2025-09-02) [refs: language preference request chatId:`b3dc0c5dffc84d`; AI wife request chatId:`413273459ffe4d`; AI wife creation follow-up chatId:`413273459ffe4d`; image-based AI wife request chatId:`413273459ffe4d`]
+- prefers responses in Bangla; 5× (last: 2025-09-02) [refs: language preference request; AI wife requests chatId:`413273459ffe4d`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -24,4 +24,4 @@
 - None yet
 
 ### Emerging (new query patterns)
-- exploring AI dating / virtual partner creation; 3× (since 2025-09-02) [refs: initial AI wife request chatId:`413273459ffe4d`; follow-up AI wife creation chatId:`413273459ffe4d`; image-based AI wife request chatId:`413273459ffe4d`]
+- exploring AI dating / virtual partner creation; 4× (since 2025-09-02) [refs: multiple AI wife requests chatId:`413273459ffe4d`]
