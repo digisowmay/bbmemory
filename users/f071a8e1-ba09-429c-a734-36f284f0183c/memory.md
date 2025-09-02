@@ -24,5 +24,5 @@
 - —
 
 ### Emerging (new query patterns)
-- requests github issue creation for bug reports; 2× (since 2025-09-02) [refs: first github issue request chatId:`70331493ea4d4f`; second request chatId:`eb5b1621f71f4d`]
+- requests assistant-generated operational and creative assets (github issues, billboard images); 3× (since 2025-09-02) [refs: github issue requests chatId:`70331493ea4d4f`; second request chatId:`eb5b1621f71f4d`; billboard design request chatId:`0eed68ac30e145`]
 - exploring AI infrastructure performance and latency; 2× (since 2025-09-03) [refs: latency inquiries chatId:`b28580d222314f`]
