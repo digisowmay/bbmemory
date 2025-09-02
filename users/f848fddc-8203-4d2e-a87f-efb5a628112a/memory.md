@@ -26,3 +26,4 @@
 
 ### Emerging (new query patterns)
 - exploring personal fitness aesthetics and social scenarios in digital imagery; 3× (since 2025-09-02) [refs: fit & slim request chatId:`5a4cb0351b484d`; overall slim request chatId:`33b529ce0a8b41`; shy couple addition chatId:`6bdf1974331b46`]
+- requests traditional Indian wedding attire in photo edits; 1× (first: 2025-09-02) [ref: indian wedding dress request chatId:`7093fc4b630a49`]
