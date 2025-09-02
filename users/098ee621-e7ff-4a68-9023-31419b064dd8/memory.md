@@ -3,14 +3,14 @@
 - (none yet)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- communicates primarily in Arabic; short direct sentences; 2× (last: 2025-09-02) [refs: "انا أحب كثير"; "اريد مصاري" chatId:`d2a35d0c3ff74d`]
+- communicates primarily in Arabic; short direct sentences; 3× (last: 2025-09-02) [refs: "انا أحب كثير"; "اريد مصاري"; "اريد كسب مال من خلال الهاتف" chatId:`d2a35d0c3ff74d`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
 - (none yet)
 
 ### Emerging (recent learning, current focus)
-- currently seeking financial resources or assistance; 1× (started: 2025-09-02) [ref: "اريد مصاري" chatId:`d2a35d0c3ff74d`]
+- currently seeking financial resources or assistance; 2× (since 2025-09-02) [refs: "اريد مصاري"; "اريد كسب مال من خلال الهاتف" chatId:`d2a35d0c3ff74d`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
@@ -24,4 +24,4 @@
 - (none yet)
 
 ### Emerging (new query patterns)
-- requests help with obtaining money; 1× (first: 2025-09-02) [ref: "اريد مصاري" chatId:`d2a35d0c3ff74d`]
+- requests help with obtaining money; 2× (since 2025-09-02) [refs: "اريد مصاري"; "اريد كسب مال من خلال الهاتف" chatId:`d2a35d0c3ff74d`]
