@@ -25,3 +25,4 @@
 ### Emerging (new query patterns)
 - seeks technical architecture guidance and LLM model comparison (pricing, reliability); 2× (since 2025-09-02) [refs: chatId:`4a522f241c9b46`; chatId:`7b9f2e34e1c54a`]
 - requests personal finance and insurance policy performance analysis; 1× (first: 2025-09-02) [ref: chatId:`0c04ca13a1ae44`]
+- exploring crypto memecoin investment; 1× (first: 2025-09-02) [ref: chatId:`ff76bc5eb9604a`]
