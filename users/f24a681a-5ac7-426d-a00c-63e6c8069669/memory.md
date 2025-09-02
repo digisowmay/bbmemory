@@ -2,7 +2,7 @@
 ### Durable (established, 3+ reinforcements)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- uses informal, promotional tone and requests quick feedback on marketing copy; 2× (last: 2025-09-02) [refs: LinkedIn post evaluation; LinkedIn post transformation chatId:`ab86caebe1614a`]
+- uses informal, promotional tone and requests quick feedback on marketing copy; 3× (last: 2025-09-02) [refs: LinkedIn post evaluation; LinkedIn post transformation chatId:`ab86caebe1614a`; less tech heavy hook request chatId:`ab86caebe1614a`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
