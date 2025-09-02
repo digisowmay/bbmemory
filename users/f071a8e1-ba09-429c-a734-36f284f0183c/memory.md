@@ -3,9 +3,8 @@
 - prefers concise, lowercase assistant replies; 9× (stable since 2025-08-20) [refs: echo delegation request chatId:`c03273d910cd4b`; news audio request chatId:`898cc38b8e6341`; github issue request chatId:`70331493ea4d4f`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- prefers subtle logo integration and minimalist branding; 5× (last: 2025-09-03) [refs: billboard revision requests chatId:`0eed68ac30e145`]
-- requests crystal-clear, high-quality visuals; 4× (last: 2025-09-03) [refs: "super clear" billboard ask chatId:`0eed68ac30e145`]
-- iterative design feedback with precise adjustments (camera angle, background color, single logo); 1× (first: 2025-09-03) [ref: billboard angle and color changes chatId:`0eed68ac30e145`]
+- prefers subtle logo integration and minimalist branding; 6× (last: 2025-09-03) [refs: multiple billboard revision requests chatId:`0eed68ac30e145`]
+- iterative design feedback with precise adjustments and demands crystal-clear visuals; 2× (last: 2025-09-03) [refs: camera angle, background color, quality tweaks chatId:`0eed68ac30e145`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
