@@ -1,6 +1,6 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- gives concise, directive requests and expects brief confirmations; 11× (stable since 2025-08-20) [refs: credit addition command chatId:`e297222bc18d40`; agent usage query chatId:`c946a1a31da646`; subscription creation chatId:`7857e1a6bece41`; verification instruction chatId:`9fd3ecf40d4b4f`; bhindi agent listing chatId:`559c1db32e6741`; AWS usage statistics request chatId:`db9b4761e5c242`; subscription addition command chatId:`7e1cf712b7d842`]
+- gives concise, directive requests and expects brief confirmations; 12× (stable since 2025-08-20) [refs: credit addition command chatId:`e297222bc18d40`; subscription creation chatId:`7857e1a6bece41`; verification instruction chatId:`9fd3ecf40d4b4f`; bhindi agent listing chatId:`559c1db32e6741`; AWS usage request chatId:`db9b4761e5c242`; this short-format request chatId:`d2d2ffefb8bb4d`]
 - prefers tabular format specifically for user analysis and DB-related reports; 8× [refs: table request chatId:`9fd3ecf40d4b4f`; current AWS report chatId:`db9b4761e5c242`; "single table" instruction chatId:`db9b4761e5c242`]
 - insists on verification and cross-referenced counts before decisions; 5× (last: 2025-09-01) [refs: "CRITICAL: Always verify you've checked ALL users" chatId:`9fd3ecf40d4b4f`; AWS users completeness follow-up chatId:`db9b4761e5c242`; "why only 5 ?" chatId:`db9b4761e5c242`; method explanation request chatId:`4e261e1b31e742`; agent usage methodology query chatId:`4e261e1b31e742`]
 
@@ -8,7 +8,7 @@
 - expects exhaustive datasets and calls out incomplete summaries; 10× (last: 2025-09-01) [refs: "others ?" chatId:`4e261e1b31e742`; follow-up drill-down requests chatId:`db9b4761e5c242`; grouping request chatId:`4e261e1b31e742`]
 - prefers condensed executive summaries (3-4 paragraphs max) with minimal, insight-rich tables; 5× (last: 2025-09-01) [refs: "very easy to consume report" chatId:`db9b4761e5c242`; grouping summary chatId:`4e261e1b31e742`]
 - requests copyable outputs inside code blocks for lists; 1× (first: 2025-09-02) [ref: code block email list chatId:`04d7a7e287fe46`]
-- prefers scraper tools over browser agent when retrieving data; 1× (first: 2025-09-03) [ref: oauth scope email content request chatId:`d2d2ffefb8bb4d`]
+- prefers scraper tools over browser agent when retrieving data; 2× (last: 2025-09-03) [refs: oauth scope email content request chatId:`d2d2ffefb8bb4d`; scraper preference reminder chatId:`d2d2ffefb8bb4d`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
