@@ -5,7 +5,7 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - requests correct square orientation for profile pictures; professional platform fit; 3× (last: 2025-09-01) [refs: orientation requests; proper orientation mention; social media pfp square requirement chatId:`055d2578d64542`]
-- prefers clean/ uncluttered or gradient backgrounds for social media profile photos; 1× (first: 2025-09-01) [ref: clean background request for pfp chatId:`055d2578d64542`]
+- prefers style-only transformations that preserve all original elements ("don't change anything"); 2× (last: 2025-09-02) [refs: beautify without changes request; Ghibli style request chatId:`055d2578d64542`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -26,4 +26,4 @@
 - requesting professional image edits (headshots, profile pictures) via AI tools; 4× (promoted from emerging) [refs: initial headshot request; navy suit variations; color suit request; social media pfp edits chatId:`055d2578d64542`]
 
 ### Emerging (new query patterns)
-- None at the moment
+- exploring anime/Ghibli-style artistic transformations while preserving content; 1× (first: 2025-09-02) [ref: Ghibli style transformation chatId:`055d2578d64542`]
