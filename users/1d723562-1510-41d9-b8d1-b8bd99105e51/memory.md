@@ -1,12 +1,12 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
 - prefers concise messages; often sends URLs and brief prompts expecting agent actions; 4× (last: 2025-09-02) [refs: website link submissions including usegradientapp.com chatId:`c9c9f2b7fc9549`]
-- seeks strategic advice; asks open-ended questions like "if you are at my shoes then what will you do?"; 3× (last: 2025-09-02) [refs: strategy requests chatId:`c9c9f2b7fc9549`]
+- seeks strategic advice; asks open-ended questions like "if you are at my shoes then what will you do?"; 4× (last: 2025-09-02) [refs: multiple strategy requests chatId:`c9c9f2b7fc9549`]
 - uses colloquial Hindi/English mix (e.g., "bhai") when discussing personal challenges; 1× (first: 2025-09-02) [ref: motivational discussion chatId:`c9c9f2b7fc9549`]
 
 ### Emerging (new signals, 1-2 reinforcements)
 - shares comprehensive documents for detailed feedback; 1× (first: 2025-09-02) [ref: PDF roadmap review chatId:`c9c9f2b7fc9549`]
-- prefers structured action plans and step-by-step timelines; 2× (last: 2025-09-02) [refs: scheduling request and roadmap discussion chatId:`c9c9f2b7fc9549`]
+- prefers structured action plans and step-by-step timelines; 3× (last: 2025-09-02) [refs: scheduling request, roadmap discussion, feature breakdown chatId:`c9c9f2b7fc9549`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
