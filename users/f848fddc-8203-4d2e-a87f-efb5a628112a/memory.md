@@ -1,0 +1,23 @@
+## Communication Patterns
+### Durable (established, 3+ reinforcements)
+
+### Emerging (new signals, 1-2 reinforcements)
+- provides clear, specific requirements for generated content (e.g., lighting, attire, background) ; 1× (first: 2025-09-02) [ref: LinkedIn photo request chatId:`ba130426885649`]
+
+## Knowledge & Context
+### Durable (core expertise, established over time)
+
+### Emerging (recent learning, current focus)
+- currently improving LinkedIn professional presence; seeks high-quality headshot; 1× (started: 2025-09-02) [ref: image generation request chatId:`ba130426885649`]
+
+## Thinking & Working Style
+### Durable (core thinking patterns)
+
+### Emerging (recent behavioral shifts)
+- results-oriented; focuses on concrete deliverables like finished images; 1× (observed: 2025-09-02) [ref: LinkedIn photo generation chatId:`ba130426885649`]
+
+## Platform Usage & Queries
+### Durable (regular platform activities)
+
+### Emerging (new query patterns)
+- exploring AI image generation for professional branding; 1× (first: 2025-09-02) [ref: LinkedIn photo request chatId:`ba130426885649`]
