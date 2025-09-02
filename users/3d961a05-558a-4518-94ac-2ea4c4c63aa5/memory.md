@@ -1,11 +1,12 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- provides brief confirmations when satisfied and concise modification requests; 6× (stable since 2025-09-02) [refs: chatId:`3cc65e5c75b949`; chatId:`bc86f4e5f1fb40`]
+- provides brief confirmations when satisfied and concise modification requests; 7× (stable since 2025-09-02) [refs: chatId:`3cc65e5c75b949`; chatId:`bc86f4e5f1fb40`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- expects proactive, action-oriented phrasing exactly at scheduled execution time; 2× (last: 2025-09-02) [refs: chatId:`bc86f4e5f1fb40`]
+- expects proactive, action-oriented phrasing exactly at scheduled execution time; 3× (last: 2025-09-02) [refs: chatId:`bc86f4e5f1fb40`]
 - asks for frequent automated status updates and scheduling tweaks; 4× (last: 2025-09-02) [refs: chatId:`3cc65e5c75b949`]
-- demands transparency and verification of task execution; cross-checks claimed actions; 1× (first: 2025-09-02) [ref: chatId:`bc86f4e5f1fb40`]
+- demands transparency and verification of task execution; cross-checks claimed actions; 2× (last: 2025-09-02) [refs: chatId:`bc86f4e5f1fb40`]
+- uses "CONFIRM" keyword to explicitly validate actions; 1× (first: 2025-09-02) [ref: chatId:`bc86f4e5f1fb40`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -16,6 +17,7 @@
 - claims UN background and royal lineage; 1× (first: 2025-09-02) [ref: chatId:`3cc65e5c75b949`]
 - active LinkedIn Sales Navigator subscription leveraged for outreach; 3× (since 2025-09-02) [refs: chatId:`3cc65e5c75b949`]
 - uses Google Sheets for detailed campaign tracking and databases; 3× (since 2025-09-02) [refs: chatId:`3cc65e5c75b949`]
+- LinkedIn profile handle: linkedin.com/in/thevakul; 1× (first: 2025-09-02) [ref: chatId:`bc86f4e5f1fb40`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
@@ -32,3 +34,4 @@
 ### Emerging (new query patterns)
 - wants LinkedIn integration for direct messaging/outreach workflows; 6× (last: 2025-09-02) [refs: chatId:`bc86f4e5f1fb40`]
 - uses Google Sheets for campaign tracking and data management; 4× (last: 2025-09-02) [refs: chatId:`bc86f4e5f1fb40`]
+- pivots to email outreach when LinkedIn InMail unavailable; 1× (first: 2025-09-02) [ref: chatId:`bc86f4e5f1fb40`]
