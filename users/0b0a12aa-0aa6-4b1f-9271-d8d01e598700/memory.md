@@ -2,7 +2,7 @@
 ### Durable (established, 3+ reinforcements)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- requests Arabic bilingual technical diagrams; 1× (first: 2025-09-02) [ref: field monitoring diagram request chatId:`6662dea344ef4a`]
+- specifies language preference for technical diagrams (Arabic then English); 2× (last: 2025-09-02) [refs: diagram bilingual request; English-only instruction chatId:`6662dea344ef4a`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -14,10 +14,11 @@
 ### Durable (core thinking patterns)
 
 ### Emerging (recent behavioral shifts)
-- prefers visual workflow diagrams for system understanding; 1× (observed: 2025-09-02) [ref: field monitoring diagram request chatId:`6662dea344ef4a`]
+- prefers visual workflow diagrams for system understanding; 2× (last: 2025-09-02) [refs: initial diagram request; English-only updated diagram chatId:`6662dea344ef4a`]
+- iterative refinement approach—asks for improvements and adjustments; 1× (first: 2025-09-02) [ref: requested improved diagrams chatId:`6662dea344ef4a`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
 
 ### Emerging (new query patterns)
-- uses platform to generate architecture diagrams; 1× (since 2025-09-02) [ref: field monitoring diagram request chatId:`6662dea344ef4a`]
+- uses platform to generate architecture diagrams; 2× (since 2025-09-02) [refs: initial diagram request; subsequent English-only diagram generation chatId:`6662dea344ef4a`]
