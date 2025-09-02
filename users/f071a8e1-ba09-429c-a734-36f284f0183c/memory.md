@@ -10,7 +10,7 @@
 - —
 
 ### Emerging (recent learning, current focus)
-- investigating AI model latency & routing (OpenRouter architecture); 1× (first: 2025-09-03) [ref: latency question chatId:`b28580d222314f`]
+- investigating AI model latency & routing (OpenRouter architecture); 2× (since 2025-09-03) [refs: latency questions chatId:`b28580d222314f`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
@@ -25,4 +25,4 @@
 
 ### Emerging (new query patterns)
 - requests github issue creation for bug reports; 2× (since 2025-09-02) [refs: first github issue request chatId:`70331493ea4d4f`; second request chatId:`eb5b1621f71f4d`]
-- exploring AI infrastructure performance and latency; 1× (first: 2025-09-03) [ref: latency question chatId:`b28580d222314f`]
+- exploring AI infrastructure performance and latency; 2× (since 2025-09-03) [refs: latency inquiries chatId:`b28580d222314f`]
