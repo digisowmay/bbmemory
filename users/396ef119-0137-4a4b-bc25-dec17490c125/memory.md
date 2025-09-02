@@ -1,9 +1,9 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
--
+- Prefers simple, straightforward language with bullet points, clear CTAs, and no emojis; 7× (promoted from emerging, stable since 2025-09-01) [refs: content simplification & CTA requests chatId:`9466b6557c044e`; complaint about complexity "why so much complexity lol?"; CTA preference for DEGEN campaign]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- Prefers simple, straightforward language with bullet points, clear CTAs, no emojis; 6× (last: 2025-09-01) [refs: multiple content simplification & CTA inclusion requests chatId:`9466b6557c044e`]
+- Provides iterative feedback to refine content tone and brevity; 2× (last: 2025-09-02) [refs: feedback loop on simplifying language chatId:`9466b6557c044e`; request to add links]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -17,11 +17,11 @@
 -
 
 ### Emerging (recent behavioral shifts)
-- Provides iterative feedback to refine content toward desired tone and simplicity; 1× (observed: 2025-09-01) [ref: feedback loop chatId:`9466b6557c044e`]
+-
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
 -
 
 ### Emerging (new query patterns)
-- Regularly requests social media copywriting for crypto projects; 2× (since 2025-09-01) [refs: multiple content creation and recap requests chatId:`9466b6557c044e`]
+- Regularly requests social media copywriting for crypto projects; 3× (since 2025-09-01) [refs: weekly recap, daily recap, quote tweet requests chatId:`9466b6557c044e`]
