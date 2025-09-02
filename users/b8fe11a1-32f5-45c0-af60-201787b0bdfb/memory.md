@@ -27,4 +27,4 @@
 - 
 
 ### Emerging (new query patterns)
-- frequently uses AI tools for advanced image manipulation tasks; 7× (since 2025-09-01) [refs: ongoing image editing session chatId:`e26ceb22a9084b`]
+- frequently uses AI tools for advanced image manipulation tasks; 8× (since 2025-09-01) [refs: ongoing image editing session chatId:`e26ceb22a9084b`; photo color correction & upscale chatId:`aa5c18b33ed044`]
