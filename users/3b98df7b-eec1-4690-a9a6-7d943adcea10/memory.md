@@ -4,7 +4,7 @@
 - prefers clear, structured outputs with sections and headings; 4× [refs: clinical trial monitoring setup chatId:`2690f913bc7a47`; portfolio allocation request chatId:`800de45d49a04c`; transformer crash course request; traitors party planning chatId:`e9c221a0f18e4b`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- requests multimedia assets (image moodboards, printables) alongside text guidance; 1× (first: 2025-09-02) [ref: traitors party planning chatId:`e9c221a0f18e4b`]
+- requests multimedia assets and consolidated deliverables (e.g., moodboards, printables, Google Docs); 2× (last: 2025-09-02) [refs: traitors party planning chatId:`e9c221a0f18e4b`; document summary request chatId:`e9c221a0f18e4b`]
 - requests layered explanations with visuals, analogies, and interactive elements; 1× (first: 2025-09-02) [ref: transformer crash course request]
 
 ## Knowledge & Context
@@ -12,8 +12,8 @@
 - frequently seeks creative writing and content generation (lyrics, guides, themed material); 5× [refs: pop song lyrics chatId:`5bbdd7d976b440`; book-to-action guide chatId:`b832f0b8448a43`; song merge follow-up chatId:`fa011c552ef94e`; pop song chord suggestion; traitors party planning chatId:`e9c221a0f18e4b`]
 
 ### Emerging (recent learning, current focus)
-- exploring AI/ML concepts such as Transformer models; 1× (started: 2025-09-02) [ref: transformer crash course request]
-- interested in themed event/party planning and experiential design; 1× (started: 2025-09-02) [ref: traitors party planning chatId:`e9c221a0f18e4b`]
+- exploring AI/ML concepts such as Transformer models; 1× (since 2025-09-02) [ref: transformer crash course request]
+- interested in themed event/party planning and experiential design; 1× (since 2025-09-02) [ref: traitors party planning chatId:`e9c221a0f18e4b`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
@@ -26,6 +26,6 @@
 ### Durable (regular platform activities)
 - uses platform for creative content generation (songs, guides, merges); 5× [refs: pop song lyrics chatId:`5bbdd7d976b440`; song merge follow-up chatId:`fa011c552ef94e`; book-to-action guide chatId:`b832f0b8448a43`; pop song chord suggestion; traitors party planning chatId:`e9c221a0f18e4b`]
 
-### Emerging (new query patterns)
+### Emerging (new query interests)
 - starting to request technical educational material about AI/ML; 1× (since 2025-09-02) [ref: transformer crash course request]
 - exploring themed party planning and experiential design; 1× (since 2025-09-02) [ref: traitors party planning chatId:`e9c221a0f18e4b`]
