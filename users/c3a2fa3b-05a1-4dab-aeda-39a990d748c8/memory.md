@@ -3,6 +3,7 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - предоставляет подробные пошаговые инструкции по редактированию изображений на русском языке; 15× (last: 2025-09-03) [refs: face swap request chatId:`9c5eb63273cf40`; tomato patch request chatId:`b03239cd746448`; police uniform edit chatId:`ed51c7c692b343`; chemical lab request chatId:`87a99b15b80140`; cyberpunk outfit swap chatId:`789a184367164e`; Jenna Ortega replace chatId:`2d6820bf78f44a`; current edit chatId:`cb5aff9cc6c040`]
+- просит формулировать инструкции на английском в реверс-тексте; 1× (last: 2025-09-03) [ref: reverse text instruction chatId:`cb5aff9cc6c040`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
