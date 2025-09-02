@@ -3,8 +3,8 @@
 - gives single-word directives like "RESUME", "CONFIRM"; 3× (promoted from emerging) [refs: task continuation commands chatId:`284cd3153a754a`; "RESUME" 2025-09-02; "CONFIRM" 2025-09-02]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- sets explicit completion deadlines in messages; 1× (first: 2025-09-02) [ref: chatId:`284cd3153a754a`]
-- expects personalized content with actual names in outbound emails; 1× (first: 2025-09-02) [ref: chatId:`284cd3153a754a`]
+- sets explicit completion deadlines in messages; 2× (last: 2025-09-02) [refs: deadline message chatId:`284cd3153a754a`; follow-up deadline "Complete the task by Friday 5th of September"]
+- expects personalized content with actual names in outbound emails; 2× (last: 2025-09-02) [refs: email personalization request chatId:`284cd3153a754a`; hiring manager name expectation]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
