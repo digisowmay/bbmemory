@@ -27,3 +27,4 @@
 
 ### Emerging (new query patterns)
 - manages subscription plans via agent commands; 4× (last: 2025-09-02) [refs: subscription add commands chatId:`51f711cfcc7343`; previous subscription add commands; subscription creation chatId:`da570a38ca8945`]
+- exploring youtube analyzer for video analysis tasks; 1× (first: 2025-09-02) [ref: youtube analyzer query chatId:`c5b89446732a42`]
