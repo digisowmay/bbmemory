@@ -2,10 +2,10 @@
 ### Durable (established, 3+ reinforcements)
 - prefers concise, lowercase assistant replies; 9× (stable since 2025-08-20) [refs: echo delegation request chatId:`c03273d910cd4b`; news audio request chatId:`898cc38b8e6341`; github issue request chatId:`70331493ea4d4f`]
 - prefers subtle logo integration and minimalist branding; 7× (last: 2025-09-03) [refs: billboard revision requests chatId:`0eed68ac30e145`; mobile-shot billboard tweak chatId:`0eed68ac30e145`]
-- iterative design feedback with precise adjustments and demand for crystal-clear visuals; 3× (last: 2025-09-03) [refs: camera angle & quality tweaks chatId:`0eed68ac30e145`]
+- realistic mobile-phone style photos with local Bengaluru context (yellow autos, bikes); 3× (promoted from emerging, last: 2025-09-03) [refs: BLR street vibes request chatId:`0eed68ac30e145`; mobile phone angle with autos chatId:`0eed68ac30e145`; night portrait BLR scene chatId:`0eed68ac30e145`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- favors realistic mobile-phone style photos with local Bengaluru context (yellow autos, bikes); 1× (first: 2025-09-03) [ref: request for BLR street vibes chatId:`0eed68ac30e145`]
+- wants both landscape and portrait orientation variations; 1× (first: 2025-09-03) [ref: portrait mode request chatId:`0eed68ac30e145`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
