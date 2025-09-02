@@ -5,6 +5,7 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - promptly acknowledges counterparts to keep momentum; 2× (last: 2025-09-03) [refs: hola response echoId:`b5b17253d2b442`; conversation closure chatId:`1e5187f54a6c47`]
+- dislikes over-hyped language and detailed activity references; prefers abstract, direct communication; 1× (first: 2025-09-03) [ref: conversation about drafting email chatId:`ed28c933852c4d`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
