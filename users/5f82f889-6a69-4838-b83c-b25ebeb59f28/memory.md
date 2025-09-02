@@ -13,6 +13,7 @@
 ### Emerging (recent learning, current focus)
 - working as Sales Manager at Kenyt.AI; 1× (since 2025-09-02) [ref: role disclosure chatId:`77fc85bdd2954b`]
 - manages leads primarily via WhatsApp; 1× (since 2025-09-02) [ref: WhatsApp automation request chatId:`77fc85bdd2954b`]
+- provided personal WhatsApp number +91 9866955990 for automation integration; 1× (first: 2025-09-03) [ref: verification code conversation chatId:`77fc85bdd2954b`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
