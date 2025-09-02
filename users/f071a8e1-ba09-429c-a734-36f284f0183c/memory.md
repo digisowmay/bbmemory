@@ -3,8 +3,9 @@
 - prefers concise, lowercase assistant replies; 9× (stable since 2025-08-20) [refs: echo delegation request chatId:`c03273d910cd4b`; news audio request chatId:`898cc38b8e6341`; github issue request chatId:`70331493ea4d4f`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- prefers subtle logo integration and minimalist branding; 4× (last: 2025-09-03) [refs: subtle logo billboard integration chatId:`0eed68ac30e145`; camera angle minimal design request chatId:`0eed68ac30e145`; high-quality single-logo request chatId:`0eed68ac30e145`; single-logo preference chatId:`0eed68ac30e145`]
-- requests crystal-clear, high-quality visuals; 2× (since 2025-09-03) [refs: super-clear billboard quality request chatId:`0eed68ac30e145`; crystal clear final billboard chatId:`0eed68ac30e145`]
+- prefers subtle logo integration and minimalist branding; 5× (last: 2025-09-03) [refs: billboard revision requests chatId:`0eed68ac30e145`]
+- requests crystal-clear, high-quality visuals; 4× (last: 2025-09-03) [refs: "super clear" billboard ask chatId:`0eed68ac30e145`]
+- iterative design feedback with precise adjustments (camera angle, background color, single logo); 1× (first: 2025-09-03) [ref: billboard angle and color changes chatId:`0eed68ac30e145`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -25,4 +26,4 @@
 - —
 
 ### Emerging (new query patterns)
-- requests assistant-generated operational and creative assets; 6× (since 2025-09-02) [refs: github issue requests chatId:`70331493ea4d4f`; second request chatId:`eb5b1621f71f4d`; billboard design request chatId:`0eed68ac30e145`; subtle logo integration chatId:`0eed68ac30e145`; billboard placement edit chatId:`0eed68ac30e145`; high-quality final billboard chatId:`0eed68ac30e145`]
+- requests assistant-generated operational and creative assets; 7× (since 2025-09-02) [refs: billboard design and revisions chatId:`0eed68ac30e145`; github issue requests chatId:`70331493ea4d4f`; subtle logo integration chatId:`0eed68ac30e145`; crystal clear final billboard chatId:`0eed68ac30e145`]
