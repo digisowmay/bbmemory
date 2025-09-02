@@ -2,7 +2,7 @@
 ### Durable (established, 3+ reinforcements)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- gives concise imperative commands for image generation tasks; 4× (last: 2025-09-02) [refs: image generation requests chatId:`76334ff7554944`; POV shot request chatId:`eca080163e634a`]
+- gives concise imperative commands for image generation tasks; 5× (last: 2025-09-02) [refs: image generation requests chatId:`76334ff7554944`; POV shot request chatId:`eca080163e634a`; image editing request chatId:`2c79616606dc4a`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
