@@ -1,9 +1,10 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- uses very short, direct lowercase commands; 4× (promoted from emerging) [refs: osint agent request chatId:`83a6f8f845cc43`; wikipedia agent accuracy inquiry chatId:`83a6f8f845cc43`; debate integration request chatId:`83a6f8f845cc43`; wallpaper request chatId:`931082f00f1145`]
+-
 
 ### Emerging (new signals, 1-2 reinforcements)
 - requests lists separated by commas; 1× (first: 2025-09-02) [ref: agents list request chatId:`12a2cbec90114d`]
+- uses very short, direct lowercase commands; 4× (last: 2025-09-03) [refs: osint agent request chatId:`83a6f8f845cc43`; wikipedia agent accuracy inquiry chatId:`83a6f8f845cc43`; debate integration request chatId:`83a6f8f845cc43`; wallpaper request chatId:`931082f00f1145`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -11,10 +12,9 @@
 
 ### Emerging (recent learning, current focus)
 - setting up google ads management via agent connection; 1× (started: 2025-09-02) [ref: agent connection chatId:`730a21b71b3942`]
-- prefers minimal dark mac aesthetics; 1× (first: 2025-09-03) [ref: wallpaper request chatId:`931082f00f1145`]
 
 ## Thinking & Working Style
-### Durable (core patterns)
+### Durable (core thinking patterns)
 -
 
 ### Emerging (recent behavioral shifts)
