@@ -26,3 +26,4 @@
 
 ### Emerging (new query patterns)
 - exploring AI-powered image editing and generation; 7× (since 2025-09-02) [refs: multiple image generation/edit requests chatId:`7bbefde9248e4b`]
+- requests backgrounds of famous international landmarks (Machu Picchu, New York Cafe Budapest, etc.) for personal photos; 3× (since 2025-09-02) [refs: landmark background edits chatId:`7bbefde9248e4b`]
