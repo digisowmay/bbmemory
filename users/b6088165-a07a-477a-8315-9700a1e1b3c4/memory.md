@@ -10,7 +10,8 @@
 - 
 
 ### Emerging (recent learning, current focus)  
-- working on automating creation of YouTube short (60s) and long (5min) videos; 1× (started: 2025-09-02) [ref: YouTube automation goal chatId:`d10cb6d2b3e148`]
+- working on automating creation of YouTube short (60s) and long (5min) videos; 1× (since 2025-09-02) [ref: YouTube automation goal chatId:`d10cb6d2b3e148`]
+- exploring full blog automation (content writing, image addition, posting) for platforms like Dev.to/Hashnode; 1× (started: 2025-09-02) [ref: blog automation request chatId:`f87bccc3657a4f`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
@@ -25,3 +26,4 @@
 
 ### Emerging (new query patterns)
 - exploring AI video generation and YouTube automation tools; 1× (since 2025-09-02) [ref: YouTube automation discussion chatId:`d10cb6d2b3e148`]
+- exploring AI blog/content automation and publishing tools; 1× (started: 2025-09-02) [ref: blog automation discussion chatId:`f87bccc3657a4f`]
