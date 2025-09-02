@@ -4,7 +4,7 @@
 - uses short approval commands like ": CONFIRM"; 6× (stable since 2025-09-02) [refs: email deletion confirmations chatId:`15ed6401b59742`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- uses command ": RESUME" to proceed; 1× (first: 2025-09-02) [ref: email cleanup interaction chatId:`15ed6401b59742`]
+- uses command ": RESUME" to proceed; 2× (last: 2025-09-02) [refs: email cleanup interaction chatId:`15ed6401b59742`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -12,7 +12,7 @@
 
 ### Emerging (recent learning, current focus)
 - uses Google Photos; wants to free up storage by deleting duplicates; 4× (since 2025-09-02) [refs: duplicate photo requests chatId:`15ed6401b59742`]
-- exploring AI integration platforms (Zapier, n8n, etc.) for multi-service connections; 3× (since 2025-09-02) [refs: free AI agent discussions chatId:`15ed6401b59742`]
+- exploring AI integration platforms (Zapier, n8n, etc.) for multi-service connections; 4× (since 2025-09-02) [refs: free AI agent discussions chatId:`15ed6401b59742`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
@@ -27,4 +27,5 @@
 
 ### Emerging (new query patterns)
 - queries Google Photos cleanup and storage optimization; 4× (since 2025-09-02) [refs: duplicate photo deletion requests chatId:`15ed6401b59742`]
-- searching for free automation agents with wide service access; 3× (since 2025-09-02) [refs: agent platform exploration chatId:`15ed6401b59742`]
+- searching for free automation agents with wide service access; 4× (since 2025-09-02) [refs: agent platform exploration chatId:`15ed6401b59742`]
+- searching MNC back-office job listings; Google Jobs queries; 1× (first: 2025-09-02) [ref: job search request chatId:`15ed6401b59742`]
