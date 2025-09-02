@@ -1,7 +1,7 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- communicates in Russian; provides detailed, step-by-step visual edit instructions; 25× (last: 2025-09-02) [refs: multiple image edit requests including chatId:`ee2db5d4f3ed4d`]
-- asks for iterative refinements and precise, isolated adjustments on images; 23× (last: 2025-09-02) [refs: hand correction requests chatId:`ee2db5d4f3ed4d`]
+- communicates in Russian; provides detailed, step-by-step visual edit instructions; 26× (last: 2025-09-02) [refs: multiple image edit requests including chatId:`ee2db5d4f3ed4d`; recent Flash treadmill edit chatId:`0984ea5e830243`]
+- asks for iterative refinements and precise, isolated adjustments on images; 24× (last: 2025-09-02) [refs: hand correction requests chatId:`ee2db5d4f3ed4d`; Flash treadmill edit chatId:`0984ea5e830243`]
 
 ### Emerging (new signals, 1-2 reinforcements)
 - prefers outcome explanations to be concise confirmations of changes; 3× (last: 2025-09-02) [refs: assistant confirmations in chatId:`ee2db5d4f3ed4d`]
@@ -9,7 +9,7 @@
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
-- familiar with pop culture characters (Game of Thrones, Marvel) used in creative image edits; 8× [refs: prior edits chatId:`ee2db5d4f3ed4d`]
+- familiar with pop culture characters and superheroes (Game of Thrones, Marvel, DC); 9× [refs: prior edits chatId:`ee2db5d4f3ed4d`; Flash treadmill edit chatId:`0984ea5e830243`]
 
 ### Emerging (recent learning, current focus)  
 - knows Russian retail brand Pyaterочка; 1× (since 2025-09-02) [ref: bag swap chatId:`ee2db5d4f3ed4d`]
