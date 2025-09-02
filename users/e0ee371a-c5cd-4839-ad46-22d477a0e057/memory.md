@@ -4,14 +4,14 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - uses detailed prompt-style requests for AI image generation with tags and parameters; 1× (first: 2025-09-01) [refs: fantasy sorceress image prompt chatId:`47a98e2c06da48`]
-- asks for explanations or sourcing of technical construction products; 2× (last: 2025-09-01) [refs: curb stone mold explanation chatId:`3a189f27eff54c`; request for 2 m circular pit molds chatId:`3a189f27eff54c`]
+- communicates primarily in Greek; 1× (first: 2025-09-02) [ref: fairy tale creation request chatId:`ddfe1d9cc64140`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
 
 ### Emerging (recent learning, current focus)
 - interested in fantasy-themed artwork and character design; 2× (since 2025-09-01) [refs: sorceress image generation chatId:`47a98e2c06da48`; bird adult transformation chatId:`a6b27296123448`]
-- curious about construction/municipal product specifications and sourcing; 2× (since 2025-09-01) [refs: curb stone mold description chatId:`3a189f27eff54c`; 2 m circular pit mold sourcing chatId:`3a189f27eff54c`]
+- wants to create fairy tales/storybooks; 1× (first: 2025-09-02) [ref: fairy tale creation request chatId:`ddfe1d9cc64140`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
