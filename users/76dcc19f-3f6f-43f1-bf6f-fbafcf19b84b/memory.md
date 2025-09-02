@@ -1,10 +1,10 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- none identified yet; 0× [ref: insufficient data]
+- pragmatic request style—asks for immediate actionable content; 5× (stable since 2025-09-01) [refs: carousel content requests chatId:`afd7676c123043`; tasks request chatId:`49014cdbca0d41`; clipper list insistence chatId:`49014cdbca0d41`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- prefers concise bullet-point responses for marketing ideas; 2× (last: 2025-09-01) [ref: carousel tips discussions chatId:`afd7676c123043`]
-- pragmatic request style—asks for immediate actionable content; 6× (last: 2025-09-02) [refs: LinkedIn automation request chatId:`bb83e4b41f6e4d`; carousel content requests chatId:`afd7676c123043`; tasks request chatId:`49014cdbca0d41`; clipper list demand chatId:`49014cdbca0d41`; repeated insistence on clipper list]
+- prefers concise drafts for external communication (e.g., Discord messages); 1× (first: 2025-09-02) [ref: LinkedIn solution draft request chatId:`bb83e4b41f6e4d`]
+- collaborative mindset—expresses desire to work with the team; 1× (first: 2025-09-01) [ref: welcome reply to kuber chatId:`40ccced377c94a`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -12,15 +12,16 @@
 
 ### Emerging (recent learning, current focus)
 - seeking guidance on crafting marketing carousels for Bhindi; 2× (since 2025-09-01) [refs: carousel ideas & elaboration chatId:`afd7676c123043`]
-- working on LinkedIn content automation (fetch posts, AI transform, repost to company page) plus managing Bhindi's Discord and influencer tasks; 1× (started: 2025-09-02) [refs: LinkedIn automation discussion chatId:`bb83e4b41f6e4d`; task list chatId:`49014cdbca0d41`]
+- tasked with managing Bhindi's Discord channel, finding clippers, onboarding influencers; 1× (started: 2025-09-01) [ref: task list chatId:`49014cdbca0d41`]
+- exploring LinkedIn automation workflows (API + n8n) for content reposting; 1× (started: 2025-09-02) [ref: LinkedIn automation discussion chatId:`bb83e4b41f6e4d`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
 - none identified yet; 0× [ref: insufficient data]
 
 ### Emerging (recent behavioral shifts)
-- collaborative mindset—expresses desire to work with the team; 1× (first: 2025-09-01) [ref: welcome reply to kuber chatId:`40ccced377c94a`]
-- evaluates tool efficiency before choosing an approach; 1× (first: 2025-09-02) [ref: LinkedIn automation tech choice discussion chatId:`bb83e4b41f6e4d`]
+- pragmatic execution-focused approach; 5× (last: 2025-09-01) [refs: carousel content requests chatId:`afd7676c123043`; tasks request chatId:`49014cdbca0d41`; clipper list insistence chatId:`49014cdbca0d41`]
+- delegating drafting tasks for efficiency; 1× (observed: 2025-09-02) [ref: Discord message draft request chatId:`bb83e4b41f6e4d`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
@@ -28,4 +29,5 @@
 
 ### Emerging (new query patterns)
 - requests social media content creation (carousel ideas); 2× (since 2025-09-01) [refs: repeated carousel content requests chatId:`afd7676c123043`]
-- exploring influencer outreach and LinkedIn automation; 4× (since 2025-09-01) [refs: clipper strategy discussions chatId:`49014cdbca0d41`; clipper list demands chatId:`49014cdbca0d41`; further insistence on list chatId:`49014cdbca0d41`; LinkedIn automation request chatId:`bb83e4b41f6e4d`]
+- seeking influencer outreach and clipper discovery guidance; 3× (since 2025-09-01) [refs: clipper strategy discussions chatId:`49014cdbca0d41`]
+- exploring LinkedIn automation and n8n workflows; 1× (started: 2025-09-02) [ref: LinkedIn automation discussion chatId:`bb83e4b41f6e4d`]
