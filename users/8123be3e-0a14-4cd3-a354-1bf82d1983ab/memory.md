@@ -14,12 +14,12 @@
 ### Durable (core thinking patterns)
 
 ### Emerging (recent behavioral shifts)
-- strategic thinker seeking end-to-end growth roadmap; 1× (observed: 2025-08-31) [ref: request for detailed strategic moves across departments chatId:`62ddf4add5324d`]
+- strategic thinker seeking end-to-end growth roadmap; favors systematic checklists for decision-making; 2× (observed: 2025-08-31, 2025-09-02) [refs: detailed strategic moves request; OEM evaluation factors request chatId:`62ddf4add5324d`]
 - delegates execution tasks to team members (intern); managerial approach; 1× (first: 2025-09-01) [ref: instruction to brief intern on marketing emailer plan chatId:`62ddf4add5324d`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
 
 ### Emerging (new query patterns)
-- asks for business strategy and operational planning advice; 1× (since 2025-08-31) [ref: inquiry on strategic moves for OneAlphamed chatId:`62ddf4add5324d`]
-- seeks marketing content planning guidance; 1× (first: 2025-09-01) [ref: request for 4-week marketing emailer plan chatId:`62ddf4add5324d`]
+- comprehensive business and marketing strategy requests; 2× (since 2025-08-31) [refs: strategic moves request; marketing emailer plan chatId:`62ddf4add5324d`]
+- seeks vendor evaluation frameworks; procurement guidance; 1× (first: 2025-09-02) [ref: OEM sterilization equipment evaluation chatId:`62ddf4add5324d`]
