@@ -14,6 +14,7 @@
 ### Emerging (recent learning, current focus)
 - VC-funded startup preparing quarterly update calls; needs MIS templates for investors; 1× (first: 2025-09-02) [ref: MIS template request chatId:`5aac8767e2714e`]
 - conducting university project on lithium-ion battery research; requires scholarly papers, datasets, and performance summaries; 1× (started: 2025-09-02) [ref: lithium-ion battery research request chatId:`cc691ac2615348`]
+- exploring MBA/PGP admissions; 1× (first: 2025-09-02) [ref: ISB program fit question chatId:`b8f79f614c2246`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
