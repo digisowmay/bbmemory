@@ -2,7 +2,7 @@
 ### Durable (established, 3+ reinforcements)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- gives concise, command-like requests for repository tasks; 1× (first: 2025-09-02) [ref: GitHub issue creation request chatId:`fd263c4a278d48`]
+- gives concise, command-like requests for repository tasks and other operational tasks; 2× (last: 2025-09-02) [refs: GitHub issue creation request chatId:`fd263c4a278d48`; discord response request chatId:`72117b22fccf43`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
