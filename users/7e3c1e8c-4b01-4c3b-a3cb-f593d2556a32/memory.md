@@ -3,6 +3,7 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - values precise data and corrects inaccuracies promptly; 2× (last: 2025-09-02) [ref: user acquisition timezone correction chatId:`c2e97d6eaba842`]
+- uses informal lowercase language and expresses frustration bluntly (e.g., calling assistant "dumbo"); 1× (first: 2025-09-02) [ref: acquisition schedule failure conversation chatId:`92dcf0c4bc2347`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
