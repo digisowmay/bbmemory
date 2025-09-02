@@ -22,3 +22,4 @@
 
 ### Emerging (new query patterns)
 - exploring financial loan comparisons and budgeting tools; 3× (last: 2025-09-02) [refs: personal loan comparison chatId:`413303793f9e42`; prompt tweak chatId:`413303793f9e42`; financial health analysis request chatId:`9470c4f0e07044`]
+- exploring corporate annual report summarization; 1× (first: 2025-09-02) [ref: HUL annual report insights request chatId:`1023387676084f`]
