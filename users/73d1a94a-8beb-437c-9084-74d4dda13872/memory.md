@@ -4,7 +4,7 @@
 ### Emerging (new signals, 1-2 reinforcements)
 - requests step-by-step implementation guidance; 2× (last: 2025-09-02) [refs: backend bulk import discussion chatId:`02ff0362c22c4c`; earlier guidance chatId:`02ff0362c22c4c`]
 - wants detailed, explicit requirements covered (include all fields, detailed error handling); 2× (last: 2025-09-02) [refs: bulk import requirements chatId:`02ff0362c22c4c`; style rewrite clarification chatId:`02ff0362c22c4c`]
-- prefers function-based TypeScript API style over class-based; 1× (first: 2025-09-02) [ref: API style preference chatId:`02ff0362c22c4c`]
+- prefers function-based TypeScript API style over class-based; 2× (last: 2025-09-02) [refs: API style preference chatId:`02ff0362c22c4c`; class format correction chatId:`02ff0362c22c4c`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
