@@ -2,6 +2,7 @@
 ### Durable (established, 3+ reinforcements)
 
 ### Emerging (new signals, 1-2 reinforcements)
+- values precise data and corrects inaccuracies promptly; 1× (last: 2025-09-02) [ref: user acquisition count clarification chatId:`c2e97d6eaba842`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -17,4 +18,4 @@
 ### Durable (regular platform activities)
 
 ### Emerging (new query patterns)
-- schedules automated metrics (user acquisition counts) via scheduler; 2× (last: 2025-09-02) [refs: schedule creation discussion chatId:`681a1106640c4a`; user acquisition query chatId:`c2e97d6eaba842`]
+- schedules automated metrics (user acquisition counts) via scheduler; 3× (last: 2025-09-02) [refs: schedule creation discussion chatId:`681a1106640c4a`; prior user acquisition metric request chatId:`c2e97d6eaba842`; user acquisition clarification chatId:`c2e97d6eaba842`]
