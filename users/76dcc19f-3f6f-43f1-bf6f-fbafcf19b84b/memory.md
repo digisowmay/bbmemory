@@ -1,9 +1,9 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
 - pragmatic request style—asks for immediate actionable content; 5× (stable since 2025-09-01) [refs: carousel content requests chatId:`afd7676c123043`; tasks request chatId:`49014cdbca0d41`; clipper list insistence chatId:`49014cdbca0d41`]
+- prefers concise drafts for external communication (Discord/LinkedIn); 3× (promoted from emerging, since 2025-09-02) [refs: LinkedIn solution draft request chatId:`bb83e4b41f6e4d`; discord message draft requests chatId:`bb83e4b41f6e4d`; shorten informal draft request chatId:`bb83e4b41f6e4d`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- prefers concise drafts for external communication (e.g., Discord messages); 2× (last: 2025-09-02) [refs: LinkedIn solution draft request chatId:`bb83e4b41f6e4d`; discord message draft request chatId:`bb83e4b41f6e4d`]
 - collaborative mindset—expresses desire to work with the team; 1× (first: 2025-09-01) [ref: welcome reply to kuber chatId:`40ccced377c94a`]
 
 ## Knowledge & Context
@@ -17,11 +17,11 @@
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
-- none identified yet; 0× [ref: insufficient data]
+- pragmatic execution-focused approach; 5× (stable since 2025-09-01) [refs: carousel content requests chatId:`afd7676c123043`; tasks request chatId:`49014cdbca0d41`; clipper list insistence chatId:`49014cdbca0d41`]
+- delegating drafting tasks for efficiency; 3× (promoted from emerging, since 2025-09-02) [refs: Discord message draft requests chatId:`bb83e4b41f6e4d`; LinkedIn solution draft chatId:`bb83e4b41f6e4d`; shorten informal draft request chatId:`bb83e4b41f6e4d`]
 
 ### Emerging (recent behavioral shifts)
-- pragmatic execution-focused approach; 5× (last: 2025-09-01) [refs: carousel content requests chatId:`afd7676c123043`; tasks request chatId:`49014cdbca0d41`; clipper list insistence chatId:`49014cdbca0d41`]
-- delegating drafting tasks for efficiency; 2× (last: 2025-09-02) [refs: Discord message draft requests chatId:`bb83e4b41f6e4d`]
+- none at the moment; 0× [ref: —]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
