@@ -4,26 +4,27 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - asks clarifying questions about cron semantics and timing accuracy; 1× (first: 2025-09-02) [ref: every-30-minutes vs :30 discussion chatId:`85ffbfdfe94742`]
-- prefers raw JSON output when requesting data; 1× (first: 2025-09-02) [ref: agent info JSON request chatId:`d18203936f144e`]
+- demands raw JSON output exactly "as is" and uses strong language when expectations aren't met; 1× (first: 2025-09-02) [ref: agent info JSON request chatId:`d18203936f144e`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
-- uses Bhindi scheduling to automate recurring reminders and content delivery (water, pee break, jokes, physics facts); 3× [refs: recurring action #16 chatId:`85ffbfdfe94742`; schedule creation chatId:`85ffbfdfe94742`; deletions chatId:`85ffbfdfe94742`]
+- uses Bhindi scheduling to automate recurring reminders (water, pee break, jokes, physics) and manage schedules; 3× [refs: recurring action #16 chatId:`85ffbfdfe94742`; schedule creation; deletions chatId:`85ffbfdfe94742`]
 
 ### Emerging (recent learning, current focus)
-- enjoys periodic humor content (jokes, physics jokes) via scheduled automation; 1× (started: 2025-09-02) [ref: joke and physics joke schedule creation chatId:`85ffbfdfe94742`]
+- enjoys periodic humor content via scheduled automation; 1× (started: 2025-09-02) [ref: joke and physics joke schedule creation chatId:`85ffbfdfe94742`]
 - demonstrates familiarity with cron syntax and interval limitations; 1× (since 2025-09-02) [ref: cron semantics discussion chatId:`85ffbfdfe94742`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
-- detail-oriented about system state; verifies IDs, internal DB details after operations; 6× [refs: cron clarification chatId:`85ffbfdfe94742`; mongodb detail request chatId:`85ffbfdfe94742`; schedule manipulation chatId:`85ffbfdfe94742`]
+- detail-oriented about system state; verifies IDs and internal DB details after operations; 6× [refs: cron clarification chatId:`85ffbfdfe94742`; mongodb detail request chatId:`85ffbfdfe94742`; schedule manipulation]
 
 ### Emerging (recent behavioral shifts)
 - evaluates scheduling logic for correctness (interval vs fixed schedule); 1× (observed: 2025-09-02) [ref: true every-30-minutes request chatId:`85ffbfdfe94742`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
-- frequently manages schedules (create, list, pause, delete) and checks counts; 7× [refs: schedule listing, deletion, id request, new schedule creation chatId:`85ffbfdfe94742`; joke/physics schedule creation chatId:`85ffbfdfe94742`]
+- frequently manages schedules (create, list, pause, delete) and checks counts; 7× [refs: schedule listing, deletion, id request, new schedule creation chatId:`85ffbfdfe94742`; joke/physics schedule creation]
 
 ### Emerging (new query patterns)
 - directly requests raw MongoDB queries for schedule insights; 2× (since 2025-09-02) [refs: mongodb detail request chatId:`85ffbfdfe94742`; water/pee detail request chatId:`85ffbfdfe94742`]
+- requests internal agent configuration details and performs sync operations; 2× (last: 2025-09-02) [refs: scheduler agent info request chatId:`d18203936f144e`; agent sync operation chatId:`d18203936f144e`]
