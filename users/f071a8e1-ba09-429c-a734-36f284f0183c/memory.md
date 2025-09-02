@@ -21,7 +21,7 @@
 - delegates operational tasks to assistant (github, communication, content creation, research); 14× [refs: multiple task delegations chatId:`c03273d910cd4b`; news audio request chatId:`898cc38b8e6341`; github issue request chatId:`70331493ea4d4f`]
 
 ### Emerging (recent behavioral shifts)
-- asks for code snippet outputs when summarizing prompts/templates; 1× (first: 2025-09-03) [ref: billboard mega prompt code chatId:`0eed68ac30e145`]
+- asks for code snippet outputs when summarizing prompts/templates; 2× (last: 2025-09-03) [refs: billboard mega prompt code chatId:`0eed68ac30e145`; billboard prompt template chatId:`c0d08c6bcfdd43`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
