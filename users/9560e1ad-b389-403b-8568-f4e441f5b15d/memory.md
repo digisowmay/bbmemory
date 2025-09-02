@@ -12,7 +12,7 @@
 - strong interest in Token 2049 event and related networking; 3× [refs: Twitter scraping Token 2049; speaker spreadsheet; social media handle gathering chatId:`5f7ad9ddd47046`]
 
 ### Emerging (recent learning, current focus)
-- creates AI/tech content and seeks viral ideas for social platforms; 1× (since: 2025-09-01) [ref: request for viral AI/tech video ideas chatId:`02ad5abab06147`]
+- creates AI/tech YouTube content and seeks viral ideas; 2× (last: 2025-09-02) [refs: request for viral AI/tech video ideas chatId:`02ad5abab06147`; thumbnail creation request chatId:`dbfa4172d96346`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
@@ -26,4 +26,5 @@
 - frequently uses Google Sheets for organizing event and networking data; 3× [refs: speakers spreadsheet; updates; formatting chatId:`5f7ad9ddd47046`]
 
 ### Emerging (new query patterns)
-- exploring viral content performance across Instagram & YouTube; 1× (first: 2025-09-01) [ref: viral content scraping request chatId:`02ad5abab06147`]
+- exploring viral content performance across Instagram & YouTube; 2× (last: 2025-09-02) [refs: viral content scraping request chatId:`02ad5abab06147`; thumbnail creation request chatId:`dbfa4172d96346`]
+- experimenting with AI image generation for YouTube thumbnails; 1× (first: 2025-09-02) [ref: thumbnail creation request chatId:`dbfa4172d96346`]
