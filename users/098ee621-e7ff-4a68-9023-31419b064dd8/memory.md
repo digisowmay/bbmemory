@@ -3,7 +3,7 @@
 - (none yet)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- communicates primarily in Arabic; short direct sentences; 3× (last: 2025-09-02) [refs: "انا أحب كثير"; "اريد مصاري"; "اريد كسب مال من خلال الهاتف" chatId:`d2a35d0c3ff74d`]
+- communicates primarily in Arabic; short direct sentences; 4× (last: 2025-09-02) [refs: "انا أحب كثير"; "اريد مصاري"; "اريد كسب مال من خلال الهاتف"; "شكرا" chatId:`d2a35d0c3ff74d`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
