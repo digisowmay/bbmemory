@@ -3,7 +3,7 @@
 - prefers concise, lowercase assistant replies; 9× (stable since 2025-08-20) [refs: echo delegation request chatId:`c03273d910cd4b`; news audio request chatId:`898cc38b8e6341`; github issue request chatId:`70331493ea4d4f`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- —
+- prefers subtle logo integration in designs; 1× (first: 2025-09-03) [ref: billboard logo subtle integration chatId:`0eed68ac30e145`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -24,5 +24,5 @@
 - —
 
 ### Emerging (new query patterns)
-- requests assistant-generated operational and creative assets; 4× (since 2025-09-02, last: 2025-09-03) [refs: github issue requests chatId:`70331493ea4d4f`; second request chatId:`eb5b1621f71f4d`; billboard design request chatId:`0eed68ac30e145`; subtle logo integration chatId:`0eed68ac30e145`]
+- requests assistant-generated operational and creative assets; 5× (since 2025-09-02, last: 2025-09-03) [refs: github issue requests chatId:`70331493ea4d4f`; second request chatId:`eb5b1621f71f4d`; billboard design request chatId:`0eed68ac30e145`; subtle logo integration chatId:`0eed68ac30e145`; billboard placement edit chatId:`0eed68ac30e145`]
 - exploring AI infrastructure performance and latency; 2× (since 2025-09-03) [refs: latency inquiries chatId:`b28580d222314f`]
