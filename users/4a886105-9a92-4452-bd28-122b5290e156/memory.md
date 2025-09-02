@@ -21,4 +21,4 @@
 - frequently manages schedules (create, list, pause, delete) and checks counts; 5× [refs: schedule listing, deletion, id request chatId:`85ffbfdfe94742`; earlier schedule operations]
 
 ### Emerging (new query patterns)
-- directly requests raw MongoDB queries for schedule insights; 1× (first: 2025-09-02) [ref: mongodb detail request chatId:`85ffbfdfe94742`]
+- directly requests raw MongoDB queries for schedule insights; 2× (since 2025-09-02) [refs: mongodb detail request chatId:`85ffbfdfe94742`; water/pee detail request chatId:`85ffbfdfe94742`]
