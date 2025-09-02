@@ -3,7 +3,7 @@
 - no durable communication patterns identified yet
 
 ### Emerging (new signals, 1-2 reinforcements)
-- gives brief imperative commands; expects quick action or implementation; 5× (last: 2025-09-02) [refs: chatId:`92665348120c45`; chatId:`8ca3cb93a8714b`; chatId:`05e86ddda4bf48`]
+- gives brief imperative commands; expects quick action or implementation; 6× (last: 2025-09-02) [refs: chatId:`92665348120c45`; chatId:`8ca3cb93a8714b`; chatId:`05e86ddda4bf48`; chatId:`0ecffd4a876841`; chatId:`0531641775964d`; chatId:`9a4b6166919f4f`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -25,3 +25,4 @@
 
 ### Emerging (new query patterns)
 - asks cryptocurrency prices daily; Bitcoin, Ethereum tracking; 11× (since 2025-09-01) [refs: BTC price request chatId:`0ecffd4a876841`; ETH price request chatId:`49e0f1ec66e141`; ETH price request chatId:`cd4d47ba2f5942`; ETH price check chatId:`0531641775964d`; BTC price request chatId:`2cdcf869dca542`; BTC price request chatId:`cc6a4011d52342`; BTC price request chatId:`8afaf45a28254b`; BTC price request chatId:`f28a6e75b65f49`; BTC price request chatId:`bcad956bb1b547`; BTC price request chatId:`2938714a8ee348`; chatId:`8ca3cb93a8714b`]
+- requests LinkedIn/social media post data; LinkedIn scraping; 1× (since 2025-09-02) [ref: LinkedIn posts request chatId:`9a4b6166919f4f`]
