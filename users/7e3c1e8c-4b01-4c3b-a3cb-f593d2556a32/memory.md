@@ -22,3 +22,4 @@
 
 ### Emerging (new query patterns)
 - requests GitHub repo actions (pull requests, issue creation) for bhindi repos; 2× (since 2025-09-02) [refs: PR creation & merge commands chatId:`f7dbf111fc6242`]
+- asks for cryptocurrency price data; 1× (first: 2025-09-02) [ref: ETH price query chatId:`ab9dfe3236784b`]
