@@ -4,7 +4,7 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - wants conversational casual tone and no corporate language; 2× (last: 2025-09-02) [refs: global instructions; design refinement chatId:`1004b8a2f07b4d`]
-- wants explicit approval before the assistant sends echoes/messages; 2× (last: 2025-09-02) [refs: conversation about auto-send chatId:`f6ffb27b8bc841`; follow-up complaint about autosend chatId:`f6ffb27b8bc841`]
+- wants explicit approval before the assistant sends echoes/messages; 3× (last: 2025-09-02) [refs: conversation about auto-send chatId:`f6ffb27b8bc841`; follow-up complaint about autosend chatId:`f6ffb27b8bc841`; current correction chatId:`f6ffb27b8bc841`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
