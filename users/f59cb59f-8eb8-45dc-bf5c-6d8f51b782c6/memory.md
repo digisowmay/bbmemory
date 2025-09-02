@@ -5,7 +5,8 @@
 - regularly requests LinkedIn post drafting and performance analysis; 6× [refs: Ravi vs Hari content refinement chatId:`769c137c4fe14f`; viral drafting guidance chatId:`769c137c4fe14f`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- asks for multiple headline options to A/B choose best; 3× (last: 2025-09-02) [refs: title selection discussion chatId:`769c137c4fe14f`; best outcome headline choice chatId:`769c137c4fe14f`; final heading draft chatId:`769c137c4fe14f`]
+- asks for multiple headline options to A/B choose best; 5× (last: 2025-09-02) [refs: title selection discussion chatId:`769c137c4fe14f`; best outcome headline choice chatId:`769c137c4fe14f`; final heading draft chatId:`769c137c4fe14f`; current post improvement chatId:`769c137c4fe14f`]
+- seeks quick turnaround advice when posts underperform; 1× (first: 2025-09-02) [ref: underperforming post improvement chatId:`769c137c4fe14f`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -21,7 +22,8 @@
 - values authenticity & operational rigor; 5× [refs: discipline vs vanity funding posts chatId:`769c137c4fe14f`; business philosophy statements]
 
 ### Emerging (recent behavioral shifts)
-- experimenting with narrative storytelling to convey business lessons; 5× (last: 2025-09-01) [refs: Ravi post viral draft request chatId:`769c137c4fe14f`; narrative enhancement guidance chatId:`769c137c4fe14f`]
+- experimenting with narrative storytelling to convey business lessons; 5× (last: 2025-09-02) [refs: Ravi post viral draft request chatId:`769c137c4fe14f`; narrative enhancement guidance chatId:`769c137c4fe14f`]
+- prefers fresh angles and avoids repetitive storytelling; 1× (observed: 2025-09-02) [ref: underperforming post feedback chatId:`769c137c4fe14f`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
@@ -30,4 +32,4 @@
 - requests LinkedIn post reviews & engagement analysis; 6× [refs: post performance metrics conversations chatId:`769c137c4fe14f`; viral potential refinement chats chatId:`769c137c4fe14f`]
 
 ### Emerging (new query patterns)
-- exploring headline optimization techniques for LinkedIn posts; 3× (since 2025-09-01) [refs: headline comparison chatId:`769c137c4fe14f`; best outcome selection chatId:`769c137c4fe14f`; final heading draft chatId:`769c137c4fe14f`]
+- exploring headline optimization techniques for LinkedIn posts; 5× (since 2025-09-01) [refs: headline comparison chatId:`769c137c4fe14f`; best outcome selection chatId:`769c137c4fe14f`; final heading draft chatId:`769c137c4fe14f`; current post improvement chatId:`769c137c4fe14f`]
