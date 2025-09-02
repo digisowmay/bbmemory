@@ -5,7 +5,7 @@
 ### Emerging (new signals, 1-2 reinforcements)
 - expects agent to send generated quotations via email automatically; 1× (since 2025-09-02) [ref: request to send quotation chatId:`5ab459562f7342`]
 - provides specific time constraints and destination requirements for travel planning; 2× (last: 2025-09-03) [refs: Delhi trip itinerary request chatId:`88c195b8240540`; earlier request chatId:`88c195b8240540`]
-- prefers multi-destination packed schedules; 1× (first: 2025-09-03) [ref: request for many places chatId:`88c195b8240540`]
+- prefers multi-destination packed schedules; 2× (last: 2025-09-03) [refs: Delhi trip itinerary request chatId:`88c195b8240540`; itinerary modifications chatId:`88c195b8240540`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
