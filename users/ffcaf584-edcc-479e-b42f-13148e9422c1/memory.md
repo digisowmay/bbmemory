@@ -3,14 +3,14 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - prefers concise, bullet-style summaries when drafting outreach messages; 2× (last: 2025-09-02) [ref: cold message shortening request chatId:`d9e072f8ddab46`]
-- requests specific, actionable information quickly (e.g., direct names of founders); 2× (last: 2025-09-02) [refs: repeated ask for direct founder names & X links chatId:`d9e072f8ddab46`]
+- requests specific, actionable information quickly (e.g., direct names of founders); 3× (last: 2025-09-02) [refs: repeated ask for founder names chatId:`d9e072f8ddab46`; founder request chatId:`239238681fa44a`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
 
 ### Emerging (recent learning, current focus)
 - currently building real-time ship tracking features (FE/BE) at a startup; 1× (first: 2025-09-02) [ref: description of 2-month project chatId:`d9e072f8ddab46`]
-- actively searching for new job opportunities, preferring remote or Bangalore-based roles; 1× (first: 2025-09-02) [ref: discussion about reaching out to founders chatId:`d9e072f8ddab46`]
+- actively searching for new job opportunities, preferring remote or Bangalore-based roles; 2× (last: 2025-09-02) [refs: job opportunity discussion chatId:`d9e072f8ddab46`; founder request chatId:`239238681fa44a`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
@@ -22,4 +22,4 @@
 ### Durable (regular platform activities)
 
 ### Emerging (new query patterns)
-- seeks assistance with career communications (cold emails, resumes); 1× (first: 2025-09-02) [ref: request to condense outreach message chatId:`d9e072f8ddab46`]
+- seeks assistance with career communications (cold emails, resumes, founder outreach); 2× (since 2025-09-02) [refs: outreach message shortening chatId:`d9e072f8ddab46`; founder request chatId:`239238681fa44a`]
