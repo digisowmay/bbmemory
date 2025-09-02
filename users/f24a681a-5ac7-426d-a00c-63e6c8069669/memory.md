@@ -7,6 +7,7 @@
 ### Emerging (new signals, 1-2 reinforcements)
 - expects the assistant to explicitly request user-supplied assets (e.g., images) before proceeding; 3× (last: 2025-09-02) [refs: thumbnail creation chatId:`5aac8767e2714e`; follow-up image prompt chatId:`5aac8767e2714e`; question mark replies chatId:`5aac8767e2714e`]
 - issues terse imperative commands like "execute this", "RESUME", and "?" expecting immediate action; 2× (last: 2025-09-02) [refs: Todoist execution chatId:`5aac8767e2714e`; thumbnail confusion chatId:`5aac8767e2714e`]
+- requests concise or shortened versions of previously provided prompts while retaining full functionality; 1× (first: 2025-09-02) [ref: MIS prompt shortening chatId:`5aac8767e2714e`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
