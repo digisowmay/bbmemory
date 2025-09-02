@@ -2,8 +2,8 @@
 ### Durable (established, 3+ reinforcements)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- prefers concise, bullet-style summaries when drafting outreach messages; 2× (last: 2025-09-02) [ref: cold message shortening request chatId:`d9e072f8ddab46`]
-- requests specific, actionable information quickly (e.g., direct names of founders); 3× (last: 2025-09-02) [refs: repeated ask for founder names chatId:`d9e072f8ddab46`; founder request chatId:`239238681fa44a`]
+- prefers concise, bullet-style or spreadsheet/table summaries for outreach and information; 3× (last: 2025-09-02) [refs: cold message shortening request chatId:`d9e072f8ddab46`; excel list request chatId:`239238681fa44a`; founder info chatId:`239238681fa44a`]
+- requests specific, actionable information quickly (e.g., direct names of founders); 3× (last: 2025-09-02) [refs: repeated ask for founder names chatId:`d9e072f8ddab46`; founder request chatId:`239238681fa44a`; excel list request chatId:`239238681fa44a`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
