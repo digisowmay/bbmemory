@@ -23,3 +23,4 @@
 ### Emerging (new query patterns)
 - exploring GitHub repository analysis via AI assistant; 1× (since 2025-09-02) [ref: GitHub analysis tool usage chatId:`3d3b33537c0246`]
 - requests real-time finance and stock/currency market data; 1× (first: 2025-09-02) [ref: INR stock query chatId:`a8c2ad1bc68346`]
+- requests full project scaffolding and backend code generation (Node.js); 1× (first: 2025-09-02) [ref: backend weather app generation chatId:`178f8d9ee8834a`]
