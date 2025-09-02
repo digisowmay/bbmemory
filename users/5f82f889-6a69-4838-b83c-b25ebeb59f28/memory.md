@@ -22,6 +22,7 @@
 ### Emerging (recent behavioral shifts)
 - seeks workflow automation to streamline repetitive tasks; 2× (last: 2025-09-03) [ref: repeated automation setup requests chatId:`77fc85bdd2954b`]
 - requests alternative methods when initial solution fails; 1× (first: 2025-09-03) [ref: code not received and asked for different approach chatId:`77fc85bdd2954b`]
+- prefers official business-grade solutions when given options (selected WhatsApp Business API integration); 1× (first: 2025-09-03) [ref: chose option 1 chatId:`77fc85bdd2954b`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
@@ -29,3 +30,4 @@
 
 ### Emerging (new query patterns)
 - exploring automation and AI integrations for sales communication; 2× (since 2025-09-02) [ref: WhatsApp automation and integration chats chatId:`77fc85bdd2954b`]
+- investigating WhatsApp Business API integration for lead management; 1× (first: 2025-09-03) [ref: selected WhatsApp Business API option chatId:`77fc85bdd2954b`]
