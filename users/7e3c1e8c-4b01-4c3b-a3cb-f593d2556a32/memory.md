@@ -1,9 +1,9 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
+- values precise data and corrects inaccuracies promptly; 3× (promoted from emerging, last: 2025-09-02) [refs: user acquisition timezone correction chatId:`c2e97d6eaba842`; schedule interval change chatId:`92dcf0c4bc2347`; scheduler failure fix chatId:`92dcf0c4bc2347`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- values precise data and corrects inaccuracies promptly; 2× (last: 2025-09-02) [ref: user acquisition timezone correction chatId:`c2e97d6eaba842`]
-- uses informal lowercase language and expresses frustration bluntly (e.g., calling assistant "dumbo"); 1× (first: 2025-09-02) [ref: acquisition schedule failure conversation chatId:`92dcf0c4bc2347`]
+- uses informal lowercase language and expresses frustration bluntly (e.g., calling assistant "dumbo"); 2× (last: 2025-09-02) [refs: acquisition schedule failure chatId:`92dcf0c4bc2347`; schedule interval request chatId:`92dcf0c4bc2347`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -17,6 +17,6 @@
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
+- schedules automated metrics (user acquisition counts) via scheduler; 5× (promoted from emerging, last: 2025-09-02) [refs: multiple scheduler setup attempts chatId:`92dcf0c4bc2347`; hourly acquisition queries chatId:`c2e97d6eaba842`]
 
 ### Emerging (new query patterns)
-- schedules automated metrics (user acquisition counts) via scheduler; 4× (last: 2025-09-02) [ref: last 3 hours acquisition query chatId:`c2e97d6eaba842`]
