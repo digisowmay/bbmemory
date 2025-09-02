@@ -12,7 +12,7 @@
 
 ### Emerging (recent learning, current focus)
 - currently preparing September 1-7 schedule across platforms; 1× (started: 2025-08-31) [ref: latest schedule request]
-- handling payroll document creation (payslips); 1× (started: 2025-09-02) [ref: payslip pdf request chatId:`4141aa0f4eb442`]
+- handling payroll document creation (payslips) and using custom month+initials numbering scheme (e.g., DD-PAY-08-AD); 2× (last: 2025-09-02) [refs: payslip pdf requests chatId:`4141aa0f4eb442`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
@@ -27,4 +27,4 @@
 
 ### Emerging (new query patterns)
 - creating social media friendly class announcements; 2× (since 2025-08-24) [refs: WhatsApp group message; insta story layout]
-- requesting PDF document generation (payslips/invoices); 1× (first: 2025-09-02) [ref: payslip pdf request chatId:`4141aa0f4eb442`]
+- requesting PDF document generation (payslips/invoices); 2× (since 2025-09-02) [refs: payslip pdf requests chatId:`4141aa0f4eb442`]
