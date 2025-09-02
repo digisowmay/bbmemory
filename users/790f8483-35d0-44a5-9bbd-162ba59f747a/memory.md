@@ -3,14 +3,14 @@
 - no durable communication patterns identified yet
 
 ### Emerging (new signals, 1-2 reinforcements)
-- gives brief imperative commands; expects quick action or implementation; 4× (last: 2025-09-01) [refs: chatId:`92665348120c45`; chatId:`8ca3cb93a8714b`]
+- gives brief imperative commands; expects quick action or implementation; 5× (last: 2025-09-02) [refs: chatId:`92665348120c45`; chatId:`8ca3cb93a8714b`; chatId:`05e86ddda4bf48`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
 - no durable knowledge patterns identified yet
 
 ### Emerging (recent learning, current focus)
-- no emerging knowledge patterns identified yet
+- active hackathon builder with multiple Devfolio projects and prize wins; 1× (first: 2025-09-02) [ref: Devfolio profile fetch chatId:`05e86ddda4bf48`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
