@@ -13,6 +13,7 @@
 
 ### Emerging (recent learning, current focus)
 - knows Russian retail brand Pyaterочка; 1× (since 2025-09-02) [ref: bag swap chatId:`ee2db5d4f3ed4d`]
+- interested in tuned street racing supercars and hypercars; 1× (first: 2025-09-02) [ref: supercar lawn edit chatId:`582b53fbbe8240`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
