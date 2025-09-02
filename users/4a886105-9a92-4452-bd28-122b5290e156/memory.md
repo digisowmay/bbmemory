@@ -23,8 +23,8 @@
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
-- frequently manages schedules (create, list, pause, delete) and checks counts; 8× (stable since 2025-09-01) [refs: schedule listing, deletion, id request, new schedule creation chatId:`85ffbfdfe94742`; joke/physics schedule creation; schedule listing chatId:`6b369771688145`]
+- frequently manages schedules (create, list, pause, delete) and checks counts; 9× (stable since 2025-09-01) [refs: schedule listing, deletion, id request, new schedule creation chatId:`85ffbfdfe94742`; joke/physics schedule creation; schedule listing chatId:`6b369771688145`; delete all schedules chatId:`6b1cebcca93d48`]
 
 ### Emerging (new query patterns)
 - directly requests raw MongoDB queries for schedule insights; 2× (since 2025-09-02) [refs: mongodb detail request chatId:`85ffbfdfe94742`; water/pee detail request chatId:`85ffbfdfe94742`]
-- requests internal agent configuration details and performs sync operations; 3× (last: 2025-09-02) [refs: scheduler agent info request chatId:`d18203936f144e`; agent sync operation chatId:`d18203936f144e`; sync agents request chatId:`c99642772cc749`]
+- requests internal agent configuration details and performs sync operations; 4× (last: 2025-09-03) [refs: scheduler agent info request chatId:`d18203936f144e`; agent sync operation chatId:`d18203936f144e`; sync agents request chatId:`c99642772cc749`; scheduler agent sync chatId:`6b1cebcca93d48`]
