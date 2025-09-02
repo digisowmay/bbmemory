@@ -2,7 +2,7 @@
 ### Durable (established, 3+ reinforcements)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- requests alternative iterations for content; 1× (first: 2025-09-01) [ref: tweet revision request chatId:`2ebb98bc3bcf4c`]
+- requests alternative iterations or curated best choices for content; 2× (last: 2025-09-02) [refs: tweet revision request chatId:`2ebb98bc3bcf4c`; tweet ideas & curation chatId:`b9245c51d71348`]
 - requests detailed structured summaries/notes from content; 2× (last: 2025-09-01) [refs: initial video notes request chatId:`41abc9f64b9d48`; follow-up elaboration request chatId:`41abc9f64b9d48`]
 
 ## Knowledge & Context
@@ -16,12 +16,12 @@
 ### Durable (core thinking patterns)
 
 ### Emerging (recent behavioral shifts)
-- iterative improvement preference; 2× (last: 2025-09-01) [refs: tweet revision request chatId:`2ebb98bc3bcf4c`; request to elaborate video topics chatId:`41abc9f64b9d48`]
+- iterative improvement preference; 3× (last: 2025-09-02) [refs: tweet revision request chatId:`2ebb98bc3bcf4c`; request to elaborate video topics chatId:`41abc9f64b9d48`; tweet curation preference chatId:`b9245c51d71348`]
 - prefers detailed structured information; 1× (observed: 2025-09-01) [ref: video notes request chatId:`41abc9f64b9d48`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
 
 ### Emerging (new query patterns)
-- uses assistant for social media copywriting and personal branding/profile evaluation; 3× (last: 2025-09-02) [refs: tweet ideas request chatId:`b9245c51d71348`; tweet creation request chatId:`2ebb98bc3bcf4c`; LinkedIn profile rating chatId:`969e4308a77048`]
+- uses assistant for social media copywriting and personal branding/profile evaluation; 4× (last: 2025-09-02) [refs: tweet ideas & curation chatId:`b9245c51d71348`; tweet creation request chatId:`2ebb98bc3bcf4c`; LinkedIn profile rating chatId:`969e4308a77048`; tweet ideas request earlier chatId:`b9245c51d71348`]
 - uses assistant for video summarization and note-taking; 1× (first: 2025-09-01) [ref: video notes request chatId:`41abc9f64b9d48`]
