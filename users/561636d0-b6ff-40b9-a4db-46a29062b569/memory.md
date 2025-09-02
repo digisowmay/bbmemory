@@ -3,7 +3,7 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - provides thorough, structured business information and asks for clear, actionable instructions; 2× (last: 2025-09-01) [refs: detailed Vexa Digital definition and request for agent instructions; prompt for LinkedIn background task chatId:`7c0195bf3b8449`]
-- proactively monitors automations and requests corrections when outcomes don’t match expectations; 1× (first: 2025-09-01) [ref: admin clarification about posting to company page chatId:`f17929d9d45f42`]
+- proactively monitors automations and requests corrections when outcomes don’t match expectations; 2× (last: 2025-09-02) [refs: admin clarification about posting to company page chatId:`f17929d9d45f42`; follow-up about missing LinkedIn post chatId:`fb8fe88576ae4c`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
