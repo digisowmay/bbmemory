@@ -4,7 +4,7 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - wants conversational casual tone and no corporate language; 2× (last: 2025-09-02) [refs: global instructions; design refinement chatId:`1004b8a2f07b4d`]
-- asks for clear definitions when terminology is vague; 1× (first: 2025-09-02) [ref: clarification of "various lengths" chatId:`c5b89446732a42`]
+- provides reference images and requests style adaptation to match; 2× (last: 2025-09-02) [refs: purple sketch reference chatId:`1004b8a2f07b4d`; figure white background style adaptation chatId:`1004b8a2f07b4d`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -18,7 +18,7 @@
 - iterative improvement approach, requesting multiple refinements to reach desired quality; 5× (last: 2025-09-02) [refs: multiple stick figure refinements chatId:`1004b8a2f07b4d`]
 
 ### Emerging (recent behavioral shifts)
-- emphasizes maintaining specific elements while adjusting style; 2× (last: 2025-09-02) [refs: posture unchanged request chatId:`1004b8a2f07b4d`; white background adjustment chatId:`1004b8a2f07b4d`]
+- emphasizes maintaining specific elements (e.g., posture) while adjusting style; 2× (last: 2025-09-02) [refs: posture unchanged request chatId:`1004b8a2f07b4d`; white background adjustment chatId:`1004b8a2f07b4d`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
@@ -26,4 +26,5 @@
 - manages subscription plans via agent commands; 5× (last: 2025-09-02) [refs: subscription add commands chatId:`51f711cfcc7343`; previous subscription add commands; subscription creation chatId:`da570a38ca8945`]
 
 ### Emerging (new query patterns)
-- exploring youtube analyzer for video analysis tasks; 2× (since 2025-09-02) [refs: youtube analyzer query chatId:`c5b89446732a42`; current video analysis request chatId:`c5b89446732a42`]
+- exploring youtube analyzer for video analysis tasks; 3× (since 2025-09-02) [refs: youtube analyzer query chatId:`c5b89446732a42`; video length question chatId:`c5b89446732a42`; wise insights request chatId:`c5b89446732a42`]
+- learning data visualization; chart libraries, dashboards; 2× (started 2025-08-25) [refs: D3.js tutorial request; dashboard design consultation]
