@@ -2,7 +2,7 @@
 ### Durable (established, 3+ reinforcements)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- uses informal shorthand ("u" instead of "you"), casual brevity; 3× (last: 2025-09-02) [refs: initial query "what do u do"; follow-up "u are chatgpt but worse?"; reminder request "remind me of tomorrow meet at 5pm" chatId:`81476081c6e04b`]
+- uses informal shorthand ("u" instead of "you"), casual brevity; 3× (last: 2025-09-02) [refs: initial query "what do u do"; follow-up "u are chatgpt but worse?"; response "cool" chatId:`81476081c6e04b`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -18,3 +18,4 @@
 ### Durable (regular platform activities)
 
 ### Emerging (new query patterns)
+- started using scheduling reminders via assistant; exploring automated task scheduling; 1× (since 2025-09-02) [ref: reminder scheduling chatId:`81476081c6e04b`]
