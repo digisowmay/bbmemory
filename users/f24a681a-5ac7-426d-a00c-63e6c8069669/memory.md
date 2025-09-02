@@ -30,6 +30,6 @@
 ### Emerging (new query patterns)
 - exploring financial loan comparisons and budgeting tools; 3× (last: 2025-09-02) [refs: personal loan comparison chatId:`413303793f9e42`; prompt tweak chatId:`413303793f9e42`; financial health analysis request chatId:`9470c4f0e07044`]
 - exploring productivity workflows with Todoist task management; 4× (since 2025-09-02) [refs: Todoist workflow request chatId:`5aac8767e2714e`; Todoist execution chatId:`5aac8767e2714e`; weekly planning setup chatId:`5aac8767e2714e`; productivity system creation chatId:`5aac8767e2714e`]
-- exploring luxury fashion deals and price comparisons (e.g., Dior bags); 1× (first: 2025-09-02) [ref: Dior bag deal request chatId:`fbe68d0f8bcc40`]
+- exploring luxury fashion deals and price comparisons (e.g., Dior bags); 2× (since 2025-09-02) [refs: Dior bag deal request chatId:`fbe68d0f8bcc40`; follow-up Dior pricing chatId:`fbe68d0f8bcc40`]
 - exploring Indian trading platforms (DhanHQ, Groww) for portfolio/trading automation; 1× (first: 2025-09-02) [ref: DhanHQ + Groww prompt request chatId:`5aac8767e2714e`]
 - requests YouTube scripts and content assets (financial education); 1× (first: 2025-09-02) [ref: YouTube script request chatId:`8d6e98e3722542`]
