@@ -19,3 +19,4 @@
 
 ### Emerging (new query patterns)
 - exploring Transformer/AI research papers; 1× (first: 2025-09-02) [ref: request for "Attention is all you need" paper chatId:`3563d10a1b0140`]
+- experimenting with data visualization; 1× (first: 2025-09-02) [ref: request to "visualize a 3d data" chatId:`3563d10a1b0140`]
