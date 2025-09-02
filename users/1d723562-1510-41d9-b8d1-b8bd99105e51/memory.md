@@ -1,10 +1,11 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-
-### Emerging (new signals, 1-2 reinforcements)
 - prefers concise messages; often sends URLs and brief prompts expecting agent actions; 4× (last: 2025-09-02) [refs: website link submissions including usegradientapp.com chatId:`c9c9f2b7fc9549`]
 - seeks strategic advice; asks open-ended questions like "if you are at my shoes then what will you do?"; 3× (last: 2025-09-02) [refs: strategy requests chatId:`c9c9f2b7fc9549`]
 - uses colloquial Hindi/English mix (e.g., "bhai") when discussing personal challenges; 1× (first: 2025-09-02) [ref: motivational discussion chatId:`c9c9f2b7fc9549`]
+
+### Emerging (new signals, 1-2 reinforcements)
+- shares comprehensive documents for detailed feedback; 1× (first: 2025-09-02) [ref: PDF roadmap review chatId:`c9c9f2b7fc9549`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -21,6 +22,7 @@
 - seeks quick validation and feedback on startup ideas; 2× (last: 2025-09-02) [refs: "how is this idea?" prompts chatId:`c9c9f2b7fc9549`]
 - prefers structured action plans and timelines for goals; 1× (first: 2025-09-02) [ref: scheduling request chatId:`c9c9f2b7fc9549`]
 - demonstrates high resilience and comeback mindset despite perceived lost time; 1× (first: 2025-09-02) [ref: comeback motivation chatId:`c9c9f2b7fc9549`]
+- ambitious long-term visionary planning; created 5-year roadmap for global safety platform; 1× (first: 2025-09-02) [ref: PDF roadmap chatId:`c9c9f2b7fc9549`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
@@ -28,3 +30,4 @@
 ### Emerging (new query patterns)
 - uses agent to review startup website and gather insights; 4× (since 2025-09-02) [refs: repeated website review requests chatId:`c9c9f2b7fc9549`]
 - uses agent for YC strategy guidance and development scheduling; 2× (since 2025-09-02) [ref: YC prep discussions chatId:`c9c9f2b7fc9549`]
+- submits detailed strategic documents for in-depth review and guidance; 1× (first: 2025-09-02) [ref: PDF roadmap chatId:`c9c9f2b7fc9549`]
