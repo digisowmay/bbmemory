@@ -1,10 +1,10 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- provides descriptive, cinematic prompts for AI image generation; 5× (stable since 2025-09-02) [refs: red carpet prompts chatId:`e7a135192b134f`; further Cannes scene requests chatId:`e7a135192b134f`; ultra realistic detail instructions chatId:`e7a135192b134f`]
-- specifies strict instructions to preserve original facial features in edits; 3× (since 2025-09-02) [refs: face-preserving request series chatId:`e7a135192b134f`]
+- provides descriptive, cinematic prompts for AI image generation; 6× (stable since 2025-09-02) [refs: red carpet prompts chatId:`e7a135192b134f`; further Cannes scene requests chatId:`e7a135192b134f`; ultra realistic detail instructions chatId:`e7a135192b134f`]
+- specifies strict instructions to preserve original facial features in edits; 4× (since 2025-09-02) [refs: face-preserving request series chatId:`e7a135192b134f`; repeat requests chatId:`e7a135192b134f`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- reiterates requests after tool limitation explanation; persistent in seeking face-preserving solution; 1× (first: 2025-09-02) [ref: follow-up inquiry chatId:`e7a135192b134f`]
+- reiterates requests after tool limitation explanation; persistent in seeking face-preserving solution; 2× (last: 2025-09-02) [refs: follow-up inquiries chatId:`e7a135192b134f`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
