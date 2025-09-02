@@ -6,6 +6,7 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - wants brand color (purple) reflected in generated PDFs; 1× (first: 2025-09-02) [ref: brand color request chatId:`4141aa0f4eb442`]
+- insists currency be displayed as INR, not USD; 1× (first: 2025-09-02) [ref: currency correction request chatId:`4141aa0f4eb442`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -28,4 +29,4 @@
 - requests PDF document generation (payslips/invoices); 3× [refs: payslip PDF requests chatId:`4141aa0f4eb442`; earlier invoice PDFs]
 
 ### Emerging (new query patterns)
-- exploring customization options in third-party PDF generators; 2× (since 2025-09-02) [refs: color theme inquiry chatId:`4141aa0f4eb442`; TDS field manipulation]
+- exploring customization options in third-party PDF generators; 2× (since 2025-09-02) [refs: color theme inquiry chatId:`4141aa0f4eb442`; currency symbol issue]
