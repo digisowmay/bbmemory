@@ -3,8 +3,8 @@
 -
 
 ### Emerging (new signals, 1-2 reinforcements)
-- provides clear, imperative step-by-step technical instructions; 6× (last: 2025-09-03) [refs: agent listing request chatId:`a6430be7aa4449`; agent creation workflow chatId:`4d05c2449a3649`; AuthoredUp agent config chatId:`a139f1d9c5cb4c`; Mermaid agent setup chatId:`b5e094f10be247`; ownership transfer chatId:`a139f1d9c5cb4c`; maintainer update chatId:`a6430be7aa4449`]
-- expects strict adherence to specified procedures; 6× (last: 2025-09-03) [refs: agent listing request chatId:`a6430be7aa4449`; bhindi-agent-manager setup chatId:`4d05c2449a3649`; AuthoredUp agent config chatId:`a139f1d9c5cb4c`; Mermaid agent setup chatId:`b5e094f10be247`; ownership transfer chatId:`a139f1d9c5cb4c`; maintainer update chatId:`a6430be7aa4449`]
+- provides clear, imperative step-by-step technical instructions; 7× (last: 2025-09-03) [refs: agent listing request chatId:`a6430be7aa4449`; agent creation workflow chatId:`4d05c2449a3649`; AuthoredUp agent config chatId:`a139f1d9c5cb4c`; Mermaid agent setup chatId:`b5e094f10be247`; ownership transfer chatId:`a139f1d9c5cb4c`; maintainer update chatId:`a6430be7aa4449`; maintenance check chatId:`a6430be7aa4449`]
+- expects strict adherence to specified procedures; 7× (last: 2025-09-03) [refs: agent listing request chatId:`a6430be7aa4449`; bhindi-agent-manager setup chatId:`4d05c2449a3649`; AuthoredUp agent config chatId:`a139f1d9c5cb4c`; Mermaid agent setup chatId:`b5e094f10be247`; ownership transfer chatId:`a139f1d9c5cb4c`; maintainer update chatId:`a6430be7aa4449`; maintenance check chatId:`a6430be7aa4449`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -27,5 +27,5 @@
 -
 
 ### Emerging (new query patterns)
-- uses Bhindi platform tools (agent-manager, admin, logo manager) for agent lifecycle operations; 6× (last: 2025-09-03) [refs: google agent listing chatId:`a6430be7aa4449`; Compress agent workflow chatId:`4d05c2449a3649`; AuthoredUp agent config chatId:`a139f1d9c5cb4c`; Mermaid agent setup chatId:`b5e094f10be247`; ownership transfer chatId:`a139f1d9c5cb4c`; maintainer update chatId:`a6430be7aa4449`]
-- requests verification/status checks after operations (info & sync commands); 4× (last: 2025-09-01) [refs: sync & info commands chatId:`4d05c2449a3649`; AuthoredUp agent config chatId:`a139f1d9c5cb4c`; Mermaid agent setup chatId:`b5e094f10be247`; ownership transfer chatId:`a139f1d9c5cb4c`]
+- uses Bhindi platform tools (agent-manager, admin, logo manager) for agent lifecycle operations; 6× (last: 2025-09-03) [refs: google agent listing chatId:`a6430be7aa4449`; Compress agent workflow chatId:`4d05c2449a3649`; AuthoredUp agent config chatId:`a139f1d9c5cb4c`; Mermaid agent setup chatId:`b5e094f10be247`; ownership transfer chatId:`a139f1d9c5cb4c`; maintainer and maintenance update chatId:`a6430be7aa4449`]
+- requests verification/status checks after operations (info & sync commands); 5× (last: 2025-09-03) [refs: sync & info commands chatId:`4d05c2449a3649`; AuthoredUp agent config chatId:`a139f1d9c5cb4c`; Mermaid agent setup chatId:`b5e094f10be247`; ownership transfer chatId:`a139f1d9c5cb4c`; maintenance check chatId:`a6430be7aa4449`]
