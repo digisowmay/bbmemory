@@ -30,4 +30,4 @@
 - frequent social media automation requests (Twitter & Telegram agents); 3× [refs: tweet, like, DM commands chatId:`4bf3b72254ed4d`; telegram DM chatId:`22aa4e89152d4e`]
 
 ### Emerging (new query patterns)
-- exploring GTM and Google Sheets agents for workflow automation; 1× (since 2025-09-01) [ref: GTM & CRM agents inquiry chatId:`da87de65a5024b`]
+- exploring agent-based workflow automation (GTM, Google Sheets, Apollo); 2× (since 2025-09-01) [refs: GTM & CRM agents inquiry chatId:`da87de65a5024b`; Apollo agent question chatId:`7d3a748ab6a54f`]
