@@ -6,7 +6,7 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - asks for multiple headline options to A/B choose best; 5× (last: 2025-09-02) [refs: title selection discussion chatId:`769c137c4fe14f`; best outcome headline choice chatId:`769c137c4fe14f`; final heading draft chatId:`769c137c4fe14f`; current post improvement chatId:`769c137c4fe14f`]
-- seeks quick turnaround advice when posts underperform; 1× (first: 2025-09-02) [ref: underperforming post improvement chatId:`769c137c4fe14f`]
+- seeks quick turnaround advice when posts underperform; 2× (last: 2025-09-02) [refs: underperforming post improvement chatId:`769c137c4fe14f`; performance fix guidance chatId:`769c137c4fe14f`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
