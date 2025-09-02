@@ -19,7 +19,7 @@
 
 ### Emerging (recent behavioral shifts)
 - values maintainable, well-documented code; 2× (observed: 2025-09-01) [refs: docstring documentation request chatId:`6774927f60b146`]
-- delegates repetitive tasks via automation/scheduling; 1× (observed: 2025-09-02) [ref: Friday X post scheduling chatId:`1ef3ea06939b4b`]
+- delegates repetitive tasks via automation/scheduling; 2× (last: 2025-09-02) [refs: Friday X post scheduling chatId:`1ef3ea06939b4b`; recurring Friday post update chatId:`1ef3ea06939b4b`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
