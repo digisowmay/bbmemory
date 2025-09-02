@@ -2,7 +2,8 @@
 ### Durable (established, 3+ reinforcements)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- requests direct, action-oriented tasks without extra explanation; 2× (last: 2025-09-02) [refs: pull request creation request chatId:`9334b22983e548`; account connection and identity queries chatId:`13250b6f1b2146`]
+- requests direct, action-oriented tasks without extra explanation; 2× (last: 2025-09-02) [refs: pull request creation request chatId:`9334b22983e548`; account connection commands chatId:`13250b6f1b2146`]
+- seeks clarification on discrepancies; quick follow-up questions like "Who?" when unsure; 1× (first: 2025-09-02) [ref: phone number clarification chatId:`13250b6f1b2146`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -15,9 +16,11 @@
 
 ### Emerging (recent behavioral shifts)
 - prefers automated assistance for development workflow; 1× (observed: 2025-09-01) [ref: pull request creation request chatId:`9334b22983e548`]
+- privacy-conscious, verifies data before proceeding; 1× (first: 2025-09-02) [ref: phone number clarification chatId:`13250b6f1b2146`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
 
 ### Emerging (new query patterns)
 - exploring GitHub pull request automation; DevOps operations; 1× (first: 2025-09-01) [ref: pull request creation request chatId:`9334b22983e548`]
+- attempting to integrate Telegram account; 1× (first: 2025-09-02) [ref: account connection attempt chatId:`13250b6f1b2146`]
