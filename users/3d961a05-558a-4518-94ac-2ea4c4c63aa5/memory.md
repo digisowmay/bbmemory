@@ -1,8 +1,9 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- provides brief confirmations when satisfied and concise modification requests; 3× (stable since 2025-09-02) [refs: chatId:`3cc65e5c75b949`]
+- provides brief confirmations when satisfied and concise modification requests; 5× (stable since 2025-09-02) [refs: chatId:`3cc65e5c75b949`; chatId:`bc86f4e5f1fb40`]
 
 ### Emerging (new signals, 1-2 reinforcements)
+- expects proactive, action-oriented phrasing exactly at scheduled execution time; 1× (first: 2025-09-02) [ref: chatId:`bc86f4e5f1fb40`]
 - asks for frequent automated status updates and scheduling tweaks; 4× (last: 2025-09-02) [refs: chatId:`3cc65e5c75b949`]
 - corrects operational details (e.g., timezone adjustments) to ensure accuracy; 1× (first: 2025-09-02) [ref: chatId:`3cc65e5c75b949`]
 
