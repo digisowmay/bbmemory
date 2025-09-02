@@ -5,7 +5,7 @@
 - asks meta questions about platform tools before proceeding; 7× (promoted from emerging) [refs: PDF compressor explanation chatId:`1023387676084f`; tool capability inquiry chatId:`1023387676084f`; zipping agent inquiry chatId:`1023387676084f`; sample prompt request chatId:`1023387676084f`; zipping tool interaction chatId:`1023387676084f`; current ZIP execution chatId:`1023387676084f`; sample multi-agent prompt request chatId:`5aac8767e2714e`]
 ### Emerging (new signals, 1-2 reinforcements)
 - prefers clarification of tool failure explanations before retrying; 1× (first: 2025-09-02) [ref: failed ZIP creation attempt chatId:`1023387676084f`]
-- expects the assistant to explicitly request user-supplied assets (e.g., images) before proceeding; 1× (first: 2025-09-02) [ref: thumbnail request chatId:`5aac8767e2714e`]
+- expects the assistant to explicitly request user-supplied assets (e.g., images) before proceeding; 2× (last: 2025-09-02) [refs: thumbnail request chatId:`5aac8767e2714e`; follow-up image prompt chatId:`5aac8767e2714e`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
