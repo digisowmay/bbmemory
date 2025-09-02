@@ -1,6 +1,6 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
--
+- uses emojis in casual messages; playful banter style; 4× (stable since 2025-08-25) [refs: backroom chat about gym session chatId:`319a67a656cc43`; samosa payment joke chatId:`319a67a656cc43`; sunrise greeting chatId:`319a67a656cc43`; dinner plan message chatId:`319a67a656cc43`]
 
 ### Emerging (new signals, 1-2 reinforcements)
 - prefers minimal aesthetic and strict adherence to brand assets; 4× (last: 2025-09-02) [refs: branded poster request chatId:`9d66ad882d5d40`; insist original logo chatId:`9d66ad882d5d40`; skipped poster due to brand mismatch chatId:`9d66ad882d5d40`; complaint about altered logo chatId:`9d66ad882d5d40`]
@@ -28,3 +28,4 @@
 
 ### Emerging (new query patterns)
 - uses AI image generation tools for marketing collateral; 2× (since 2025-09-01) [refs: poster generation attempts chatId:`9d66ad882d5d40`; multiple tool calls for image edits chatId:`9d66ad882d5d40`]
+- uses backroom echo for casual conversation with colleagues; gym, food, plans; 3× (since 2025-08-25) [refs: gym chat chatId:`319a67a656cc43`; photobomb thread chatId:`319a67a656cc43`; dinner plan chatId:`319a67a656cc43`]
