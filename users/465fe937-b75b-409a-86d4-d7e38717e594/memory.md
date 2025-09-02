@@ -2,7 +2,8 @@
 ### Durable (established, 3+ reinforcements)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- requests ready-made professional templates for communication; 1× (first: 2025-09-02) [ref: email drafting request chatId:`891cbb4a85a54a`]
+- requests ready-made professional templates for communication; 2× (last: 2025-09-02) [ref: email drafting request chatId:`891cbb4a85a54a`]
+- prefers concise professional text over detailed bullet lists; 1× (first: 2025-09-02) [ref: request to reduce bullet list detail chatId:`891cbb4a85a54a`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -20,4 +21,4 @@
 ### Durable (regular platform activities)
 
 ### Emerging (new query patterns)
-- asks for assistance in composing formal emails and documents; 1× (since 2025-09-02) [ref: email drafting request chatId:`891cbb4a85a54a`]
+- asks for assistance in composing formal emails and documents; 2× (since 2025-09-02) [ref: email drafting requests chatId:`891cbb4a85a54a`]
