@@ -5,7 +5,7 @@
 - regularly requests LinkedIn post drafting and performance analysis; 6× [refs: Ravi vs Hari content refinement chatId:`769c137c4fe14f`; viral drafting guidance chatId:`769c137c4fe14f`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- asks for multiple headline options to A/B choose best; 1× (first: 2025-09-01) [ref: headline comparison chatId:`769c137c4fe14f`]
+- asks for multiple headline options to A/B choose best; 3× (last: 2025-09-02) [refs: title selection discussion chatId:`769c137c4fe14f`; best outcome headline choice chatId:`769c137c4fe14f`; final heading draft chatId:`769c137c4fe14f`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -30,4 +30,4 @@
 - requests LinkedIn post reviews & engagement analysis; 6× [refs: post performance metrics conversations chatId:`769c137c4fe14f`; viral potential refinement chats chatId:`769c137c4fe14f`]
 
 ### Emerging (new query patterns)
-- exploring headline optimization techniques for LinkedIn posts; 1× (started 2025-09-01) [ref: headline comparison chatId:`769c137c4fe14f`]
+- exploring headline optimization techniques for LinkedIn posts; 3× (since 2025-09-01) [refs: headline comparison chatId:`769c137c4fe14f`; best outcome selection chatId:`769c137c4fe14f`; final heading draft chatId:`769c137c4fe14f`]
