@@ -3,7 +3,7 @@
 - prefers concise, lowercase assistant replies; 9× (stable since 2025-08-20) [refs: echo delegation request chatId:`c03273d910cd4b`; news audio request chatId:`898cc38b8e6341`; github issue request chatId:`70331493ea4d4f`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- prefers subtle logo integration in designs; 1× (first: 2025-09-03) [ref: billboard logo subtle integration chatId:`0eed68ac30e145`]
+- prefers subtle logo integration and minimalist branding; 2× (last: 2025-09-03) [refs: subtle logo billboard integration chatId:`0eed68ac30e145`; camera angle minimal design request chatId:`0eed68ac30e145`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
