@@ -6,6 +6,7 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - shares comprehensive documents for detailed feedback; 1× (first: 2025-09-02) [ref: PDF roadmap review chatId:`c9c9f2b7fc9549`]
+- prefers structured action plans and step-by-step timelines; 2× (last: 2025-09-02) [refs: scheduling request and roadmap discussion chatId:`c9c9f2b7fc9549`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -20,14 +21,11 @@
 
 ### Emerging (recent behavioral shifts)
 - seeks quick validation and feedback on startup ideas; 2× (last: 2025-09-02) [refs: "how is this idea?" prompts chatId:`c9c9f2b7fc9549`]
-- prefers structured action plans and timelines for goals; 1× (first: 2025-09-02) [ref: scheduling request chatId:`c9c9f2b7fc9549`]
 - demonstrates high resilience and comeback mindset despite perceived lost time; 1× (first: 2025-09-02) [ref: comeback motivation chatId:`c9c9f2b7fc9549`]
-- ambitious long-term visionary planning; created 5-year roadmap for global safety platform; 1× (first: 2025-09-02) [ref: PDF roadmap chatId:`c9c9f2b7fc9549`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
 
 ### Emerging (new query patterns)
-- uses agent to review startup website and gather insights; 4× (since 2025-09-02) [refs: repeated website review requests chatId:`c9c9f2b7fc9549`]
+- uses agent for startup website review and in-depth guidance; 4× (since 2025-09-02) [refs: repeated website review requests chatId:`c9c9f2b7fc9549`]
 - uses agent for YC strategy guidance and development scheduling; 2× (since 2025-09-02) [ref: YC prep discussions chatId:`c9c9f2b7fc9549`]
-- submits detailed strategic documents for in-depth review and guidance; 1× (first: 2025-09-02) [ref: PDF roadmap chatId:`c9c9f2b7fc9549`]
