@@ -1,6 +1,6 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- concise, task-oriented instructions; 4× (last: 2025-09-02) [refs: tweet schedule request chatId:`2457f06aaf4347`; engagement automation request chatId:`61c681b053b345`; confirmation inquiries chatId:`2457f06aaf4347`]
+- concise, task-oriented instructions; 5× (last: 2025-09-02) [refs: tweet schedule request chatId:`2457f06aaf4347`; engagement automation request chatId:`61c681b053b345`; Shopify merchants engagement scheduling chatId:`61c681b053b345`]
 - requests explicit confirmation that tasks are completed; 3× (last: 2025-09-02) [refs: repeated "is it set?" chatId:`2457f06aaf4347`]
 
 ### Emerging (new signals, 1-2 reinforcements)
@@ -15,14 +15,14 @@
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
-- delegates repetitive marketing actions to automation; 2× [refs: tweet schedule request chatId:`2457f06aaf4347`; X engagement automation chatId:`61c681b053b345`]
+- delegates repetitive marketing actions to automation; 3× (last: 2025-09-02) [refs: tweet schedule request chatId:`2457f06aaf4347`; X engagement automation chatId:`61c681b053b345`; Shopify merchants engagement scheduling chatId:`61c681b053b345`]
 
 ### Emerging (recent behavioral shifts)
 - none noted
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
-- frequently schedules social media engagements for app marketing; 2× [refs: tweet schedule setup chatId:`2457f06aaf4347`; X engagement automation chatId:`61c681b053b345`]
+- frequently schedules social media engagements for app marketing; 3× (last: 2025-09-02) [refs: tweet schedule setup chatId:`2457f06aaf4347`; X engagement automation chatId:`61c681b053b345`; Shopify merchants engagement scheduling chatId:`61c681b053b345`]
 
 ### Emerging (new query patterns)
 - none
