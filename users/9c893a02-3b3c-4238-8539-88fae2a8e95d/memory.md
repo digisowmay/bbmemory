@@ -3,6 +3,7 @@
 - gives concise imperative instructions for platform tasks; 13× (last: 2025-09-02) [refs: reminder scheduling interactions chatId:`04b0c1da45a44a`; coffee reminder chatId:`10c334b4e84942`]
 
 ### Emerging (new signals, 1-2 reinforcements)
+- requests raw error or JSON details when troubleshooting; 1× (first: 2025-09-02) [ref: JSON error request chatId:`8395ae30d96541`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -14,7 +15,7 @@
 ### Durable (core thinking patterns)
 
 ### Emerging (recent behavioral shifts)
-- prefers delegating tasks to assistant for direct execution; 10× (last: 2025-09-02) [refs: reminder scheduling interactions chatId:`04b0c1da45a44a`; coffee reminder chatId:`10c334b4e84942`; news audio request chatId:`8395ae30d96541`]
+- prefers delegating tasks to assistant for direct execution; 9× (last: 2025-09-02) [refs: reminder scheduling interactions chatId:`04b0c1da45a44a`; coffee reminder chatId:`10c334b4e84942`]
 - prefers audio briefings for routine information consumption; 1× (first: 2025-09-02) [ref: news summary & audio request chatId:`8395ae30d96541`]
 
 ## Platform Usage & Queries
@@ -23,4 +24,4 @@
 
 ### Emerging (new query patterns)
 - tracks Ethereum (ETH) price; asks reminders to check ETH; 2× (since 2025-09-02) [refs: ETH price reminder requests chatId:`04b0c1da45a44a`]
-- requests concise global news summaries in audio form; 2× (since 2025-09-02) [refs: news summary & audio requests chatId:`8395ae30d96541`]
+- requests concise global news summaries in audio form; 2× (since 2025-09-02) [ref: news summary & audio requests chatId:`8395ae30d96541`]
