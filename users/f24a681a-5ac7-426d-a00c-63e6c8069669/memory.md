@@ -28,3 +28,4 @@
 ### Emerging (new query patterns)
 - exploring personal finance management; 2× (since 2025-09-01) [refs: expense tracking chatId:`cffb1f71f42445`; salary negotiation chatId:`cffb1f71f42445`]
 - interested in agent/tool orchestration details; 2× (last: 2025-09-01) [refs: agent usage query chatId:`6774927f60b146`; memory update request chatId:`9dce1dc1edab4c`]
+- exploring social media automation; recurring posts scheduling on X; 1× (first: 2025-09-02) [ref: X posting schedule request chatId:`1ef3ea06939b4b`]
