@@ -1,27 +1,27 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- (none yet)
+- 
 
 ### Emerging (new signals, 1-2 reinforcements)
-- concise, task-oriented instructions; 1× (first: 2025-09-02) [ref: tweet schedule request chatId:`2457f06aaf4347`]
+- concise, task-oriented instructions; 2× (last: 2025-09-02) [refs: tweet schedule request chatId:`2457f06aaf4347`; confirmation follow-up chatId:`2457f06aaf4347`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
-- (none yet)
+- 
 
 ### Emerging (recent learning, current focus)
-- promotes their SaaS app Rivyo.com on social media; 1× (started: 2025-09-02) [ref: tweet scheduling request chatId:`2457f06aaf4347`]
+- promotes their SaaS app Rivyo.com on social media; 2× (since 2025-09-02) [refs: tweet scheduling request chatId:`2457f06aaf4347`; schedule confirmation chatId:`2457f06aaf4347`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
-- (none yet)
+- 
 
 ### Emerging (recent behavioral shifts)
-- prefers automated solutions for repetitive marketing tasks; 1× (first: 2025-09-02) [ref: automated tweet scheduling chatId:`2457f06aaf4347`]
+- prefers automated solutions for repetitive marketing tasks; 2× (since 2025-09-02) [refs: automated tweet scheduling chatId:`2457f06aaf4347`; follow-up confirmation chatId:`2457f06aaf4347`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
-- (none yet)
+- 
 
 ### Emerging (new query patterns)
-- uses platform to schedule social media posts; 1× (first: 2025-09-02) [ref: tweet scheduler chatId:`2457f06aaf4347`]
+- uses platform to schedule social media posts; 2× (since 2025-09-02) [refs: initial tweet scheduler usage chatId:`2457f06aaf4347`; confirmation interaction chatId:`2457f06aaf4347`]
