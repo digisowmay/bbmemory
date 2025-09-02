@@ -1,28 +1,29 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- provides descriptive, cinematic prompts for AI image generation; 10× (stable since 2025-09-02) [refs: multiple scene generation and transformation requests chatId:`e7a135192b134f`]
-- specifies strict instructions to preserve original facial features in edits; 10× (since 2025-09-02) [refs: repeated face-preserving requests chatId:`e7a135192b134f`]
+- provides descriptive, cinematic prompts for AI image generation; 12× (stable since 2025-09-02) [refs: multiple scene generation and transformation requests chatId:`e7a135192b134f`]
+- insists on preserving original facial features in edits; 12× (since 2025-09-02) [refs: repeated face-preserving requests chatId:`e7a135192b134f`]
+- prefers ultra-realistic, high-quality detail in final images; 6× (since 2025-09-02) [refs: frequent “ultra realistic, high quality detail” mentions chatId:`e7a135192b134f`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- reiterates requests after tool limitation explanation; persistent in seeking face-preserving solution; 6× (last: 2025-09-02) [refs: follow-up inquiries and confirmations chatId:`e7a135192b134f`]
+- accepts iterative edits once satisfied; 2× (last: 2025-09-02) [refs: confirmations after Gemini results chatId:`e7a135192b134f`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
 - (none identified yet)
 
 ### Emerging (recent learning, current focus)
-- (none identified yet)
+- experimenting with AI face-preserving transformations; 2× (since 2025-09-02) [refs: Gemini image edits chatId:`e7a135192b134f`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
 - (none identified yet)
 
 ### Emerging (recent behavioral shifts)
-- (none identified yet)
+- persistent in achieving specific visual outcome; 2× (since 2025-09-02) [refs: multiple requests despite tool limitations chatId:`e7a135192b134f`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
-- explores AI image generation for creative scenes; 8× [refs: multiple scene generation requests and confirmations chatId:`e7a135192b134f`]
+- frequently uses AI image generation and face-preserving editing tools; 12× [refs: consecutive Gemini edits and Flux requests chatId:`e7a135192b134f`]
 
 ### Emerging (new query patterns)
-- exploring face-preserving image editing solutions; 8× (since 2025-09-02) [refs: sequence of face-preserving edits and successful Gemini transformations chatId:`e7a135192b134f`]
+- exploring body transformation scenes (muscular physique) while retaining face; 2× (since 2025-09-02) [refs: tropical beach muscular body edits chatId:`e7a135192b134f`]
