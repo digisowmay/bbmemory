@@ -1,6 +1,6 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- gives very specific, step-by-step instructions for image editing tasks; 6× (last: 2025-09-02) [refs: repeated image edit requests chatId:`7bbefde9248e4b`]
+- gives very specific, step-by-step instructions for image editing tasks; 7× (last: 2025-09-02) [refs: repeated image edit requests chatId:`7bbefde9248e4b`]
 
 ### Emerging (new signals, 1-2 reinforcements)
 - no additional emerging patterns noted
@@ -10,8 +10,8 @@
 - none identified yet
 
 ### Emerging (recent learning, current focus)  
-- familiarity with Romanian landmarks and license plates, especially Palatul Culturii Iasi; 4× (since 2025-09-02) [refs: multiple background change requests chatId:`7bbefde9248e4b`]
-- frequently requests orange Lamborghini scenes with license plate "IS 69 CRI"; 3× (since 2025-09-02) [refs: car replacement requests chatId:`7bbefde9248e4b`]
+- familiarity with Romanian landmarks and license plates, especially Palatul Culturii Iasi and Palas Iasi; 7× (since 2025-09-02) [refs: multiple background change requests chatId:`7bbefde9248e4b`]
+- frequently requests orange Lamborghini scenes with license plate "IS 69 CRI"; 6× (since 2025-09-02) [refs: car replacement requests chatId:`7bbefde9248e4b`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
