@@ -21,6 +21,7 @@
 
 ### Emerging (recent behavioral shifts)
 - seeks workflow automation to streamline repetitive tasks; 2× (last: 2025-09-03) [ref: repeated automation setup requests chatId:`77fc85bdd2954b`]
+- requests alternative methods when initial solution fails; 1× (first: 2025-09-03) [ref: code not received and asked for different approach chatId:`77fc85bdd2954b`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
