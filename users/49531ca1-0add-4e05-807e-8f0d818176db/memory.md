@@ -1,9 +1,9 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- 
+-
 
 ### Emerging (new signals, 1-2 reinforcements)
-- requests extremely concise responses ("give answers only"); 1× (first: 2025-09-02) [ref: multiple-choice answers request chatId:`8c818686f2fe4a`]
+- requests extremely concise responses ("give answers only"); 2× (last: 2025-09-02) [refs: multiple-choice answers request chatId:`8c818686f2fe4a`; follow-up MCQ answers request chatId:`8c818686f2fe4a`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -17,11 +17,11 @@
 -
 
 ### Emerging (recent behavioral shifts)
-- values efficiency, prefers direct solutions without extra explanation; 1× (observed: 2025-09-02) [ref: "give answers only" request chatId:`8c818686f2fe4a`]
+- values efficiency, prefers direct solutions without extra explanation; 2× (observed: 2025-09-02) [refs: "give answers only" requests chatId:`8c818686f2fe4a`; follow-up concise answer request chatId:`8c818686f2fe4a`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
-- asks for solutions to academic MCQs; 1× [ref: remote sensing MCQ request chatId:`8c818686f2fe4a`]
+-
 
 ### Emerging (new query patterns)
-- 
+- asks for solutions to academic MCQs; 2× (since 2025-09-02) [refs: remote sensing MCQ request chatId:`8c818686f2fe4a`; subsequent MCQ set chatId:`8c818686f2fe4a`]
