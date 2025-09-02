@@ -28,3 +28,4 @@
 ### Emerging (new query patterns)
 - requesting scheduled habit challenges and progress trackers; 2× (since 2025-09-02) [refs: confidence challenge scheduling; readiness confirmation chatId:`1726d930013e4c`]
 - seeks content strategy assets (Notion, social media threads, cover images) for publication launches; 1× (first: 2025-09-02) [ref: Medium publication request chatId:`baa3167d195748`]
+- requests assistance locating specific fashion products (e.g., Nike sneakers); 1× (first: 2025-09-02) [ref: sneaker sourcing request chatId:`c69ff5ef003d4f`]
