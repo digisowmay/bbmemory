@@ -26,3 +26,4 @@
 
 ### Emerging (new query patterns)
 - initiates blockchain token transfers via Brewit; salary disbursement commands and email notifications; 2× (last: 2025-09-01) [refs: USDC transfer instruction chatId:`a4b58f06220b4c`; salary disbursement chatId:`8123288948eb41`]
+- asks for waterfall/nature destinations for romantic getaways; 1× (first: 2025-09-02) [ref: waterfall places request chatId:`888e103d2b4949`]
