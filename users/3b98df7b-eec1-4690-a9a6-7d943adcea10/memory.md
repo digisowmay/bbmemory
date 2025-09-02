@@ -4,7 +4,7 @@
 - prefers clear, structured outputs with sections and headings; 5× [refs: clinical trial monitoring setup chatId:`2690f913bc7a47`; portfolio allocation request chatId:`800de45d49a04c`; transformer crash course request; podcast summary chatId:`b832f0b8448a43`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- requests multimedia assets (image moodboards, printables) alongside text guidance; 2× (last: 2025-09-02) [refs: traitors party planning chatId:`e9c221a0f18e4b`; Coachella house party planning chatId:`b5b377e4e5c949`]
+- requests multimedia assets (images, audio) and storytelling-based explanations; 3× (last: 2025-09-02) [refs: traitors party planning chatId:`e9c221a0f18e4b`; Coachella party planning chatId:`b5b377e4e5c949`; crypto comic strip request chatId:`ca233403d35f41`]
 - asks for deliverables packaged as Notion boards; 1× (first: 2025-09-02) [ref: Notion board request chatId:`b5b377e4e5c949`]
 
 ## Knowledge & Context
@@ -13,6 +13,7 @@
 
 ### Emerging (recent learning, current focus)
 - exploring AI/ML concepts such as Transformer models; 2× (since 2025-09-02) [refs: transformer crash course request; podcast summary chatId:`b832f0b8448a43`]
+- learning cryptocurrency fundamentals (Bitcoin, Ethereum, DeFi); 1× (started: 2025-09-02) [ref: crypto comic strip request chatId:`ca233403d35f41`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
@@ -27,4 +28,4 @@
 
 ### Emerging (new query patterns)
 - starting to request technical educational material about AI/ML; 2× (since 2025-09-02) [refs: transformer crash course request; podcast summary chatId:`b832f0b8448a43`]
-- requests content delivered as Notion boards; 1× (first: 2025-09-02) [ref: Notion board request chatId:`b5b377e4e5c949`]
+- asking for cryptocurrency education and explanations; 1× (first: 2025-09-02) [ref: crypto comic strip request chatId:`ca233403d35f41`]
