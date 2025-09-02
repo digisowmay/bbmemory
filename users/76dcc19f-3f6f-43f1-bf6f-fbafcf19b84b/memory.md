@@ -11,7 +11,7 @@
 ### Durable (core expertise, established over time)
 - none identified yet; 0× [ref: insufficient data]
 
-### Emerging (recent learning, current focus)  
+### Emerging (recent learning, current focus)
 - seeking guidance on crafting marketing carousels for Bhindi; 2× (since 2025-09-01) [refs: carousel ideas & elaboration chatId:`afd7676c123043`]
 - tasked with managing Bhindi's Discord channel, finding clippers, onboarding influencers; 1× (started: 2025-09-01) [ref: task list chatId:`49014cdbca0d41`]
 - exploring LinkedIn automation workflows (API, n8n, Apify scraping); 3× (since 2025-09-02) [refs: LinkedIn automation discussion chatId:`bb83e4b41f6e4d`; request about LinkedIn post extraction chatId:`bb83e4b41f6e4d`; Apify agent inquiry chatId:`bb83e4b41f6e4d`]
@@ -26,7 +26,7 @@
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
-- none identified yet; 0× [ref: insufficient data]
+- explores AI prompt engineering; optimizing ChatGPT prompts and workflows; 4× (promoted from emerging, since 2024-08-18) [refs: prompt improvement discussion chatId:`bb83e4b41f6e4d`; workflow automation discussion chatId:`bb83e4b41f6e4d`; AI tool comparison; question about best prompts chatId:`bb83e4b41f6e4d`]
 
 ### Emerging (new query patterns)
 - requests social media content creation (carousel ideas); 2× (since 2025-09-01) [refs: repeated carousel content requests chatId:`afd7676c123043`]
