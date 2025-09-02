@@ -1,0 +1,21 @@
+## Communication Patterns
+### Durable (established, 3+ reinforcements)
+
+### Emerging (new signals, 1-2 reinforcements)
+- prefers tasks executed via background/backroom agent rather than scheduler; 1× (first: 2025-09-02) [ref: reminder setup request chatId:`05097723455b4d`]
+
+## Knowledge & Context
+### Durable (core expertise, established over time)
+
+### Emerging (recent learning, current focus)
+
+## Thinking & Working Style
+### Durable (core thinking patterns)
+
+### Emerging (recent behavioral shifts)
+
+## Platform Usage & Queries
+### Durable (regular platform activities)
+
+### Emerging (new query patterns)
+- uses platform to set reminders and mentions users (@username); 1× (first: 2025-09-02) [ref: reminder setup request chatId:`05097723455b4d`]
