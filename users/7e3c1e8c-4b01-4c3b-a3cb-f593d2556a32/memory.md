@@ -1,7 +1,7 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- values precise data and corrects inaccuracies promptly; 3× (promoted from emerging, last: 2025-09-02) [refs: user acquisition timezone correction chatId:`c2e97d6eaba842`; schedule interval change chatId:`92dcf0c4bc2347`; scheduler failure fix chatId:`92dcf0c4bc2347`]
-- uses concise imperative commands for quick tasks; 7× (last: 2025-09-03) [refs: PR creation & merge commands chatId:`f7dbf111fc6242`; current PR & sync chatId:`8a3a8fcaeccd45`; schedule interval request chatId:`92dcf0c4bc2347`; reminder request chatId:`ab5acec8f9a044`; dance reminder chatId:`3301219305704d`; delete reminder chatId:`0879cfb9ae0d44`; GitHub PR & deployment chatId:`2f90caedf0e549`]
+- values precise data and corrects inaccuracies promptly; 4× (promoted from emerging, last: 2025-09-03) [refs: user acquisition timezone correction chatId:`c2e97d6eaba842`; schedule interval change chatId:`92dcf0c4bc2347`; scheduler failure fix chatId:`92dcf0c4bc2347`; user milestone query chatId:`403cdd62445444`]
+- uses concise imperative commands for quick tasks; 8× (last: 2025-09-03) [refs: PR creation & merge commands chatId:`f7dbf111fc6242`; current PR & sync chatId:`8a3a8fcaeccd45`; schedule interval request chatId:`92dcf0c4bc2347`; reminder request chatId:`ab5acec8f9a044`; dance reminder chatId:`3301219305704d`; delete reminder chatId:`0879cfb9ae0d44`; GitHub PR & deployment chatId:`2f90caedf0e549`; user milestone query chatId:`403cdd62445444`]
 - uses informal lowercase language and expresses frustration bluntly; 4× (promoted from emerging, last: 2025-09-03) [refs: acquisition schedule failure chatId:`92dcf0c4bc2347`; schedule interval request chatId:`92dcf0c4bc2347`; SaaS paid user query chatId:`800b4bd946834b`; crypto price query chatId:`eeebcd664f0248`]
 
 ### Emerging (new signals, 1-2 reinforcements)
@@ -26,3 +26,4 @@
 ### Emerging (new query patterns)
 - requests GitHub repo actions (pull requests, issue creation) for bhindi repos; 3×
 - asks for cryptocurrency price data; 3×
+- asks user growth and analytics metrics; 1× (first: 2025-09-03) [ref: user milestone query chatId:`403cdd62445444`]
