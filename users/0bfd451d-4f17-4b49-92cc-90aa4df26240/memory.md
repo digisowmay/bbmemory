@@ -1,10 +1,10 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
 - provides descriptive, cinematic prompts for AI image generation; 7× (stable since 2025-09-02) [refs: red carpet prompts chatId:`e7a135192b134f`; further Cannes scene requests chatId:`e7a135192b134f`; ultra realistic detail instructions chatId:`e7a135192b134f`]
-- specifies strict instructions to preserve original facial features in edits; 5× (since 2025-09-02) [refs: repeated face-preserving requests chatId:`e7a135192b134f`]
+- specifies strict instructions to preserve original facial features in edits; 6× (since 2025-09-02) [refs: repeated face-preserving requests chatId:`e7a135192b134f`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- reiterates requests after tool limitation explanation; persistent in seeking face-preserving solution; 3× (last: 2025-09-02) [refs: follow-up inquiries chatId:`e7a135192b134f`]
+- reiterates requests after tool limitation explanation; persistent in seeking face-preserving solution; 4× (last: 2025-09-02) [refs: follow-up inquiries chatId:`e7a135192b134f`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -25,4 +25,4 @@
 - explores AI image generation for creative scenes; 4× [refs: multiple image generation requests chatId:`e7a135192b134f`]
 
 ### Emerging (new query patterns)
-- exploring face-preserving image editing solutions; 4× (since 2025-09-02) [refs: sequence of face-preserving requests chatId:`e7a135192b134f`]
+- exploring face-preserving image editing solutions; 5× (since 2025-09-02) [refs: sequence of face-preserving requests chatId:`e7a135192b134f`]
