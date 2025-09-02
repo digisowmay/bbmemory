@@ -26,3 +26,4 @@
 
 ### Emerging (new query patterns)
 - directly requests raw MongoDB queries for schedule insights; 2× (since 2025-09-02) [refs: mongodb detail request chatId:`85ffbfdfe94742`; water/pee detail request chatId:`85ffbfdfe94742`]
+- requests internal agent configuration details; 1× (first: 2025-09-02) [ref: scheduler agent info request chatId:`d18203936f144e`]
