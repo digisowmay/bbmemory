@@ -24,4 +24,4 @@
 - —
 
 ### Emerging (new query patterns)
-- requests github issue creation for bug reports; 1× (first: 2025-09-02) [ref: github issue request chatId:`70331493ea4d4f`]
+- requests github issue creation for bug reports; 2× (since 2025-09-02) [refs: first github issue request chatId:`70331493ea4d4f`; second request chatId:`eb5b1621f71f4d`]
