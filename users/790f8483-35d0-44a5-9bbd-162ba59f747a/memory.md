@@ -3,7 +3,7 @@
 - no durable communication patterns identified yet
 
 ### Emerging (new signals, 1-2 reinforcements)
-- gives brief imperative commands; expects quick action or implementation; 7× (last: 2025-09-02) [refs: chatId:`92665348120c45`; chatId:`8ca3cb93a8714b`; chatId:`05e86ddda4bf48`; chatId:`0ecffd4a876841`; chatId:`0531641775964d`; chatId:`9a4b6166919f4f`; chatId:`d37490428fc745`]
+- gives brief imperative commands; expects quick action or implementation; 8× (last: 2025-09-02) [refs: chatId:`92665348120c45`; chatId:`8ca3cb93a8714b`; chatId:`05e86ddda4bf48`; chatId:`0ecffd4a876841`; chatId:`0531641775964d`; chatId:`9a4b6166919f4f`; chatId:`d37490428fc745`; chatId:`94e126cf3e2340`]
 - prefers multimodal responses, including audio output; 1× (first: 2025-09-02) [ref: book-to-action guide request chatId:`d37490428fc745`]
 
 ## Knowledge & Context
