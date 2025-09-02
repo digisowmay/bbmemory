@@ -11,9 +11,9 @@
 ### Durable (core expertise, established over time)
 - familiar with pop culture characters (Game of Thrones, Marvel) used in creative image edits; 8× [refs: prior edits chatId:`ee2db5d4f3ed4d`]
 
-### Emerging (recent learning, current focus)
+### Emerging (recent learning, current focus)  
 - knows Russian retail brand Pyaterочка; 1× (since 2025-09-02) [ref: bag swap chatId:`ee2db5d4f3ed4d`]
-- interested in tuned street racing supercars and hypercars; 1× (first: 2025-09-02) [ref: supercar lawn edit chatId:`582b53fbbe8240`]
+- interested in tuned street racing supercars and hypercars; 2× (last: 2025-09-02) [refs: supercar lawn edit chatId:`582b53fbbe8240`; current request chatId:`23bea9febe1e44`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
