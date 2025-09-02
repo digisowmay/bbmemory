@@ -1,28 +1,29 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- 
+-
 
 ### Emerging (new signals, 1-2 reinforcements)
-- provides detailed, descriptive prompts for visual outputs; 2× (last: 2025-09-02) [refs: image generation prompt chatId:`2235b62e9dda43`; video generation request chatId:`2235b62e9dda43`]
+- provides detailed, descriptive prompts for visual outputs; 3× (last: 2025-09-02) [refs: image and video generation discussion chatId:`2235b62e9dda43`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
-- 
+-
 
 ### Emerging (recent learning, current focus)
-- 
+-
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
-- 
+-
 
 ### Emerging (recent behavioral shifts)
-- 
+-
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
-- 
+-
 
 ### Emerging (new query patterns)
-- exploring AI image generation; cinematic, photorealistic outputs; 2× (since 2025-09-02) [refs: image generation prompt chatId:`2235b62e9dda43`; follow-up discussion chatId:`2235b62e9dda43`]
-- exploring AI video generation; cinematic style; 1× (first: 2025-09-02) [ref: video generation request chatId:`2235b62e9dda43`]
+- exploring AI image generation; cinematic, photorealistic outputs; 3× (since 2025-09-02) [refs: repeated image generation prompts chatId:`2235b62e9dda43`]
+- exploring AI video generation; cinematic style; 2× (since 2025-09-02) [refs: video generation request and follow-up chatId:`2235b62e9dda43`]
+- seeks free or cost-effective AI image-to-video tools; 1× (first: 2025-09-02) [ref: request for alternative free apps chatId:`2235b62e9dda43`]
