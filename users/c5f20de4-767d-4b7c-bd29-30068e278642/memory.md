@@ -23,6 +23,7 @@
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
 - uses image generation prompts for design asset creation; 6× (last: 2025-09-02) [refs: billboard, stick figure, style adaptation chats chatId:`1004b8a2f07b4d`]
+- manages subscription plans via agent commands; 5× (last: 2025-09-02) [refs: subscription add commands chatId:`51f711cfcc7343`; previous subscription add commands; subscription creation chatId:`da570a38ca8945`]
 
 ### Emerging (new query patterns)
 - manages subscription plans via agent commands; 4× (last: 2025-09-02) [refs: subscription add commands chatId:`51f711cfcc7343`; previous subscription add commands; subscription creation chatId:`da570a38ca8945`]
