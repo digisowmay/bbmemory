@@ -1,30 +1,3 @@
 ## Communication Patterns
-### Durable (established, 3+ reinforcements)
-- prefers concise (<50 words), informal WhatsApp-style messages with clear ask; 13× [refs: global instruction set; multiple echo reply threads chatId:`1325c42b5b4f4c`; cc50e528c2fe4a; credit addition chatId:`97d0f1e317c54c`; echo approval chatId:`74a232636c2b4d`; new echo directive chatId:`088468582df347`]
-
 ### Emerging (new signals, 1-2 reinforcements)
-- prefers single-word acknowledgments ("ack"); 1× (first: 2025-09-01) [ref: chatId:`cc50e528c2fe4a`]
-- wants reminder messages to start with “Hey, you asked me to remind you...” and avoid technical details like schedule IDs; 3× (last: 2025-09-02) [refs: chatId:`cf0cc9cda2464e`; chatId:`d4a40d2afdfc43`; chatId:`ef4d618aa6c649`]
-
-## Knowledge & Context
-### Durable (core expertise, established over time)
-- (none)
-
-### Emerging (recent learning, current focus)
-- (none)
-
-## Thinking & Working Style
-### Durable (core thinking patterns)
-- (none)
-
-### Emerging (recent behavioral shifts)
-- (none)
-
-## Platform Usage & Queries
-### Durable (regular platform activities)
-- handles repository and server deployments via automated commands; PR merges, ssh deploys, agent sync; 6× [refs: deployment request chatId:`23068aeac7034c`; PR & sync ops chatId:`7250d4330de448`; repo merge & deploy chatId:`9f55e81e3aaa48`; current repo merge & deploy chatId:`1efa68630e504a`; latest deployment chatId:`10a968c111a54a`]
-- frequently instructs agent to send "echo" messages to colleagues; casual status checks, quick comms; 5× [refs: echo directive chatId:`74a232636c2b4d`; echo directive chatId:`088468582df347`; echo directive chatId:`ef4d618aa6c649`]
-
-### Emerging (new query patterns)
-- exploring biology/zoology topics, e.g., metabolic rate and lifespan correlation; 2× (since 2025-09-02) [refs: mammal breathing correlation discussion chatId:`dabdcface7a946`; turtle correlation question chatId:`dabdcface7a946`]
-- scheduling personal greetings/reminders using scheduler; 2× (last: 2025-09-02) [refs: good morning schedule chatId:`b8d82bb726d04b`; daily greeting adjustment chatId:`b8d82bb726d04b`]
+- prefers single-word acknowledgments ("ack", "ignored"); 2× (last: 2025-09-02) [ref: chatId:`aa835ed08ba647`]
