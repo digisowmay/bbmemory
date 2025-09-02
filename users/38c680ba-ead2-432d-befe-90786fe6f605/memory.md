@@ -8,6 +8,7 @@
 - expects exhaustive datasets and calls out incomplete summaries; 10× (last: 2025-09-01) [refs: "others ?" chatId:`4e261e1b31e742`; follow-up drill-down requests chatId:`db9b4761e5c242`; grouping request chatId:`4e261e1b31e742`]
 - prefers condensed executive summaries (3-4 paragraphs max) with minimal, insight-rich tables; 5× (last: 2025-09-01) [refs: "very easy to consume report" chatId:`db9b4761e5c242`; grouping summary chatId:`4e261e1b31e742`]
 - requests copyable outputs inside code blocks for lists; 1× (first: 2025-09-02) [ref: code block email list chatId:`04d7a7e287fe46`]
+- prefers scraper tools over browser agent when retrieving data; 1× (first: 2025-09-03) [ref: oauth scope email content request chatId:`d2d2ffefb8bb4d`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
