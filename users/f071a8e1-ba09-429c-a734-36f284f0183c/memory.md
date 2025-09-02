@@ -28,4 +28,5 @@
 - requests assistant-generated operational and creative assets; 8× (since 2025-09-02) [refs: billboard design and revisions chatId:`0eed68ac30e145`; github issue requests chatId:`70331493ea4d4f`; subtle logo integration chatId:`0eed68ac30e145`; crystal clear final billboard chatId:`0eed68ac30e145`]
 
 ### Emerging (new query patterns)
-- prefers Google "nano banana" model for generation tasks and checks that assistant passes provided reference images; 1× (first: 2025-09-03) [ref: model usage request and image reference check chatId:`c0d08c6bcfdd43`]
+- prefers Google "nano banana" model for generation tasks and checks that assistant passes provided reference images; 2× (since 2025-09-03) [refs: model usage request and image reference check chatId:`c0d08c6bcfdd43`; follow-up generation chatId:`c0d08c6bcfdd43`]
+- seeks highly photorealistic output, requests removal of obvious AI artifacts; 1× (first: 2025-09-03) [ref: realism refinement request chatId:`c0d08c6bcfdd43`]
