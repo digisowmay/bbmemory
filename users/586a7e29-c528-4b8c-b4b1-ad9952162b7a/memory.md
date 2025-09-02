@@ -5,13 +5,14 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - prefers outcome explanations to be concise confirmations of changes; 3× (last: 2025-09-02) [refs: assistant confirmations in chatId:`ee2db5d4f3ed4d`]
-- incorporates real-world cultural or brand elements into edits (e.g., Pyaterочка bag, PUMA items, Vladimir Putin); 3× (last: 2025-09-02) [refs: bag swap chatId:`ee2db5d4f3ed4d`; PUMA yoga request chatId:`f2a738d4fc3244`; Putin PUMA treadmill chatId:`748e54e3493944`]
+- incorporates real-world cultural or brand elements into edits (e.g., Pyaterочка bag, PUMA yoga top); 2× (last: 2025-09-02) [refs: bag swap chatId:`ee2db5d4f3ed4d`; PUMA yoga request chatId:`f2a738d4fc3244`]
+- requests inclusion of real-world political figures in edits (e.g., Vladimir Putin); 1× (first: 2025-09-02) [ref: treadmill edit chatId:`748e54e3493944`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
 - familiar with pop culture characters and superheroes (Game of Thrones, Marvel, DC); 9× [refs: prior edits chatId:`ee2db5d4f3ed4d`; Flash treadmill edit chatId:`0984ea5e830243`]
 
-### Emerging (recent learning, current focus)
+### Emerging (recent learning, current focus)  
 - knows Russian retail brand Pyaterочка; 1× (since 2025-09-02) [ref: bag swap chatId:`ee2db5d4f3ed4d`]
 - interested in tuned street racing supercars and hypercars; 2× (last: 2025-09-02) [refs: supercar lawn edit chatId:`582b53fbbe8240`; current request chatId:`23bea9febe1e44`]
 
