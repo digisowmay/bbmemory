@@ -5,6 +5,7 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - uses informal lowercase language and expresses frustration bluntly; 3× (last: 2025-09-02) [refs: acquisition schedule failure chatId:`92dcf0c4bc2347`; schedule interval request chatId:`92dcf0c4bc2347`; SaaS paid user query chatId:`800b4bd946834b`]
+- prefers notifications/reminders delivered naturally without technical system details; 1× (first: 2025-09-02) [ref: reminder delivery preference chatId:`f565cf2a97ee4c`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
