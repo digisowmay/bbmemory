@@ -11,7 +11,7 @@
 
 ### Emerging (recent learning, current focus)
 - curious about construction/municipal product specifications and sourcing; 2× (since 2025-09-01) [refs: curb stone mold description chatId:`3a189f27eff54c`; 2 m circular pit mold sourcing chatId:`3a189f27eff54c`]
-- has own fairy tale story and seeks illustration; 1× (started: 2025-09-02) [ref: illustrated story request chatId:`ddfe1d9cc64140`]
+- has own fairy tale story and seeks illustration in the "Little Miss/Mr Men" style; 2× (since 2025-09-02) [refs: illustrated story request chatId:`ddfe1d9cc64140`; Little Miss style reference chatId:`ddfe1d9cc64140`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
