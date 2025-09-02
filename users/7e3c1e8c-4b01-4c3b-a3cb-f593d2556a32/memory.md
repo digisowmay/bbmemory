@@ -1,6 +1,6 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- values precise data and corrects inaccuracies promptly; 7× (last: 2025-09-03) [refs: user acquisition timezone correction chatId:`c2e97d6eaba842`; schedule interval change chatId:`92dcf0c4bc2347`; scheduler failure fix chatId:`92dcf0c4bc2347`; user milestone query chatId:`403cdd62445444`; executions count query chatId:`ed28c933852c4d`; current executions analysis chatId:`ed28c933852c4d`]
+- values precise data and corrects inaccuracies promptly; 7× (last: 2025-09-03) [refs: user acquisition timezone correction chatId:`c2e97d6eaba842`; schedule interval change chatId:`92dcf0c4bc2347`; scheduler failure fix chatId:`92dcf0c4bc2347`; user milestone query chatId:`403cdd62445444`; executions count query chatId:`ed28c933852c4d`]
 - uses concise imperative commands for quick tasks; 12× (last: 2025-09-03) [refs: PR creation & merge commands chatId:`f7dbf111fc6242`; current PR & sync chatId:`8a3a8fcaeccd45`; schedule interval request chatId:`92dcf0c4bc2347`; reminder request chatId:`ab5acec8f9a044`; dance reminder chatId:`3301219305704d`; delete reminder chatId:`0879cfb9ae0d44`; GitHub PR & deployment chatId:`2f90caedf0e549`; user milestone query chatId:`403cdd62445444`; db query for echo details chatId:`c0eaf80af4824c`; executions count query chatId:`ed28c933852c4d`; current executions analysis chatId:`ed28c933852c4d`; executions breakdown chatId:`ed28c933852c4d`]
 - uses informal lowercase language and expresses frustration bluntly; 5× (promoted from emerging, last: 2025-09-03) [refs: acquisition schedule failure chatId:`92dcf0c4bc2347`; schedule interval request chatId:`92dcf0c4bc2347`; SaaS paid user query chatId:`800b4bd946834b`; crypto price query chatId:`eeebcd664f0248`; executions breakdown chatId:`ed28c933852c4d`]
 
@@ -25,5 +25,5 @@
 - asks for cryptocurrency price data; 4× (last: 2025-09-03) [refs: ETH price query chatId:`ab9dfe3236784b`; ETH reminders setup chatId:`b49e12ecc55241`; ETH price update action clarification chatId:`b49e12ecc55241`; crypto price query chatId:`eeebcd664f0248`]
 
 ### Emerging (new query patterns)
-- queries database via bhindi-mongodb; execution stats & debug info; 3× (last: 2025-09-03) [refs: db query for echo details chatId:`c0eaf80af4824c`; executions count query chatId:`ed28c933852c4d`; executions breakdown chatId:`ed28c933852c4d`]
+- queries database via bhindi-mongodb; execution stats & debug info; 4× (last: 2025-09-03) [refs: db query for echo details chatId:`c0eaf80af4824c`; executions count query chatId:`ed28c933852c4d`; executions breakdown chatId:`ed28c933852c4d`; executions power users analysis chatId:`ed28c933852c4d`]
 - syncs agents via bhindi-agent-manager; expects retry on failures; 1× (first: 2025-09-03) [ref: agent sync request chatId:`8760f717f7764a`]
