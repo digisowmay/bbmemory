@@ -1,16 +1,17 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
 - prefers concise, lowercase assistant replies; 9× (stable since 2025-08-20) [refs: echo delegation request chatId:`c03273d910cd4b`; news audio request chatId:`898cc38b8e6341`; github issue request chatId:`70331493ea4d4f`]
+- prefers subtle logo integration and minimalist branding; 7× (last: 2025-09-03) [refs: billboard revision requests chatId:`0eed68ac30e145`; mobile-shot billboard tweak chatId:`0eed68ac30e145`]
+- iterative design feedback with precise adjustments and demand for crystal-clear visuals; 3× (last: 2025-09-03) [refs: camera angle & quality tweaks chatId:`0eed68ac30e145`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- prefers subtle logo integration and minimalist branding; 6× (last: 2025-09-03) [refs: multiple billboard revision requests chatId:`0eed68ac30e145`]
-- iterative design feedback with precise adjustments and demands crystal-clear visuals; 2× (last: 2025-09-03) [refs: camera angle, background color, quality tweaks chatId:`0eed68ac30e145`]
+- favors realistic mobile-phone style photos with local Bengaluru context (yellow autos, bikes); 1× (first: 2025-09-03) [ref: request for BLR street vibes chatId:`0eed68ac30e145`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
 - —
 
-### Emerging (recent learning, current focus)
+### Emerging (recent learning, current focus)  
 - investigating AI model latency & routing (OpenRouter architecture); 2× (since 2025-09-03) [refs: latency questions chatId:`b28580d222314f`]
 
 ## Thinking & Working Style
@@ -22,7 +23,7 @@
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
-- —
+- requests assistant-generated operational and creative assets; 8× (since 2025-09-02) [refs: billboard design and revisions chatId:`0eed68ac30e145`; github issue requests chatId:`70331493ea4d4f`; subtle logo integration chatId:`0eed68ac30e145`; crystal clear final billboard chatId:`0eed68ac30e145`]
 
 ### Emerging (new query patterns)
-- requests assistant-generated operational and creative assets; 7× (since 2025-09-02) [refs: billboard design and revisions chatId:`0eed68ac30e145`; github issue requests chatId:`70331493ea4d4f`; subtle logo integration chatId:`0eed68ac30e145`; crystal clear final billboard chatId:`0eed68ac30e145`]
+- —
