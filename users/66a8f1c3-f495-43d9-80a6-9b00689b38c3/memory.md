@@ -4,7 +4,7 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - requests very specific output formats (LaTeX resume, raw code snippets) and clear deliverables; 4× (last: 2025-09-02) [refs: resume creation iterations chatId:`a260b52dcbb348`]
-- emphasizes flawless formatting & ATS >95, asks for iterative refinements until perfect; 1× (first: 2025-09-02) [ref: spacing/grammar correction request chatId:`a260b52dcbb348`]
+- emphasizes flawless formatting & ATS >95, asks for iterative refinements until perfect; 2× (last: 2025-09-02) [refs: repeated ATS score check and refinement chatId:`a260b52dcbb348`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
