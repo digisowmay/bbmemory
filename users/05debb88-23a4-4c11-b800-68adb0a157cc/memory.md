@@ -3,7 +3,7 @@
 - (none yet)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- seeks detailed guidance for career transition; 2× (last: 2025-09-02) [refs: career switch guidance request chatId:`c8c11e0c110042`; weekly preparation plan request chatId:`c8c11e0c110042`]
+- seeks detailed guidance for career transition; 3× (last: 2025-09-02) [refs: career switch guidance request chatId:`c8c11e0c110042`; weekly preparation plan request chatId:`c8c11e0c110042`; guaranteed job guidance chatId:`c8c11e0c110042`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -18,7 +18,8 @@
 - (none yet)
 
 ### Emerging (recent behavioral shifts)
-- requests structured weekly study schedules; time-boxes daily commitment to 2-3 hours; 1× (first: 2025-09-02) [ref: study schedule request chatId:`c8c11e0c110042`]
+- requests structured weekly study schedules; time-boxes daily commitment to 2-3 hours; 2× (last: 2025-09-02) [refs: study schedule request chatId:`c8c11e0c110042`; guaranteed job guidance chatId:`c8c11e0c110042`]
+- seeks guaranteed success with explicit milestones and detailed roadmaps; 1× (first: 2025-09-02) [ref: guaranteed job guidance chatId:`c8c11e0c110042`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
