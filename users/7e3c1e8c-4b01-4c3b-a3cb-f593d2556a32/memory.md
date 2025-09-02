@@ -4,6 +4,7 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - uses informal lowercase language and expresses frustration bluntly (e.g., calling assistant "dumbo"); 2× (last: 2025-09-02) [refs: acquisition schedule failure chatId:`92dcf0c4bc2347`; schedule interval request chatId:`92dcf0c4bc2347`]
+- gives concise imperative commands for repo management tasks; 1× (first: 2025-09-02) [ref: PR creation command chatId:`f7dbf111fc6242`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -20,3 +21,4 @@
 - schedules automated metrics (user acquisition counts) via scheduler; 5× (promoted from emerging, last: 2025-09-02) [refs: multiple scheduler setup attempts chatId:`92dcf0c4bc2347`; hourly acquisition queries chatId:`c2e97d6eaba842`]
 
 ### Emerging (new query patterns)
+- requests GitHub repo actions (pull requests, issue creation) for bhindi repos; 1× (first: 2025-09-02) [ref: PR creation command chatId:`f7dbf111fc6242`]
