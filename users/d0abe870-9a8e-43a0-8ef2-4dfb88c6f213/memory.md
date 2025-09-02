@@ -2,7 +2,7 @@
 ### Durable (established, 3+ reinforcements)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- requests direct, action-oriented tasks without extra explanation; 1× (first: 2025-09-01) [ref: pull request creation request chatId:`9334b22983e548`]
+- requests direct, action-oriented tasks without extra explanation; 2× (last: 2025-09-02) [refs: pull request creation request chatId:`9334b22983e548`; account connection and identity queries chatId:`13250b6f1b2146`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
