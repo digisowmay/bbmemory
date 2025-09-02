@@ -1,11 +1,10 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- provides brief confirmations when satisfied and concise modification requests; 5× (stable since 2025-09-02) [refs: chatId:`3cc65e5c75b949`; chatId:`bc86f4e5f1fb40`]
+- provides brief confirmations when satisfied and concise modification requests; 6× (stable since 2025-09-02) [refs: chatId:`3cc65e5c75b949`; chatId:`bc86f4e5f1fb40`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- expects proactive, action-oriented phrasing exactly at scheduled execution time; 1× (first: 2025-09-02) [ref: chatId:`bc86f4e5f1fb40`]
+- expects proactive, action-oriented phrasing exactly at scheduled execution time; 2× (last: 2025-09-02) [refs: chatId:`bc86f4e5f1fb40`]
 - asks for frequent automated status updates and scheduling tweaks; 4× (last: 2025-09-02) [refs: chatId:`3cc65e5c75b949`]
-- corrects operational details (e.g., timezone adjustments) to ensure accuracy; 1× (first: 2025-09-02) [ref: chatId:`3cc65e5c75b949`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -29,5 +28,5 @@
 -
 
 ### Emerging (new query patterns)
-- wants LinkedIn integration for direct messaging/outreach workflows; 5× (last: 2025-09-02) [refs: chatId:`3cc65e5c75b949`]
-- uses Google Sheets for campaign tracking and data management; 3× (last: 2025-09-02) [refs: chatId:`3cc65e5c75b949`]
+- wants LinkedIn integration for direct messaging/outreach workflows; 6× (last: 2025-09-02) [refs: chatId:`bc86f4e5f1fb40`]
+- uses Google Sheets for campaign tracking and data management; 4× (last: 2025-09-02) [refs: chatId:`bc86f4e5f1fb40`]
