@@ -3,8 +3,8 @@
 -
 
 ### Emerging (new signals, 1-2 reinforcements)
-- provides detailed, descriptive prompts for visual outputs; 6× (last: 2025-09-02) [refs: image generation prompts chatId:`2235b62e9dda43`]
-- requests assistant to save conversation logs; 3× (last: 2025-09-02) [ref: save conversation requests chatId:`2235b62e9dda43`]
+- provides detailed, descriptive prompts for visual outputs; 7× (last: 2025-09-02) [refs: image generation prompts chatId:`2235b62e9dda43`]
+- requests assistant to save conversation logs; 4× (last: 2025-09-02) [refs: save conversation requests chatId:`2235b62e9dda43`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -25,6 +25,5 @@
 -
 
 ### Emerging (new query patterns)
-- exploring AI image generation; cinematic, photorealistic outputs; 6× (since 2025-09-02) [refs: repeated image generation prompts chatId:`2235b62e9dda43`]
-- exploring AI video generation; cinematic style; 4× (since 2025-09-02) [refs: video generation discussions chatId:`2235b62e9dda43`]
-- seeks free or cost-effective AI image-to-video tools; 4× (since 2025-09-02) [refs: requests for alternative free apps chatId:`2235b62e9dda43`]
+- exploring AI image generation; cinematic, photorealistic outputs; 7× (since 2025-09-02) [refs: repeated image generation prompts chatId:`2235b62e9dda43`]
+- exploring AI video generation and seeking free or cost-effective image-to-video tools; 5× (since 2025-09-02) [refs: video generation discussions & tool recommendations chatId:`2235b62e9dda43`]
