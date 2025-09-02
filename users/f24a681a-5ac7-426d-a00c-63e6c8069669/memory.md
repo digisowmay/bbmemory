@@ -5,16 +5,15 @@
 - asks meta questions about platform tools before proceeding; 9× [refs: PDF compressor explanation chatId:`1023387676084f`; tool capability inquiry chatId:`1023387676084f`; agent usage clarification chatId:`fcfddeda041340`; current session chatId:`fcfddeda041340`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- expects the assistant to explicitly request user-supplied assets (e.g., images) before proceeding; 3× (last: 2025-09-02) [refs: thumbnail creation chatId:`5aac8767e2714e`; follow-up image prompt chatId:`5aac8767e2714e`; question mark replies chatId:`5aac8767e2714e`]
+- expects the assistant to explicitly request user-supplied assets (e.g., images) before proceeding; 4× (last: 2025-09-02) [refs: thumbnail creation chatId:`5aac8767e2714e`; follow-up image prompt chatId:`5aac8767e2714e`; question mark replies chatId:`5aac8767e2714e`; logo design brief chatId:`d5bcc3e22fb24d`]
 - issues terse imperative commands like "execute this", "RESUME", and "?" expecting immediate action; 6× (last: 2025-09-02) [refs: Todoist execution chatId:`5aac8767e2714e`; RESUME command chatId:`5aac8767e2714e`; confirmation directive chatId:`5aac8767e2714e`; agent replacement request chatId:`fcfddeda041340`; RESUME command chatId:`fcfddeda041340`; restart prompt chatId:`fcfddeda041340`]
-- requests concise or shortened versions of previously provided prompts while retaining full functionality; 3× (last: 2025-09-02) [refs: MIS prompt shortening chatId:`5aac8767e2714e`; request to shorten prompt again chatId:`5aac8767e2714e`; prompt shortening confirmation chatId:`5aac8767e2714e`]
-- provides detailed creative briefs for content (e.g., hook, timestamps, b-roll) expecting structured deliverables; 1× (first: 2025-09-02) [ref: YouTube script request chatId:`8d6e98e3722542`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
 
 ### Emerging (recent learning, current focus)
 - VC-funded startup preparing quarterly update calls; needs MIS templates for investors; 1× (first: 2025-09-02) [ref: MIS template request chatId:`5aac8767e2714e`]
+- owner/operator of matcha cafe brand 'sipz' targeting Gen-Z and millennials; 1× (started: 2025-09-02) [ref: logo design request chatId:`d5bcc3e22fb24d`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
