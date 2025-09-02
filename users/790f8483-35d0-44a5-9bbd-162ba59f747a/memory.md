@@ -5,6 +5,7 @@
 ### Emerging (new signals, 1-2 reinforcements)
 - gives brief imperative commands; expects quick action or implementation; 12× (last: 2025-09-02) [refs: chatId:`01df00b469f447`; chatId:`92665348120c45`; chatId:`8ca3cb93a8714b`; chatId:`05e86ddda4bf48`; chatId:`0ecffd4a876841`; chatId:`0531641775964d`; chatId:`9a4b6166919f4f`; chatId:`d37490428fc745`; chatId:`94e126cf3e2340`; chatId:`bcafa9b0e03b4d`; chatId:`bcafa9b0e03b4d`]
 - prefers multimodal responses, including audio output; 1× (first: 2025-09-02) [ref: book-to-action guide request chatId:`d37490428fc745`]
+- uses informal/expletive language to express surprise and requests factual confirmation; 1× (first: 2025-09-02) [ref: chatId:`a6d71686434a4a`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
