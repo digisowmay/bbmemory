@@ -12,8 +12,8 @@
 ### Durable (core expertise, established over time)
 - —
 
-### Emerging (recent learning, current focus)  
-- investigating AI model latency & routing (OpenRouter architecture); 2× (since 2025-09-03) [refs: latency questions chatId:`b28580d222314f`]
+### Emerging (recent learning, current focus)
+- investigating AI model latency & routing (OpenRouter architecture, model selection); 3× (last: 2025-09-03) [refs: latency questions chatId:`b28580d222314f`; model selection request chatId:`c0d08c6bcfdd43`]
 - running internal citywide billboard mockup campaign to impress team; 1× (first: 2025-09-03) [ref: billboard perception discussion chatId:`ad5a410517b742`]
 
 ## Thinking & Working Style
