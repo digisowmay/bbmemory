@@ -3,7 +3,8 @@
 - (none identified yet)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- provides descriptive, cinematic prompts for AI image generation; 2× (last: 2025-09-02) [refs: image prompt about Cannes red carpet chatId:`e2773913e93e4a`; follow-up red carpet prompt chatId:`e7a135192b134f`]
+- provides descriptive, cinematic prompts for AI image generation; 3× (last: 2025-09-02) [refs: red carpet prompts chatId:`e7a135192b134f`]
+- specifies strict instructions to preserve original facial features in edits; 1× (first: 2025-09-02) [ref: face-preserving request chatId:`e7a135192b134f`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -24,4 +25,5 @@
 - (none identified yet)
 
 ### Emerging (new query patterns)
-- exploring AI image generation; 2× (since 2025-09-02) [refs: image generation request chatId:`e2773913e93e4a`; subsequent red carpet generation chatId:`e7a135192b134f`]
+- exploring AI image generation; 3× (since 2025-09-02) [refs: image generation requests chatId:`e7a135192b134f`]
+- exploring face-preserving image editing; 1× (first: 2025-09-02) [ref: face-preserving request chatId:`e7a135192b134f`]
