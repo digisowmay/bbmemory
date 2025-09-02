@@ -12,9 +12,9 @@
 ### Durable (core expertise, established over time)
 
 ### Emerging (recent learning, current focus)
+- preparing for CAT entrance exam on 29 Nov 2025; intermediate level; wants structured daily schedule with progressive intensity; 2× (since 2025-09-02) [refs: CAT schedule request chatId:`e436306ba22f4e`; follow-up schedule info chatId:`e436306ba22f4e`]
 - VC-funded startup preparing quarterly update calls; needs MIS templates for investors; 1× (first: 2025-09-02) [ref: MIS template request chatId:`5aac8767e2714e`]
 - owner/operator of matcha cafe brand 'sipz' targeting Gen-Z and millennials; 1× (started: 2025-09-02) [ref: logo design request chatId:`d5bcc3e22fb24d`]
-- preparing for CAT entrance exam; wants structured daily schedule with progressive intensity; 1× (first: 2025-09-02) [ref: CAT schedule request chatId:`e436306ba22f4e`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
