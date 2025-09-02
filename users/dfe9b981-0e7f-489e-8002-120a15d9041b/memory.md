@@ -4,7 +4,7 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - prefers minimal aesthetic and strict adherence to brand assets; 4× (last: 2025-09-02) [refs: branded poster request chatId:`9d66ad882d5d40`; insist original logo chatId:`9d66ad882d5d40`; skipped poster due to brand mismatch chatId:`9d66ad882d5d40`; complaint about altered logo chatId:`9d66ad882d5d40`]
-- asks for proactive follow-ups and timely confirmations; 1× (first: 2025-09-02) [ref: requested follow-up with Kuber chatId:`9d66ad882d5d40`]
+- asks for proactive follow-ups and timely confirmations; 2× (last: 2025-09-02) [refs: requested follow-up with Kuber chatId:`9d66ad882d5d40`; delegated meeting scheduling chatId:`9d66ad882d5d40`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -20,6 +20,7 @@
 
 ### Emerging (recent behavioral shifts)
 - iterative decision-making: asks for alternatives then selects; 2× (last: 2025-09-01) [refs: choice among poster variations chatId:`9d66ad882d5d40`; decided to skip poster and proceed chatId:`9d66ad882d5d40`]
+- delegates external communication tasks to assistant for efficiency; 1× (first: 2025-09-02) [ref: request to manage communication with Kuber chatId:`9d66ad882d5d40`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
