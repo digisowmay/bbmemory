@@ -2,7 +2,7 @@
 ### Durable (established, 3+ reinforcements)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- Uses "RESUME" directive to continue workflows and expects continuity after tool errors; 4× (last: 2025-09-02) [refs: chatId:`6acaadefd0224d`]
+- Uses "RESUME" directive to continue workflows and expects continuity after tool errors; 5× (last: 2025-09-02) [refs: chatId:`6acaadefd0224d`]
 - Prefers concrete personalized message samples for outreach; 2× (last: 2025-09-02) [refs: chatId:`6acaadefd0224d`]
 
 ## Knowledge & Context
@@ -22,4 +22,4 @@
 
 ### Emerging (new query patterns)
 - Exploring sales outreach and messaging automation; 3× (since 2025-09-02) [refs: chatId:`21c0721a681f4d`; chatId:`6acaadefd0224d`]
-- Requests bulk contact lists for target company executives; 1× (first: 2025-09-02) [ref: chatId:`6acaadefd0224d`]
+- Requests bulk contact lists for target company executives; 3× (last: 2025-09-02) [refs: chatId:`6acaadefd0224d`]
