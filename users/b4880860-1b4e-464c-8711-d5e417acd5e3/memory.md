@@ -2,7 +2,7 @@
 ### Durable (established, 3+ reinforcements)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- prefers Arabic language for communication; 1× (first: 2025-09-02) [ref: request "اكونت قديم" chatId:`f95c374e52344f`]
+- prefers Arabic language for communication; 2× (last: 2025-09-02) [refs: request "اكونت قديم" chatId:`f95c374e52344f`; Facebook account recovery request chatId:`f95c374e52344f`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
