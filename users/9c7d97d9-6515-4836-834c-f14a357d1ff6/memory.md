@@ -4,14 +4,15 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - prefers positive, solution-oriented tone over negative/whiny language in finance content; 2× (last: 2025-09-01) [refs: feedback about not cribbing chatId:`a5c480e124a344`; evening post issue chatId:`6f41e83c4b4441`]
-- prefers witty, sharp tone for Twitter posts; 2× (last: 2025-09-02) [refs: witty Gadkari post request chatId:`3b26d7c8731144`; "More options" follow-up chatId:`3b26d7c8731144`]
+- prefers witty, sharp tone for Twitter posts; 3× (last: 2025-09-02) [refs: witty Gadkari post request chatId:`3b26d7c8731144`; market round-up tweet chatId:`3b26d7c8731144`; trending Himachal post request chatId:`3b26d7c8731144`]
+- asks for explicit confirmation after tool actions by typing 'CONFIRM'; 1× (first: 2025-09-02) [ref: tweet confirmation chatId:`3b26d7c8731144`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
 
 ### Emerging (recent learning, current focus)
 - runs a finance-focused Twitter account targeting Indian Gen Z/millennials, incorporating Hinglish and relatable examples; 1× (since 2025-09-01) [ref: tweet scheduling discussion chatId:`6f41e83c4b4441`]
-- creating content on Indian politics/business scandals for Twitter audience; 2× (last: 2025-09-02) [refs: Gadkari ethanol scandal post request chatId:`3b26d7c8731144`; additional witty variations chatId:`3b26d7c8731144`]
+- creating content on Indian politics/business scandals for Twitter audience; 1× (first: 2025-09-02) [ref: Gadkari ethanol scandal post request chatId:`3b26d7c8731144`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
@@ -24,4 +25,4 @@
 
 ### Emerging (new query patterns)
 - frequently schedules and monitors automated Twitter posts, specifically morning (9 AM) and evening (6:30 PM) tweets; 5× (last: 2025-09-02) [refs: scheduler query chatId:`6f41e83c4b4441`; evening post issue chatId:`6f41e83c4b4441`; automation refresh chatId:`6f41e83c4b4441`; schedule failure chatId:`3b26d7c8731144`]
-- sends ad-hoc tweets directly via assistant; requests witty/real-time content; 1× (first: 2025-09-02) [ref: Gadkari witty post request chatId:`3b26d7c8731144`]
+- requesting real-time news searches to craft timely tweets; 1× (first: 2025-09-02) [ref: real-time Himachal tweet request chatId:`3b26d7c8731144`]
