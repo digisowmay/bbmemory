@@ -3,6 +3,7 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - shares full YAML/code snippets and asks for technical validation; 1× (first: 2025-09-01) [ref: pipeline equivalence discussion chatId:`cd6510103aff40`]
+- frequently apologizes for perceived inconveniences; polite tone; 1× (last: 2025-09-02) [ref: apology message chatId:`6824ea239ac240`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
