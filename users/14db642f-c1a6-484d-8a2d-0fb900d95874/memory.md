@@ -1,6 +1,6 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- wants detailed expert-backed analysis before making purchase/booking decisions; 5× (stable since 2025-09-01) [refs: smartphone buying advice; multiple Delhi accommodation queries chatId:`3f05fd8480d94b`]
+- wants detailed expert-backed analysis before making purchase/booking decisions; 6× (stable since 2025-09-01) [refs: smartphone buying advice; multiple Delhi accommodation queries chatId:`3f05fd8480d94b`; couple getaway suggestion chatId:`888e103d2b4949`]
 - prefers direct actionable links (URLs) for recommendations; 4× (stable since 2025-09-01) [refs: Airbnb links request; corridor options request; latest link follow-up chatId:`3f05fd8480d94b`]
 
 ### Emerging (new signals, 1-2 reinforcements)
@@ -22,7 +22,7 @@
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
-- requests travel accommodation suggestions (budget Airbnb/hotel); 5× [refs: initial Delhi Airbnb request; links follow-up; corridor accommodation request; Aerocity corridor query; best place near Yashobhoomi chatId:`3f05fd8480d94b`]
+- requests travel accommodation suggestions (budget Airbnb/hotel); 6× [refs: initial Delhi Airbnb request; links follow-up; corridor accommodation request; Aerocity corridor query; best place near Yashobhoomi chatId:`3f05fd8480d94b`; couple getaway suggestion chatId:`888e103d2b4949`]
 
 ### Emerging (new query patterns)
 - initiates blockchain token transfers via Brewit; salary disbursement commands and email notifications; 2× (last: 2025-09-01) [refs: USDC transfer instruction chatId:`a4b58f06220b4c`; salary disbursement chatId:`8123288948eb41`]
