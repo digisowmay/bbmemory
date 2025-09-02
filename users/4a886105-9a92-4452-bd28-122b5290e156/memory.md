@@ -4,11 +4,11 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - asks clarifying questions about cron semantics and timing accuracy; 1× (first: 2025-09-02) [ref: every-30-minutes vs :30 discussion chatId:`85ffbfdfe94742`]
-- demands raw JSON output exactly "as is" and uses strong language when expectations aren't met; 1× (first: 2025-09-02) [ref: agent info JSON request chatId:`d18203936f144e`]
+- demands raw JSON output exactly "as is" and uses strong language when expectations aren't met; 2× (last: 2025-09-02) [refs: agent info JSON request chatId:`d18203936f144e`; prompt re-request with strong language chatId:`d18203936f144e`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
-- uses Bhindi scheduling to automate recurring reminders (water, pee break, jokes, physics) and manage schedules; 3× [refs: recurring action #16 chatId:`85ffbfdfe94742`; schedule creation; deletions chatId:`85ffbfdfe94742`]
+- uses Bhindi scheduling to automate recurring reminders (water, pee break, jokes, physics); 3× [refs: recurring action #16 chatId:`85ffbfdfe94742`; schedule creation; deletions chatId:`85ffbfdfe94742`]
 
 ### Emerging (recent learning, current focus)
 - enjoys periodic humor content via scheduled automation; 1× (started: 2025-09-02) [ref: joke and physics joke schedule creation chatId:`85ffbfdfe94742`]
