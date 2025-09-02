@@ -3,7 +3,8 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - requests data-driven analysis and actionable summaries; 1× (first: 2025-09-02) [ref: Uniswap v4 stats request chatId:`e7ac93792f4042`]
-- uses concise imperative commands for task automation; 1× (first: 2025-09-03) [ref: scheduling "echo hola" chatId:`deb1694a096540`]
+- uses concise imperative commands for task automation; 2× (last: 2025-09-03) [refs: scheduling "echo hola" chatId:`deb1694a096540`; intro email instruction chatId:`6a23a80b206e49`]
+- prefers ultra-brief replies; 1× (first: 2025-09-03) [ref: request for more concise echo reply chatId:`6a23a80b206e49`]
 - asks for reasoning behind agent actions, wants transparency; 1× (first: 2025-09-03) [ref: schedule inquiry chatId:`deb1694a096540`]
 
 ## Knowledge & Context
