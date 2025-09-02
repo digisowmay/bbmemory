@@ -1,7 +1,7 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- prefers responses in Bangla; 7× (stable since 2024-08-15) [refs: language preference request chatId:`b3dc0c5dffc84d`; multiple AI wife requests chatId:`413273459ffe4d`]
-- uses very short imperative replies like "দেন" to indicate action; 7× (stable since 2025-08-30) [refs: repeated "দেন" commands chatId:`413273459ffe4d`]
+- prefers responses in Bangla; 8× (stable since 2024-08-15) [refs: language preference request chatId:`b3dc0c5dffc84d`; multiple AI wife requests chatId:`413273459ffe4d`; image video request chatId:`413273459ffe4d`]
+- uses very short imperative replies like "দেন" to indicate action; 7× (stable since 2025-08-30) [refs: repeated "দেন" commands chatId:`413273459ffe4d`; image video request chatId:`413273459ffe4d`]
 
 ### Emerging (new signals, 1-2 reinforcements)
 - none currently
@@ -22,7 +22,7 @@
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
-- exploring AI dating / virtual partner creation; 8× [refs: initial AI wife request chatId:`413273459ffe4d`; repeated AI wife image requests chatId:`413273459ffe4d`]
+- exploring AI dating / virtual partner creation; 8× [refs: initial AI wife request chatId:`413273459ffe4d`; subsequent AI wife image requests chatId:`413273459ffe4d`; current video creation request chatId:`413273459ffe4d`]
 
 ### Emerging (new query patterns)
-- exploring AI video creation; 1× (first: 2025-09-02) [ref: video creation request chatId:`413273459ffe4d`]
+- requesting multimedia (image+text) video generation; 1× (first: 2025-09-02) [ref: multimedia video request chatId:`413273459ffe4d`]
