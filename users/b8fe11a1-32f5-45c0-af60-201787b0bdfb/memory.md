@@ -4,7 +4,7 @@
 - requests precise camera perspectives/angles (rear, side, behind); 5× [refs: rear-view resort request; side-view luxury resort request; angle change to side chatId:`e26ceb22a9084b`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- seeks professional-level finishing touches ("make it look shot by a professional photographer"); 1× (first: 2025-09-02) [ref: vintage photo pro quality request chatId:`aa5c18b33ed044`]
+- seeks professional-level finishing touches ("make it look shot by a professional photographer"); 2× (last: 2025-09-02) [refs: vintage photo pro quality request chatId:`aa5c18b33ed044`; sharpness/pro look follow-up chatId:`aa5c18b33ed044`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -13,7 +13,7 @@
 - experimenting with dramatic body type alterations (obese, muscular, etc.); 9× (since 2025-09-01) [refs: multiple body type requests chatId:`e26ceb22a9084b`]
 - interest in beach and resort scene aesthetics with varied swimwear styles; 9× (since 2025-09-01) [refs: bikini/swimsuit and resort background edits; White Lotus-style party scene chatId:`e26ceb22a9084b`]
 - exploring sports-themed attire and luxury resort settings (golf & tennis scenarios); 2× (started: 2025-09-01, last: 2025-09-01) [refs: golfer/tennis player resort edits chatId:`e26ceb22a9084b`]
-- restoring and enhancing vintage personal photographs; 1× (started: 2025-09-02) [ref: vintage photo enhancement chatId:`aa5c18b33ed044`]
+- restoring and enhancing vintage personal photographs; 2× (since 2025-09-02) [refs: vintage photo color correction & upscale chatId:`aa5c18b33ed044`; B&W colorization chatId:`aa5c18b33ed044`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
