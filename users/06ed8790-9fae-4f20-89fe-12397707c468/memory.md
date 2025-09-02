@@ -25,4 +25,4 @@
 - exploring AI dating / virtual partner creation; 8× [refs: initial AI wife request chatId:`413273459ffe4d`; subsequent AI wife image requests chatId:`413273459ffe4d`; current video creation request chatId:`413273459ffe4d`]
 
 ### Emerging (new query patterns)
-- requesting multimedia (image+text) video generation; 1× (first: 2025-09-02) [ref: multimedia video request chatId:`413273459ffe4d`]
+- requesting multimedia (image+text) video generation; 2× (since 2025-09-02) [refs: initial multimedia video request chatId:`413273459ffe4d`; follow-up request with combined image+text video chatId:`413273459ffe4d`]
