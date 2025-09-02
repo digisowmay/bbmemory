@@ -2,13 +2,13 @@
 ### Durable (established, 3+ reinforcements)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- makes very concise requests using informal phrasing ("wana"), expects direct assistance; 1× (first: 2025-09-02) [ref: perfume sales request chatId:`d3412ac867794b`]
+- makes very concise requests using informal phrasing ("wana"), expects direct assistance; 2× (last: 2025-09-02) [refs: perfume sales request; hand free sales mention chatId:`d3412ac867794b`]
 
 ## Knowledge & Context
 ### Durable (core expertise)
 
 ### Emerging (recent learning, current focus)
-- starting a perfume selling business; wants customers and e-commerce setup support; 1× (started: 2025-09-02) [refs: request to sell perfumes chatId:`d3412ac867794b`]
+- starting an e-commerce business selling perfumes and hands-free devices; seeking customers and setup support; 2× (since 2025-09-02) [refs: perfume sales request; hand free sales mention chatId:`d3412ac867794b`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
@@ -19,4 +19,4 @@
 ### Durable (regular platform activities)
 
 ### Emerging (new query patterns)
-- exploring e-commerce tools (Shopify, Stripe) and marketing channels for perfume sales; 1× (since 2025-09-02) [ref: agent addition discussion chatId:`d3412ac867794b`]
+- exploring e-commerce tools (Shopify, Stripe) and marketing channels (Instagram, LinkedIn) for perfume and hands-free sales; 2× (since 2025-09-02) [refs: agent addition discussion; business expansion chatId:`d3412ac867794b`]
