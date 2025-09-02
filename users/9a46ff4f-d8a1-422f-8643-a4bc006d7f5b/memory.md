@@ -2,7 +2,7 @@
 ### Durable (established, 3+ reinforcements)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- requests comprehensive multi-step travel assistance in single concise message; 2× (last: 2025-09-02) [refs: travel planning request chatId:`109525fee4e94f`; route request chatId:`010fae9f861445`]
+- requests comprehensive multi-step travel assistance in single concise message; 3× (last: 2025-09-02) [refs: travel planning request chatId:`109525fee4e94f`; route request chatId:`010fae9f861445`; link request chatId:`010fae9f861445`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -19,4 +19,4 @@
 ### Durable (regular platform activities)
 
 ### Emerging (new query patterns)
-- seeking travel planning help (flights, hotels, itineraries, routes); 2× (since 2025-09-02) [refs: travel planning request chatId:`109525fee4e94f`; route request chatId:`010fae9f861445`]
+- seeking travel planning help (flights, hotels, itineraries, routes); 3× (since 2025-09-02) [refs: travel planning request chatId:`109525fee4e94f`; route request chatId:`010fae9f861445`; link request chatId:`010fae9f861445`]
