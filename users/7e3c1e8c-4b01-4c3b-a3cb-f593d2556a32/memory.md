@@ -4,7 +4,7 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - prefers single-word acknowledgments ("ack"); 1× (first: 2025-09-01) [ref: chatId:`cc50e528c2fe4a`]
-- wants reminder messages to start with “Hey, you asked me to remind you...” ; 2× (last: 2025-09-01) [refs: chatId:`cf0cc9cda2464e`; chatId:`d4a40d2afdfc43`]
+- wants reminder messages to start with “Hey, you asked me to remind you...” and avoid technical details like schedule IDs; 3× (last: 2025-09-02) [refs: chatId:`cf0cc9cda2464e`; chatId:`d4a40d2afdfc43`; chatId:`ef4d618aa6c649`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -23,6 +23,7 @@
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
 - handles repository and server deployments via automated commands; PR merges, ssh deploys, agent sync; 6× [refs: deployment request chatId:`23068aeac7034c`; PR & sync ops chatId:`7250d4330de448`; repo merge & deploy chatId:`9f55e81e3aaa48`; current repo merge & deploy chatId:`1efa68630e504a`; latest deployment chatId:`10a968c111a54a`]
+- frequently instructs agent to send "echo" messages to colleagues; casual status checks, quick comms; 5× [refs: echo directive chatId:`74a232636c2b4d`; echo directive chatId:`088468582df347`; echo directive chatId:`ef4d618aa6c649`]
 
 ### Emerging (new query patterns)
 - exploring biology/zoology topics, e.g., metabolic rate and lifespan correlation; 2× (since 2025-09-02) [refs: mammal breathing correlation discussion chatId:`dabdcface7a946`; turtle correlation question chatId:`dabdcface7a946`]
