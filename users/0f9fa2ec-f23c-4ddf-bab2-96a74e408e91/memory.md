@@ -8,7 +8,7 @@
 ### Durable (core expertise, established over time)
 
 ### Emerging (recent learning, current focus)
-- building n8n workflow for legal research; 1× (started: 2025-08-31) [ref: asked help creating n8n workflow for legal research]
+- building n8n workflow for legal research; 2× (since 2025-08-31) [refs: initial request for n8n workflow; repeat request chatId:`ee226081f5b249`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
@@ -20,4 +20,4 @@
 ### Durable (regular platform activities)
 
 ### Emerging (new query patterns)
-- exploring n8n setup and API integration; 2× (since 2025-08-31) [refs: asked for sample URL; connection troubleshooting]
+- exploring n8n setup and API integration; 3× (since 2025-08-31) [refs: asked for sample URL; connection troubleshooting; repeat request chatId:`ee226081f5b249`]
