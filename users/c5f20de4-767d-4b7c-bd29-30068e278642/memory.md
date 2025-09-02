@@ -4,7 +4,7 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - requests lists separated by commas; 1× (first: 2025-09-02) [ref: agents list request chatId:`12a2cbec90114d`]
-- uses very short, direct lowercase commands; 1× (first: 2025-09-03) [ref: osint agent request chatId:`83a6f8f845cc43`]
+- uses very short, direct lowercase commands; 2× (last: 2025-09-03) [refs: osint agent request chatId:`83a6f8f845cc43`; wikipedia agent accuracy inquiry chatId:`83a6f8f845cc43`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
