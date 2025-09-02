@@ -6,7 +6,7 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - expects the assistant to explicitly request user-supplied assets (e.g., images) before proceeding; 3× (last: 2025-09-02) [refs: thumbnail creation chatId:`5aac8767e2714e`; follow-up image prompt chatId:`5aac8767e2714e`; question mark replies chatId:`5aac8767e2714e`]
-- issues terse imperative commands like "execute this", "RESUME", and "?" expecting immediate action; 5× (last: 2025-09-02) [refs: Todoist execution chatId:`5aac8767e2714e`; RESUME command chatId:`5aac8767e2714e`; confirmation directive chatId:`5aac8767e2714e`; agent replacement request chatId:`fcfddeda041340`]
+- issues terse imperative commands like "execute this", "RESUME", and "?" expecting immediate action; 6× (last: 2025-09-02) [refs: Todoist execution chatId:`5aac8767e2714e`; RESUME command chatId:`5aac8767e2714e`; confirmation directive chatId:`5aac8767e2714e`; agent replacement request chatId:`fcfddeda041340`; RESUME command chatId:`fcfddeda041340`; restart prompt chatId:`fcfddeda041340`]
 - requests concise or shortened versions of previously provided prompts while retaining full functionality; 3× (last: 2025-09-02) [refs: MIS prompt shortening chatId:`5aac8767e2714e`; request to shorten prompt again chatId:`5aac8767e2714e`; prompt shortening confirmation chatId:`5aac8767e2714e`]
 - provides detailed creative briefs for content (e.g., hook, timestamps, b-roll) expecting structured deliverables; 1× (first: 2025-09-02) [ref: YouTube script request chatId:`8d6e98e3722542`]
 
@@ -32,4 +32,4 @@
 - exploring productivity workflows with Todoist task management; 4× (since 2025-09-02) [refs: Todoist workflow request chatId:`5aac8767e2714e`; Todoist execution chatId:`5aac8767e2714e`; weekly planning setup chatId:`5aac8767e2714e`; productivity system creation chatId:`5aac8767e2714e`]
 - exploring Indian trading platforms (DhanHQ, Groww) for portfolio/trading automation; 1× (first: 2025-09-02) [ref: DhanHQ + Groww prompt request chatId:`5aac8767e2714e`]
 - requests YouTube scripts and content assets (financial education); 1× (first: 2025-09-02) [ref: YouTube script request chatId:`8d6e98e3722542`]
-- requests deliverables in Google Docs format; 2× (since 2025-09-02) [refs: SEO blog outline Google Doc chatId:`fcfddeda041340`; earlier Google Doc request chatId:`fcfddeda041340`]
+- requests deliverables in Google Docs format; 3× (since 2025-09-02) [refs: SEO blog outline Google Doc chatId:`fcfddeda041340`; earlier Google Doc request chatId:`fcfddeda041340`; SEO strategy doc chatId:`fcfddeda041340`]
