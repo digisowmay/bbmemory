@@ -4,7 +4,7 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - expects professional, brand-aligned tone in automated replies; 2× (last: 2025-09-03) [refs: request for professional agent replies chatId:`77fc85bdd2954b`; WhatsApp Business API setup request chatId:`77fc85bdd2954b`]
-- uses single-word commands (e.g., "RESUME", "1") to direct next actions quickly; 1× (first: 2025-09-03) [ref: quick command interactions chatId:`77fc85bdd2954b`]
+- uses single-word commands (e.g., "RESUME", "1") to direct next actions quickly; 2× (last: 2025-09-03) [refs: quick command interactions chatId:`77fc85bdd2954b`; numeric option "1" selection chatId:`77fc85bdd2954b`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
