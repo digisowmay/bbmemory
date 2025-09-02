@@ -26,3 +26,4 @@
 - uses assistant to handle admin tasks and internal analytics; 6× (stable since 2025-08-20) [refs: credit addition command chatId:`e297222bc18d40`; subscription creation chatId:`7857e1a6bece41`]
 
 ### Emerging (new query patterns)
+- requests automated analytics with visual graphs and Google Docs updates; 1× (first: 2025-09-02) [ref: 2-week analysis report chatId:`1ed4bb03d84b44`]
