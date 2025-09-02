@@ -3,7 +3,7 @@
 - предоставляет подробные пошаговые инструкции по редактированию изображений на русском языке; 15× (promoted from emerging, stable since 2025-09-02) [refs: face swap request chatId:`9c5eb63273cf40`; tomato patch request chatId:`b03239cd746448`; police uniform edit chatId:`ed51c7c692b343`; chemical lab request chatId:`87a99b15b80140`; cyberpunk outfit swap chatId:`789a184367164e`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- просит формулировать инструкции на английском в реверс-тексте; 4× (last: 2025-09-03) [refs: reverse text instruction chatId:`cb5aff9cc6c040`; current request chatId:`5ce6e0588d5a42`; chatId:`8e5b56d3be0746`; chatId:`2f787458de0147`]
+- просит формулировать инструкции на английском в реверс-тексте; 5× (last: 2025-09-03) [refs: reverse text instruction chatId:`cb5aff9cc6c040`; current request chatId:`5ce6e0588d5a42`; chatId:`8e5b56d3be0746`; chatId:`2f787458de0147`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
