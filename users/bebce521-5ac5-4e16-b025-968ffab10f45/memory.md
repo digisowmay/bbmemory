@@ -12,14 +12,14 @@
 
 ### Emerging (recent learning, current focus)
 - uses Google Photos; wants to free up storage by deleting duplicates; 4× (since 2025-09-02) [refs: duplicate photo requests chatId:`15ed6401b59742`]
-- exploring AI integration platforms (Zapier, n8n, etc.) for multi-service connections; 2× (since 2025-09-02) [refs: free AI agent discussions chatId:`15ed6401b59742`]
+- exploring AI integration platforms (Zapier, n8n, etc.) for multi-service connections; 3× (since 2025-09-02) [refs: free AI agent discussions chatId:`15ed6401b59742`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
 - seeks fast, automated solutions to save time; 5× [refs: requests for direct deletion automation chatId:`15ed6401b59742`]
 
 ### Emerging (recent behavioral shifts)
-- wants free tools with full access to services; 3× (last: 2025-09-02) [refs: repeated free AI agent queries chatId:`15ed6401b59742`]
+- wants free tools with full access to services; 4× (last: 2025-09-02) [refs: repeated free AI agent queries chatId:`15ed6401b59742`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
@@ -27,4 +27,4 @@
 
 ### Emerging (new query patterns)
 - queries Google Photos cleanup and storage optimization; 4× (since 2025-09-02) [refs: duplicate photo deletion requests chatId:`15ed6401b59742`]
-- searching for free automation agents with wide service access; 2× (since 2025-09-02) [refs: agent platform exploration chatId:`15ed6401b59742`]
+- searching for free automation agents with wide service access; 3× (since 2025-09-02) [refs: agent platform exploration chatId:`15ed6401b59742`]
