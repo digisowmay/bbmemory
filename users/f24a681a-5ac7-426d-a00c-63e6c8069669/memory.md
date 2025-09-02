@@ -6,6 +6,7 @@
 ### Emerging (new signals, 1-2 reinforcements)
 - prefers clarification of tool failure explanations before retrying; 1× (first: 2025-09-02) [ref: failed ZIP creation attempt chatId:`1023387676084f`]
 - expects the assistant to explicitly request user-supplied assets (e.g., images) before proceeding; 3× (last: 2025-09-02) [refs: thumbnail request chatId:`5aac8767e2714e`; follow-up image prompt chatId:`5aac8767e2714e`; question mark replies chatId:`5aac8767e2714e`]
+- prefers realistic, non-obviously-AI visuals for thumbnails; 1× (first: 2025-09-02) [ref: thumbnail creation chatId:`5aac8767e2714e`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
