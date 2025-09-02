@@ -3,7 +3,7 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - prefers concise, bullet-style summaries when drafting outreach messages; 2× (last: 2025-09-02) [ref: cold message shortening request chatId:`d9e072f8ddab46`]
-- requests specific, actionable information quickly (e.g., direct names of founders); 1× (first: 2025-09-02) [ref: repeated ask for founder names chatId:`d9e072f8ddab46`]
+- requests specific, actionable information quickly (e.g., direct names of founders); 2× (last: 2025-09-02) [refs: repeated ask for direct founder names & X links chatId:`d9e072f8ddab46`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
