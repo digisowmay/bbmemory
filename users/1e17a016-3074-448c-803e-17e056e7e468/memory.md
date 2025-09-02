@@ -4,6 +4,7 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - prefers zero-confirmation autoposting; 3× (last: 2025-09-02) [refs: requested new system without confirmation chatId:`caf679a9d2974a`; reschedule & new system request chatId:`caf679a9d2974a`; today’s recurring schedule request chatId:`1e9b39e35abd4e`]
+- wants content to look genuine with specific structure (1 thread, 2 one-liners, 1 tweet) at 1-hour intervals; 1× (first: 2025-09-02) [ref: detailed schedule refinement chatId:`1e9b39e35abd4e`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
