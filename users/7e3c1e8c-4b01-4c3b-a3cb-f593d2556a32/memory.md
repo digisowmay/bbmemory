@@ -1,11 +1,11 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
 - values precise data and corrects inaccuracies promptly; 3× (promoted from emerging, last: 2025-09-02) [refs: user acquisition timezone correction chatId:`c2e97d6eaba842`; schedule interval change chatId:`92dcf0c4bc2347`; scheduler failure fix chatId:`92dcf0c4bc2347`]
-- uses concise imperative commands for quick tasks; 5× (last: 2025-09-02) [refs: PR creation & merge commands chatId:`f7dbf111fc6242`; current PR & sync chatId:`8a3a8fcaeccd45`; schedule interval request chatId:`92dcf0c4bc2347`; reminder request chatId:`ab5acec8f9a044`; dance reminder chatId:`3301219305704d`]
+- uses concise imperative commands for quick tasks; 6× (last: 2025-09-03) [refs: PR creation & merge commands chatId:`f7dbf111fc6242`; current PR & sync chatId:`8a3a8fcaeccd45`; schedule interval request chatId:`92dcf0c4bc2347`; reminder request chatId:`ab5acec8f9a044`; dance reminder chatId:`3301219305704d`; delete reminder chatId:`0879cfb9ae0d44`]
 
 ### Emerging (new signals, 1-2 reinforcements)
 - uses informal lowercase language and expresses frustration bluntly; 3× (last: 2025-09-02) [refs: acquisition schedule failure chatId:`92dcf0c4bc2347`; schedule interval request chatId:`92dcf0c4bc2347`; SaaS paid user query chatId:`800b4bd946834b`]
-- prefers notifications/reminders delivered naturally without technical system details; 3× (last: 2025-09-03) [refs: reminder delivery preference chatId:`f565cf2a97ee4c`; hydration reminder chatId:`9e3105e767414d`; new reminder setup chatId:`38006aec8b4d40`]
+- prefers notifications/reminders delivered naturally without technical system details; 4× (last: 2025-09-03) [refs: reminder delivery preference chatId:`f565cf2a97ee4c`; hydration reminder chatId:`9e3105e767414d`; new reminder setup chatId:`38006aec8b4d40`; delete reminder chatId:`0879cfb9ae0d44`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
