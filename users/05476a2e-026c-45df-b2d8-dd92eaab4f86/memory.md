@@ -1,30 +1,31 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- prefers copy-paste ready schedules with exact formatting; 6× [refs: repeated requests to reformat weekly yoga classes for Google Forms/Sheets; insta story layout]
-- gives step-by-step correction instructions and immediate feedback; 5× [refs: asked to remove instructor names; adjust Friday data; change dashes etc.]
+- prefers copy-paste ready schedules with exact formatting; 6× [refs: repeated requests to reformat weekly yoga classes; insta story layout]
+- gives step-by-step correction instructions and immediate feedback; 6× [refs: asked to remove instructor names; adjust Friday data; payslip edits chatId:`4141aa0f4eb442`]
+- insists on explicit financial details (TDS, net amount) included in documents; 3× [refs: payslip TDS request chatId:`4141aa0f4eb442`; prior invoice clarifications]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- likes concise time–format strings without long dashes for social posts; 2× (last: 2025-08-31) [refs: insta story simplification]
+- wants brand color (purple) reflected in generated PDFs; 1× (first: 2025-09-02) [ref: brand color request chatId:`4141aa0f4eb442`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
-- manages yoga studio scheduling and communications; 7× [refs: weekly class tables; timetable spreadsheets; social media messages]
+- manages yoga studio scheduling and communications; 7× [refs: weekly class tables; timetable spreadsheets]
+- handles payroll document creation with custom month+initials numbering scheme (e.g., DD-PAY-08-AD); 3× (promoted from emerging) [refs: payslip numbering chatId:`4141aa0f4eb442`; previous payslip PDF requests]
 
 ### Emerging (recent learning, current focus)
-- currently preparing September 1-7 schedule across platforms; 1× (started: 2025-08-31) [ref: latest schedule request]
-- handling payroll document creation (payslips) and using custom month+initials numbering scheme (e.g., DD-PAY-08-AD); 2× (last: 2025-09-02) [refs: payslip pdf requests chatId:`4141aa0f4eb442`]
+- aiming to match financial documents to studio brand aesthetics; 1× (since 2025-09-02) [ref: purple branding discussion chatId:`4141aa0f4eb442`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
-- detail-oriented and format-sensitive; iteratively refines outputs; 5× [refs: multiple correction cycles for each weekly schedule]
+- detail-oriented and format-sensitive; iteratively refines outputs; 6× [refs: multiple correction cycles for schedules; payslip revisions chatId:`4141aa0f4eb442`]
 
 ### Emerging (recent behavioral shifts)
-- seeks visually minimalist presentations for social media; 1× (observed: 2025-08-31) [ref: insta story request]
+- increasing emphasis on consistent branding across documents; 1× (observed: 2025-09-02) [ref: request for purple branding chatId:`4141aa0f4eb442`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
 - frequently formats data for Google Sheets/Forms; 8× [refs: timetable, tabs per instructor]
+- requests PDF document generation (payslips/invoices); 3× [refs: payslip PDF requests chatId:`4141aa0f4eb442`; earlier invoice PDFs]
 
 ### Emerging (new query patterns)
-- creating social media friendly class announcements; 2× (since 2025-08-24) [refs: WhatsApp group message; insta story layout]
-- requesting PDF document generation (payslips/invoices); 2× (since 2025-09-02) [refs: payslip pdf requests chatId:`4141aa0f4eb442`]
+- exploring customization options in third-party PDF generators; 2× (since 2025-09-02) [refs: color theme inquiry chatId:`4141aa0f4eb442`; TDS field manipulation]
