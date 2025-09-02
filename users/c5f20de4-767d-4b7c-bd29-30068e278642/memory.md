@@ -4,7 +4,7 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - wants conversational casual tone and no corporate language; 2× (last: 2025-09-02) [refs: global instructions; design refinement chatId:`1004b8a2f07b4d`]
-- provides reference images and requests style adaptation to match; 2× (last: 2025-09-02) [refs: purple sketch reference chatId:`1004b8a2f07b4d`; figure white background style adaptation chatId:`1004b8a2f07b4d`]
+- wants to approve outgoing echoes before they are sent; 1× (first: 2025-09-02) [ref: auto-send apology chatId:`f6ffb27b8bc841`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
