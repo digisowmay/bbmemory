@@ -1,29 +1,27 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- wants detailed expert-backed analysis before making purchase/booking decisions; 6× (stable since 2025-09-01) [refs: smartphone buying advice; multiple Delhi accommodation queries chatId:`3f05fd8480d94b`; couple getaway suggestion chatId:`888e103d2b4949`]
-- prefers direct actionable links (URLs) for recommendations; 4× (stable since 2025-09-01) [refs: Airbnb links request; corridor options request; latest link follow-up chatId:`3f05fd8480d94b`]
+- wants detailed expert-backed analysis before making purchase/booking decisions; 7× (stable since 2025-09-01) [refs: smartphone buying advice; multiple Delhi accommodation queries chatId:`3f05fd8480d94b`; couple getaway suggestion chatId:`888e103d2b4949`; Hogenakkal plan request chatId:`888e103d2b4949`]
+- prefers direct actionable links (URLs) for recommendations; 5× (stable since 2025-09-01) [refs: Airbnb links request; corridor options request; latest link follow-up chatId:`3f05fd8480d94b`; waterfall suggestions chatId:`888e103d2b4949`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- issues direct transactional commands for blockchain operations; 2× (last: 2025-09-01) [refs: USDC transfer instruction chatId:`a4b58f06220b4c`; address verification chatId:`8123288948eb41`]
+- asks for structured day-by-day itineraries; 1× (first: 2025-09-02) [ref: Hogenakkal spa plan chatId:`888e103d2b4949`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
 
 ### Emerging (recent learning, current focus)
-- planning to buy a new smartphone; 1× (started: 2025-08-31) [ref: smartphone purchase advice chatId:`3f05fd8480d94b`]
-- upcoming Delhi trip (Sept 24-29) requiring budget accommodation near Yashobhoomi Convention Centre for 4 people; 2× (last: 2025-09-01) [refs: accommodation requests; event proximity discussion chatId:`3f05fd8480d94b`]
+- planning quick romantic getaways near Bangalore; 1× (started: 2025-09-02) [ref: couple getaway & waterfall queries chatId:`888e103d2b4949`]
+- interested in waterfall destinations and spa experiences; 1× (first: 2025-09-02) [ref: waterfall places & Hogenakkal spa plan chatId:`888e103d2b4949`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
-- research-oriented decision making; seeks multiple expert sources before concluding; 5× [refs: smartphone advice; successive accommodation refinement chats chatId:`3f05fd8480d94b`]
+- research-oriented decision making; seeks multiple expert sources before concluding; 6× [refs: smartphone advice; successive accommodation refinement chats chatId:`3f05fd8480d94b`; waterfall/spa plan chatId:`888e103d2b4949`]
 
 ### Emerging (recent behavioral shifts)
-- seeks explicit verification before executing important actions; 1× (first: 2025-09-01) [ref: address verification chatId:`8123288948eb41`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
-- requests travel accommodation suggestions (budget Airbnb/hotel); 6× [refs: initial Delhi Airbnb request; links follow-up; corridor accommodation request; Aerocity corridor query; best place near Yashobhoomi chatId:`3f05fd8480d94b`; couple getaway suggestion chatId:`888e103d2b4949`]
+- requests travel accommodation suggestions (budget Airbnb/hotel); 7× [refs: initial Delhi Airbnb request; links follow-up; corridor accommodation request; Aerocity corridor query; best place near Yashobhoomi chatId:`3f05fd8480d94b`; couple getaway suggestion chatId:`888e103d2b4949`]
 
 ### Emerging (new query patterns)
-- initiates blockchain token transfers via Brewit; salary disbursement commands and email notifications; 2× (last: 2025-09-01) [refs: USDC transfer instruction chatId:`a4b58f06220b4c`; salary disbursement chatId:`8123288948eb41`]
-- asks for waterfall/nature destinations for romantic getaways; 1× (first: 2025-09-02) [ref: waterfall places request chatId:`888e103d2b4949`]
+- asks for waterfall/nature destinations and spa plans; 2× (since 2025-09-02) [refs: waterfall places request chatId:`888e103d2b4949`; Hogenakkal spa plan chatId:`888e103d2b4949`]
