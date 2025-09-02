@@ -1,31 +1,7 @@
-## Communication Patterns
-### Durable (established, 3+ reinforcements)
-- uses short, direct requests with minimal context; 8× (stable since 2025-08-20) [refs: book-to-action guide request chatId:`b832f0b8448a43`; pop song lyrics request chatId:`5bbdd7d976b440`; traitors party planning chatId:`e9c221a0f18e4b`]
-- prefers clear, structured outputs with sections and headings; 5× [refs: clinical trial monitoring setup chatId:`2690f913bc7a47`; portfolio allocation request chatId:`800de45d49a04c`; transformer crash course request]
-
-### Emerging (new signals, 1-2 reinforcements)
-- requests multimedia assets (images, audio) and storytelling-based explanations; 4× (last: 2025-09-02) [refs: comic strip crypto lesson chatId:`ca233403d35f41`; traitors party planning chatId:`e9c221a0f18e4b`; Coachella party planning chatId:`b5b377e4e5c949`]
-- asks for deliverables packaged as Notion boards; 1× (first: 2025-09-02) [ref: Notion board request chatId:`b5b377e4e5c949`]
-
 ## Knowledge & Context
-### Durable (core expertise, established over time)
-- frequently seeks creative writing and content generation (lyrics, guides, themed material); 5× [refs: pop song lyrics chatId:`5bbdd7d976b440`; book-to-action guide chatId:`b832f0b8448a43`; song merge follow-up chatId:`fa011c552ef94e`; traitors party planning chatId:`e9c221a0f18e4b`]
-
 ### Emerging (recent learning, current focus)
-- exploring AI/ML concepts such as Transformer models; 2× (since 2025-09-02) [refs: transformer crash course request; podcast summary chatId:`b832f0b8448a43`]
-- learning cryptocurrency fundamentals (Bitcoin, Ethereum, DeFi); 2× (since 2025-09-02) [refs: comic strip crypto lesson chatId:`ca233403d35f41`; crypto comic strip request chatId:`ca233403d35f41`]
-
-## Thinking & Working Style
-### Durable (core thinking patterns)
-- values systematic delivery with bullet points and step-by-step structure; 3× [refs: clinical trial monitoring setup chatId:`2690f913bc7a47`; portfolio allocation request chatId:`800de45d49a04c`; transformer crash course request]
-
-### Emerging (recent behavioral shifts)
-- shows interest in progressive complexity (kid-to-PhD approach); 1× (observed: 2025-09-02) [ref: transformer crash course request]
+- exploring personal-development challenges (confidence, habit building); 1× (first: 2025-09-02) [ref: confidence challenge request chatId:`1726d930013e4c`]
 
 ## Platform Usage & Queries
-### Durable (regular platform activities)
-- uses platform for creative content generation (songs, guides, merges); 5× [refs: pop song lyrics chatId:`5bbdd7d976b440`; song merge follow-up chatId:`fa011c552ef94e`; book-to-action guide chatId:`b832f0b8448a43`; traitors party planning chatId:`e9c221a0f18e4b`]
-
 ### Emerging (new query patterns)
-- starting to request technical educational material about AI/ML; 2× (since 2025-09-02) [refs: transformer crash course request; podcast summary chatId:`b832f0b8448a43`]
-- asking for cryptocurrency education and explanations; 2× (since 2025-09-02) [refs: comic strip crypto lesson chatId:`ca233403d35f41`; crypto comic strip request chatId:`ca233403d35f41`]
+- requesting scheduled habit challenges and progress trackers; 1× (first: 2025-09-02) [ref: confidence challenge scheduling chatId:`1726d930013e4c`]
