@@ -12,7 +12,7 @@
 
 ### Emerging (recent learning, current focus)
 - conducting university project on lithium-ion battery degradation and performance; 1× (started: 2025-09-03) [ref: lithium-ion battery research request chatId:`0b937098ae2740`]
-- writing a blog post about sustainable fashion; 1× (first: 2025-09-03) [ref: sustainable fashion blog visual content chatId:`98cedaef152a45`]
+- starting a technology podcast; planning first episode; 1× (started: 2025-09-03) [ref: podcast planning request chatId:`c2758e711e304f`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
@@ -28,3 +28,4 @@
 
 ### Emerging (new query patterns)
 - seeks academic literature and dataset search assistance; 2× (last: 2025-09-03) [refs: lithium-ion battery research request chatId:`0b937098ae2740`; wearable AI paper request chatId:`c75bc9e6567b49`]
+- requesting podcast production guidance and multimedia assets (research, cover image, audio intro); 1× (started: 2025-09-03) [ref: podcast planning request chatId:`c2758e711e304f`]
