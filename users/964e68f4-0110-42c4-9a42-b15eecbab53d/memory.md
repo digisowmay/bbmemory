@@ -2,13 +2,13 @@
 ### Durable (established, 3+ reinforcements)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- provides concise, direct visual design instructions; 1× (first: 2025-09-03) [ref: image generation request chatId:`4238c795c35446`]
+- provides concise, direct visual design instructions; 2× (last: 2025-09-03) [ref: image generation requests chatId:`4238c795c35446`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
 
 ### Emerging (recent learning, current focus)
-- interested in custom graphic/visual creation; 1× (first: 2025-09-03) [ref: hot air balloon image request chatId:`4238c795c35446`]
+- interested in custom graphic/visual creation; 2× (last: 2025-09-03) [ref: hot air balloon image requests chatId:`4238c795c35446`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
@@ -20,4 +20,4 @@
 ### Durable (regular platform activities)
 
 ### Emerging (new query patterns)
-- exploring image generation features; 1× (first: 2025-09-03) [ref: consecutive image requests chatId:`4238c795c35446`]
+- exploring image generation features; 2× (last: 2025-09-03) [ref: consecutive image requests chatId:`4238c795c35446`]
