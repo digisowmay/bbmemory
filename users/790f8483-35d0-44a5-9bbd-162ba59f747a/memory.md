@@ -8,14 +8,15 @@
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
-- no durable knowledge patterns identified yet
+- (no durable knowledge entries yet)
 
 ### Emerging (recent learning, current focus)
 - active hackathon builder with multiple Devfolio projects and prize wins; 1× (first: 2025-09-02) [ref: Devfolio profile fetch chatId:`05e86ddda4bf48`]
+- daily evening coffee habit; sets reminder for 6:47 PM; 1× (first: 2025-09-03) [ref: coffee reminder setup chatId:`a1c1452d0f5148`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
-- no durable thinking patterns identified yet
+- (no durable thinking pattern entries yet)
 
 ### Emerging (recent behavioral shifts)
 - skeptical of information accuracy; requests source links/evidence and raw error details to verify data; 3× (last: 2025-09-03) [refs: prize money dispute chatId:`a6d71686434a4a`; error message request chatId:`2927cf2e4a0d4a`; chatId:`5193cf53d94f47`]
