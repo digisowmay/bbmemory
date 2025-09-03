@@ -5,6 +5,7 @@
 ### Emerging (new signals, 1-2 reinforcements)
 - supplies detailed design briefs with preferred colors, tone, and content; 2× (last: 2025-09-03) [refs: poster design request chatId:`8f1e4193c0a844`; wireframe request chatId:`1db1e8401aca48`]
 - requesting condensed audio summaries for learning; 1× (first: 2025-09-03) [ref: ML video summary request chatId:`a4ce558a470e47`]
+- asks for data-driven analyses to inform decisions; 1× (first: 2025-09-03) [ref: Uniswap stats request chatId:`aeb4ddc9952641`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -14,6 +15,7 @@
 - organizing charity concert "Harmony for Hope" benefiting children's education scheduled Dec 2, 2025; 1× (started: 2025-09-03) [ref: poster design request chatId:`8f1e4193c0a844`]
 - preparing an AI startup pitch presentation; focusing on AI market trends and business applications; 1× (started: 2025-09-03) [ref: AI trends research request chatId:`8ef4953dd14240`]
 - studying data science; seeking online resources on machine learning algorithms; 1× (started: 2025-09-03) [ref: ML video summary request chatId:`a4ce558a470e47`]
+- exploring decentralized finance trading (Uniswap) for investing; 1× (started: 2025-09-03) [ref: Uniswap stats request chatId:`aeb4ddc9952641`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
@@ -29,3 +31,4 @@
 ### Emerging (new query patterns)
 - requests AI-generated graphic design assets (posters, visual content, wireframes); 2× (since 2025-09-03) [refs: poster design request chatId:`8f1e4193c0a844`; wireframe request chatId:`1db1e8401aca48`]
 - seeks curated YouTube content and automated analyses for study; 1× (since 2025-09-03) [ref: ML video summary request chatId:`a4ce558a470e47`]
+- requests DeFi trading statistics and opportunities; 1× (since 2025-09-03) [ref: Uniswap stats request chatId:`aeb4ddc9952641`]
