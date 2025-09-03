@@ -1,6 +1,6 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- gives direct imperative commands for information lookup and cross-platform actions; 10× (last: 2025-09-03) [refs: Slack GIF request chatId:`3fbaf7c9eefd44`; Telegram confirmation chatId:`8a7bbee82a5847`; marketing jobs request chatId:`5ae756b89a9443`]
+- gives direct imperative commands for information lookup and cross-platform actions; 11× (last: 2025-09-03) [refs: movie night planning request chatId:`3bff508539ca4e`; Slack GIF request chatId:`3fbaf7c9eefd44`; Telegram confirmation chatId:`8a7bbee82a5847`; marketing jobs request chatId:`5ae756b89a9443`]
 
 ### Emerging (new signals, 1-2 reinforcements)
 - issues explicit “CONFIRM” messages to authorize next steps and tool actions; 3× (last: 2025-09-03) [refs: multi-step AI trends task chatId:`cb36654bbb9444`; PR workflow confirmations chatId:`bb20c27486ef4d`]
@@ -19,7 +19,7 @@
 - none
 
 ### Emerging (recent behavioral shifts)
-- prefers outsourcing scheduling and reminders to assistant/tools; 4× (last: 2025-09-03) [refs: tasks and wake-up reminders request; reminder follow-up chatId:`072ab2d8aae54c`; task addition chatId:`5e88cea998434b`; multi-tool deployment workflow chatId:`bb20c27486ef4d`]
+- prefers outsourcing scheduling and reminders to assistant/tools; 5× (last: 2025-09-03) [refs: movie night planning request chatId:`3bff508539ca4e`; tasks and wake-up reminders request; reminder follow-up chatId:`072ab2d8aae54c`; task addition chatId:`5e88cea998434b`; multi-tool deployment workflow chatId:`bb20c27486ef4d`]
 - requests fallback/contingency solutions and direct approaches (e.g., switch to Notion if Docs unavailable, prefer spreadsheet over form); 2× (last: 2025-09-03) [refs: AI trends doc contingency chatId:`cb36654bbb9444`; google form query chatId:`1a68d815ffd44b`]
 
 ## Platform Usage & Queries
@@ -28,4 +28,6 @@
 
 ### Emerging (new query patterns)
 - seeks academic literature and dataset search assistance; 2× (last: 2025-09-03) [refs: lithium-ion battery research request chatId:`0b937098ae2740`; wearable AI paper request chatId:`c75bc9e6567b49`]
-- requesting consumer electronics purchase advice; smartphones, spec comparison; 2× (last: 2025-09-03) [refs: phone under ₹50K advice chatId:`dd906e9550164a`; smartphone deals search chatId:`0dd594d1ef6144`]
+- requesting podcast production guidance and multimedia assets (research, cover image, audio intro); 1× (started: 2025-09-03) [ref: podcast planning request chatId:`c2758e711e304f`]
+- requesting consumer electronics purchase advice; smartphones, spec comparison; 1× (first: 2025-09-03) [ref: phone under ₹50K advice chatId:`dd906e9550164a`]
+- uses assistant to plan entertainment events and handle Google Calendar/Gmail invites; 1× (started: 2025-09-03) [ref: movie night planning request chatId:`3bff508539ca4e`]
