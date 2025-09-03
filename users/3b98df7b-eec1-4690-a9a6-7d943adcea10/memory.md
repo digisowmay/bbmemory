@@ -26,5 +26,5 @@
 -
 
 ### Emerging (new query patterns)
-- requesting scheduled habit challenges and progress trackers; 2× (since 2025-09-02) [refs: confidence challenge scheduling; readiness confirmation chatId:`1726d930013e4c`]
 - seeks content strategy assets, marketing copy adaptations, and audience-specific messaging; 3× (since 2025-09-02) [refs: Medium publication request chatId:`baa3167d195748`; elevator pitch rewriting chatId:`d400c921fe0246`; elevator pitch rewrites chatId:`034c50d10d054b`]
+- explores film culture buzz and cult predictions; 1× (first: 2025-09-03) [ref: CineWhisper movie predictions chatId:`0cd7d773ae1846`]
