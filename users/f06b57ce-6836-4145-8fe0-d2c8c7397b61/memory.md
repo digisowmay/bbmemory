@@ -2,9 +2,9 @@
 ### Durable (established, 3+ reinforcements)
 - gives concise, descriptive directives for creative image edits; 11× (stable since 2025-08-31) [refs: multiple Death Star beam refinements chatId:`7c19af7c3f5b4b`; nanobanana prompts transforming sketch chatId:`8a1ae27325784b`; combine images directive chatId:`67618ab976c54c`]
 - requests iterative refinements step-by-step; 9× (stable since 2025-09-01) [refs: consecutive Death Star edits chatId:`7c19af7c3f5b4b`; house abandoned follow-up chatId:`8a1ae27325784b`]
+- insists on accurate canonical details and realism; 3× (promoted from emerging, last: 2025-09-03) [refs: laser origin correction chatId:`7c19af7c3f5b4b`; astrophotography star preservation chatId:`20a1cd1ff2494e`; nanobanana coloring realism request chatId:`c7c9a1d1cfa349`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- insists on accurate canonical details and realism (e.g., star positions, laser origin); 2× (last: 2025-09-01) [refs: laser origin correction chatId:`7c19af7c3f5b4b`; astrophotography star preservation chatId:`20a1cd1ff2494e`]
 
 ## Knowledge & Context
 ### Durable (core expertise)
