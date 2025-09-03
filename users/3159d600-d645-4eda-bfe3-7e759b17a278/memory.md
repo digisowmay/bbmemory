@@ -2,7 +2,7 @@
 ### Durable (established, 3+ reinforcements)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- requests step-by-step guidance and drafting assistance for applications; 2× (last: 2025-09-03) [refs: internship application discussion chatId:`dd08b3f5961e4c`; email modification request chatId:`dd08b3f5961e4c`]
+- requests step-by-step guidance and drafting assistance for applications; 3× (last: 2025-09-03) [refs: internship application discussion; email modification request; resume template request chatId:`dd08b3f5961e4c`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -21,4 +21,4 @@
 ### Durable (regular platform activities)
 
 ### Emerging (new query patterns)
-- uses platform for career application drafting and interview preparation; 2× (since 2025-09-03) [refs: internship application discussion chatId:`dd08b3f5961e4c`; email modification request chatId:`dd08b3f5961e4c`]
+- uses platform for career application drafting and interview preparation; 3× (since 2025-09-03) [refs: internship application discussion; email modification request; resume template request chatId:`dd08b3f5961e4c`]
