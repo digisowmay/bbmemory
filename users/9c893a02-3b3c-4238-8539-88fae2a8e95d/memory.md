@@ -1,6 +1,6 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- gives concise imperative instructions for platform tasks; 15× (last: 2025-09-03) [refs: reminder scheduling interactions chatId:`04b0c1da45a44a`; coffee reminder chatId:`10c334b4e84942`; backroom response chatId:`2bf0abdb9cf340`]
+- gives concise imperative instructions for platform tasks; 16× (last: 2025-09-03) [refs: reminder scheduling interactions chatId:`04b0c1da45a44a`; coffee reminder chatId:`10c334b4e84942`; send hello instruction chatId:`7db4ed4c3cbd4a`]
 
 ### Emerging (new signals, 1-2 reinforcements)
 - requests raw error or JSON details when troubleshooting; 1× (first: 2025-09-02) [ref: JSON error request chatId:`8395ae30d96541`]
@@ -15,7 +15,7 @@
 ### Durable (core thinking patterns)
 
 ### Emerging (recent behavioral shifts)
-- prefers delegating tasks to assistant for direct execution; 11× (last: 2025-09-03) [refs: reminder scheduling interactions chatId:`04b0c1da45a44a`; backroom response instruction chatId:`2bf0abdb9cf340`]
+- prefers delegating tasks to assistant for direct execution; 12× (last: 2025-09-03) [refs: reminder scheduling interactions chatId:`04b0c1da45a44a`; backroom response instruction chatId:`2bf0abdb9cf340`; send hello instruction chatId:`7db4ed4c3cbd4a`]
 - prefers audio briefings for routine information consumption; 1× (first: 2025-09-02) [ref: news summary & audio request chatId:`8395ae30d96541`]
 
 ## Platform Usage & Queries
