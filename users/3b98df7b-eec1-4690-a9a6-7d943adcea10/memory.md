@@ -3,7 +3,7 @@
 -
 
 ### Emerging (new signals, 1-2 reinforcements)
-- requests comprehensive, multi-step deliverables with audience-specific versions and tool integrations; 2× (last: 2025-09-03) [refs: Medium publication request chatId:`baa3167d195748`; elevator pitch rewrites chatId:`034c50d10d054b`]
+- requests comprehensive, multi-step deliverables with audience-specific versions and tool integrations; 3× (last: 2025-09-03) [refs: Medium publication request chatId:`baa3167d195748`; elevator pitch rewrites chatId:`034c50d10d054b`; Ad Factory workflow chatId:`503abbd305f748`]
 - enjoys playful, humorous creative requests; 1× (first: 2025-09-03) [ref: banana security audit chatId:`94eca21c926640`]
 
 ## Knowledge & Context
@@ -26,5 +26,5 @@
 -
 
 ### Emerging (new query patterns)
-- seeks content strategy assets, marketing copy adaptations, and audience-specific messaging; 3× (since 2025-09-02) [refs: Medium publication request chatId:`baa3167d195748`; elevator pitch rewriting chatId:`d400c921fe0246`; elevator pitch rewrites chatId:`034c50d10d054b`]
+- seeks content strategy assets, marketing copy adaptations, and audience-specific messaging; 4× (since 2025-09-02) [refs: Medium publication request chatId:`baa3167d195748`; elevator pitch rewriting chatId:`d400c921fe0246`; elevator pitch rewrites chatId:`034c50d10d054b`; Ad Factory workflow chatId:`503abbd305f748`]
 - explores film culture buzz and cult predictions; 1× (first: 2025-09-03) [ref: CineWhisper movie predictions chatId:`0cd7d773ae1846`]
