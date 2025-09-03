@@ -4,8 +4,8 @@
 - instructs assistant to wait for additional user input before proceeding; 3× [refs: onion workflow "send second image" chatId:`eaad0c9c741440`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- demands exact replication of reference shot (16:9, same perspective) while applying edits; 4× (last: 2025-09-03) [refs: camera‐angle preservation requests chatId:`eaad0c9c741440`; onion board edits]
-- iteratively requests fine-tune adjustments (size tweaks, spacing, color edits); 3× (last: 2025-09-03) [refs: onion size & gap corrections chatId:`eaad0c9c741440`; lid color change]
+- demands exact replication of reference shot (16:9, same perspective) while applying edits; 5× (last: 2025-09-03) [refs: camera‐angle preservation requests chatId:`eaad0c9c741440`; replacement of plate with stone board]
+- iteratively requests fine-tune adjustments (size tweaks, spacing, color edits); 4× (last: 2025-09-03) [refs: onion size & gap corrections; lid color change chatId:`eaad0c9c741440`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -18,7 +18,7 @@
 
 ### Emerging (recent behavioral shifts)
 - ensures clarity of requirements before action begins; 3× (last: 2025-09-03) [refs: repeated instruction confirmations chatId:`eaad0c9c741440`]
-- iterative refinement mindset, progressively adjusting output; 3× (last: 2025-09-03) [refs: onion size adjustments; lid color change chatId:`eaad0c9c741440`]
+- iterative refinement mindset, progressively adjusting output; 4× (last: 2025-09-03) [refs: onion size adjustments; lid color change chatId:`eaad0c9c741440`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
