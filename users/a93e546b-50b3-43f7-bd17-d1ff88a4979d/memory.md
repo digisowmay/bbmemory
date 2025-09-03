@@ -17,6 +17,7 @@
 
 ### Emerging (recent behavioral shifts)
 - seeks direct feedback on code without additional context; 1× (first: 2025-09-03) [ref: code review request chatId:`b4628656e45448`]
+- requests progressively more detailed explanations for deeper understanding; 1× (first: 2025-09-03) [ref: follow-up detail request chatId:`b4628656e45448`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
