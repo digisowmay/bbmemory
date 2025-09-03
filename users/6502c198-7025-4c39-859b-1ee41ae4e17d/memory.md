@@ -25,3 +25,4 @@
 
 ### Emerging (new query patterns)
 - requests original creative writing (poetry) in Tamil; 2× (last: 2025-09-03) [refs: poem request chatId:`e2d92ce479484a`; "one more" request chatId:`e2d92ce479484a`]
+- retrieves own Twitter tweets; social media integration; 1× (first: 2025-09-03) [ref: latest tweet request chatId:`d2eb849fa35f4c`]
