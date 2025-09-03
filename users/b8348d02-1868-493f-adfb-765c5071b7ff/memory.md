@@ -5,6 +5,7 @@
 ### Emerging (new signals, 1-2 reinforcements)
 - prefers detailed, structured academic feedback; 2× (last: 2025-09-03) [ref: academic report correction request chatId:`d51a91b3f88d4d`]
 - requests explicit highlighting of revisions made; 2× (last: 2025-09-03) [ref: instruction to "highlight the changes made" chatId:`d51a91b3f88d4d`]
+- requests compilation of corrected work into a single document; 1× (first: 2025-09-03) [ref: request to "compile it and make it in docs" chatId:`d51a91b3f88d4d`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
