@@ -1,6 +1,6 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- gives concise, direct instructions and feedback; 6× (stable since 2025-09-03) [refs: pose variations request chatId:`5bbe58f9aa7748`; sundress request chatId:`5bbe58f9aa7748`]
+- gives concise, direct instructions and feedback; 7× (stable since 2025-09-03) [refs: pose variations request chatId:`5bbe58f9aa7748`; sundress request chatId:`5bbe58f9aa7748`; casual looks exploration chatId:`680b55c071c04a`]
 - asks for realistic results and detailed adjustments (blending, symmetry); 4× [refs: image edit feedback chatId:`25bce851ec5b42`; pose variation feedback chatId:`5bbe58f9aa7748`]
 
 ### Emerging (new signals, 1-2 reinforcements)
@@ -25,4 +25,4 @@
 
 ### Emerging (new query patterns)
 - seeks sequential pose images of same outfit; 2× (started: 2025-09-03) [refs: pose variation request chatId:`5bbe58f9aa7748`]
-- exploring new outfit transformations (bikini, sundress, cocktail, maxi, denim, polka dot dresses); 3× (last: 2025-09-04) [refs: bikini request & sundress request; dress variations chatId:`5bbe58f9aa7748`]
+- exploring new outfit transformations (bikini, sundress, cocktail, maxi, denim, polka dot dresses, casual looks); 4× (last: 2025-09-04) [refs: bikini request & sundress request; casual looks exploration chatId:`680b55c071c04a`]
