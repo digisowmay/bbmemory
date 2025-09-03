@@ -4,7 +4,7 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - quickly corrects or tweaks wording to keep messages accurate and concise; 3× (last: 2025-09-04) [refs: correction about dinner plan chatId:`319a67a656cc43`; script word change chatId:`76e2bb80725e48`; voice script tweak chatId:`76e2bb80725e48`]
-- asks for rapid, iterative revisions to make content punchier and more relatable; 1× (first: 2025-09-04) [ref: “let’s make it more concise” script edit chatId:`76e2bb80725e48`]
+- asks for rapid, iterative revisions to make content punchier and more relatable; 2× (last: 2025-09-04) [refs: “let’s make it more concise” script edit chatId:`76e2bb80725e48`; replace line with “working on videos” chatId:`76e2bb80725e48`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
