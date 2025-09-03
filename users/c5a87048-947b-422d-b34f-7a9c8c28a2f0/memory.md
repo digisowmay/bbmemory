@@ -4,6 +4,7 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - gives brief, imperative instructions for automation tasks; 3× (last: 2025-09-03) [refs: automation setup chatId:`f9932d9146d143`; schedule change chatId:`f9932d9146d143`; clarifying automation run chatId:`f9932d9146d143`]
+- seeks confirmation if manual actions are needed; asks concise yes/no questions; 1× (first: 2025-09-03) [ref: questions about opening Bhindi/LinkedIn chatId:`f9932d9146d143`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
