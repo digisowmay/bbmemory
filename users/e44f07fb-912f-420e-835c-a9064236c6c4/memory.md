@@ -12,8 +12,8 @@
 
 ### Emerging (recent learning, current focus)
 - involved in Pure DC LON01 data centre structured cabling project documentation; 3× (since 2025-09-01) [refs: repeated Datel proposal discussions chatId:`b2776138c89440`]
-- working with BMS (Building Management System) architecture diagrams and related documentation; 2× (started: 2025-09-01) [refs: request to attach BMS system architecture diagrams chatId:`b2776138c89440`]
-- exploring career pivot from project management to GTM strategist roles in London; 1× (started: 2025-09-01) [ref: job search conversation chatId:`e3ee7422feb443`]
+- working with BMS architecture diagrams; 2× (started: 2025-09-01) [refs: request to attach BMS system architecture diagrams chatId:`b2776138c89440`]
+- exploring career pivot from project management to GTM strategist / other high-growth roles; 2× (since 2025-09-01) [refs: job search conversation chatId:`e3ee7422feb443`; high growth roles query chatId:`ad65743123e647`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
@@ -30,4 +30,4 @@
 ### Emerging (new query patterns)
 - exploring document parsing capabilities (AutoCAD PDFs, Excel files, system diagrams); 6× (since 2025-09-01) [refs: capability inquiries and file attachment attempts chatId:`b2776138c89440`]
 - interest in BMS system documentation analysis; 2× (started: 2025-09-01) [refs: request to attach BMS system architecture diagrams chatId:`b2776138c89440`]
-- seeking career advice and job search assistance; 1× (started: 2025-09-01) [ref: career pivot request chatId:`e3ee7422feb443`]
+- seeking career advice and job search assistance; 2× (since 2025-09-01) [refs: career pivot request chatId:`e3ee7422feb443`; high growth roles query chatId:`ad65743123e647`]
