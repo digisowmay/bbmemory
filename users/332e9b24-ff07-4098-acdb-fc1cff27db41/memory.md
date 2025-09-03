@@ -1,7 +1,7 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- communicates primarily in Russian with concise imperative instructions for image edits; 10× (stable since 2025-09-03) [refs: monitor PANASONIC edit chatId:`8d4904c805454d`; previous image editing requests chatId:`293fd61a79cb45`]
-- provides direct image URLs along with requests for edits; 4× [refs: monitor PANASONIC edit chatId:`8d4904c805454d`; earlier URL messages chatId:`ba37f7104a1e43`]
+- communicates primarily in Russian with concise imperative instructions for image edits; 11× (stable since 2025-09-03) [refs: monitor PANASONIC edit chatId:`8d4904c805454d`; previous image editing requests chatId:`293fd61a79cb45`; current instruction chatId:`4be489067a804e`]
+- provides direct image URLs along with requests for edits; 5× [refs: monitor PANASONIC edit chatId:`8d4904c805454d`; earlier URL messages chatId:`ba37f7104a1e43`; current URL message chatId:`4be489067a804e`]
 
 ### Emerging (new signals, 1-2 reinforcements)
 - gives meta-instructions in English about memory/process handling; 1× (first: 2025-09-03) [ref: memory update request chatId:`4484186269674f`]
@@ -23,4 +23,4 @@
 ### Durable (regular platform activities)
 
 ### Emerging (new query patterns)
-- frequently requests AI-powered image editing tasks; 10× (since 2025-09-03) [refs: monitor PANASONIC edit chatId:`8d4904c805454d`; previous edits chatId:`293fd61a79cb45`]
+- frequently requests AI-powered image editing tasks; 11× (since 2025-09-03) [refs: monitor PANASONIC edit chatId:`8d4904c805454d`; previous edits chatId:`293fd61a79cb45`; current instruction chatId:`4be489067a804e`]
