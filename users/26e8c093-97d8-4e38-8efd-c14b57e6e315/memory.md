@@ -4,7 +4,7 @@
 - asks for realistic results and detailed adjustments (blending, symmetry); 4× [refs: image edit feedback chatId:`25bce851ec5b42`; pose variation feedback chatId:`5bbe58f9aa7748`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- requests multiple styling variations in one session; 4× (last: 2025-09-04) [refs: hairstyle variations request chatId:`5bbe58f9aa7748`]
+- requests multiple styling variations in one session; 5× (last: 2025-09-04) [refs: hairstyle, pose, dress variations chatId:`5bbe58f9aa7748`]
 - flexible to alternative suggestions when original request denied; 1× (first: 2025-09-04) [ref: bikini denied then sundress request chatId:`5bbe58f9aa7748`]
 
 ## Knowledge & Context
@@ -21,8 +21,8 @@
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
-- requests fashion advice and image-based edits for personal photos; 8× [refs: accessory, hairstyle, pose, sundress requests chatId:`5bbe58f9aa7748`]
+- requests fashion advice and image-based edits for personal photos; 9× [refs: accessory, hairstyle, pose, sundress, dress variations chatId:`5bbe58f9aa7748`]
 
 ### Emerging (new query patterns)
 - seeks sequential pose images of same outfit; 2× (started: 2025-09-03) [refs: pose variation request chatId:`5bbe58f9aa7748`]
-- exploring new outfit transformations (bikini, sundress, other casual looks); 2× (last: 2025-09-04) [refs: bikini request & sundress request chatId:`5bbe58f9aa7748`]
+- exploring new outfit transformations (bikini, sundress, cocktail, maxi, denim, polka dot dresses); 3× (last: 2025-09-04) [refs: bikini request & sundress request; dress variations chatId:`5bbe58f9aa7748`]
