@@ -1,9 +1,9 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- requests content with strict length constraints; 19× (last: 2025-09-03) [refs: n8n Instagram prompt chatId:`79490ef7dd054f`; splitwise prompt chatId:`852891c7196d44`; stagehand prompt chatId:`3535f07bff634c`; cloudconvert prompt chatId:`6a0510f7f6f346`]
+- requests content with strict length constraints; 20× (last: 2025-09-03) [refs: n8n Instagram prompt chatId:`79490ef7dd054f`; splitwise prompt chatId:`852891c7196d44`; stagehand prompt chatId:`3535f07bff634c`; cloudconvert prompt chatId:`6a0510f7f6f346`; mongodb prompt chatId:`c2816fe84dcb44`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- provides highly detailed multi-step content requirements (specific structure, title, prompt, tags); 7× (last: 2025-09-03) [refs: n8n Instagram prompt chatId:`79490ef7dd054f`; splitwise prompt chatId:`852891c7196d44`; stagehand prompt chatId:`3535f07bff634c`; cloudconvert prompt chatId:`6a0510f7f6f346`]
+- provides highly detailed multi-step content requirements (specific structure, title, prompt, tags); 8× (last: 2025-09-03) [refs: n8n Instagram prompt chatId:`79490ef7dd054f`; splitwise prompt chatId:`852891c7196d44`; stagehand prompt chatId:`3535f07bff634c`; cloudconvert prompt chatId:`6a0510f7f6f346`; mongodb prompt chatId:`c2816fe84dcb44`]
 - asks for step-by-step guidance for tool setup and processes; 5× (last: 2025-09-03) [refs: Discord bot setup guidance chatId:`1a1bd5c41e0446`; Splitwise API guidance chatId:`852891c7196d44`]
 
 ## Knowledge & Context
@@ -21,4 +21,4 @@
 
 ### Emerging (new query patterns)
 - requests social media (Twitter) content creation and scheduling; 1× (first: 2025-09-03) [ref: Twitter thread creation & scheduling chatId:`5bf40f69543a44`]
-- requests agent-based automation prompts (Discord, n8n, Splitwise, CloudConvert); 7× (since 2025-09-03) [refs: n8n Instagram prompt chatId:`79490ef7dd054f`; Splitwise automation chatId:`852891c7196d44`; Discord prompt chatId:`1a1bd5c41e0446`; cloudconvert prompt chatId:`6a0510f7f6f346`]
+- requests agent-based automation prompts (Discord, n8n, Splitwise, CloudConvert, MongoDB); 8× (since 2025-09-03) [refs: n8n Instagram prompt chatId:`79490ef7dd054f`; Splitwise automation chatId:`852891c7196d44`; Discord prompt chatId:`1a1bd5c41e0446`; cloudconvert prompt chatId:`6a0510f7f6f346`; mongodb prompt chatId:`c2816fe84dcb44`]
