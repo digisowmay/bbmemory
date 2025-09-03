@@ -19,4 +19,4 @@
 ### Durable (regular platform activities)
 
 ### Emerging (new query patterns)
-- frequently requests Bhindi agent tool call specifications and tests; 3× (last: 2025-09-03) [refs: initial toolcalls query chatId:`80de4a7b53d245`; gemini-image_generateImage arguments request chatId:`80de4a7b53d245`; gemini-image_editImage arguments request chatId:`80de4a7b53d245`]
+- frequently requests Bhindi agent tool call specifications and tests; 4× (last: 2025-09-03) [refs: initial toolcalls query chatId:`80de4a7b53d245`; gemini-image_generateImage arguments request chatId:`80de4a7b53d245`; gemini-image_editImage arguments request chatId:`80de4a7b53d245`; gemini-image_combineImages arguments request chatId:`80de4a7b53d245`]
