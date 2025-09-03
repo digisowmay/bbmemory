@@ -2,7 +2,7 @@
 ### Durable (established, 3+ reinforcements)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- provides clear image URLs and explicit edit instructions when requesting visual tasks; 2× (last: 2025-09-03) [refs: photo editing request chatId:`67c12d0365dd4c`; lighting fix request chatId:`67c12d0365dd4c`]
+- provides clear image URLs and explicit edit instructions when requesting visual tasks; 3× (last: 2025-09-03) [refs: photo editing request chatId:`67c12d0365dd4c`; lighting fix request chatId:`67c12d0365dd4c`; realistic screenshot request chatId:`67c12d0365dd4c`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -18,4 +18,4 @@
 ### Durable (regular platform activities)
 
 ### Emerging (new query patterns)
-- requests image manipulation/editing tasks; 2× (last: 2025-09-03) [refs: photo editing request chatId:`67c12d0365dd4c`; lighting fix request chatId:`67c12d0365dd4c`]
+- requests image manipulation/editing tasks; 3× (last: 2025-09-03) [refs: photo editing request chatId:`67c12d0365dd4c`; lighting fix request chatId:`67c12d0365dd4c`; realistic screenshot request chatId:`67c12d0365dd4c`]
