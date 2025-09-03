@@ -25,7 +25,7 @@
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
-- explores AI prompt engineering; optimizing ChatGPT prompts and workflows; 4× (promoted from emerging, since 2024-08-18) [refs: prompt improvement discussion chatId:`bb83e4b41f6e4d`; workflow automation discussion chatId:`bb83e4b41f6e4d`; AI tool comparison; question about best prompts chatId:`bb83e4b41f6e4d`]
+- explores AI prompt engineering; optimizing ChatGPT prompts and workflows; 5× [refs: prompt improvement discussion chatId:`bb83e4b41f6e4d`; workflow automation discussion chatId:`bb83e4b41f6e4d`; AI tool comparison; question about best prompts chatId:`bb83e4b41f6e4d`; agents capabilities request chatId:`03c1d181e8b046`]
 
 ### Emerging (new query patterns)
 - exploring AI image generation; 3× (last: 2025-09-03) [refs: Van Gogh golden retriever image request chatId:`03c1d181e8b046`; repeat golden retriever portrait request chatId:`03c1d181e8b046`; third golden retriever portrait request chatId:`03c1d181e8b046`]
