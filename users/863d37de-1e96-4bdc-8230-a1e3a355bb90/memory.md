@@ -1,6 +1,6 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- prefers concise, one-line commands and follow-ups; 34× (stable since 2025-08-31) [refs: repeated quick commands during agent creation & sync chatId:`307ca8ef14424e`; endpoint update request chatId:`64a7dfd2ae3c4b`; mermaid diagram request chatId:`91e1da92dbe948`; PDF conversion request chatId:`74b03e41a39249`]
+- prefers concise, one-line commands and follow-ups; 35× (stable since 2025-08-31) [refs: repeated quick commands during agent creation & sync chatId:`307ca8ef14424e`; endpoint update request chatId:`64a7dfd2ae3c4b`; mermaid diagram request chatId:`91e1da92dbe948`; PDF conversion request chatId:`74b03e41a39249`; neo4j tools request chatId:`23f8b15fa56747`]
 
 ### Emerging (new signals, 1-2 reinforcements)
 - requests detailed error information for troubleshooting; 6× (last: 2025-09-03) [refs: asked for exact error during sync chatId:`307ca8ef14424e`; asked for error code in mermaid agent chatId:`91e1da92dbe948`]
