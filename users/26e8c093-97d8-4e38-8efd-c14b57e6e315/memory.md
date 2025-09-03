@@ -26,5 +26,6 @@
 - requests fashion advice and image-based edits for personal photos; 7× [refs: accessory, hairstyle, pose requests chatId:`5bbe58f9aa7748`]
 
 ### Emerging (new query patterns)
-- seeks multiple styling variations in a single request; 4× (since 2025-09-03, last: 2025-09-04) [refs: hairstyle & pose variations chatId:`5bbe58f9aa7748`]
+- seeks multiple styling variations in a single request; 4× (since 2025-09-03) [refs: hairstyle & pose variations chatId:`5bbe58f9aa7748`]
 - seeks sequential pose images of same outfit; 2× (started: 2025-09-03) [refs: pose variation request chatId:`5bbe58f9aa7748`]
+- exploring revealing outfit transformations (e.g., bikini look); 1× (first: 2025-09-04) [ref: bikini request chatId:`5bbe58f9aa7748`]
