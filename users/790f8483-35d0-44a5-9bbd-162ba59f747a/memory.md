@@ -5,7 +5,7 @@
 ### Emerging (new signals, 1-2 reinforcements)
 - prefers direct resource links (e.g., Drive links) after operations; 3× (last: 2025-09-03) [ref: provided logo URL chatId:`b9946941f7a644`]
 - wants reminder notifications delivered in natural, friendly language with no technical details; 1× (first: 2025-09-03) [ref: reminder delivery preference chatId:`73599a461f4540`]
-- prefers operations without confirmation prompts; explicit instruction "don't ask"; 1× (first: 2025-09-03) [ref: automation sync command chatId:`99f58bfafba749`]
+- prefers operations without confirmation prompts; explicit instruction "don't ask"; 2× (last: 2025-09-03) [refs: automation sync command chatId:`99f58bfafba749`; ssh + agent sync task chatId:`44aa81b3dae74a`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -30,4 +30,4 @@
 
 ### Emerging (new query patterns)
 - exploring diagram generation with Mermaid; prefers visual representations; 3× (since 2025-09-03) [refs: mermaid agent request chatId:`5193cf53d94f47`; flowchart generation chatId:`5193cf53d94f47`; mermaid internal status change chatId:`5193cf53d94f47`]
-- performs server deployments via SSH; remote command execution; 2× (last: 2025-09-03) [refs: deployment instruction chatId:`20f56e60637d40`; automation sync command chatId:`99f58bfafba749`]
+- performs server deployments via SSH; remote command execution; 3× (last: 2025-09-03) [refs: deployment instruction chatId:`20f56e60637d40`; automation sync command chatId:`99f58bfafba749`; ssh + agent sync task chatId:`44aa81b3dae74a`]
