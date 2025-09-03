@@ -28,4 +28,4 @@
 
 ### Emerging (new query patterns)
 - uses assistant for creative content generation, task management (Todoist), and retail price comparison (luxury fashion purchase); 6× (since 2025-09-01) [refs: tweet posting chatId:`5dd3b78eca0543`; additional tweet request chatId:`5dd3b78eca0543`; google form creation chatId:`f43391e07f9c49`; task addition chatId:`5e88cea998434b`; multi-tool deployment workflow chatId:`bb20c27486ef4d`; Dior bag price comparison chatId:`cfebc518400344`]
-- seeks academic literature and dataset search assistance; 1× (first: 2025-09-03) [ref: lithium-ion battery research request chatId:`0b937098ae2740`]
+- seeks academic literature and dataset search assistance; 2× (last: 2025-09-03) [refs: lithium-ion battery research request chatId:`0b937098ae2740`; wearable AI paper request chatId:`c75bc9e6567b49`]
