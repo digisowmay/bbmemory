@@ -1,6 +1,6 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- prefers concise, lowercase assistant replies; 9× (stable since 2025-08-20) [refs: echo delegation request chatId:`c03273d910cd4b`; news audio request chatId:`898cc38b8e6341`; github issue request chatId:`70331493ea4d4f`]
+- prefers concise, lowercase assistant replies; 10× (stable since 2025-08-20) [refs: echo delegation request chatId:`c03273d910cd4b`; news audio request chatId:`898cc38b8e6341`; github issue request chatId:`70331493ea4d4f`; automation request chatId:`2e69f63ce2e444`]
 - prefers subtle logo integration and minimalist branding; 7× (last: 2025-09-03) [refs: billboard revision requests chatId:`0eed68ac30e145`; mobile-shot billboard tweak chatId:`0eed68ac30e145`]
 - realistic mobile-phone style photos with local Bengaluru context (yellow autos, bikes); 3× (promoted from emerging, last: 2025-09-03) [refs: BLR street vibes request chatId:`0eed68ac30e145`; mobile phone angle with autos chatId:`0eed68ac30e145`; night portrait BLR scene chatId:`0eed68ac30e145`]
 
@@ -19,7 +19,7 @@
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
-- delegates operational tasks to assistant (github, communication, content creation, research); 14× [refs: multiple task delegations chatId:`c03273d910cd4b`; news audio request chatId:`898cc38b8e6341`; github issue request chatId:`70331493ea4d4f`]
+- delegates operational tasks to assistant (github, communication, content creation, research); 15× [refs: multiple task delegations chatId:`c03273d910cd4b`; news audio request chatId:`898cc38b8e6341`; github issue request chatId:`70331493ea4d4f`; popover size issue chatId:`2e69f63ce2e444`]
 
 ### Emerging (recent behavioral shifts)
 - asks for code snippet outputs when summarizing prompts/templates; 2× (last: 2025-09-03) [refs: billboard mega prompt code chatId:`0eed68ac30e145`; billboard prompt template chatId:`c0d08c6bcfdd43`]
