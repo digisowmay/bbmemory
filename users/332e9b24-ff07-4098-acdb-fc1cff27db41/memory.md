@@ -4,6 +4,7 @@
 - uses concise imperative instructions in Russian when requesting tasks; 5× [refs: image edit requests chatIds:`1a637ab7238245`, `1f5b4d54955d49`, `8ec7bec41f8744`, `84f49d591b6d4e`; redraw instruction chatId:`84f49d591b6d4e`]
 
 ### Emerging (new signals, 1-2 reinforcements)
+- insists on using the exact provided photo and the specific image-edit tool rather than generating new images; 1× (first: 2025-09-03) [ref: clarification "нет, используй то фото что я дал и инструмент эдит." chatId:`84f49d591b6d4e`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
