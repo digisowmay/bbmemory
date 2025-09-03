@@ -11,10 +11,8 @@
 - none
 
 ### Emerging (recent learning, current focus)
-- preparing data engineering posts in Figma by morning; 1× (started: 2025-08-31) [ref: stated need for data engg posts]
-- working on IT Genshin project due Sept 1, 1:30 AM; 1× (started: 2025-08-31) [ref: deadline mention]
 - seeking marketing job opportunities in Bangalore; 1× (started: 2025-09-01) [ref: marketing jobs request chatId:`5ae756b89a9443`]
-- saving for a Dior Lady Dior bag; seeking best price; 1× (started: 2025-09-03) [ref: Dior bag deal discussion chatId:`cfebc518400344`]
+- evaluating options for purchasing a new smartphone; 1× (first: 2025-09-03) [ref: smartphone reviews analysis chatId:`309269a47fc74a`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
@@ -29,6 +27,5 @@
 - none
 
 ### Emerging (new query patterns)
-- uses assistant for creative content generation and task management (Todoist); 5× (since 2025-09-01) [refs: tweet posting chatId:`5dd3b78eca0543`; additional tweet request chatId:`5dd3b78eca0543`; google form creation chatId:`f43391e07f9c49`; task addition chatId:`5e88cea998434b`; multi-tool deployment workflow chatId:`bb20c27486ef4d`]
-- coordinates development workflow across GitHub, Linear, Telegram, and Google Calendar; 1× (first: 2025-09-03) [ref: multi-tool deployment workflow chatId:`bb20c27486ef4d`]
-- uses assistant for luxury product price comparison; fashion shopping; 1× (first: 2025-09-03) [ref: Dior bag deal discussion chatId:`cfebc518400344`]
+- uses assistant for creative content generation, task management (Todoist), and retail price comparison (luxury fashion purchase); 6× (since 2025-09-01) [refs: tweet posting chatId:`5dd3b78eca0543`; additional tweet request chatId:`5dd3b78eca0543`; google form creation chatId:`f43391e07f9c49`; task addition chatId:`5e88cea998434b`; multi-tool deployment workflow chatId:`bb20c27486ef4d`; Dior bag price comparison chatId:`cfebc518400344`]
+- seeks expert tech product reviews and YouTube video analyses for purchase decisions; 1× (first: 2025-09-03) [ref: smartphone reviews analysis chatId:`309269a47fc74a`]
