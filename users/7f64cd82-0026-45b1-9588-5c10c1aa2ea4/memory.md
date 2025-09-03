@@ -1,0 +1,21 @@
+## Communication Patterns
+### Durable (established, 3+ reinforcements)
+
+### Emerging (new signals, 1-2 reinforcements)
+- gives concise instructions for AI image editing tasks; 1× (first: 2025-09-03) [ref: AI photo transformation request chatId:`7a9b6da9331d46`]
+
+## Knowledge & Context
+### Durable (core expertise, established over time)
+
+### Emerging (recent learning, current focus)
+
+## Thinking & Working Style
+### Durable (core thinking patterns)
+
+### Emerging (recent behavioral shifts)
+
+## Platform Usage & Queries
+### Durable (regular platform activities)
+
+### Emerging (new query patterns)
+- experimenting with AI-based photo editing; 1× (started: 2025-09-03) [ref: image transformation request chatId:`7a9b6da9331d46`]
