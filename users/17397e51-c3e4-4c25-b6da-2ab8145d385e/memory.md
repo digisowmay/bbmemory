@@ -3,7 +3,7 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - requests concise, outcome-focused automation solutions; 2× (last: 2025-09-03) [refs: automation setup confirmation chatId:`ec5d3aea0d8a47`]
-- prefers pre-publish review and alternative options; 1× (first: 2025-09-03) [ref: request for notifications before posting chatId:`ec5d3aea0d8a47`]
+- asks clarifying questions about process details and notification channels before confirming; 1× (first: 2025-09-03) [ref: notification location question chatId:`ec5d3aea0d8a47`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -17,7 +17,7 @@
 
 ### Emerging (recent behavioral shifts)
 - prefers automated, scheduled solutions to streamline tasks; 2× (since 2025-09-03) [refs: automation creation and rescheduling chatId:`ec5d3aea0d8a47`]
-- values quality control and oversight in automated workflows; 1× (first: 2025-09-03) [ref: asked for final approval before posting chatId:`ec5d3aea0d8a47`]
+- wants manual approval/oversight before automated actions execute; 1× (first: 2025-09-03) [ref: request for pre-post review notifications chatId:`ec5d3aea0d8a47`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
