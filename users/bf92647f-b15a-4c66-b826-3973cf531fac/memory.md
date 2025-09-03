@@ -1,28 +1,28 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- gives concise, directive phrases for visual edits ("restore colours", "neutral/cool tone", "correct brightness", "remove texture"); 7× (stable since 2025-08-31) [refs: image restoration request chatId:`217f9c7a475c43`; latest colour correction requests]
-- prefers results that look natural and not over-processed; 3× (promoted from emerging, last: 2025-09-03) [refs: "don't make it look too fake and unrealistic" chatId:`217f9c7a475c43`; "make it look like a natural photo" chatId:`217f9c7a475c43`; "keep stage lights moderate" chatId:`217f9c7a475c43`]
+- gives concise, directive phrases for visual edits ("restore colours", "only correct colours", "no enhancements"); 10× (stable since 2025-08-31) [refs: multiple colour correction requests including chatId:`217f9c7a475c43`]
+- prefers results that look natural and not over-processed; 6× (reinforced 2025-09-03) [refs: "make it look like a natural photo", "don't make background super warm", "only colours" chatId:`217f9c7a475c43`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- n/a
+- wants stage lights kept at moderate brightness so bulbs remain visible; 1× (first: 2025-09-03) [ref: stage lights instruction chatId:`217f9c7a475c43`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
 - n/a
 
 ### Emerging (recent learning, current focus)
-- prefers neutral/cool tone colorization in restored images; 2× (since 2025-09-03) [refs: previous neutral tone request; current restoration instructions chatId:`217f9c7a475c43`]
+- prefers neutral/cool tone colourization in restored images; 2× (since 2025-09-03) [refs: earlier neutral tone request; current minimal colour correction instructions chatId:`217f9c7a475c43`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
-- n/a
+- detail-oriented visual aesthetic, seeks precise alignment and natural look; 6× (last: 2025-09-03) [refs: repeated specific colour only edits chatId:`217f9c7a475c43`]
 
 ### Emerging (recent behavioral shifts)
-- detail-oriented visual aesthetic, seeks precise alignment and natural look; 5× (last: 2025-09-03) [refs: messy fringe length, mustache thickness, natural look emphasis chatId:`217f9c7a475c43`; recent natural color correction requests]
+- minimal-change philosophy: requests only necessary adjustments, avoiding additional enhancements; 2× (since 2025-09-03) [refs: "only colours", "no enhancements" chatId:`217f9c7a475c43`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
-- frequent image editing requests; 10× [refs: entire conversation of image modification including chatId:`217f9c7a475c43`]
+- frequent image editing requests; 15× [refs: continuous image modification conversation chatId:`217f9c7a475c43`]
 
 ### Emerging (new query patterns)
-- focus on retro rockstar styles in edits; 2× (since 2025-08-31) [refs: Freddie Mercury styling requests]
+- focus on stage lighting authenticity in edits; 1× (started 2025-09-03) [ref: instruction about bulb visibility chatId:`217f9c7a475c43`]
