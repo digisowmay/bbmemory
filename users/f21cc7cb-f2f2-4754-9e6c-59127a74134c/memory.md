@@ -1,7 +1,7 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- gives concise, imperative instructions for visual edits; 17× (stable since 2025-09-03) [refs: ongoing family portrait iterations; "make her taller" request; background/lighting adjustments chatId:`940d86332ffa42`; exterior background request chatId:`62d6d6e5bed348`]
-- insists on preserving original facial features with no retouching; 9× [refs: repeated "maintain facial features, no retouch" requests chatId:`940d86332ffa42`]
+- gives concise, imperative instructions for visual edits; 18× (stable since 2025-09-03) [refs: ongoing family portrait iterations; "make her taller" request; background/lighting adjustments chatId:`940d86332ffa42`; exterior background request chatId:`62d6d6e5bed348`; upscaling/face clarity request chatId:`46be0cbcc75343`]
+- insists on preserving original facial features with no retouching; 10× [refs: repeated "maintain facial features, no retouch" requests chatId:`940d86332ffa42`; complaint about changed face chatId:`46be0cbcc75343`]
 
 ### Emerging (new signals, 1-2 reinforcements)
 - requests realistic color/light harmonization across composite images; 3× (last: 2025-09-03) [refs: "adjust their colors" request chatId:`940d86332ffa42`; exterior background request chatId:`62d6d6e5bed348`]
@@ -20,7 +20,7 @@
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
-- using platform for image editing and background manipulation tasks; 14× [refs: current family portrait iterations; background change & color harmonization requests chatId:`940d86332ffa42`; exterior background request chatId:`62d6d6e5bed348`]
+- using platform for image editing and background manipulation tasks; 15× [refs: current family portrait iterations; background change & color harmonization requests chatId:`940d86332ffa42`; exterior background request chatId:`62d6d6e5bed348`; upscaling/face clarity request chatId:`46be0cbcc75343`]
 - prefers using “Nano Banana” model for image composition tasks; 5× [refs: repeated “use nano banana” instructions chatId:`940d86332ffa42`]
 
 ### Emerging (new query patterns)
