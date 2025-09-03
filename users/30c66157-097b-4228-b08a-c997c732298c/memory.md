@@ -2,7 +2,7 @@
 ### Durable (established, 3+ reinforcements)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- uses explicit single-word commands like "CONFIRM" to proceed/acknowledge steps; 1× (first: 2025-09-03) [ref: calendar scheduling chatId:`54c5b79476b74e`]
+- uses explicit single-word commands like "CONFIRM" to proceed/acknowledge steps; 2× (last: 2025-09-03) [refs: calendar scheduling chatId:`54c5b79476b74e`; toolcalls inquiry chatId:`80de4a7b53d245`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
