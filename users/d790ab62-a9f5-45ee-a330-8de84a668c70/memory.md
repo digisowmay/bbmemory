@@ -1,6 +1,6 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- gives concise task-oriented directives; 9× (stable since 2025-09-03) [refs: image editing requests chatId:`8f3d8f9fc28f41`; multiple cinematic shot requests chatId:`c7877afab58647`]
+- gives concise task-oriented directives; 10× (stable since 2025-09-03) [refs: image editing requests chatId:`8f3d8f9fc28f41`; multiple cinematic shot requests chatId:`c7877afab58647`; music video confirmation chatId:`d1e739ef985e46`]
 - prefers realistic edits over cartoon effects; 5× [refs: requests for photorealistic shots chatId:`8f3d8f9fc28f41`; wide angle twin forest request chatId:`c7877afab58647`]
 
 ### Emerging (new signals, 1-2 reinforcements)
@@ -11,7 +11,7 @@
 - (none recorded yet)
 
 ### Emerging (recent learning, current focus)
-- (none at this time)
+- creating a music video; 1× (started: 2025-09-03) [ref: music video discussion chatId:`d1e739ef985e46`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
