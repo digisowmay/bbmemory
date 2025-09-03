@@ -2,7 +2,7 @@
 ### Durable (established, 3+ reinforcements)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- prefers French language communication; 3× (last: 2025-09-03) [ref: image editing request chatId:`fed6bde6acbe49`]
+- préfère la communication en français; 4× (last: 2025-09-03) [refs: image editing conversation chatId:`fed6bde6acbe49`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -18,4 +18,4 @@
 ### Durable (regular platform activities)
 
 ### Emerging (new query patterns)
-- uses platform to request image editing transformations; 3× (since 2025-09-03) [ref: image editing request chatId:`fed6bde6acbe49`]
+- utilise la plateforme pour demander des transformations d'images; 4× (since 2025-09-03) [refs: image editing requests chatId:`fed6bde6acbe49`]
