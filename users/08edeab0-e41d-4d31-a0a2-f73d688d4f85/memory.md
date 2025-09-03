@@ -2,7 +2,7 @@
 ### Durable (established, 3+ reinforcements)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- provides concise, minimal details initially; 2× (last: 2025-09-03) [refs: weekend trip planning chatId:`f55f3bf13c4044`; travel details replies chatId:`f55f3bf13c4044`]
+- provides concise, minimal details initially; 3× (last: 2025-09-03) [refs: weekend trip planning chatId:`f55f3bf13c4044`; travel details replies chatId:`f55f3bf13c4044`; clarification answers chatId:`f55f3bf13c4044`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
