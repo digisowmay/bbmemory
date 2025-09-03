@@ -6,7 +6,7 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - seeks more creative or interesting contexts beyond standard examples; 1× (since 2025-09-03) [ref: request for non-electronics prompt chatId:`f9cf1c3b1de046`]
-- prefers concise, practical use cases over lengthy workflows; 1× (first: 2025-09-03) [ref: comment on lengthy cosmos flow chatId:`f9cf1c3b1de046`]
+- explicitly instructs use of a specific agent only (Cosmos) for certain tasks; 1× (first: 2025-09-03) [ref: tool usage restriction chatId:`f3719620208f44`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -27,5 +27,5 @@
 - (none)
 
 ### Emerging (new query patterns)
-- uses Hacker News and Mermaid agents for direct content generation and visualization; 2× (since 2025-09-03) [refs: HN agent usage chatId:`9465febfaab04e`; mermaid prompt execution chatId:`50a2e67291f74c`]
+- uses multiple agents (Hacker News, Mermaid, Cosmos) for direct content generation, visualization, and web navigation; 3× (since 2025-09-03) [refs: HN agent usage chatId:`9465febfaab04e`; mermaid prompt execution chatId:`50a2e67291f74c`; Cosmos-only instruction chatId:`f3719620208f44`]
 - crafts sample prompts for various Bhindi agents; 7× (since 2025-09-03) [refs: hunter prompt chatId:`5179853046dd43`; hacker news prompt chatId:`9465febfaab04e`; pinecone prompt chatId:`2df2d422dcd54d`; trello prompt chatId:`f6c51d7de1364d`; firecrawl prompt chatId:`782ef3a5815840`; cosmos prompt chatId:`f9cf1c3b1de046`; mermaid prompt chatId:`50a2e67291f74c`]
