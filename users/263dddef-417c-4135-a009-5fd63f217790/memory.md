@@ -4,7 +4,7 @@
 - instructs assistant to wait for additional user input before proceeding; 3× [refs: onion workflow "send second image" chatId:`eaad0c9c741440`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- demands exact replication of reference shot (maintain 16:9, same perspective) while applying edits; 2× (last: 2025-09-03) [refs: camera angle preservation request chatId:`eaad0c9c741440`]
+- demands exact replication of reference shot (maintain 16:9, same perspective) while applying edits; 3× (last: 2025-09-03) [refs: repeated camera-angle preservation requests chatId:`eaad0c9c741440`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -20,6 +20,6 @@
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
-- requests AI-generated realistic food images frequently; 5× [refs: baked onions image requests chatId:`eaad0c9c741440`]
+- requests AI-generated realistic food images frequently; 6× [refs: baked onions image requests chatId:`eaad0c9c741440`]
 
 ### Emerging (new query patterns)
