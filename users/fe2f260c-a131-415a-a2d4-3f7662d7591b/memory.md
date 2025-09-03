@@ -2,7 +2,7 @@
 ### Durable (established, 3+ reinforcements)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- provides detailed assignment instructions and numbered questions; 1× (first: 2025-09-04) [ref: assignment request chatId:`76135076ba8542`]
+- provides detailed assignment instructions and explicit formatting preferences (numbered questions, paragraph requirements); 2× (last: 2025-09-04) [refs: assignment request chatId:`76135076ba8542`; paragraph formatting request chatId:`76135076ba8542`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
