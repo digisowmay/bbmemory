@@ -13,6 +13,7 @@
 ### Emerging (recent learning, current focus)
 - exploring personal-development challenges (confidence, habit building); 2× (since 2025-09-02) [refs: confidence challenge request; readiness confirmation chatId:`1726d930013e4c`]
 - planning Medium publication series on AI design influence; 1× (started: 2025-09-02) [ref: Medium publication request chatId:`baa3167d195748`]
+- working on skincare D2C brand vitamin C serum campaign; 1× (first: 2025-09-03) [ref: Ad Factory skincare input chatId:`503abbd305f748`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
