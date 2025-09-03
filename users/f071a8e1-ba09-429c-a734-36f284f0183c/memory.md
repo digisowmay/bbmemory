@@ -6,7 +6,7 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - wants both landscape and portrait orientation variations; 3× (last: 2025-09-03) [refs: portrait mode request chatId:`0eed68ac30e145`; portrait night version chatId:`0eed68ac30e145`; additional portrait request chatId:`0eed68ac30e145`]
-- prefers fresh, non-generic conversational openings in written content; 1× (first: 2025-09-03) [ref: email tone refinement chatId:`e9029187a1d845`]
+- prefers fresh, non-generic conversational openings in written content; 2× (last: 2025-09-03) [refs: email tone refinement chatId:`e9029187a1d845`; follow-up email rewrite preference chatId:`e9029187a1d845`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
