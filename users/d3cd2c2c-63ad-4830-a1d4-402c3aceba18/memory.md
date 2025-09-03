@@ -3,7 +3,7 @@
 - 
 
 ### Emerging (new signals, 1-2 reinforcements)
-- tends to give very brief, single-word or short-phrase replies; 1× (first: 2025-09-03) [ref: translation request chatId:`9d2746dffc604e`]
+- tends to give very brief, single-word or short-phrase replies; 2× (last: 2025-09-03) [refs: translation request chatId:`9d2746dffc604e`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -24,4 +24,4 @@
 - 
 
 ### Emerging (new query patterns)
-- requests language translation assistance (Spanish → English); 1× (since 2025-09-03) [ref: translation request chatId:`9d2746dffc604e`]
+- requests language translation assistance (Spanish → English); 2× (since 2025-09-03) [refs: translation request chatId:`9d2746dffc604e`; follow-up document translation chatId:`9d2746dffc604e`]
