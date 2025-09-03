@@ -3,7 +3,7 @@
 -
 
 ### Emerging (new signals, 1-2 reinforcements)
-- supplies detailed design briefs with preferred colors, tone, and content; 2× (last: 2025-09-03) [refs: poster design request chatId:`8f1e4193c0a844`; wireframe request chatId:`1db1e8401aca48`]
+- supplies detailed design briefs with preferred colors, tone, and content; 3× (last: 2025-09-03) [refs: poster design request chatId:`8f1e4193c0a844`; wireframe request chatId:`1db1e8401aca48`; icon set request chatId:`f5d2bb5624ed4a`]
 - requesting condensed audio summaries for learning; 1× (first: 2025-09-03) [ref: ML video summary request chatId:`a4ce558a470e47`]
 - asks for data-driven analyses to inform decisions; 1× (first: 2025-09-03) [ref: Uniswap stats request chatId:`aeb4ddc9952641`]
 
@@ -29,6 +29,6 @@
 -
 
 ### Emerging (new query patterns)
-- requests AI-generated graphic design assets (posters, visual content, wireframes); 2× (since 2025-09-03) [refs: poster design request chatId:`8f1e4193c0a844`; wireframe request chatId:`1db1e8401aca48`]
+- requests AI-generated graphic design assets (posters, visual content, wireframes, icons); 3× (since 2025-09-03) [refs: poster design request chatId:`8f1e4193c0a844`; wireframe request chatId:`1db1e8401aca48`; icon set request chatId:`f5d2bb5624ed4a`]
 - seeks curated YouTube content and automated analyses for study; 1× (since 2025-09-03) [ref: ML video summary request chatId:`a4ce558a470e47`]
 - requests DeFi trading statistics and opportunities; 1× (since 2025-09-03) [ref: Uniswap stats request chatId:`aeb4ddc9952641`]
