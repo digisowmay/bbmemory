@@ -4,8 +4,8 @@
 - prefers concise drafts for external communication (Discord/LinkedIn); 4× (promoted from emerging, since 2025-09-02) [refs: LinkedIn solution draft request chatId:`bb83e4b41f6e4d`; discord message draft requests chatId:`bb83e4b41f6e4d`; shorten informal draft request chatId:`bb83e4b41f6e4d`; informal Discord reply chatId:`bb83e4b41f6e4d`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- collaborative mindset—expresses desire to work with the team; 1× (first: 2025-09-01) [ref: welcome reply to kuber chatId:`40ccced377c94a`]
-- prefers casual, informal tone with emojis/abbreviations when communicating; 2× (last: 2025-09-02) [refs: request for shorter informal draft chatId:`bb83e4b41f6e4d`; query about prompts chatId:`bb83e4b41f6e4d`]
+- prefers casual, informal tone with emojis/abbreviations when communicating; 2× (last: 2025-09-03) [refs: request for shorter informal draft chatId:`bb83e4b41f6e4d`; query about prompts chatId:`bb83e4b41f6e4d`]
+- likes catchy, action-oriented titles for prompts and content; 2× (last: 2025-09-03) [refs: repeated "interesting title" requests chatId:`bb83e4b41f6e4d`; title brainstorming chatId:`bb83e4b41f6e4d`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
