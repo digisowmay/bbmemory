@@ -3,14 +3,14 @@
 -
 
 ### Emerging (new signals, 1-2 reinforcements)
-- communicates in a mix of Urdu/Hindi and English; 4× (last: 2025-09-03) [refs: voice message request chatId:`8560d59d056b49`; "Urdu me" reply chatId:`8560d59d056b49`; follow-up voice message request chatId:`8560d59d056b49`; voice cloning request chatId:`8560d59d056b49`]
+- communicates in a mix of Urdu/Hindi and English; 5× (last: 2025-09-03) [refs: voice message request chatId:`8560d59d056b49`; "Urdu me" reply chatId:`8560d59d056b49`; follow-up voice message request chatId:`8560d59d056b49`; voice cloning request chatId:`8560d59d056b49`; additional voice message request chatId:`8560d59d056b49`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
 -
 
-### Emerging (recent learning, current focus)
-- wants to create a romantic love message for his wife; 2× (since 2025-09-03) [refs: initial request chatId:`8560d59d056b49`; confirmation for Urdu version chatId:`8560d59d056b49`]
+### Emerging (recent learning, current focus)  
+- wants to create a romantic love message for his wife; 3× (since 2025-09-03) [refs: initial request chatId:`8560d59d056b49`; confirmation for Urdu version chatId:`8560d59d056b49`; latest Urdu voice request chatId:`8560d59d056b49`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
@@ -24,4 +24,4 @@
 -
 
 ### Emerging (new query patterns)
-- interested in generating AI voice messages, including voice cloning of spouse; 4× (since 2025-09-03) [refs: request to send voice message chatId:`8560d59d056b49`; TTS request chatId:`8560d59d056b49`; follow-up need voice chatId:`8560d59d056b49`; voice cloning request chatId:`8560d59d056b49`]
+- interested in generating AI voice messages, including voice cloning of spouse; 5× (since 2025-09-03) [refs: request to send voice message chatId:`8560d59d056b49`; TTS request chatId:`8560d59d056b49`; follow-up need voice chatId:`8560d59d056b49`; voice cloning request chatId:`8560d59d056b49`; latest request for wife voice cloning chatId:`8560d59d056b49`]
