@@ -5,14 +5,14 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - asks for step-by-step guidance for tool setup and processes; 6× (last: 2025-09-03) [refs: Discord bot setup guidance chatId:`1a1bd5c41e0446`; Splitwise API guidance chatId:`852891c7196d44`; mongodb prompt input guidance chatId:`c2816fe84dcb44`]
-- uses playful, succinct responses (e.g., "masti is the goal"); 1× (first: 2025-09-03) [ref: chatId:`7a2d450dc79340`]
+- uses playful, succinct responses (e.g., "masti is the goal", "bro"); 3× (last: 2025-09-03) [refs: chatId:`7a2d450dc79340`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
 - (none yet)
 
 ### Emerging (recent learning, current focus)
-- building a comprehensive automation toolkit across Discord, n8n, Splitwise, CloudConvert, and MongoDB purely for fun/experimentation ("masti"); 1× (first: 2025-09-03) [ref: chatId:`7a2d450dc79340`]
+- building a comprehensive automation toolkit across Discord, n8n, Splitwise, CloudConvert, and MongoDB purely for fun/experimentation ("masti"); 2× (since: 2025-09-03) [refs: chatId:`7a2d450dc79340`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
