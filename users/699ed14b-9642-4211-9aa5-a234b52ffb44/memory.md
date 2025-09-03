@@ -1,9 +1,9 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- prefiere comunicarse en español, con jerga informal como "marico"; 3× (promoted from emerging, stable since 2025-09-03) [refs: greeting "Hola"; frase "En una problema mate marico"; math prompt chatId:`38006099e9de44`]
+- prefiere comunicarse en español, con jerga informal como "marico"; 4× (stable since 2025-09-03) [refs: greeting "Hola"; frase "En una problema mate marico"; math prompt chatId:`38006099e9de44`; saludo y solicitud chatId:`6e26f2001e8440`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- envía enunciados muy breves/incompletos que requieren aclaración; 2× (last: 2025-09-03) [refs: problema "Luis comió 2" chatId:`38006099e9de44`; mensaje previo incompleto chatId:`38006099e9de44`]
+- envía enunciados muy breves/incompletos que requieren aclaración; 3× (last: 2025-09-03) [refs: problema "Luis comió 2" chatId:`38006099e9de44`; mensaje previo incompleto chatId:`38006099e9de44`; solicitud "Me puedes ayudar en un problema" chatId:`6e26f2001e8440`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
