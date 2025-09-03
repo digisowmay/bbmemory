@@ -19,8 +19,9 @@
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
+- creates and manages Bhindi agents; defines endpoints, variables; 8× (promoted from emerging) [refs: agent creation and repeated sync attempts chatId:`307ca8ef14424e`; endpoint update & sync chatId:`64a7dfd2ae3c4b`]
+- requests graph database analytics with Neo4j; 3× (promoted from emerging) [refs: e-commerce graph analysis request chatId:`23f8b15fa56747`]
 
 ### Emerging (new query patterns)
-- creates and manages Bhindi agents; defines endpoints, variables; 8× (since 2025-09-03) [refs: agent creation and repeated sync attempts chatId:`307ca8ef14424e`; endpoint update & sync chatId:`64a7dfd2ae3c4b`]
-- requests graph database analytics with Neo4j; 3× (since 2025-09-03) [refs: e-commerce graph analysis request chatId:`23f8b15fa56747`; Neo4j sample tools demonstration chatId:`23f8b15fa56747`]
-- requests AI image generation and direct upload to Google Drive; 2× (since 2025-09-03) [refs: image generation & upload chatId:`a0c3599e3bfb46`; subsequent upload request chatId:`a0c3599e3bfb46`]
+- requests AI image generation and direct upload to Google Drive; 2× (since 2025-09-03) [refs: image generation & upload chatId:`a0c3599e3bfb46`]
+- requests web scraping and data extraction with Firecrawl; 1× (first: 2025-09-03) [ref: Firecrawl scraping request chatId:`ecd13016eb2946`]
