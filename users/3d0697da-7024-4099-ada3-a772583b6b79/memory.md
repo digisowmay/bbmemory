@@ -31,4 +31,4 @@
 ### Emerging (new query patterns)
 - requests AI-generated multimedia content creation (graphic assets, scripts, videos) with specific guidance; 5× (since 2025-09-03) [refs: poster design request chatId:`8f1e4193c0a844`; wireframe request chatId:`1db1e8401aca48`; icon set request chatId:`f5d2bb5624ed4a`; YouTube script request chatId:`d716f90722aa46`; video production orchestration chatId:`643b5ce098be4b`]
 - exploring DeFi data (crypto prices, wallet analytics) for investing; 2× (since 2025-09-03) [refs: Uniswap stats request chatId:`aeb4ddc9952641`; crypto portfolio analysis chatId:`658d51cae22842`]
-- comparative shopping for electronics deals; smartphone purchase research; 2× (last: 2025-09-04) [refs: Galaxy S25 deals comparison chatId:`2fd72d9b03984d`; Galaxy S25 deals comparison chatId:`3099786724194f`]
+- comparative shopping for electronics deals; smartphone purchase research; 3× (last: 2025-09-04) [refs: Galaxy S25 deals comparison chatId:`2fd72d9b03984d`; Galaxy S25 deals comparison chatId:`3099786724194f`; Galaxy S25 deals follow-up links chatId:`3099786724194f`]
