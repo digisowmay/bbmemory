@@ -27,5 +27,5 @@
 
 ### Emerging (new query patterns)
 - requesting scheduled habit challenges and progress trackers; 2× (since 2025-09-02) [refs: confidence challenge scheduling; readiness confirmation chatId:`1726d930013e4c`]
-- seeks content strategy assets (Notion, social media threads, cover images) for publication launches; 1× (first: 2025-09-02) [ref: Medium publication request chatId:`baa3167d195748`]
+- seeks content strategy assets and marketing copy adaptations (Notion assets, social posts, elevator pitches); 2× (since 2025-09-02) [refs: Medium publication request chatId:`baa3167d195748`; elevator pitch rewriting chatId:`d400c921fe0246`]
 - requests assistance locating specific fashion products (e.g., Nike sneakers); 2× (since 2025-09-02) [refs: sneaker sourcing requests chatId:`c69ff5ef003d4f`; follow-up Skyline clarification chatId:`c69ff5ef003d4f`]
