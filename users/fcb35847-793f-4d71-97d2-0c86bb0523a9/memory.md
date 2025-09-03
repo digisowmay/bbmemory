@@ -24,3 +24,4 @@
 
 ### Emerging (new query patterns)
 - requests resource recommendations (books) to optimize learning; 2× (since 2025-09-02) [refs: business book queries chatId:`6201d8e15c904c`; follow-up similar books query chatId:`6201d8e15c904c`]
+- asks quick weather updates; current weather, multiple cities; 1× (first: 2025-09-03) [ref: weather queries chatId:`4c8ad357b71c43`]
