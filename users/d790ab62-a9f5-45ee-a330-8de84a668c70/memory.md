@@ -27,4 +27,4 @@
 
 ### Emerging (new query patterns)
 - requests twin or duplicate subjects in images; 5× (since 2025-09-03) [refs: twin forest requests chatId:`c7877afab58647`]
-- asks for varied backgrounds with same subject/human; creative scene exploration; 1× (first: 2025-09-03) [ref: image background variation request chatId:`d1e739ef985e46`]
+- asks for varied backgrounds with same subject/human; 2× (since 2025-09-03) [refs: image background variation request chatId:`d1e739ef985e46`; six background request chatId:`c825d405e33f42`]
