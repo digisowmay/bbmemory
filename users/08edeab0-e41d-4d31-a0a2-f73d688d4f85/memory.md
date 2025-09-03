@@ -1,14 +1,15 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- prefers concise responses, shares minimal details initially; 1× (last: 2025-09-03) [ref: weekend trip planning chatId:`f55f3bf13c4044`]
 
 ### Emerging (new signals, 1-2 reinforcements)
+- provides concise, minimal details initially; 2× (last: 2025-09-03) [refs: weekend trip planning chatId:`f55f3bf13c4044`; travel details replies chatId:`f55f3bf13c4044`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
-- 21-year-old individual; personal demographic context; 1× [ref: age provided chatId:`f55f3bf13c4044`]
+- 21-year-old individual; 1× [ref: age provided chatId:`f55f3bf13c4044`]
 
 ### Emerging (recent learning, current focus)
+- located/departs from Kolhapur; 1× (first: 2025-09-03) [ref: provided departure city chatId:`f55f3bf13c4044`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
@@ -19,4 +20,4 @@
 ### Durable (regular platform activities)
 
 ### Emerging (new query patterns)
-- seeking travel planning and booking assistance; 1× (started: 2025-09-03) [ref: request to plan Goa weekend trip chatId:`f55f3bf13c4044`]
+- seeks travel planning and booking assistance; 2× (since 2025-09-03) [refs: request to plan Goa weekend trip chatId:`f55f3bf13c4044`; provided travel details chatId:`f55f3bf13c4044`]
