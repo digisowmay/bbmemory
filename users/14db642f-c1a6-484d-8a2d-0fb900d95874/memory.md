@@ -5,12 +5,13 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - requests direct spreadsheet manipulation by assistant (Google Sheets setup); 1× (first: 2025-09-03) [ref: investor outreach sheet creation chatId:`ff2500dc8c7c47`]
-- requests cost conversions to INR; 1× (first: 2025-09-03) [ref: travel budget conversion chatId:`3c9de65ec7554e`]
+- asks for concise one-liner/tagline style responses; 1× (first: 2025-09-04) [ref: startup one-line request chatId:`c5d09771708947`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
+- building Brewit crypto neobank platform leveraging smart accounts and account abstraction; 4× (since 2025-09-01) [refs: Brewit agent global instructions; investor outreach discussion chatId:`ff2500dc8c7c47`; startup one-line request chatId:`c5d09771708947`; earlier Brewit-related chats]
 
-### Emerging (recent learning, current focus)  
+### Emerging (recent learning, current focus)
 - building investor outreach list; current fundraising preparations; 1× (started: 2025-09-03) [ref: investor outreach sheet creation chatId:`ff2500dc8c7c47`]
 
 ## Thinking & Working Style
