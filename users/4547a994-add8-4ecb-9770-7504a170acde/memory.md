@@ -3,7 +3,7 @@
 - None noted yet.
 
 ### Emerging (new signals, 1-2 reinforcements)
-- None noted yet.
+- gives very concise imperative requests in Russian; 1× (first: 2025-09-03) [ref: image editing request chatId:`612b15c8e02d49`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -24,4 +24,4 @@
 - None noted yet.
 
 ### Emerging (new query patterns)
-- experimenting with image editing requests; 1× (first: 2025-09-03) [ref: image bald request chatId:`e74e74c5b6d04a`]
+- experimenting with image editing requests; 2× (last: 2025-09-03) [refs: image bald request chatId:`e74e74c5b6d04a`; image bald request chatId:`612b15c8e02d49`]
