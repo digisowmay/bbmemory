@@ -11,9 +11,8 @@
 -
 
 ### Emerging (recent learning, current focus)
-- involved in Pure DC LON01 data centre structured cabling project documentation; 3× (since 2025-09-01) [refs: repeated Datel proposal discussions chatId:`b2776138c89440`]
-- working with BMS architecture diagrams; 2× (started: 2025-09-01) [refs: request to attach BMS system architecture diagrams chatId:`b2776138c89440`]
-- exploring career pivot from project management to GTM strategist / other high-growth roles; 2× (since 2025-09-01) [refs: job search conversation chatId:`e3ee7422feb443`; high growth roles query chatId:`ad65743123e647`]
+- involved in Pure DC LON01 data centre structured cabling & BMS documentation analysis; 3× (since 2025-09-01) [refs: repeated Datel proposal and BMS diagrams discussions chatId:`b2776138c89440`]
+- exploring career pivot from project management to high-growth roles (GTM strategist, sustainability/green tech paths); 3× (last: 2025-09-03) [refs: high-growth roles queries including sustainability chatId:`ad65743123e647`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
@@ -21,7 +20,7 @@
 
 ### Emerging (recent behavioral shifts)
 - prefers receiving structured, summarized outputs from large technical documents; 5× (last: 2025-09-01) [refs: summary requests for Datel proposal and additional document analysis chatId:`b2776138c89440`]
-- seeks quick, on-point learning resources to rapidly upskill (AI/data science); 1× (first: 2025-09-01) [ref: course search request chatId:`99d4e14f11624f`]
+- seeks quick, on-point learning resources to rapidly upskill (AI/data science, sustainability); 2× (last: 2025-09-03) [refs: course search request chatId:`99d4e14f11624f`; sustainability careers query chatId:`ad65743123e647`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
@@ -29,5 +28,4 @@
 
 ### Emerging (new query patterns)
 - exploring document parsing capabilities (AutoCAD PDFs, Excel files, system diagrams); 6× (since 2025-09-01) [refs: capability inquiries and file attachment attempts chatId:`b2776138c89440`]
-- interest in BMS system documentation analysis; 2× (started: 2025-09-01) [refs: request to attach BMS system architecture diagrams chatId:`b2776138c89440`]
-- seeking career advice and job search assistance; 2× (since 2025-09-01) [refs: career pivot request chatId:`e3ee7422feb443`; high growth roles query chatId:`ad65743123e647`]
+- job & career search queries in high-growth sectors (GTM, sustainability, green tech); 3× (last: 2025-09-03) [refs: career pivot requests and sustainability roles discussion chatId:`ad65743123e647`]
