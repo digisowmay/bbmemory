@@ -26,3 +26,4 @@
 
 ### Emerging (new query patterns)
 - seeks telephony/SIP integration guidance; 4× (since 2025-09-03) [ref: guidance requests chatId:`45d8ecc4ce8e4e`]
+- exploring website cloning/automation with Python; 1× (first: 2025-09-03) [ref: website cloning request chatId:`45d8ecc4ce8e4e`]
