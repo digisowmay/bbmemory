@@ -1,27 +1,27 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- (none yet)
+- gives concise task-oriented directives; 3× (stable since 2025-09-03) [refs: image editing requests chatId:`8f3d8f9fc28f41`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- gives concise task-oriented directives; 2× (last: 2025-09-03) [ref: image editing requests chatId:`8f3d8f9fc28f41`]
+- (none)
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
 - (none yet)
 
 ### Emerging (recent learning, current focus)
-- (none yet)
+- (none)
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
 - (none yet)
 
 ### Emerging (recent behavioral shifts)
-- (none yet)
+- (none)
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
-- (none yet)
+- requests creative image editing transformations; 3× (stable since 2025-09-03) [refs: image editing requests chatId:`8f3d8f9fc28f41`]
 
 ### Emerging (new query patterns)
-- requests creative image editing transformations; 2× (last: 2025-09-03) [ref: image editing requests chatId:`8f3d8f9fc28f41`]
+- (none)
