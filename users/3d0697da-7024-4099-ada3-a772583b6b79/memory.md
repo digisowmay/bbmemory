@@ -33,3 +33,4 @@
 - requesting consumer electronics purchase advice; smartphones, spec comparison; 1× (first: 2025-09-03) [ref: phone under ₹50K advice chatId:`dd906e9550164a`]
 - uses assistant to plan entertainment events and handle Google Calendar/Gmail invites; 1× (started: 2025-09-03) [ref: movie night planning request chatId:`3bff508539ca4e`]
 - requests standardized test preparation guidance; CAT study schedule design; 1× (first: 2025-09-03) [ref: CAT schedule request chatId:`20ea0e6a6b5845`]
+- requests daily investment briefings with stock data and audio narration summary; 1× (first: 2025-09-03) [ref: investment briefing request chatId:`3fa7fc70300a4a`]
