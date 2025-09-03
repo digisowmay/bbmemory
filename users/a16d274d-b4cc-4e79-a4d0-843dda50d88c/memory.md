@@ -1,9 +1,9 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- 
+-
 
 ### Emerging (new signals, 1-2 reinforcements)
-- prefers detailed, structured responses with headings and exact data fields; 1× (first: 2025-09-03) [ref: startup research request chatId:`6c5c0cba798848`]
+- prefers detailed, structured responses with proper headings, exact data fields, and clickable markdown links; 2× (last: 2025-09-03) [refs: startup research request chatId:`6c5c0cba798848`; formatting improvement request chatId:`6c5c0cba798848`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
