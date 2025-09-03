@@ -3,7 +3,7 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - quickly corrects inaccuracies to ensure messages reflect true intent; 2× (last: 2025-09-02) [refs: correction about dinner plan chatId:`319a67a656cc43`; correction about Kuber name chatId:`9d66ad882d5d40`]
-- gives detailed creative briefs and expects professional, high-quality outputs (designs, scripts, visuals); 2× (last: 2025-09-04) [refs: billboard design request chatId:`67856cbf637a41`; video script request chatId:`76e2bb80725e48`]
+- gives detailed creative briefs and expects professional, high-quality outputs (designs, scripts, visuals); 3× (last: 2025-09-04) [refs: billboard design request chatId:`67856cbf637a41`; video script request chatId:`76e2bb80725e48`; concise script refinement request chatId:`76e2bb80725e48`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
