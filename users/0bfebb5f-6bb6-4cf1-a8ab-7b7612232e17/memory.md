@@ -2,7 +2,8 @@
 ### Durable (established, 3+ reinforcements)
 -
 ### Emerging (new signals, 1-2 reinforcements)
-- prefers detailed technical instructions followed by direct confirmation of implementation; 4× (last: 2025-09-03) [refs: workflow creation request chatId:`cc9ecb10195547`; implementation follow-up chatId:`cc9ecb10195547`; provisioning requirements discussion chatId:`cc9ecb10195547`; import guidance chatId:`cc9ecb10195547`]
+- prefers detailed technical instructions followed by direct confirmation of implementation; 5× (last: 2025-09-03) [refs: workflow creation request chatId:`cc9ecb10195547`; implementation follow-up chatId:`cc9ecb10195547`; provisioning requirements discussion chatId:`cc9ecb10195547`; import guidance chatId:`cc9ecb10195547`; n8n agent issue clarification chatId:`cc9ecb10195547`]
+- asks for root cause explanations before proceeding with technical steps; 1× (first: 2025-09-03) [ref: inquiry about n8n agent issue chatId:`cc9ecb10195547`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
