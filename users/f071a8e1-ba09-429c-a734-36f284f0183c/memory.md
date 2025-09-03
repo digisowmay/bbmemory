@@ -30,4 +30,5 @@
 
 ### Emerging (new query patterns)
 - prefers Google "nano banana" model for generation tasks and demands highly photorealistic output, removal of AI artifacts; 3× (since 2025-09-03) [refs: model usage request chatId:`c0d08c6bcfdd43`; follow-up generation chatId:`c0d08c6bcfdd43`; realism refinement request chatId:`c0d08c6bcfdd43`]
-- requests Google Drive operations such as file listing and integration setup; 1× (first: 2025-09-03) [ref: google drive access request chatId:`b4fdf1ddbf0440`]
+- requests Google Drive operations such as file listing and integration setup; 2× (since 2025-09-03) [refs: google drive access request chatId:`b4fdf1ddbf0440`; google drive listing retry chatId:`b4fdf1ddbf0440`]
+- learning data visualization; chart libraries, dashboards; 2× (started 2025-08-25) [refs: D3.js tutorial request chatId:`cde567fgh`; dashboard design consultation chatId:`fgh890ijk`]
