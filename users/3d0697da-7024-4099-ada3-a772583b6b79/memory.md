@@ -16,6 +16,7 @@
 - studying data science; seeking online resources on machine learning algorithms; 1× (started: 2025-09-03) [ref: ML video summary request chatId:`a4ce558a470e47`]
 - exploring decentralized finance trading (Uniswap) for investing; 1× (started: 2025-09-03) [ref: Uniswap stats request chatId:`aeb4ddc9952641`]
 - creating personal finance educational content for Gen Z Indians; 1× (started: 2025-09-03) [ref: YouTube script request chatId:`d716f90722aa46`]
+- designing mobile fitness app; wireframes and UI; 1× (started: 2025-09-03) [ref: wireframe request chatId:`1db1e8401aca48`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
