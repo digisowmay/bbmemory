@@ -1,9 +1,9 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- issues brief, direct task-oriented instructions for desired outcomes; 3× (promoted from emerging, since 2025-09-03) [refs: photo restoration request chatId:`4477e2192dde48`; second restoration request chatId:`4477e2192dde48`; current restoration request chatId:`c4a75c1197e341`]
+- issues brief, direct task-oriented instructions for desired outcomes; 3× (stable since 2025-09-03) [refs: photo restoration request chatId:`4477e2192dde48`; second restoration request chatId:`4477e2192dde48`; current restoration request chatId:`c4a75c1197e341`]
+- uses playful nicknames/greetings for the assistant (e.g., "Hey nano banana"); 3× (promoted from emerging) [refs: earlier restoration request chatId:`4477e2192dde48`; subsequent restoration request chatId:`4477e2192dde48`; current restoration request chatId:`c4a75c1197e341`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- uses playful nicknames/greetings for the assistant (e.g., "Hey nano banana"); 2× (last: 2025-09-03) [refs: earlier restoration request chatId:`4477e2192dde48`; current restoration request chatId:`c4a75c1197e341`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
