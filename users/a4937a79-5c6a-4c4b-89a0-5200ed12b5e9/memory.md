@@ -2,8 +2,8 @@
 ### Durable (established, 3+ reinforcements)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- requests automated, end-to-end solutions without excessive detail; 2× (last: 2025-09-03) [refs: lead gen automation setup chatId:`0186614b990243`; follow-up automation chatId:`f7989d9c873e4d`]
-- uses direct, imperative commands for task management (e.g., “cancel this completely”, “setup these as well”); 2× (last: 2025-09-03) [refs: cancellation command chatId:`0186614b990243`; setup commands chatId:`f7989d9c873e4d`]
+- requests automated, end-to-end solutions without excessive detail; 3× (last: 2025-09-03) [refs: lead gen automation setup chatId:`0186614b990243`; follow-up automation chatId:`f7989d9c873e4d`; A/B testing setup chatId:`f7989d9c873e4d`]
+- uses direct, imperative commands for task management (e.g., “cancel this completely”, “setup these as well”); 3× (last: 2025-09-03) [refs: cancellation command chatId:`0186614b990243`; setup commands chatId:`f7989d9c873e4d`; follow-up setup chatId:`f7989d9c873e4d`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -16,12 +16,12 @@
 ### Durable (core thinking patterns)
 
 ### Emerging (recent behavioral shifts)
-- prefers scalable, automated workflows to maximize efficiency; 2× (last: 2025-09-03) [refs: automation scheduling discussion chatId:`0186614b990243`; tracking/follow-up automation chatId:`f7989d9c873e4d`]
-- values data-driven performance tracking and weekly summary reports; 1× (observed: 2025-09-03) [ref: request for summary of results chatId:`f7989d9c873e4d`]
+- prefers scalable, automated workflows to maximize efficiency; 3× (last: 2025-09-03) [refs: automation scheduling discussion chatId:`0186614b990243`; tracking/follow-up automation chatId:`f7989d9c873e4d`; A/B testing setup chatId:`f7989d9c873e4d`]
+- values data-driven performance tracking, weekly summary reports, and A/B testing; 2× (last: 2025-09-03) [refs: request for summary chatId:`f7989d9c873e4d`; tracking/follow-up automation chatId:`f7989d9c873e4d`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
 
 ### Emerging (new query patterns)
 - exploring integration of search, email, and TTS agents for marketing automation; 1× (since 2025-09-03) [ref: tool integration request chatId:`0186614b990243`]
-- uses Bhindi platform to schedule multi-step email marketing campaigns and A/B testing; 1× (started: 2025-09-03) [ref: email automation scheduling chatId:`f7989d9c873e4d`]
+- uses Bhindi platform to schedule multi-step email marketing campaigns and A/B testing; 2× (last: 2025-09-03) [refs: email automation scheduling chatId:`f7989d9c873e4d`; A/B testing setup chatId:`f7989d9c873e4d`]
