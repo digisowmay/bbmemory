@@ -4,7 +4,7 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - requests balanced arguments and practical insights, not just opinions; 2× (last: 2025-09-03) [refs: request for both sides of discussion chatId:`9465febfaab04e`; request for main arguments from both sides chatId:`9465febfaab04e`]
-- prefers structured responses with title, concise prompt and tagged sections; explicit word-count constraints; 1× (first: 2025-09-03) [ref: sample prompt request chatId:`5179853046dd43`]
+- prefers structured responses with title, concise prompt and tagged sections; explicit word-count constraints; 2× (last: 2025-09-03) [refs: sample prompt request chatId:`5179853046dd43`; sample prompt request chatId:`2df2d422dcd54d`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -26,4 +26,4 @@
 
 ### Emerging (new query patterns)
 - uses Hacker News agent for story summaries and comment analysis; 1× (since 2025-09-03) [ref: HN agent usage chatId:`9465febfaab04e`]
-- crafts and executes prompts with Hunter agent for lead generation; 2× (since 2025-09-03) [refs: sample prompt requests chatId:`5179853046dd43`; hunter agent usage chatId:`5179853046dd43`]
+- crafts sample prompts for various Bhindi agents; 3× (since 2025-09-03) [refs: hunter prompt chatId:`5179853046dd43`; hacker news prompt chatId:`9465febfaab04e`; pinecone prompt chatId:`2df2d422dcd54d`]
