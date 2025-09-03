@@ -1,23 +1,23 @@
 ## Communication Patterns
-### Durable
+### Durable (established, 3+ reinforcements)
 
-### Emerging
-- prefers translation and content in PNG Pidgin; 3× (last: 2025-09-04) [refs: translation request chatId:`1210eecb61d741`; elaboration request chatId:`1210eecb61d741`; pidgin elaboration request chatId:`1210eecb61d741`]
+### Emerging (new signals, 1-2 reinforcements)
+- prefers translation and content in PNG Pidgin; 4× (last: 2025-09-04) [refs: translation request chatId:`1210eecb61d741`; elaboration request chatId:`1210eecb61d741`; pidgin elaboration request chatId:`1210eecb61d741`; elaborated points request chatId:`1210eecb61d741`]
 
 ## Knowledge & Context
-### Durable
+### Durable (core expertise, established over time)
 
-### Emerging
-- interest in PNG provincial autonomy debate topics; 1× (first: 2025-09-04) [ref: debate points request chatId:`1210eecb61d741`]
+### Emerging (recent learning, current focus)
+- interest in PNG provincial autonomy debate topics; 2× (last: 2025-09-04) [refs: debate points request chatId:`1210eecb61d741`; elaborated debate points request chatId:`1210eecb61d741`]
 
 ## Thinking & Working Style
-### Durable
+### Durable (core thinking patterns)
 
-### Emerging
-- asks for progressively deeper elaboration; wants initial summary then detailed expansion; 2× (last: 2025-09-04) [refs: elaboration request chatId:`1210eecb61d741`; pidgin elaboration request chatId:`1210eecb61d741`]
+### Emerging (recent behavioral shifts)
+- asks for progressively deeper elaboration; wants initial summary then detailed expansion; 3× (last: 2025-09-04) [refs: elaboration request chatId:`1210eecb61d741`; pidgin elaboration request chatId:`1210eecb61d741`; elaborated debate points request chatId:`1210eecb61d741`]
 
 ## Platform Usage & Queries
-### Durable
+### Durable (regular platform activities)
 
-### Emerging
-- uses platform for language translation tasks; 3× (since 2025-09-04) [refs: translation to PNG Pidgin chatId:`1210eecb61d741`; pidgin elaboration chatId:`1210eecb61d741`; new translation request chatId:`1210eecb61d741`]
+### Emerging (new query patterns)
+- uses platform for language translation tasks; 4× (since 2025-09-04) [refs: translation to PNG Pidgin chatId:`1210eecb61d741`; pidgin elaboration chatId:`1210eecb61d741`; new translation request chatId:`1210eecb61d741`; elaborated points translation chatId:`1210eecb61d741`]
