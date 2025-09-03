@@ -25,4 +25,4 @@
 
 ### Emerging (new query patterns)
 - creates and manages Bhindi agents; defines endpoints, variables; 8× (since 2025-09-03) [refs: agent creation and repeated sync attempts chatId:`307ca8ef14424e`; endpoint update & sync chatId:`64a7dfd2ae3c4b`]
-- experimenting with diagram generation using Mermaid agent; 1× (first: 2025-09-03) [ref: mermaid diagram request chatId:`91e1da92dbe948`]
+- experimenting with diagram generation using Mermaid agent; 2× (since 2025-09-03) [refs: initial mermaid diagram request chatId:`91e1da92dbe948`; repeated "try all" diagram generation chatId:`91e1da92dbe948`]
