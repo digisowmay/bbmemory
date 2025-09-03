@@ -2,7 +2,7 @@
 ### Durable (established, 3+ reinforcements)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- Uses concise, imperative commands for requests; 1× (first: 2025-09-03) [ref: image edit request chatId:`37cc45357ff241`]
+- Uses concise, imperative commands for requests; 2× (last: 2025-09-03) [refs: image edit request chatId:`37cc45357ff241`; follow-up transformation request chatId:`2e47adbcd6eb43`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -18,4 +18,4 @@
 ### Durable (regular platform activities)
 
 ### Emerging (new query patterns)
-- Requests creative image editing/manipulation of photos; 1× (started: 2025-09-03) [ref: image edit request chatId:`37cc45357ff241`]
+- Requests creative image editing/manipulation of photos; 2× (last: 2025-09-03) [refs: image edit request chatId:`37cc45357ff241`; follow-up transformation request chatId:`2e47adbcd6eb43`]
