@@ -21,4 +21,4 @@
 ### Durable (regular platform activities)
 
 ### Emerging (new query patterns)
-- requests YouTube video transcripts; 1× (first: 2025-09-04) [ref: transcript request chatId:`6f1c24eb6a9c47`]
+- requests YouTube video transcripts; 2× (since 2025-09-04) [refs: initial transcript request chatId:`6f1c24eb6a9c47`; follow-up transcript clarification chatId:`6f1c24eb6a9c47`]
