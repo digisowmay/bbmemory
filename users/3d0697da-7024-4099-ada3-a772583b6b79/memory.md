@@ -1,10 +1,10 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
--
+- supplies detailed content briefs and style/format guidelines for creative outputs; 5× (stable since 2025-09-03) [refs: poster design request chatId:`8f1e4193c0a844`; wireframe request chatId:`1db1e8401aca48`; icon set request chatId:`f5d2bb5624ed4a`; YouTube script request chatId:`d716f90722aa46`; recipe request chatId:`7c11590817c442`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- supplies detailed content briefs and style guidelines for creative outputs (designs, scripts) including desired tone, colors, timestamps, Hinglish, etc.; 4× (last: 2025-09-03) [refs: poster design request chatId:`8f1e4193c0a844`; wireframe request chatId:`1db1e8401aca48`; icon set request chatId:`f5d2bb5624ed4a`; YouTube script request chatId:`d716f90722aa46`]
-- seeks concise learning formats and analytical insights (audio summaries, data-driven stats); 2× (last: 2025-09-03) [refs: ML video summary request chatId:`a4ce558a470e47`; Uniswap stats request chatId:`aeb4ddc9952641`]
+- seeks concise learning formats and analytical insights; 2× (last: 2025-09-03) [refs: ML video summary request chatId:`a4ce558a470e47`; Uniswap stats request chatId:`aeb4ddc9952641`]
+- asks for step-by-step instructions; 1× (first: 2025-09-03) [ref: recipe request chatId:`7c11590817c442`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
