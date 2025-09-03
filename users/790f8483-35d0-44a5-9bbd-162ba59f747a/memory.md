@@ -4,7 +4,7 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - prefers direct resource links (e.g., Drive links) after operations; 3× (last: 2025-09-03) [ref: provided logo URL chatId:`b9946941f7a644`]
-- prefers multimodal responses, including audio output; 1× (first: 2025-09-02) [ref: book-to-action guide request chatId:`d37490428fc745`]
+- wants reminder notifications delivered in natural, friendly language with no technical details; 1× (first: 2025-09-03) [ref: reminder delivery preference chatId:`73599a461f4540`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
