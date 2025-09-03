@@ -6,6 +6,7 @@
 - uses structured markdown (headings, bullets) to organize explanations; 2× (since 2025-09-03) [ref: portfolio breakdown and roadmap discussion chatId:`b8f2a3dc97b54c`]
 - employs relatable analogies to make technical concepts beginner-friendly; 2× (since 2025-09-03) [ref: portfolio breakdown and roadmap discussion chatId:`b8f2a3dc97b54c`]
 - requests step-by-step actionable roadmaps when learning new topics; 1× (first: 2025-09-03) [ref: roadmap request chatId:`b8f2a3dc97b54c`]
+- asks follow-up clarifications about unclear concepts; 1× (first: 2025-09-03) [ref: mail0.link clarification chatId:`b8f2a3dc97b54c`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -28,3 +29,4 @@
 
 ### Emerging (new query patterns)
 - seeks career development and learning advice in tech; 1× (started: 2025-09-03) [ref: roadmap request chatId:`b8f2a3dc97b54c`]
+- inquires about online privacy tools like temporary email services; 1× (first: 2025-09-03) [ref: mail0.link question chatId:`b8f2a3dc97b54c`]
