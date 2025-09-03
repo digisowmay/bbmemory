@@ -7,14 +7,12 @@
 - provides highly structured, step-by-step workflow instructions with explicit formatting requirements; 2× (last: 2025-09-03) [refs: travel itinerary workflow chatId:`88c195b8240540`; crypto portfolio tracking instructions chatId:`4a8ad7d0680047`]
 - prefers automated background monitoring and periodic reporting; 2× (last: 2025-09-04) [refs: wallet tracking request chatId:`443836821fd442`; wallet schedule creation chatId:`443836821fd442`]
 - requests ability to pause or delete automated schedules on demand; 1× (first: 2025-09-04) [ref: cancellation of wallet monitoring schedule chatId:`443836821fd442`]
-- requests direct image-based analysis (e.g., QR code scanning) and quick summaries; 1× (first: 2025-09-04) [ref: image QR code scanning chatId:`68b452c5e39044`]
+- requests direct image-based analysis (e.g., QR code scanning) and quick summaries; 2× (last: 2025-09-04) [refs: image QR code scanning chatId:`68b452c5e39044`; QR code generation request chatId:`68b452c5e39044`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
-- 
 
 ### Emerging (recent learning, current focus)
-- 
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
@@ -26,9 +24,8 @@
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
-- 
 
 ### Emerging (new query patterns)
 - asks for custom travel itineraries; 3× (last: 2025-09-03) [refs: itinerary creation and updates chatId:`88c195b8240540`; travel planning chatId:`88c195b8240540`]
 - requests automated crypto portfolio tracking and reporting; 3× (last: 2025-09-04) [refs: crypto tracking workflow chatId:`4a8ad7d0680047`; follow-up confirmation chatId:`4a8ad7d0680047`; wallet monitoring request chatId:`443836821fd442`]
-- wants QR code/payment information extraction; 1× (first: 2025-09-04) [ref: QR code scanning chatId:`68b452c5e39044`]
+- wants QR code/payment information extraction; 2× (last: 2025-09-04) [refs: QR code scanning request chatId:`68b452c5e39044`; QR code generation chatId:`68b452c5e39044`]
