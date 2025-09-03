@@ -14,9 +14,10 @@
 ### Durable (core thinking patterns)
 
 ### Emerging (recent behavioral shifts)
+- methodical edge-case tester; systematically probes tool limits; 1× (first: 2025-09-03) [ref: edge case image generation test chatId:`80de4a7b53d245`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
 
 ### Emerging (new query patterns)
-- frequently requests Bhindi agent tool call specifications and tests; 4× (last: 2025-09-03) [refs: initial toolcalls query chatId:`80de4a7b53d245`; gemini-image_generateImage arguments request chatId:`80de4a7b53d245`; gemini-image_editImage arguments request chatId:`80de4a7b53d245`; gemini-image_combineImages arguments request chatId:`80de4a7b53d245`]
+- frequently requests Bhindi agent tool call specifications and tests; 5× (last: 2025-09-03) [refs: initial toolcalls query chatId:`80de4a7b53d245`; gemini-image_generateImage args request chatId:`80de4a7b53d245`; gemini-image_editImage args request chatId:`80de4a7b53d245`; gemini-image_combineImages args request chatId:`80de4a7b53d245`; edge case image generation test chatId:`80de4a7b53d245`]
