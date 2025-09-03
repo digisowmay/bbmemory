@@ -4,22 +4,22 @@
 - uses concise, imperative instructions ("make it", "give more variations"); 5× (last: 2025-09-03) [refs: image edit commands chatId:`5a4cb0351b484d`; couple creation command chatId:`7093fc4b630a49`; casual outfit command chatId:`5a4cb0351b484d`; whole person fit request chatId:`5a4cb0351b484d`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- (none)
+- requires accurate facial resemblance in edits; 1× (first: 2025-09-03) [ref: face accuracy complaint chatId:`5a4cb0351b484d`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
 - values professional visual branding for LinkedIn profile; 3× [refs: professional profile request; variation requests; physique refinement chatId:`5a4cb0351b484d`]
 
 ### Emerging (recent learning, current focus)
-- exploring casual attire and lifestyle backdrops in photo edits; 1× (first: 2025-09-03) [ref: casual appearance request chatId:`5a4cb0351b484d`]
+- exploring casual attire and lifestyle backdrops in photo edits; 2× (since 2025-09-03) [refs: casual appearance request chatId:`5a4cb0351b484d`; casual variations follow-up chatId:`5a4cb0351b484d`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
-- strong attention to visual detail and aesthetics; 2× (consistent pattern) [refs: earlier face slimming request chatId:`5a4cb0351b484d`; fit & slim refinement chatId:`5a4cb0351b484d`]
+- strong attention to visual detail and aesthetics; 2× [refs: earlier face slimming request chatId:`5a4cb0351b484d`; fit & slim refinement chatId:`5a4cb0351b484d`]
 
 ### Emerging (recent behavioral shifts)
 - seeks incremental perfection, moving from face tweaks to full-body and compositional adjustments; 6× (since 2025-09-02) [refs: face slimming request; fit & slim request chatId:`5a4cb0351b484d`; overall slim request chatId:`33b529ce0a8b41`; shy couple addition chatId:`6bdf1974331b46`; whole body slim request chatId:`5a4cb0351b484d`; casual refinement chatId:`5a4cb0351b484d`]
-- prefers variety between professional and casual looks; 1× (first: 2025-09-03) [ref: casual variations request chatId:`5a4cb0351b484d`]
+- prefers variety between professional and casual looks; 2× (last: 2025-09-03) [refs: casual variations request chatId:`5a4cb0351b484d`; casual accuracy follow-up chatId:`5a4cb0351b484d`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
@@ -27,4 +27,4 @@
 
 ### Emerging (new query patterns)
 - exploring personal fitness aesthetics and social scenarios in digital imagery; 4× (since 2025-09-02) [refs: fit & slim request chatId:`5a4cb0351b484d`; overall slim request chatId:`33b529ce0a8b41`; whole body slim request chatId:`5a4cb0351b484d`; casual variations chatId:`5a4cb0351b484d`]
-- exploring casual lifestyle imagery; 1× (first: 2025-09-03) [ref: casual outfit variations chatId:`5a4cb0351b484d`]
+- exploring casual lifestyle imagery; 2× (since 2025-09-03) [refs: casual outfit variations chatId:`5a4cb0351b484d`; casual appearance request chatId:`5a4cb0351b484d`]
