@@ -1,10 +1,11 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- provides concise, highly specific visual content instructions (camera angle, lighting, props); 6× [refs: onion image workflow chatId:`eaad0c9c741440`; current stone-board daylight request chatId:`eaad0c9c741440`]
+- provides concise, highly specific visual content instructions (camera angle, lighting, props); 6× [refs: onion image workflow chatId:`eaad0c9c741440`; stone-board daylight request chatId:`eaad0c9c741440`]
 - instructs assistant to wait for additional user input before proceeding; 3× [refs: onion workflow "send second image" chatId:`eaad0c9c741440`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- demands exact replication of reference shot (maintain 16:9, same perspective) while applying edits; 3× (last: 2025-09-03) [refs: repeated camera-angle preservation requests chatId:`eaad0c9c741440`]
+- demands exact replication of reference shot (16:9, same perspective) while applying edits; 3× (last: 2025-09-03) [refs: camera‐angle preservation requests chatId:`eaad0c9c741440`]
+- iteratively requests fine-tune adjustments (size tweaks, spacing) until image meets spec; 1× (first: 2025-09-03) [ref: onion size & gap corrections chatId:`eaad0c9c741440`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -17,6 +18,7 @@
 
 ### Emerging (recent behavioral shifts)
 - ensures clarity of requirements before action begins; 3× (last: 2025-09-03) [refs: repeated instruction confirmations chatId:`eaad0c9c741440`]
+- iterative refinement mindset, progressively adjusting output; 1× (first: 2025-09-03) [ref: onion size adjustments chatId:`eaad0c9c741440`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
