@@ -1,6 +1,6 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- supplies detailed content briefs and style/format guidelines for creative outputs; 5× (stable since 2025-09-03) [refs: poster design request chatId:`8f1e4193c0a844`; wireframe request chatId:`1db1e8401aca48`; icon set request chatId:`f5d2bb5624ed4a`; YouTube script request chatId:`d716f90722aa46`; recipe request chatId:`7c11590817c442`]
+- supplies detailed content briefs and style/format guidelines for creative outputs; 6× (stable since 2025-09-03) [refs: poster design request chatId:`8f1e4193c0a844`; wireframe request chatId:`1db1e8401aca48`; icon set request chatId:`f5d2bb5624ed4a`; YouTube script request chatId:`d716f90722aa46`; recipe request chatId:`7c11590817c442`; discord server setup chatId:`6d3ff284890b48`]
 
 ### Emerging (new signals, 1-2 reinforcements)
 - seeks concise learning formats and analytical insights; 3× (last: 2025-09-04) [refs: ML video summary request chatId:`a4ce558a470e47`; Uniswap stats request chatId:`aeb4ddc9952641`; weekly productivity summary request chatId:`ee290b8886e74e`]
@@ -31,3 +31,4 @@
 ### Emerging (new query patterns)
 - requests AI-generated multimedia content creation (graphic assets, scripts, videos) with specific guidance; 5× (since 2025-09-03) [refs: poster design request chatId:`8f1e4193c0a844`; wireframe request chatId:`1db1e8401aca48`; icon set request chatId:`f5d2bb5624ed4a`; YouTube script request chatId:`d716f90722aa46`; video production orchestration chatId:`643b5ce098be4b`]
 - exploring DeFi data (crypto prices, wallet analytics) for investing; 2× (since 2025-09-03) [refs: Uniswap stats request chatId:`aeb4ddc9952641`; crypto portfolio analysis chatId:`658d51cae22842`]
+- requesting social platform server setup and management (Discord); 1× (first: 2025-09-04) [ref: discord server setup chatId:`6d3ff284890b48`]
