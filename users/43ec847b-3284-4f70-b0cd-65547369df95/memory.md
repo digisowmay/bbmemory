@@ -2,7 +2,7 @@
 ### Durable (established, 3+ reinforcements)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- concise requests; asks brief questions like "Can you adjust image?"; 1× (first: 2025-09-03) [ref: image adjustment request chatId:`ae5f3219f4ae48`]
+- concise requests; asks brief questions and one-line instructions like image edits; 2× (last: 2025-09-03) [ref: image adjustment requests chatId:`ae5f3219f4ae48`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -18,4 +18,4 @@
 ### Durable (regular platform activities)
 
 ### Emerging (new query patterns)
-- requests image editing tasks; photo adjustments; 1× (first: 2025-09-03) [ref: image adjustment request chatId:`ae5f3219f4ae48`]
+- requests image editing tasks; photo adjustments; 2× (since 2025-09-03) [ref: image edit requests chatId:`ae5f3219f4ae48`]
