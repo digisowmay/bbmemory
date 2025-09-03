@@ -16,7 +16,7 @@
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
-- iterative refinement approach to creative tasks; 5× (consistent pattern) [refs: series of incremental image requests chatId:`c7877afab58647`]
+- iterative refinement approach to creative tasks; 5× [refs: series of incremental image requests chatId:`c7877afab58647`]
 
 ### Emerging (recent behavioral shifts)
 - (none at this time)
@@ -27,4 +27,4 @@
 
 ### Emerging (new query patterns)
 - requests twin or duplicate subjects in images; 5× (since 2025-09-03) [refs: twin forest requests chatId:`c7877afab58647`]
-- asks for varied backgrounds with same subject/human; 2× (since 2025-09-03) [refs: image background variation request chatId:`d1e739ef985e46`; six background request chatId:`c825d405e33f42`]
+- asks for varied backgrounds with same subject/human; 3× (since 2025-09-03) [refs: image background variation request chatId:`d1e739ef985e46`; six background request chatId:`c825d405e33f42`; additional six background request chatId:`c825d405e33f42`]
