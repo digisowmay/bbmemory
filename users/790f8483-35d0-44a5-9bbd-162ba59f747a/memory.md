@@ -1,6 +1,6 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- gives brief imperative commands; expects quick action or implementation; 27× (updated 2025-09-03) [refs: google drive agent commands chatId:`b9946941f7a644`; logo update command chatId:`b9946941f7a644`; internal flag set command chatId:`b9946941f7a644`]
+- gives brief imperative commands; expects quick action or implementation; 28× (updated 2025-09-03) [refs: ssh + agent sync command chatId:`44b527d9977b41`; google drive agent commands chatId:`b9946941f7a644`; logo update command chatId:`b9946941f7a644`]
 
 ### Emerging (new signals, 1-2 reinforcements)
 - prefers direct resource links (e.g., Drive links) after operations; 3× (last: 2025-09-03) [ref: provided logo URL chatId:`b9946941f7a644`]
