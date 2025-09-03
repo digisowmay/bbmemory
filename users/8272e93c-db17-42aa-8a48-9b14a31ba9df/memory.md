@@ -4,7 +4,7 @@
 - uses playful nicknames/greetings for the assistant (e.g., "Hey nano banana"); 4× (promoted from emerging) [refs: earlier restoration request chatId:`4477e2192dde48`; subsequent restoration request chatId:`4477e2192dde48`; current restoration request chatId:`c4a75c1197e341`; latest restoration request chatId:`15c685e95c6144`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- prefers authentic photographic quality over painterly or overly processed results; 1× (first: 2025-09-03) [ref: feedback about painting-like result chatId:`15c685e95c6144`]
+- prefers authentic photographic quality over painterly or overly processed results; 2× (last: 2025-09-03) [refs: initial feedback about painting-like result chatId:`15c685e95c6144`; follow-up comment that image still looked like an old photo chatId:`15c685e95c6144`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
