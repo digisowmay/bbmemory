@@ -1,9 +1,9 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- (no entries yet)
+- polite, uses courteous acknowledgements like "My pleasure"; 3× (promoted from emerging, stable since 2025-09-04) [ref: conversation chatId:`390b7a8a29e94b`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- polite, uses courteous acknowledgements like "My pleasure"; 2× (last: 2025-09-04) [ref: conversation chatId:`390b7a8a29e94b`]
+- (no entries yet)
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -14,10 +14,10 @@
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
-- (no entries yet)
+- prefers to see concrete results before forming or updating opinions; 3× (promoted from emerging, stable since 2025-09-04) [ref: conversation chatId:`390b7a8a29e94b`]
 
 ### Emerging (recent behavioral shifts)
-- prefers to see concrete results before forming or updating opinions; 2× (last: 2025-09-04) [ref: conversation chatId:`390b7a8a29e94b`]
+- (no entries yet)
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
