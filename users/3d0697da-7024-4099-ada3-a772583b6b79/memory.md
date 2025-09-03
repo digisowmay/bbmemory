@@ -5,6 +5,7 @@
 ### Emerging (new signals, 1-2 reinforcements)
 - issues explicit “CONFIRM” messages to authorize next steps and tool actions; 3× (last: 2025-09-03) [refs: multi-step AI trends task chatId:`cb36654bbb9444`; PR workflow confirmations chatId:`bb20c27486ef4d`]
 - uses explicit “RESUME” keyword to instruct continuation of paused workflows; 2× (first: 2025-09-03) [ref: PR workflow chatId:`bb20c27486ef4d`]
+- instructs assistant to generate content but explicitly prohibits certain actions (e.g., “don’t post on X”); 1× (first: 2025-09-03) [ref: Dead Internet Theory content request chatId:`8788abfa141a4d`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
