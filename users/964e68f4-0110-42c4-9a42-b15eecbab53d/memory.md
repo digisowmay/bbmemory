@@ -3,14 +3,14 @@
 - provides concise, direct visual design instructions; 4× (stable since 2025-09-03) [refs: image generation requests chatId:`4238c795c35446`; logo request chatId:`8a168dfc65ec4c`; hot air balloon prompt; Material Design request chatId:`8a168dfc65ec4c`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- prefers simple, modern aesthetic in visuals; 2× (last: 2025-09-03) [refs: logo request chatId:`8a168dfc65ec4c`; Material Design 3 logo request chatId:`8a168dfc65ec4c`]
-- requests adherence to established design systems (e.g., Material Design 3); 1× (first: 2025-09-03) [ref: Material Design 3 request chatId:`8a168dfc65ec4c`]
+- prefers simple, modern aesthetic and adherence to established design systems (e.g., Material Design 3); 3× (last: 2025-09-03) [refs: logo request chatId:`8a168dfc65ec4c`; Material Design 3 logo request chatId:`8a168dfc65ec4c`; 3D logo request chatId:`8a168dfc65ec4c`]
+- requests 3D versions of design outputs; 1× (first: 2025-09-03) [ref: 3D logo request chatId:`8a168dfc65ec4c`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
 
 ### Emerging (recent learning, current focus)
-- developing branding for "Serviz/Lokal" app (local service provider finder); 1× (started: 2025-09-03) [ref: logo request chatId:`8a168dfc65ec4c`]
+- developing branding for "Serviz/Lokal" app (local service provider finder); 2× (since 2025-09-03) [refs: logo request chatId:`8a168dfc65ec4c`; 3D logo request chatId:`8a168dfc65ec4c`]
 - interested in custom graphic/visual creation; 3× (since 2025-09-03) [refs: hot air balloon image requests chatId:`4238c795c35446`; logo request chatId:`8a168dfc65ec4c`; Material Design 3 logo request chatId:`8a168dfc65ec4c`]
 
 ## Thinking & Working Style
@@ -25,3 +25,4 @@
 - explores image generation features frequently; 4× [refs: consecutive image requests chatId:`4238c795c35446`; logo request chatId:`8a168dfc65ec4c`; Material Design 3 request chatId:`8a168dfc65ec4c`; earlier image prompt]
 
 ### Emerging (new query patterns)
+- exploring 3D graphic generation; 1× (since 2025-09-03) [ref: 3D logo request chatId:`8a168dfc65ec4c`]
