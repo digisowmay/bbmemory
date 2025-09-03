@@ -1,9 +1,8 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
--
+- requests comprehensive, multi-step deliverables with audience-specific versions and tool integrations; 3× (stable since 2025-09-03) [refs: Medium publication request chatId:`baa3167d195748`; elevator pitch rewrites chatId:`034c50d10d054b`; Ad Factory workflow chatId:`503abbd305f748`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- requests comprehensive, multi-step deliverables with audience-specific versions and tool integrations; 3× (last: 2025-09-03) [refs: Medium publication request chatId:`baa3167d195748`; elevator pitch rewrites chatId:`034c50d10d054b`; Ad Factory workflow chatId:`503abbd305f748`]
 - enjoys playful, humorous creative requests; 1× (first: 2025-09-03) [ref: banana security audit chatId:`94eca21c926640`]
 
 ## Knowledge & Context
@@ -11,9 +10,8 @@
 -
 
 ### Emerging (recent learning, current focus)
-- exploring personal-development challenges (confidence, habit building); 2× (since 2025-09-02) [refs: confidence challenge request; readiness confirmation chatId:`1726d930013e4c`]
 - planning Medium publication series on AI design influence; 1× (started: 2025-09-02) [ref: Medium publication request chatId:`baa3167d195748`]
-- working on skincare D2C brand vitamin C serum campaign; 1× (first: 2025-09-03) [ref: Ad Factory skincare input chatId:`503abbd305f748`]
+- building in-house LLM platform "Pineapple" (OpenRouter AI fork); 1× (started: 2025-09-03) [ref: logo design conversation chatId:`44e6567169b144`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
