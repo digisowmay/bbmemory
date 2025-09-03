@@ -5,7 +5,7 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - prefers casual, informal tone with emojis/abbreviations when communicating; 2× (last: 2025-09-03) [refs: request for shorter informal draft chatId:`bb83e4b41f6e4d`; query about prompts chatId:`bb83e4b41f6e4d`]
-- likes catchy, action-oriented titles for prompts and content; 2× (last: 2025-09-03) [refs: repeated "interesting title" requests chatId:`bb83e4b41f6e4d`; title brainstorming chatId:`bb83e4b41f6e4d`]
+- likes catchy, action-oriented titles and structured prompts with Title, Text, Agents, Tags; 3× (last: 2025-09-03) [refs: repeated "interesting title" requests; structured prompt format requests chatId:`bb83e4b41f6e4d`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
