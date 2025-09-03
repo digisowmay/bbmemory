@@ -8,22 +8,22 @@
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
--
+-  
 
 ### Emerging (recent learning, current focus)
 - setting up digital marketing analytics (google ads, youtube utms, hashtag tracking); 4× (since 2025-09-02) [refs: agent connection chatId:`730a21b71b3942`; youtube utm fetch request chatId:`2f03ea6533564c`; utm creation command chatId:`2f03ea6533564c`; hashtag posts count request chatId:`f1cf7c641a6246`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
--
+-  
 
 ### Emerging (recent behavioral shifts)
--
+-  
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
--
+-  
 
 ### Emerging (new query patterns)
 - exploring bhindi agents catalogue; 2× (since 2025-09-02) [refs: agents list request chatId:`12a2cbec90114d`; debate integration request chatId:`83a6f8f845cc43`]
-- seeks osint/social media lookup agents (sherlock); 4× (since 2025-09-03) [refs: osint agent request chatId:`83a6f8f845cc43`; dig up dirt agent request chatId:`83a6f8f845cc43`; hashtag posts search request chatId:`22bf3ce97e9e4c`; search across x request chatId:`22bf3ce97e9e4c`]
+- seeks osint/social media lookup agents (sherlock); 5× (since 2025-09-03) [refs: osint agent request chatId:`83a6f8f845cc43`; dig up dirt agent request chatId:`83a6f8f845cc43`; hashtag posts search request chatId:`22bf3ce97e9e4c`; search across x request chatId:`22bf3ce97e9e4c`; latest post search command chatId:`22bf3ce97e9e4c`]
