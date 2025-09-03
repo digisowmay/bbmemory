@@ -1,6 +1,6 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- gives brief imperative commands; expects quick action or implementation; 13× (promoted from emerging) [refs: chatId:`01df00b469f447`; chatId:`92665348120c45`; chatId:`8ca3cb93a8714b`; chatId:`2927cf2e4a0d4a`]
+- gives brief imperative commands; expects quick action or implementation; 14× (promoted from emerging) [refs: chatId:`01df00b469f447`; chatId:`92665348120c45`; chatId:`8ca3cb93a8714b`; chatId:`2927cf2e4a0d4a`]
 
 ### Emerging (new signals, 1-2 reinforcements)
 - prefers multimodal responses, including audio output; 1× (first: 2025-09-02) [ref: book-to-action guide request chatId:`d37490428fc745`]
@@ -17,7 +17,7 @@
 - no durable thinking patterns identified yet
 
 ### Emerging (recent behavioral shifts)
-- skeptical of information accuracy; requests source links/evidence and raw error details to verify data; 2× (last: 2025-09-03) [refs: prize money dispute chatId:`a6d71686434a4a`; error message request chatId:`2927cf2e4a0d4a`]
+- skeptical of information accuracy; requests source links/evidence and raw error details to verify data; 3× (last: 2025-09-03) [refs: prize money dispute chatId:`a6d71686434a4a`; error message request chatId:`2927cf2e4a0d4a`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
