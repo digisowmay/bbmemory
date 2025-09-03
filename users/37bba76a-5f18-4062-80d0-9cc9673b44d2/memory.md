@@ -3,7 +3,7 @@
 - 
 
 ### Emerging (new signals, 1-2 reinforcements)
-- uses very concise one- or two-word queries; prefers brief responses; 5× (last: 2025-09-03) [refs: ETH price request chatId:`5039cd8205bd49`; TTS v3 test request chatId:`46ef547a50be49`]
+- uses very concise one- or two-word queries; prefers brief responses; 6× (last: 2025-09-03) [refs: ETH price requests chatId:`5039cd8205bd49`; TTS v3 test request chatId:`46ef547a50be49`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -24,4 +24,4 @@
 - 
 
 ### Emerging (new query patterns)
-- requests cryptocurrency prices (e.g., ETH); 1× (first: 2025-09-03) [ref: ETH price query chatId:`5039cd8205bd49`]
+- requests cryptocurrency prices (e.g., ETH); 2× (last: 2025-09-03) [refs: ETH price requests chatId:`5039cd8205bd49`]
