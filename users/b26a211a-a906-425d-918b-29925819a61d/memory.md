@@ -5,7 +5,7 @@
 - asks for explicit prompt wording to bypass tool limitations; 5× [refs: multiple topless/deepfake prompt attempts chatId:`c8d330ee886f46`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- repeatedly requests face-swapping/deepfake operations; 1× (first: 2025-09-03) [ref: face substitution request chatId:`c8d330ee886f46`]
+- repeatedly requests face-swapping/deepfake operations; 2× (last: 2025-09-03) [ref: face substitution request chatId:`c8d330ee886f46`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -18,12 +18,12 @@
 - highly attentive to visual fidelity and exact likeness; 6× [refs: repeated requests for "identica" chatId:`c8d330ee886f46`]
 
 ### Emerging (recent behavioral shifts)
-- persistent attempts to bypass moderation filters; 2× (last: 2025-09-03) [refs: topless and deepfake prompt iterations chatId:`c8d330ee886f46`]
+- persistent attempts to bypass moderation filters; 3× (last: 2025-09-03) [refs: multiple topless/deepfake prompt attempts chatId:`c8d330ee886f46`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
 - frequently requests AI image edits and pose adjustments; 8× [refs: multiple edit requests chatId:`c8d330ee886f46`]
 
 ### Emerging (new query patterns)
-- exploring sensual/lingerie image variations and topless poses; 4× (since 2025-09-03) [refs: lingerie variations and "no bra" requests chatId:`c8d330ee886f46`]
-- attempts face-swapping (deepfake) requests; 1× (first: 2025-09-03) [ref: face substitution request chatId:`c8d330ee886f46`]
+- exploring sensual/lingerie image variations and topless poses; 5× (since 2025-09-03) [refs: lingerie variations and "no bra" requests chatId:`c8d330ee886f46`]
+- attempts face-swapping (deepfake) requests; 2× (first: 2025-09-03) [ref: face substitution request chatId:`c8d330ee886f46`]
