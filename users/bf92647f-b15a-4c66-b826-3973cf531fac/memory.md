@@ -8,9 +8,9 @@
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
-- 
+-  
 
-### Emerging (recent learning, current focus)  
+### Emerging (recent learning, current focus)
 - prefers neutral/cool tone colourization in restored images; 2× (since 2025-09-03) [refs: earlier neutral tone request; current minimal colour correction instructions chatId:`217f9c7a475c43`]
 - prefers retaining authentic 1980s film aesthetic (grain, warm look) in image restorations; 1× (first: 2025-09-03) [ref: 1980s film photo request chatId:`071c0a96f2094c`]
 
@@ -19,7 +19,7 @@
 - detail-oriented visual aesthetic, seeks precise alignment and natural look; 6× (last: 2025-09-03) [refs: repeated specific colour-only edits chatId:`217f9c7a475c43`]
 
 ### Emerging (recent behavioral shifts)
-- minimal-change philosophy: requests only necessary adjustments and avoids over-editing; 4× (since 2025-09-03) [refs: "only colours", "no enhancements", moderate moustache size chatId:`851e4415a0b348`]
+- minimal-change philosophy: requests only necessary adjustments and avoids over-editing; 5× (since 2025-09-03) [refs: "only colours", "no enhancements", multiple moderate moustache size requests chatId:`851e4415a0b348`]
 - showing openness to creative scene composites and feature edits alongside authenticity; 2× (last: 2025-09-03) [refs: party composite request chatId:`071c0a96f2094c`; moustache edits chatId:`851e4415a0b348`]
 
 ## Platform Usage & Queries
@@ -28,4 +28,4 @@
 
 ### Emerging (new query patterns)
 - focus on stage lighting authenticity in edits; 2× (started 2025-09-03) [ref: instructions about bulb visibility chatId:`217f9c7a475c43`]
-- requests image compositing or feature alterations (placing subjects into new scenes, adding/removing facial hair); 3× (since 2025-09-03) [refs: composite party photo request chatId:`071c0a96f2094c`; multiple moustache edits chatId:`851e4415a0b348`]
+- requests image compositing or feature alterations (placing subjects into new scenes, adding/removing facial hair); 4× (since 2025-09-03) [refs: composite party photo request chatId:`071c0a96f2094c`; multiple moustache edits chatId:`851e4415a0b348`]
