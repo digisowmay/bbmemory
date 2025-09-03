@@ -19,6 +19,4 @@
 ### Durable (regular platform activities)
 
 ### Emerging (new query patterns)
-- requests technical write-ups on web technologies; 2× (since 2025-09-01) [refs: SSE explanation request chatId:`41d002c45fc84e`; SSE 500 words request chatId:`d7458a35ba924a`]
-- uses assistant for calendar scheduling and event creation; 1× (first: 2025-09-03) [ref: calendar scheduling chatId:`54c5b79476b74e`]
-- frequently requests Bhindi agent tool call specifications and tests; 1× (first: 2025-09-03) [ref: toolcalls query chatId:`80de4a7b53d245`]
+- frequently requests Bhindi agent tool call specifications and tests; 3× (last: 2025-09-03) [refs: initial toolcalls query chatId:`80de4a7b53d245`; gemini-image_generateImage arguments request chatId:`80de4a7b53d245`; gemini-image_editImage arguments request chatId:`80de4a7b53d245`]
