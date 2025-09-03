@@ -1,11 +1,11 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- gives direct, task-oriented commands and expects immediate confirmation; 4× (last: 2025-09-01) [refs: scrape request with profanity chatId:`02ad5abab06147`; LinkedIn post request; Twitter scraping instructions]
-- wants structured deliverables in Google Sheets/Excel format; 3× [refs: speaker sheet creation; sheets population confirmations; social-media sheet chatId:`5f7ad9ddd47046`]
+- gives direct, task-oriented commands and expects immediate confirmation; 5× (last: 2025-09-03) [refs: scrape request with profanity chatId:`02ad5abab06147`; LinkedIn post request; Twitter scraping instructions; token 2049 form-filling directive chatId:`e7b8b4c6aae944`]
+- wants structured deliverables in Google Sheets/Excel format; 4× (last: 2025-09-03) [refs: speaker sheet creation; sheets population confirmations; social-media sheet chatId:`5f7ad9ddd47046`; token 2049 sheet directive chatId:`e7b8b4c6aae944`]
 
 ### Emerging (new signals, 1-2 reinforcements)
 - uses emphatic or profane language to convey urgency; 1× (first: 2025-09-01) [ref: "scrape the fucking internet" directive chatId:`02ad5abab06147`]
-- uses brief interjections (“huh”, “okay”) before new directives; 1× (first: 2025-09-01) [ref: prior "huh okay" message chatId:`5f7ad9ddd47046`]
+- prefers color-coded highlights in Google Sheets to indicate completed tasks; 1× (first: 2025-09-03) [ref: orange highlight instruction chatId:`e7b8b4c6aae944`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
