@@ -2,23 +2,23 @@
 ### Durable (established, 3+ reinforcements)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- requests step-by-step guidance and drafting assistance for applications; 4× (last: 2025-09-03) [refs: internship application discussion; email modification request; resume template request chatId:`dd08b3f5961e4c`; internship email exposure modification chatId:`dd08b3f5961e4c`]
+- requests step-by-step guidance and drafting assistance for applications; 5× (last: 2025-09-03) [refs: internship application discussion; email modification request; resume template request chatId:`dd08b3f5961e4c`; proactive vacancy email modification chatId:`dd08b3f5961e4c`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
 
 ### Emerging (recent learning, current focus)
-- currently applying for Junior Operations Executive internship at Leewaybrokers in Noida (maritime industry); 2× (since 2025-09-03) [refs: internship application discussion chatId:`dd08b3f5961e4c`; email modification request chatId:`dd08b3f5961e4c`]
+- currently applying for Junior Operations Executive internship at Leewaybrokers in Noida (maritime industry); 3× (since 2025-09-03) [refs: internship application discussion chatId:`dd08b3f5961e4c`; email modification requests; proactive vacancy email chatId:`dd08b3f5961e4c`]
 - third-year Computer Science engineering student; 1× (first: 2025-09-03) [ref: email modification request chatId:`dd08b3f5961e4c`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
 
 ### Emerging (recent behavioral shifts)
-- proactive about career development, seeks detailed prep before applying/interviewing; 1× (observed: 2025-09-03) [ref: internship application discussion chatId:`dd08b3f5961e4c`]
+- proactive about career development, seeks opportunities even when no vacancy; 2× (last: 2025-09-03) [refs: internship application discussion; proactive vacancy email chatId:`dd08b3f5961e4c`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
 
 ### Emerging (new query patterns)
-- uses platform for career application drafting and interview preparation; 3× (since 2025-09-03) [refs: internship application discussion; email modification request; resume template request chatId:`dd08b3f5961e4c`]
+- uses platform for career application drafting and interview preparation; 4× (since 2025-09-03) [refs: internship application discussion; email modification requests; resume template request; proactive vacancy email chatId:`dd08b3f5961e4c`]
