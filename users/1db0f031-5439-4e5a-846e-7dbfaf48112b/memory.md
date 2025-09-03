@@ -2,7 +2,8 @@
 ### Durable (established, 3+ reinforcements)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- gives concise imperative commands, delegating tasks; 1× (first: 2025-09-03) [ref: bounty completion request chatId:`3f70a40f0c634e`]
+- gives concise imperative commands, delegating tasks; 2× (last: 2025-09-03) [refs: bounty completion request chatId:`3f70a40f0c634e`; repo completion check chatId:`3f70a40f0c634e`]
+- requests completion confirmation of delegated tasks; 1× (first: 2025-09-03) [ref: repo completion check chatId:`3f70a40f0c634e`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
