@@ -12,6 +12,7 @@
 
 ### Emerging (recent learning, current focus)
 - يستخدم قاعدة بيانات في Notion تحت مسمى "entries" لتدوين تأملاته اليومية؛ 2× (since 2025-09-03) [refs: Notion reflection query chatId:`223b52b5075343`; permission request chatId:`7c7f82c0c31f43`]
+- يتبع روتين صباحي ثابت يتضمن شرب الماء، الصلاة، تنظيف الأسنان، تمرين رياضي؛ 1× (first: 2025-09-03) [ref: reflection summary chatId:`7c7f82c0c31f43`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
