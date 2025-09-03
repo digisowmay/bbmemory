@@ -12,6 +12,7 @@
 
 ### Emerging (recent learning, current focus)
 - works with Word documents in Spanish and needs English translations; 3× (since 2025-09-03) [refs: Word translation conversation chatId:`9d2746dffc604e`]
+- seeking guidance on Spanish seasonal rental contracts as a tenant; 1× (first: 2025-09-03) [ref: contract questions chatId:`9d2746dffc604e`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
@@ -27,3 +28,4 @@
 ### Emerging (new query patterns)
 - requests language translation assistance (Spanish → English); 4× (since 2025-09-03) [refs: translation chats chatId:`9d2746dffc604e`]
 - prefers sharing files via WeTransfer links for translation tasks; 2× (since 2025-09-03) [ref: file link sharing chatId:`9d2746dffc604e`]
+- asks for legal/contractual advice related to tenancy agreements; 1× (first: 2025-09-03) [ref: contract advice chatId:`9d2746dffc604e`]
