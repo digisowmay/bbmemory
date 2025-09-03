@@ -21,7 +21,7 @@
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
-- experimenting with image editing requests; 10× [refs: image bald request chatId:`e74e74c5b6d04a`; new bald edit chatId:`40155ef4eba647`; beard flag colour edit chatId:`73d9b004360444`]
+- experimenting with image editing requests; 11× [refs: image bald request chatId:`e74e74c5b6d04a`; new bald edit chatId:`40155ef4eba647`; beard flag colour edit chatId:`73d9b004360444`]
 
 ### Emerging (new query patterns)
-- requests patriotic color edits (national flag themes); 1× (first: 2025-09-03) [ref: beard flag colour chatId:`73d9b004360444`]
+- requests patriotic color edits (national flag themes); 2× (since 2025-09-03) [refs: beard flag colour chatId:`73d9b004360444`; beard russian flag edit chatId:`b7b3dfa2b48746`]
