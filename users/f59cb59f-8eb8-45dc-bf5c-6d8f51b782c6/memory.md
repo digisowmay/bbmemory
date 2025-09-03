@@ -6,15 +6,16 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - asks for multiple headline options to A/B choose best; 5× (last: 2025-09-03) [refs: title selection discussion chatId:`769c137c4fe14f`; latest heading choice chatId:`769c137c4fe14f`]
-- prefers fresh angles and avoids repetitive storytelling, seeks posts that establish CRO authority; 3× (last: 2025-09-03) [refs: poor-performing Ravi post discussion chatId:`769c137c4fe14f`; request for new Tira Beauty authority post chatId:`769c137c4fe14f`]
+- prefers fresh angles and avoids repetitive storytelling, seeks posts that establish CRO authority; 4× (last: 2025-09-03) [refs: poor-performing Ravi post discussion chatId:`769c137c4fe14f`; leadership authority post creation chatId:`769c137c4fe14f`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
 - seasoned CRO in beauty retail scaling Tira to 1000-crore run rate; 6× [refs: user global profile; LinkedIn posts about scaling]
 - mentor/investor to 100+ startups, deep insight into funding discipline; 4× [refs: Hari & Ravi posts chatId:`769c137c4fe14f`]
 
-### Emerging (recent learning, current focus)
-- exploring consumer insights in Indian beauty market; 1× (started: 2025-09-03) [ref: Indian beauty consumer assumptions post chatId:`769c137c4fe14f`]
+### Emerging (recent learning, current focus)  
+- exploring consumer insights in Indian beauty market; 1× (since 2025-09-03) [ref: Indian beauty consumer assumptions post chatId:`769c137c4fe14f`]
+- highlighting internal talent development culture at Tira Beauty; "sandpaper" leadership principle; 1× (started: 2025-09-03) [ref: sandpaper leadership post chatId:`769c137c4fe14f`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
@@ -29,4 +30,4 @@
 - frequently requests LinkedIn content creation and optimization; 8× [refs: various post drafts chatId:`769c137c4fe14f`]
 
 ### Emerging (new query patterns)
-- focusing on posts that highlight leadership authority and operational insights; 1× (since 2025-09-03) [refs: CRO authority post request chatId:`769c137c4fe14f`]
+- focusing on posts that highlight leadership authority and operational insights; 2× (since 2025-09-03) [refs: CRO authority post request chatId:`769c137c4fe14f`; sandpaper leadership post chatId:`769c137c4fe14f`]
