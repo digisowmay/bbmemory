@@ -4,8 +4,8 @@
 - prefers direct actionable links (URLs) for recommendations; 5× (stable since 2025-09-01) [refs: Airbnb links request; corridor options request; latest link follow-up chatId:`3f05fd8480d94b`; waterfall suggestions chatId:`888e103d2b4949`]
 
 ### Emerging (new signals, 1-2 reinforcements)
+- requests content with strict word-limits or formats (one-liners, 150-word boxes); 2× (last: 2025-09-04) [refs: startup one-line request chatId:`c5d09771708947`; founder box 150 words current chat]
 - requests direct spreadsheet manipulation by assistant (Google Sheets setup); 1× (first: 2025-09-03) [ref: investor outreach sheet creation chatId:`ff2500dc8c7c47`]
-- asks for concise one-liner/tagline style responses; 1× (first: 2025-09-04) [ref: startup one-line request chatId:`c5d09771708947`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -26,3 +26,4 @@
 
 ### Emerging (new query patterns)
 - uses Google Sheets automation via assistant; 1× (first: 2025-09-03) [ref: investor outreach sheet creation chatId:`ff2500dc8c7c47`]
+- seeks assistant help crafting startup application content (one-line pitches, founder bios, form answers); 1× (first: 2025-09-04) [ref: founder description drafting chatId:`c5d09771708947`]
