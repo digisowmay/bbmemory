@@ -4,14 +4,14 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - requests balanced arguments and practical insights, not just opinions; 2× (last: 2025-09-03) [refs: request for both sides of discussion chatId:`9465febfaab04e`; request for main arguments from both sides chatId:`9465febfaab04e`]
-- prefers structured responses with title, concise prompt and tagged sections; explicit word-count constraints; 2× (last: 2025-09-03) [refs: sample prompt request chatId:`5179853046dd43`; prompt under 80 words request chatId:`cbf50a340c3e45`]
+- prefers structured responses with title, concise prompt and tagged sections; explicit word-count constraints; 1× (first: 2025-09-03) [ref: sample prompt request chatId:`5179853046dd43`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
 - (none)
 
 ### Emerging (recent learning, current focus)
-- exploring Hacker News story analysis; 1× (started: 2025-09-03) [ref: HN agent interaction chatId:`9465febfaab04e`]
+- building outreach list for upcoming B2B SaaS product launch; 1× (started: 2025-09-03) [ref: Hunter prompt for outreach chatId:`5179853046dd43`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
@@ -26,5 +26,4 @@
 
 ### Emerging (new query patterns)
 - uses Hacker News agent for story summaries and comment analysis; 1× (since 2025-09-03) [ref: HN agent usage chatId:`9465febfaab04e`]
-- crafting prompts for agent hunter with word limit, tags, title; 1× (started: 2025-09-03) [ref: sample prompt request chatId:`5179853046dd43`]
-- uses Boikot agent for corporate ethics analysis on fast fashion brands; 1× (since 2025-09-03) [ref: ethics analysis chatId:`cbf50a340c3e45`]
+- crafts and executes prompts with Hunter agent for lead generation; 2× (since 2025-09-03) [refs: sample prompt requests chatId:`5179853046dd43`; hunter agent usage chatId:`5179853046dd43`]
