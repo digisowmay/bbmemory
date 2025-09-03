@@ -3,8 +3,8 @@
 -
 
 ### Emerging (new signals, 1-2 reinforcements)
-- wants personalized, non-generic phrasing in communications; 3× (last: 2025-09-03) [refs: cold email improvement discussion chatId:`dc731835d30341`; follow-up email request chatId:`dc731835d30341`]
-- prefers concise, punchy wording; 2× (last: 2025-09-03) [refs: wordiness feedback chatId:`dc731835d30341`; follow-up email request chatId:`dc731835d30341`]
+- wants personalized, non-generic phrasing in communications; 4× (last: 2025-09-03) [refs: cold email improvement discussion chatId:`dc731835d30341`; follow-up email request chatId:`dc731835d30341`; concise version feedback chatId:`dc731835d30341`; subject line personalization request chatId:`dc731835d30341`]
+- prefers concise, punchy wording; 3× (last: 2025-09-03) [refs: wordiness feedback chatId:`dc731835d30341`; concise rewrite request chatId:`dc731835d30341`; subject line brevity discussion chatId:`dc731835d30341`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -18,11 +18,11 @@
 -
 
 ### Emerging (recent behavioral shifts)
-- values tailoring content to audience, avoids generic phrasing; 2× (last: 2025-09-03) [refs: personalized email request chatId:`dc731835d30341`; follow-up email request chatId:`dc731835d30341`]
+- values tailoring content to audience, avoids generic phrasing; 3× (last: 2025-09-03) [refs: personalized email request chatId:`dc731835d30341`; follow-up email personalization chatId:`dc731835d30341`; subject line tailoring chatId:`dc731835d30341`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
 -
 
 ### Emerging (new query patterns)
-- seeks assistance refining professional communications (cold emails, templates); 3× (since 2025-09-03) [refs: email template improvement requests chatId:`dc731835d30341`; concise version request chatId:`dc731835d30341`; follow-up email request chatId:`dc731835d30341`]
+- seeks assistance refining professional communications (cold emails, templates); 4× (since 2025-09-03) [refs: email template improvement requests chatId:`dc731835d30341`; concise version request chatId:`dc731835d30341`; follow-up email request chatId:`dc731835d30341`; subject line and job template request chatId:`dc731835d30341`]
