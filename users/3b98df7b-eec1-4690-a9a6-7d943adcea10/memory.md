@@ -27,5 +27,5 @@
 -
 
 ### Emerging (new query patterns)
-- seeks content strategy assets, marketing copy adaptations, and audience-specific messaging; 4× (since 2025-09-02) [refs: Medium publication request chatId:`baa3167d195748`; elevator pitch rewriting chatId:`d400c921fe0246`; elevator pitch rewrites chatId:`034c50d10d054b`; Ad Factory workflow chatId:`503abbd305f748`]
+- seeks content strategy assets, marketing copy adaptations, and audience-specific messaging; 5× (since 2025-09-02) [refs: Medium publication request chatId:`baa3167d195748`; elevator pitch rewriting chatId:`d400c921fe0246`; elevator pitch rewrites chatId:`034c50d10d054b`; Ad Factory workflow chatId:`503abbd305f748`; logo design request chatId:`44e6567169b144`]
 - explores film culture buzz and cult predictions; 1× (first: 2025-09-03) [ref: CineWhisper movie predictions chatId:`0cd7d773ae1846`]
