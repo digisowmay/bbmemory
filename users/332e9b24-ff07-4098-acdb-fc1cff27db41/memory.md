@@ -1,29 +1,29 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- gives meta-instructions in English about memory/process handling; 5× (stable since 2025-09-03) [refs: memory update request chatId:`4484186269674f`; meta-instruction chatId:`e55acf9aa6c145`; meta memory update request chatId:`8d46db26c83542`; current meta instruction chatId:`87cf818119cb47`; new meta instruction chatId:`5449e8dd10a248`]
-- uses concise imperative instructions in Russian when requesting tasks; 11× (stable since 2025-09-03) [refs: image edit requests chatIds:`1a637ab7238245`, `1f5b4d54955d49`, `8ec7bec41f8744`, `84f49d591b6d4e`, `db9e3d55f5bd47`, `02896bd4b0f947`, `5449e8dd10a248`, `5ffc848cc8a740`, `6963928d323540`, `5bf886d943bc45`, `248a7738a7a541`]
+- gives meta-instructions in English about memory/process handling; 6× (stable since 2025-09-03) [refs: previous meta instruction chats; current request chatId:`72971451eae14a`]
+- uses concise imperative instructions in Russian when requesting tasks; 12× (stable since 2025-09-03) [refs: multiple image edit requests including chatId:`72971451eae14a`]
+- insists on using the exact provided photo and the specific image-edit tool rather than generating new images; 7× (promoted from emerging) [refs: recent clarification threads including chatId:`72971451eae14a`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- insists on using the exact provided photo and the specific image-edit tool rather than generating new images; 6× (last: 2025-09-03) [refs: clarification chatId:`84f49d591b6d4e`; implicit expectation chatId:`db9e3d55f5bd47`; chatId:`02896bd4b0f947`; chatId:`6963928d323540`; chatId:`5bf886d943bc45`; chatId:`248a7738a7a541`]
-- provides detailed multi-step image editing instructions in English or requires transformation steps; 3× (last: 2025-09-03) [refs: image edit request chatId:`5ffc848cc8a740`; translation+reverse request chatId:`5bf886d943bc45`; chatId:`248a7738a7a541`]
+- provides increasingly detailed scene-setting for perspective/angle in images; 1× (first: 2025-09-03) [ref: chatId:`72971451eae14a`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
-- 
+- *(no durable entries yet)*
 
 ### Emerging (recent learning, current focus)
-- 
+- *(no emerging entries yet)*
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
-- 
+- *(no durable entries yet)*
 
 ### Emerging (recent behavioral shifts)
-- 
+- seeks highly specific cinematic compositions, indicating strong visual imagination; 1× (first: 2025-09-03) [ref: chatId:`72971451eae14a`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
-- requests image editing tasks (remove elements, add text, redrawing, sharpening); 8× [refs: image edit requests chatIds:`1a637ab7238245`, `1f5b4d54955d49`, `8ec7bec41f8744`, `84f49d591b6d4e`, `db9e3d55f5bd47`, `5ffc848cc8a740`, `6963928d323540`, `248a7738a7a541`]
+- requests image editing tasks (remove/add elements, alter perspective, sharpening); 9× [refs: multiple image edit requests including chatId:`72971451eae14a`]
 
 ### Emerging (new query patterns)
-- 
+- *(no emerging entries yet)*
