@@ -1,31 +1,30 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- gives concise, directive requests and expects brief confirmations; 12× (stable since 2025-08-20) [refs: credit addition command chatId:`e297222bc18d40`; subscription creation chatId:`7857e1a6bece41`; verification instruction chatId:`9fd3ecf40d4b4f`; bhindi agent listing chatId:`559c1db32e6741`; AWS usage request chatId:`db9b4761e5c242`; this short-format request chatId:`d2d2ffefb8bb4d`]
-- prefers tabular format specifically for user analysis and DB-related reports; 8× [refs: table request chatId:`9fd3ecf40d4b4f`; current AWS report chatId:`db9b4761e5c242`; "single table" instruction chatId:`db9b4761e5c242`]
-- insists on verification and cross-referenced counts before decisions; 5× (last: 2025-09-01) [refs: "CRITICAL: Always verify you've checked ALL users" chatId:`9fd3ecf40d4b4f`; AWS users completeness follow-up chatId:`db9b4761e5c242`; "why only 5 ?" chatId:`db9b4761e5c242`; method explanation request chatId:`4e261e1b31e742`; agent usage methodology query chatId:`4e261e1b31e742`]
+- gives concise, directive requests and expects brief confirmations; 13× (stable since 2025-08-20) [refs: credit addition chatId:`5c423cfd10b843`; subscription creation chatId:`7857e1a6bece41`; verification instruction chatId:`9fd3ecf40d4b4f`]
+- insists on verification and cross-referenced counts before decisions; 5× [refs: AWS completeness follow-up chatId:`db9b4761e5c242`; method explanation chatId:`4e261e1b31e742`]
+- expects exhaustive datasets and calls out incomplete summaries; 10× (promoted from emerging) [refs: data drill-down chatId:`4e261e1b31e742`; AWS analysis chatId:`db9b4761e5c242`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- expects exhaustive datasets and calls out incomplete summaries; 10× (last: 2025-09-01) [refs: "others ?" chatId:`4e261e1b31e742`; follow-up drill-down requests chatId:`db9b4761e5c242`; grouping request chatId:`4e261e1b31e742`]
-- prefers condensed executive summaries (3-4 paragraphs max) with minimal, insight-rich tables; 5× (last: 2025-09-01) [refs: "very easy to consume report" chatId:`db9b4761e5c242`; grouping summary chatId:`4e261e1b31e742`]
-- requests copyable outputs inside code blocks for lists; 1× (first: 2025-09-02) [ref: code block email list chatId:`04d7a7e287fe46`]
-- prefers scraper tools over browser agent when retrieving data; 2× (last: 2025-09-03) [refs: oauth scope email content request chatId:`d2d2ffefb8bb4d`; scraper preference reminder chatId:`d2d2ffefb8bb4d`]
+- prefers condensed executive summaries (3-4 paragraphs max) with insight-rich tables; 5× (last: 2025-09-01) [refs: grouping summary chatId:`4e261e1b31e742`; easy-consume report chatId:`db9b4761e5c242`]
+- requests copyable outputs inside code blocks for lists; 1× (first: 2025-09-02) [ref: email list chatId:`04d7a7e287fe46`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
+- (no durable knowledge entries yet)
 
 ### Emerging (recent learning, current focus)
+- (no emerging knowledge entries yet)
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
-- delegates operational tasks (email, calendar, subscriptions, analytics, internal comms) to assistant; 8× [refs: credit addition command chatId:`e297222bc18d40`; subscription creation chatId:`7857e1a6bece41`; subscription addition command chatId:`7e1cf712b7d842`; echo to Sowmay chatId:`04d7a7e287fe46`]
+- delegates operational tasks (credits, subscriptions, analytics) to assistant/agents; 9× [refs: credit addition chatId:`5c423cfd10b843`; subscription addition chatId:`7e1cf712b7d842`; echo to Sowmay chatId:`04d7a7e287fe46`]
 
 ### Emerging (recent behavioral shifts)
-- prioritizes data integrity and validation in reports; 2× (observed: 2025-09-01) [refs: "verify every step" instruction chatId:`9fd3ecf40d4b4f`; AWS pain point analysis chatId:`db9b4761e5c242`]
-- requests deep analytical reports and root-cause diagnostics; 1× (first: 2025-09-01) [ref: AWS agents comprehensive analysis request chatId:`db9b4761e5c242`]
+- prioritizes data integrity and validation in reports; 2× (since 2025-09-01) [refs: verify every step chatId:`9fd3ecf40d4b4f`; AWS analysis chatId:`db9b4761e5c242`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
-- uses assistant to handle admin tasks and internal analytics; 6× (stable since 2025-08-20) [refs: credit addition command chatId:`e297222bc18d40`; subscription creation chatId:`7857e1a6bece41`]
+- uses assistant to handle admin tasks and internal analytics; 7× [refs: credit addition chatId:`5c423cfd10b843`; subscription creation chatId:`7857e1a6bece41`; AWS report chatId:`db9b4761e5c242`]
 
 ### Emerging (new query patterns)
 - requests automated analytics with visual graphs and Google Docs updates; 1× (first: 2025-09-02) [ref: 2-week analysis report chatId:`1ed4bb03d84b44`]
