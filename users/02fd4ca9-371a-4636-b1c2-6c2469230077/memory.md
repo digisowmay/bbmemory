@@ -3,8 +3,8 @@
 - (no durable patterns yet)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- provides precise, detailed instructions for visual design tasks (clip-art, outline style) and iterative revisions; 9× (last: 2025-09-03) [refs: multiple ASL outline requests chatId:`a1847bf7c5f246`; clip-art conversion instructions chatId:`e503c9c6c40c4c`]
-- demands exact ASL accuracy, preserving finger movements, and gives correction feedback; 4× (last: 2025-09-03) [refs: correction feedback chatId:`a1847bf7c5f246`; repeated revision chatId:`e503c9c6c40c4c`]
+- provides precise, detailed instructions for visual design tasks (clip-art, outline style) and iterative revisions; 10× (last: 2025-09-03) [refs: multiple ASL outline requests chatId:`a1847bf7c5f246`; clip-art conversion instructions chatId:`e503c9c6c40c4c`]
+- demands exact ASL accuracy, preserving finger movements, and gives correction feedback; 5× (last: 2025-09-03) [refs: correction feedback chatId:`a1847bf7c5f246`; repeated revision chatId:`e503c9c6c40c4c`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -25,5 +25,5 @@
 - (no durable patterns yet)
 
 ### Emerging (new query patterns)
-- uses platform to generate custom high-resolution images with specific design parameters; 9× (since 2025-09-03) [refs: multiple image generation requests chatId:`e503c9c6c40c4c`; outline & clip-art creation chatId:`a1847bf7c5f246`]
+- uses platform to generate custom high-resolution images with specific design parameters; 10× (since 2025-09-03) [refs: multiple image generation requests chatId:`e503c9c6c40c4c`; outline & clip-art creation chatId:`a1847bf7c5f246`]
 - requests watermark-free clean reference images; 3× (last: 2025-09-03) [refs: watermark removal request chatId:`e503c9c6c40c4c`; watermark removal request chatId:`d12150a630ff49`]
