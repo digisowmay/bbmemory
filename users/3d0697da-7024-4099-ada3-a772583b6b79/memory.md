@@ -4,6 +4,7 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - issues explicit “CONFIRM” messages to authorize next steps and tool actions; 1× (first: 2025-09-03) [ref: multi-step AI trends task chatId:`cb36654bbb9444`]
+- questions assistant’s deviations and seeks clarification when outcome differs from intent (e.g., asked why a Google Form was created instead of a spreadsheet); 1× (first: 2025-09-03) [ref: google form vs spreadsheet clarification chatId:`1a68d815ffd44b`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
