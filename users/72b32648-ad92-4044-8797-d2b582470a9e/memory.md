@@ -3,7 +3,7 @@
 - (no durable patterns captured yet)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- prefers communicating in Arabic; 1× (first: 2025-09-03) [ref: chatId:`0d5da0699a0f4e`]
+- prefers communicating in Arabic; 2× (last: 2025-09-03) [refs: chatId:`0d5da0699a0f4e`; chatId:`54089199389040`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
