@@ -1,6 +1,6 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- 
+-
 
 ### Emerging (new signals, 1-2 reinforcements)
 - uses casual, playful remarks like “so cute” and “broooo lmao”; 2× (last: 2025-08-31) [refs: “so cute” response to Barbie with cat; “broooo lmao” reaction to locked-in edit]
@@ -17,11 +17,11 @@
 -
 
 ### Emerging (recent behavioral shifts)
-- playful experimentation with creative prompts, quickly requests fun variations; 2× (since 2025-08-31) [refs: locked-in picture request; blonde Asian girl portrait request]
+- playful experimentation with creative prompts, quickly requests fun variations; 3× (since 2025-08-31) [refs: locked-in picture request; blonde Asian girl portrait request; Shark Tank background request chatId:`6551b60f18714c`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
 -
 
 ### Emerging (new query patterns)
-- frequently requests AI image generation using “Nano Banana” model; 4× (since 2025-08-31) [refs: Barbie image; Barbie with cat; locked-in edit; Asian girl with blonde hair]
+- frequently requests AI image generation using “Nano Banana” model; 5× (since 2025-08-31) [refs: Barbie image; Barbie with cat; locked-in edit; Asian girl with blonde hair; Shark Tank background request chatId:`6551b60f18714c`]
