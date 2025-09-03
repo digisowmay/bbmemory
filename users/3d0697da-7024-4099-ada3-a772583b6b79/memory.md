@@ -1,10 +1,10 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- gives direct imperative commands for information lookup and cross-platform actions; 7× (last: 2025-09-03) [refs: Telegram confirmation chatId:`8a7bbee82a5847`; marketing jobs request chatId:`5ae756b89a9443`; X posting request chatId:`5dd3b78eca0543`; current X silly tweet request chatId:`5dd3b78eca0543`; image generation chatId:`45a0604c983e4d`; task addition chatId:`5e88cea998434b`; multi-tool deployment workflow chatId:`bb20c27486ef4d`]
+- gives direct imperative commands for information lookup and cross-platform actions; 8× (last: 2025-09-03) [refs: Telegram confirmation chatId:`8a7bbee82a5847`; marketing jobs request chatId:`5ae756b89a9443`; X posting request chatId:`5dd3b78eca0543`; current X silly tweet request chatId:`5dd3b78eca0543`; image generation chatId:`45a0604c983e4d`; task addition chatId:`5e88cea998434b`; multi-tool deployment workflow chatId:`bb20c27486ef4d`; PR workflow chatId:`bb20c27486ef4d`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- issues explicit “CONFIRM” messages to authorize next steps and tool actions; 1× (first: 2025-09-03) [ref: multi-step AI trends task chatId:`cb36654bbb9444`]
-- questions unnecessary steps and asks “why” when implementation deviates from expectations; 1× (first: 2025-09-03) [ref: google form query chatId:`1a68d815ffd44b`]
+- issues explicit “CONFIRM” messages to authorize next steps and tool actions; 3× (last: 2025-09-03) [refs: multi-step AI trends task chatId:`cb36654bbb9444`; PR workflow confirmations chatId:`bb20c27486ef4d`]
+- uses explicit “RESUME” keyword to instruct continuation of paused workflows; 2× (first: 2025-09-03) [ref: PR workflow chatId:`bb20c27486ef4d`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
