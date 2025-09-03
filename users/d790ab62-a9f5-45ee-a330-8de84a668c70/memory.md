@@ -11,8 +11,8 @@
 - (none recorded yet)
 
 ### Emerging (recent learning, current focus)
-- creating a music video; 2× (since 2025-09-03) [refs: initial mention chatId:`d1e739ef985e46`; confirmation of project chatId:`d1e739ef985e46`]
-- music video genre is drum and bass with narrative of a girl overcoming fears; 1× (first: 2025-09-03) [ref: discussion chatId:`d1e739ef985e46`]
+- creating a music video; 3× (since 2025-09-03) [refs: initial mention chatId:`d1e739ef985e46`; confirmation of project chatId:`d1e739ef985e46`; discussion about reference palette chatId:`d1e739ef985e46`]
+- music video genre is drum and bass with narrative of a girl overcoming fears; 2× (since 2025-09-03) [refs: genre and story description chatId:`d1e739ef985e46`; follow-up confirmation chatId:`d1e739ef985e46`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
