@@ -10,6 +10,7 @@
 
 ### Emerging (recent learning, current focus)
 - working on migrating Azure DevOps pipelines to Harness; 1× (started: 2025-09-01) [ref: pipeline equivalence discussion chatId:`cd6510103aff40`]
+- preparing for Terraform Associate certification; 1× (started: 2025-09-03) [ref: certification exam question chatId:`b8ae02ad2f904e`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
@@ -22,3 +23,4 @@
 
 ### Emerging (new query patterns)
 - queries about CI/CD and DevOps tool conversions; 1× (since 2025-09-01) [ref: pipeline equivalence discussion chatId:`cd6510103aff40`]
+- asks about certifications and exam requirements; 1× (since 2025-09-03) [ref: certification exam question chatId:`b8ae02ad2f904e`]
