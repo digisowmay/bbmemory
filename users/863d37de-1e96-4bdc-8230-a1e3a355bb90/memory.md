@@ -1,9 +1,10 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- prefers concise, one-line commands and follow-ups; 37× (stable since 2025-08-31) [refs: repeated quick commands during agent creation & sync chatId:`307ca8ef14424e`; endpoint update request chatId:`64a7dfd2ae3c4b`; mermaid diagram request chatId:`91e1da92dbe948`; PDF conversion request chatId:`74b03e41a39249`; neo4j tools requests chatId:`23f8b15fa56747`]
+- prefers concise, one-line commands and follow-ups; 38× (stable since 2025-08-31) [refs: repeated quick commands during agent creation & sync chatId:`307ca8ef14424e`; endpoint update request chatId:`64a7dfd2ae3c4b`; mermaid diagram request chatId:`91e1da92dbe948`; PDF conversion request chatId:`74b03e41a39249`; neo4j tools requests chatId:`23f8b15fa56747`; image generation & upload command chatId:`a0c3599e3bfb46`]
 
 ### Emerging (new signals, 1-2 reinforcements)
 - requests detailed error information for troubleshooting; 6× (last: 2025-09-03) [refs: asked for exact error during sync chatId:`307ca8ef14424e`; asked for error code in mermaid agent chatId:`91e1da92dbe948`]
+- uses casual slang like "bro"; informal tone; 1× (first: 2025-09-03) [ref: image generation follow-up chatId:`a0c3599e3bfb46`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -22,3 +23,4 @@
 ### Emerging (new query patterns)
 - creates and manages Bhindi agents; defines endpoints, variables; 8× (since 2025-09-03) [refs: agent creation and repeated sync attempts chatId:`307ca8ef14424e`; endpoint update & sync chatId:`64a7dfd2ae3c4b`]
 - requests graph database analytics with Neo4j; 3× (since 2025-09-03) [refs: e-commerce graph analysis request chatId:`23f8b15fa56747`; Neo4j sample tools demonstration chatId:`23f8b15fa56747`]
+- requests AI image generation and direct upload to Google Drive; 1× (first: 2025-09-03) [ref: image generation & upload chatId:`a0c3599e3bfb46`]
