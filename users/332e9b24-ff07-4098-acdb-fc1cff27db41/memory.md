@@ -5,6 +5,7 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - insists on using the exact provided photo and the specific image-edit tool rather than generating new images; 3× (last: 2025-09-03) [refs: clarification "нет, используй то фото что я дал и инструмент эдит." chatId:`84f49d591b6d4e`; implicit expectation current request chatId:`db9e3d55f5bd47`; chatId:`02896bd4b0f947`]
+- provides detailed multi-step image editing instructions in English; 1× (first: 2025-09-03) [ref: image edit request chatId:`5ffc848cc8a740`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -18,6 +19,6 @@
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
-- requests image editing tasks (remove elements, add text, redrawing, sharpening); 6× [refs: image edit requests chatIds:`1a637ab7238245`, `1f5b4d54955d49`, `8ec7bec41f8744`, `84f49d591b6d4e`; redraw instruction chatId:`84f49d591b6d4e`; current request chatId:`db9e3d55f5bd47`]
+- requests image editing tasks (remove elements, add text, redrawing, sharpening); 7× [refs: image edit requests chatIds:`1a637ab7238245`, `1f5b4d54955d49`, `8ec7bec41f8744`, `84f49d591b6d4e`; redraw instruction chatId:`84f49d591b6d4e`; current request chatId:`db9e3d55f5bd47`; image edit chatId:`5ffc848cc8a740`]
 
 ### Emerging (new query patterns)
