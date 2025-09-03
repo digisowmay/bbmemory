@@ -3,26 +3,26 @@
 -
 
 ### Emerging (new signals, 1-2 reinforcements)
-- uses very short, phrase-only questions when requesting information; 7× (last: 2025-09-03) [ref: series of animal questions chatId:`d62942666f4843`]
-- prefers concise, list-style factual answers; 7× (last: 2025-09-03) [ref: repeated quick info requests chatId:`d62942666f4843`]
+- uses very short, phrase-only questions when requesting information; 14× (last: 2025-09-03) [ref: series of quick science fact questions chatId:`d62942666f4843`]
+- prefers concise, list-style factual answers; 14× (last: 2025-09-03) [ref: repeated quick info requests chatId:`d62942666f4843`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
 -
 
 ### Emerging (recent learning, current focus)
-- seeking foundational biology & animal knowledge (anatomy, habitats); 7× (since 2025-09-03) [ref: continued animal questions chatId:`d62942666f4843`]
+- seeking foundational biology & nature knowledge (animals, plants, anatomy, habitats); 14× (since 2025-09-03) [ref: continued animal and plant questions chatId:`d62942666f4843`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
 -
 
 ### Emerging (recent behavioral shifts)
-- prefers straightforward, factual information delivery; 5× (observed: 2025-09-03) [ref: continuous factual requests chatId:`d62942666f4843`]
+- prefers straightforward, factual information delivery; 12× (observed: 2025-09-03) [ref: continuous factual requests chatId:`d62942666f4843`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
 -
 
 ### Emerging (new query patterns)
-- asking elementary science fact lists; 7× (since 2025-09-03) [ref: series of animal/facts queries chatId:`d62942666f4843`]
+- asking elementary science fact lists; 14× (since 2025-09-03) [ref: series of quick fact queries chatId:`d62942666f4843`]
