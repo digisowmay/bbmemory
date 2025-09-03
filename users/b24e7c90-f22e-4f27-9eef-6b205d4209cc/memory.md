@@ -17,7 +17,8 @@
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
-- asks for cryptocurrency prices (Ethereum); 8× (last: 2025-09-03) [refs: price query chatId:`0f2a45887f814b`; ETH price request chatId:`3a4c3604af3642`]
-- requests local weather information (Bangalore); 10× (last: 2025-09-03) [refs: weather query chatId:`0f2a45887f814b`; weather query chatId:`a90c91b55edd49`; weather request chatId:`3a4c3604af3642`]
+- asks for cryptocurrency prices (Ethereum); 9× (last: 2025-09-03) [refs: price query chatId:`0f2a45887f814b`; ETH price request chatId:`3a4c3604af3642`]
+- requests local weather information (Bangalore); 11× (last: 2025-09-03) [refs: weather query chatId:`0f2a45887f814b`; weather query chatId:`a90c91b55edd49`; weather request chatId:`3a4c3604af3642`]
 
 ### Emerging (new query patterns)
+- asks for historical cryptocurrency price data; compares past and present; 1× (first: 2025-09-03) [ref: ETH price 3 days ago request chatId:`3a4c3604af3642`]
