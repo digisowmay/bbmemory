@@ -9,15 +9,16 @@
 ### Durable (core expertise, established over time)
 
 ### Emerging (recent learning, current focus)
-- building lead generation automation targeting London analyst roles with visa sponsorship; 1× (started: 2025-09-03) [ref: London filter discussion chatId:`e4229282b18f44`]
+- building lead generation automation targeting London analyst roles with visa sponsorship; 1× (since 2025-09-03) [ref: London filter discussion chatId:`e4229282b18f44`]
 - prefers receiving compiled job lists via email: send to mohitdhamankarr1276@gmail.com from shriraamtutions@gmail.com; 1× (first: 2025-09-03) [ref: email instruction chatId:`e4229282b18f44`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
 
 ### Emerging (recent behavioral shifts)
-- favors incremental testing/validation before full roll-out (requested 10-company test batch); 2× (last: 2025-09-03) [ref: test batch request chatId:`e4229282b18f44`]
+- favors incremental testing/validation before full roll-out (requested 10-company test batch); 3× (last: 2025-09-03) [ref: test batch requests chatId:`e4229282b18f44`]
 - prefers delegating tasks to automated AI workflows; 1× (observed: 2025-09-03) [ref: automation scheduling discussion chatId:`e4229282b18f44`]
+- prioritizes strict data quality and precise filters (London only, confirmed sponsorship) over quantity; 1× (first: 2025-09-03) [ref: strict criteria update chatId:`e4229282b18f44`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
