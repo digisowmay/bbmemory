@@ -4,7 +4,7 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - requests detailed error information for troubleshooting; 6× (last: 2025-09-03) [refs: asked for exact error during sync chatId:`307ca8ef14424e`; asked for error code in mermaid agent chatId:`91e1da92dbe948`]
-- uses casual slang like "bro"; informal tone; 1× (first: 2025-09-03) [ref: image generation follow-up chatId:`a0c3599e3bfb46`]
+- uses casual slang like "bro"; informal tone; 2× (last: 2025-09-03) [refs: "do anything bro" image generation instruction chatId:`a0c3599e3bfb46`; image generation follow-up chatId:`a0c3599e3bfb46`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -23,4 +23,4 @@
 ### Emerging (new query patterns)
 - creates and manages Bhindi agents; defines endpoints, variables; 8× (since 2025-09-03) [refs: agent creation and repeated sync attempts chatId:`307ca8ef14424e`; endpoint update & sync chatId:`64a7dfd2ae3c4b`]
 - requests graph database analytics with Neo4j; 3× (since 2025-09-03) [refs: e-commerce graph analysis request chatId:`23f8b15fa56747`; Neo4j sample tools demonstration chatId:`23f8b15fa56747`]
-- requests AI image generation and direct upload to Google Drive; 1× (first: 2025-09-03) [ref: image generation & upload chatId:`a0c3599e3bfb46`]
+- requests AI image generation and direct upload to Google Drive; 2× (since 2025-09-03) [refs: image generation & upload chatId:`a0c3599e3bfb46`; subsequent upload request chatId:`a0c3599e3bfb46`]
