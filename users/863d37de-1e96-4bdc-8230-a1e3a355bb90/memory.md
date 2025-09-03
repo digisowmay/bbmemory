@@ -21,5 +21,4 @@
 
 ### Emerging (new query patterns)
 - creates and manages Bhindi agents; defines endpoints, variables; 8× (since 2025-09-03) [refs: agent creation and repeated sync attempts chatId:`307ca8ef14424e`; endpoint update & sync chatId:`64a7dfd2ae3c4b`]
-- experimenting with diagram generation using Mermaid agent; 1× (first: 2025-09-03) [ref: mermaid diagram request chatId:`91e1da92dbe948`]
-- requests file conversions (PDF to image); 1× (first: 2025-09-03) [ref: PDF to JPG request chatId:`74b03e41a39249`]
+- requests graph database analytics with Neo4j; 1× (first: 2025-09-03) [ref: e-commerce graph analysis request chatId:`23f8b15fa56747`]
