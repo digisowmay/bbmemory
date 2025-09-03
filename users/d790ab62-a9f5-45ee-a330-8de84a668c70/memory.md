@@ -4,7 +4,7 @@
 - prefers realistic edits over cartoon effects; 5× [refs: requests for photorealistic shots chatId:`8f3d8f9fc28f41`; wide angle twin forest request chatId:`c7877afab58647`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- frequently specifies cinematic angles (wide, overhead, low angle); 2× (last: 2025-09-03) [refs: wide angle twin shot request chatId:`c7877afab58647`; top-down shot request chatId:`c7877afab58647`]
+- frequently specifies cinematic angles (wide, overhead, low); 2× (last: 2025-09-03) [refs: wide angle twin shot request chatId:`c7877afab58647`; top-down shot request chatId:`c7877afab58647`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -27,3 +27,4 @@
 
 ### Emerging (new query patterns)
 - requests twin or duplicate subjects in images; 5× (since 2025-09-03) [refs: twin forest requests chatId:`c7877afab58647`]
+- asks for varied backgrounds with same subject/human; creative scene exploration; 1× (first: 2025-09-03) [ref: image background variation request chatId:`d1e739ef985e46`]
