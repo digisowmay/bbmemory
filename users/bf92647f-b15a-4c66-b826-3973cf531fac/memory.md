@@ -20,6 +20,7 @@
 
 ### Emerging (recent behavioral shifts)
 - minimal-change philosophy: requests only necessary colour adjustments, avoiding additional enhancements; 3× (since 2025-09-03) [refs: "only colours", "no enhancements", latest colour fix chatId:`071c0a96f2094c`]
+- showing openness to creative scene composites alongside authenticity; 1× (observed: 2025-09-03) [ref: party composite request chatId:`071c0a96f2094c`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
@@ -27,3 +28,4 @@
 
 ### Emerging (new query patterns)
 - focus on stage lighting authenticity in edits; 2× (started 2025-09-03) [ref: instructions about bulb visibility chatId:`217f9c7a475c43`]
+- requests image compositing (placing subjects into new scenes); 1× (first: 2025-09-03) [ref: composite party photo request chatId:`071c0a96f2094c`]
