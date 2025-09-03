@@ -22,3 +22,4 @@
 
 ### Emerging (new query patterns)
 - uses assistant to retrieve and share social media (Twitter) content with others; 1× (first: 2025-09-02) [ref: tweet fetch and share chatId:`20792ff50c044c`]
+- queries Bhindi platform for current background agents/scheduler status; 1× (first: 2025-09-03) [ref: background agents query chatId:`0725e8395f2d4a`]
