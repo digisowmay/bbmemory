@@ -5,6 +5,7 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - alterne ponctuellement entre français et anglais pour préciser des requêtes techniques; 1× (first: 2025-09-03) [ref: discussion about "tight-fitting" wording chatId:`fed6bde6acbe49`]
+- adapte la formulation des prompts pour contourner des restrictions (ex. utiliser "athletic shorts" au lieu de "boxer"); 1× (first: 2025-09-03) [ref: conversation sur wording pour Gemini chatId:`fed6bde6acbe49`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -18,6 +19,7 @@
 ### Emerging (recent behavioral shifts)
 - approche de conception itérative, ajuste les demandes jusqu’à obtenir le rendu souhaité; 2× (observed: 2025-09-03) [refs: repeated refinements on boxer tightness and stylisation chatId:`fed6bde6acbe49`]
 - propose des stratégies alternatives (changer d’outil, reformuler la requête) pour contourner des limitations; 1× (first: 2025-09-03) [ref: suggestion d’utiliser Gemini images après échec initial chatId:`fed6bde6acbe49`]
+- expérimente des tournures de phrases pour respecter les politiques tout en obtenant le résultat voulu; 1× (first: 2025-09-03) [ref: essais "athletic wear" vs "boxer" chatId:`fed6bde6acbe49`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
@@ -26,3 +28,4 @@
 ### Emerging (new query patterns)
 - expérimente des effets de stylisation (Pixar, plastique) sur les images; 3× (since 2025-09-03) [refs: stylised figurine requests chatId:`fed6bde6acbe49`]
 - compare et teste différents agents d’édition d’images (NanoBanana, Gemini, etc.) pour optimiser le résultat; 1× (first: 2025-09-03) [ref: question sur différence d’outils chatId:`fed6bde6acbe49`]
+- explore des reformulations pour contourner les limitations de contenu des outils; 1× (first: 2025-09-03) [ref: usage de « athletic shorts » pour obtenir boxer chatId:`fed6bde6acbe49`]
