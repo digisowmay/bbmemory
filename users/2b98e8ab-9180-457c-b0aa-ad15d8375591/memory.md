@@ -3,6 +3,7 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - wants straightforward, no-BS language; no emojis; bullet points acceptable; 2× (last: 2025-09-03) [refs: content style request chatId:`0b559da0df3942`; quote request chatId:`0b559da0df3942`]
+- strictly prohibits comparative statements such as "while others ..."; reacted strongly when comparison used; 1× (first: 2025-09-03) [ref: comparison prohibition chatId:`0b559da0df3942`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
