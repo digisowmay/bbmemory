@@ -4,7 +4,7 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - provides highly detailed multi-step content requirements (specific structure, title, prompt, tags); 4× (last: 2025-09-03) [refs: n8n Instagram prompt chatId:`79490ef7dd054f`; Twitter thread scheduling request chatId:`5bf40f69543a44`; neo4J prompt request chatId:`f03f475c889a4f`; n8n Slack prompt chatId:`79490ef7dd054f`]
-- asks for step-by-step guidance for tool setup and processes; 3× (last: 2025-09-03) [refs: Discord bot setup guidance chatId:`1a1bd5c41e0446`; gaming bot setup guidance chatId:`1a1bd5c41e0446`; Discord guidance refinement chatId:`1a1bd5c41e0446`]
+- asks for step-by-step guidance for tool setup and processes; 4× (last: 2025-09-03) [refs: Discord bot setup guidance chatId:`1a1bd5c41e0446`; gaming bot setup guidance chatId:`1a1bd5c41e0446`; Discord guidance refinement chatId:`1a1bd5c41e0446`; Splitwise API key guidance chatId:`852891c7196d44`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
