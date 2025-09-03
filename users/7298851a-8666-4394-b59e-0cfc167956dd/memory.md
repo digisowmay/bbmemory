@@ -3,8 +3,9 @@
 -
 
 ### Emerging (new signals, 1-2 reinforcements)
-- wants personalized, non-generic phrasing in communications; 5× (last: 2025-09-03) [refs: cold email improvement discussion; follow-up email request; subject line personalization; job opening template personalization chatId:`dc731835d30341`]
-- prefers concise, punchy wording; 4× (last: 2025-09-03) [refs: wordiness feedback; concise rewrite request; subject line brevity discussion; "too wordy" follow-up comment chatId:`dc731835d30341`]
+- wants personalized, non-generic phrasing in communications; 6× (last: 2025-09-03) [refs: cold email improvement discussion; follow-up email request; subject line personalization; job opening template personalization; closing line enhancement request chatId:`dc731835d30341`]
+- prefers concise, punchy wording; 5× (last: 2025-09-03) [refs: wordiness feedback; concise rewrite request; subject line brevity discussion; "too wordy" comment; closing line brevity adjustment chatId:`dc731835d30341`]
+- prefers direct, action-oriented closing lines; 1× (first: 2025-09-03) [ref: request to make closing more action-oriented chatId:`dc731835d30341`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -18,11 +19,11 @@
 -
 
 ### Emerging (recent behavioral shifts)
-- values tailoring content to audience, avoids generic phrasing; 4× (last: 2025-09-03) [refs: personalized email request; follow-up email personalization; subject line tailoring; request to add company/person details chatId:`dc731835d30341`]
+- values tailoring content to audience; avoids generic phrasing; 4× (last: 2025-09-03) [refs: personalized email request; follow-up personalization; subject line tailoring; closing line personalization chatId:`dc731835d30341`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
 -
 
 ### Emerging (new query patterns)
-- seeks assistance refining professional communications (cold emails, templates); 5× (since 2025-09-03) [refs: email template improvement requests; concise version request; follow-up email request; subject line and job template request; personalization enhancement chatId:`dc731835d30341`]
+- seeks assistance refining professional communications (cold emails, templates); 6× (since 2025-09-03) [refs: email template improvement requests; concise version request; follow-up email creation; subject line brainstorming; job template personalization; closing line enhancement chatId:`dc731835d30341`]
