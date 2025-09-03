@@ -3,7 +3,7 @@
 - polite, uses courteous acknowledgements like "My pleasure"; 5× (stable since 2025-09-04) [refs: conversation chatId:`390b7a8a29e94b`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- expresses optimism with phrases like "Hope for best"; 3× (last: 2025-09-04) [refs: conversation chatId:`390b7a8a29e94b`]
+- expresses optimism with phrases like "Hope for best"; 4× (last: 2025-09-04) [refs: conversation chatId:`390b7a8a29e94b`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -17,11 +17,12 @@
 - prefers to see concrete results before forming or updating opinions; 5× [refs: conversation chatId:`390b7a8a29e94b`]
 
 ### Emerging (recent behavioral shifts)
-- requests a trial/test before committing; 4× (last: 2025-09-04) [refs: conversation chatId:`390b7a8a29e94b`]
+- requests a trial/test before committing; 5× (last: 2025-09-04) [refs: conversation chatId:`390b7a8a29e94b`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
 - (no entries yet)
 
 ### Emerging (new query patterns)
-- exploring overall Bhindi platform capabilities (asked if it is just a calculation app); 3× (since 2025-09-04) [refs: conversation chatId:`390b7a8a29e94b`]
+- exploring overall Bhindi platform capabilities (asked if it is just a calculation app); 4× (since 2025-09-04) [refs: conversation chatId:`390b7a8a29e94b`]
+- inquiring about image handling and analysis capabilities; 1× (first: 2025-09-04) [ref: conversation chatId:`390b7a8a29e94b`]
