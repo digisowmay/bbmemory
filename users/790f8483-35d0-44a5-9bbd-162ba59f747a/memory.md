@@ -1,6 +1,6 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- gives brief imperative commands; expects quick action or implementation; 17× (promoted from emerging) [refs: chatId:`01df00b469f447`; chatId:`92665348120c45`; chatId:`8ca3cb93a8714b`; chatId:`2927cf2e4a0d4a`; chatId:`5193cf53d94f47`; chatId:`b9946941f7a644`]
+- gives brief imperative commands; expects quick action or implementation; 18× (promoted from emerging) [refs: chatId:`01df00b469f447`; chatId:`92665348120c45`; chatId:`8ca3cb93a8714b`; chatId:`2927cf2e4a0d4a`; chatId:`5193cf53d94f47`; chatId:`b9946941f7a644`; chatId:`5df1c08398f14e`]
 
 ### Emerging (new signals, 1-2 reinforcements)
 - prefers multimodal responses, including audio output; 1× (first: 2025-09-02) [ref: book-to-action guide request chatId:`d37490428fc745`]
