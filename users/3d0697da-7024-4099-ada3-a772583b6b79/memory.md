@@ -28,5 +28,5 @@
 - none
 
 ### Emerging (new query patterns)
-- uses assistant for creative content generation and task management (Todoist); 5× (since 2025-09-01) [refs: tweet posting chatId:`5dd3b78eca0543`; additional tweet request chatId:`5dd3b78eca0543`; google form creation chatId:`f43391e07f9c49`; task addition chatId:`5e88cea998434b`; multi-tool deployment workflow chatId:`bb20c27486ef4d`]
+- uses assistant for creative content generation, task management (Todoist), and retail price comparison (luxury fashion purchase); 6× (since 2025-09-01) [refs: tweet posting chatId:`5dd3b78eca0543`; additional tweet request chatId:`5dd3b78eca0543`; google form creation chatId:`f43391e07f9c49`; task addition chatId:`5e88cea998434b`; multi-tool deployment workflow chatId:`bb20c27486ef4d`; Dior bag price comparison chatId:`cfebc518400344`]
 - coordinates development workflow across GitHub, Linear, Telegram, and Google Calendar; 1× (first: 2025-09-03) [ref: multi-tool deployment workflow chatId:`bb20c27486ef4d`]
