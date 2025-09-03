@@ -2,8 +2,8 @@
 ### Durable (established, 3+ reinforcements)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- switches between English, Arabic, and French; 1× (first: 2025-09-03) [ref: translation clarification chatId:`02886b3a766642`]
-- requests concise, single-word answers when appropriate; 1× (first: 2025-09-03) [ref: asked for single-word translation chatId:`02886b3a766642`]
+- switches between English, Arabic, and French; 2× (last: 2025-09-03) [refs: translation clarification chatId:`02886b3a766642`; follow-up translation chatId:`02886b3a766642`]
+- insists on precise, single-word translations and corrects assistant when needed; 2× (last: 2025-09-03) [refs: single-word translation request chatId:`02886b3a766642`; correction to "aguadier" chatId:`02886b3a766642`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -22,5 +22,5 @@
 ### Durable (regular platform activities)
 
 ### Emerging (new query patterns)
-- asks for multilingual translations; 1× (first: 2025-09-03) [ref: translation request chatId:`02886b3a766642`]
+- asks for multilingual translations; 2× (last: 2025-09-03) [refs: initial translation request chatId:`02886b3a766642`; follow-up translation correction chatId:`02886b3a766642`]
 - queries about AI and project management opportunities; 1× (first: 2025-09-03) [ref: initial request chatId:`02886b3a766642`]
