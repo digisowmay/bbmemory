@@ -11,7 +11,7 @@
 
 ### Emerging (recent learning, current focus)
 - learning Python basics; beginner level; 1× (started: 2025-09-04) [ref: Python beginner code request chatId:`0df0155bb46b41`]
-- seeking AI/ML fresher jobs with salary >6 LPA; wants daily email alerts; 1× (started: 2025-09-04) [ref: job alert schedule request chatId:`0df0155bb46b41`]
+- seeking AI/ML fresher jobs with salary >6 LPA; wants daily alerts and on-demand searches; 2× (since 2025-09-04) [refs: job alert schedule request chatId:`0df0155bb46b41`; on-demand job search chatId:`0df0155bb46b41`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
@@ -26,4 +26,4 @@
 
 ### Emerging (new query patterns)
 - requests coding tutorials/examples; 1× (since 2025-09-04) [ref: Python beginner code request chatId:`0df0155bb46b41`]
-- sets up automated job alerts via scheduler; 1× (since 2025-09-04) [ref: scheduler setup chatId:`0df0155bb46b41`]
+- sets up automated job alerts via scheduler and requests job search results; 2× (since 2025-09-04) [refs: scheduler setup chatId:`0df0155bb46b41`; on-demand job search chatId:`0df0155bb46b41`]
