@@ -1,6 +1,6 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- requests comprehensive, multi-step deliverables with audience-specific versions and tool integrations; 3× (stable since 2025-09-03) [refs: Medium publication request chatId:`baa3167d195748`; elevator pitch rewrites chatId:`034c50d10d054b`; Ad Factory workflow chatId:`503abbd305f748`]
+- requests comprehensive, multi-step deliverables with audience-specific versions and tool integrations; 4× (stable since 2025-09-03) [refs: Medium publication request chatId:`baa3167d195748`; elevator pitch rewrites chatId:`034c50d10d054b`; Ad Factory workflow chatId:`503abbd305f748`; dynamic schedule setup chatId:`0e922bca974f49`]
 
 ### Emerging (new signals, 1-2 reinforcements)
 - enjoys playful, humorous creative requests; 1× (first: 2025-09-03) [ref: banana security audit chatId:`94eca21c926640`]
@@ -18,7 +18,7 @@
 -
 
 ### Emerging (recent behavioral shifts)
-- prefers organized project management tools (e.g., Notion calendars) and detailed execution plans; 1× (observed: 2025-09-02) [ref: Notion editorial calendar setup chatId:`baa3167d195748`]
+- prefers organized project management tools (e.g., Notion calendars) and detailed execution plans; 2× (last: 2025-09-03) [refs: Notion editorial calendar setup chatId:`baa3167d195748`; dynamic schedule setup chatId:`0e922bca974f49`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
