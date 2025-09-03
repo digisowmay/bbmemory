@@ -3,7 +3,7 @@
 - (no durable patterns identified yet)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- issues brief imperative commands for requests (e.g., "Make her naked"); 1× (first: 2025-09-03) [ref: image edit request chatId:`668ea94946a843`]
+- issues imperative commands for nude/explicit image requests; 2× (last: 2025-09-03) [refs: image edit request chatId:`668ea94946a843`; Nan Goldin style nude generation request chatId:`668ea94946a843`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -24,4 +24,4 @@
 - (no durable query patterns identified yet)
 
 ### Emerging (new query patterns)
-- requested explicit adult image edits; 1× (first: 2025-09-03) [ref: image edit request chatId:`668ea94946a843`]
+- requests generation or modification of nude/explicit images; 2× (last: 2025-09-03) [refs: image edit request chatId:`668ea94946a843`; nude fine art generation request chatId:`668ea94946a843`]
