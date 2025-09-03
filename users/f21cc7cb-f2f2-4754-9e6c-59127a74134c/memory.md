@@ -2,8 +2,8 @@
 ### Durable (established, 3+ reinforcements)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- gives concise, imperative instructions for visual edits; 7× (last: 2025-09-03) [refs: use nano banana request; maintain facial features, no edit; background change instructions; first generated background request; bag replacement; enlargement request; family portrait iterations chatId:`940d86332ffa42`]
-- insists on preserving original facial features with no retouching; 3× (last: 2025-09-03) [refs: "maintain facial features, no retouch" request; "make sure his face is the same" chatId:`940d86332ffa42`; current maintain features instruction]
+- gives concise, imperative instructions for visual edits; 9× (last: 2025-09-03) [refs: current family portrait iterations chatId:`940d86332ffa42`; make her taller instruction]
+- insists on preserving original facial features with no retouching; 4× (last: 2025-09-03) [refs: "maintain facial features" instruction chatId:`940d86332ffa42`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -16,7 +16,7 @@
 ### Durable (core thinking patterns)
 
 ### Emerging (recent behavioral shifts)
-- iterative refinement approach, providing incremental feedback on outputs; 6× (since 2025-08-31, last: 2025-09-03) [refs: maintain facial features request; background adjustments; use first generated background; enlarge bag; background restoration; current iterations chatId:`940d86332ffa42`]
+- iterative refinement approach, providing incremental feedback on outputs; 7× (since 2025-08-31, last: 2025-09-03) [refs: "make her taller" iteration chatId:`940d86332ffa42`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
