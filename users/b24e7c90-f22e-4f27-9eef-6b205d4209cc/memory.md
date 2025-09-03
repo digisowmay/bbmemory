@@ -2,7 +2,7 @@
 ### Durable (established, 3+ reinforcements)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- concise, direct requests; 1× (first: 2025-09-03) [ref: price query chatId:`b3a6ee2b8bb940`]
+- concise, direct requests; 2× (last: 2025-09-03) [ref: price query chatId:`b3a6ee2b8bb940`; tools query chatId:`b3a6ee2b8bb940`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -18,4 +18,5 @@
 ### Durable (regular platform activities)
 
 ### Emerging (new query patterns)
-- asks for cryptocurrency prices (Ethereum); 1× (first: 2025-09-03) [ref: price query chatId:`b3a6ee2b8bb940`]
+- asks for cryptocurrency prices (Ethereum); 2× (last: 2025-09-03) [ref: price query chatId:`b3a6ee2b8bb940`; repeated price interest chatId:`b3a6ee2b8bb940`]
+- asks about available tools; 1× (first: 2025-09-03) [ref: tools query chatId:`b3a6ee2b8bb940`]
