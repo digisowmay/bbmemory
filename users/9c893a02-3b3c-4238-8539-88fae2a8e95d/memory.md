@@ -1,6 +1,6 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- gives concise imperative instructions for platform tasks; 16× (last: 2025-09-03) [refs: reminder scheduling interactions chatId:`04b0c1da45a44a`; coffee reminder chatId:`10c334b4e84942`; send hello instruction chatId:`7db4ed4c3cbd4a`]
+- gives concise imperative instructions for platform tasks; 17× (last: 2025-09-03) [refs: reminder scheduling interactions chatId:`04b0c1da45a44a`; coffee reminder chatId:`10c334b4e84942`; send hello instruction chatId:`7db4ed4c3cbd4a`; message send instruction chatId:`a168b8c8923948`]
 
 ### Emerging (new signals, 1-2 reinforcements)
 - requests raw error or JSON details when troubleshooting; 1× (first: 2025-09-02) [ref: JSON error request chatId:`8395ae30d96541`]
@@ -8,7 +8,7 @@
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
 
-### Emerging (recent learning, current focus)  
+### Emerging (recent learning, current focus)
 - familiarity with bhindi-client repository; 1× (first: 2025-08-31) [ref: GitHub issue creation request]
 
 ## Thinking & Working Style
@@ -20,7 +20,7 @@
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
-- requests scheduling reminders frequently; 13× (promoted from emerging; since 2025-09-01) [refs: reminder scheduling interactions chatId:`04b0c1da45a44a`; coffee reminder chatId:`10c334b4e84942`]
+- requests scheduling reminders frequently; 13× (since 2025-09-01) [refs: reminder scheduling interactions chatId:`04b0c1da45a44a`; coffee reminder chatId:`10c334b4e84942`]
 
 ### Emerging (new query patterns)
 - tracks Ethereum (ETH) price; asks reminders to check ETH; 2× (since 2025-09-02) [refs: ETH price reminder requests chatId:`04b0c1da45a44a`]
