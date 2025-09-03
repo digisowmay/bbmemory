@@ -3,7 +3,7 @@
 - (none yet)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- gives short, imperative commands for tasks; 5× (last: 2025-09-03) [refs: image edit requests chatId:`3527ddad72dc45`]
+- gives short, imperative commands for tasks; 8× (last: 2025-09-03) [refs: image edit requests chatId:`3527ddad72dc45`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -24,4 +24,4 @@
 - (none yet)
 
 ### Emerging (new query patterns)
-- requests AI-mediated photo editing/manipulation tasks; 5× (last: 2025-09-03) [refs: image edit requests chatId:`3527ddad72dc45`]
+- requests AI-mediated photo editing/manipulation tasks; 8× (last: 2025-09-03) [refs: image edit requests chatId:`3527ddad72dc45`]
