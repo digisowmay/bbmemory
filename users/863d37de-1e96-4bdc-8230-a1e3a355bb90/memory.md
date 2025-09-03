@@ -1,6 +1,6 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- prefers concise, one-line commands and follow-ups; 38× (stable since 2025-08-31) [refs: repeated quick commands during agent creation & sync chatId:`307ca8ef14424e`; endpoint update request chatId:`64a7dfd2ae3c4b`; mermaid diagram request chatId:`91e1da92dbe948`]
+- prefers concise, one-line commands and follow-ups; 39× (stable since 2025-08-31) [refs: repeated quick commands during agent creation & sync chatId:`307ca8ef14424e`; endpoint update request chatId:`64a7dfd2ae3c4b`; mermaid diagram request chatId:`91e1da92dbe948`; quick upload request chatId:`5bf7a148af9947`]
 
 ### Emerging (new signals, 1-2 reinforcements)
 - requests detailed error information for troubleshooting; 6× (last: 2025-09-03) [refs: asked for exact error during sync chatId:`307ca8ef14424e`; asked for error code in mermaid agent chatId:`91e1da92dbe948`]
@@ -23,5 +23,5 @@
 - requests graph database analytics with Neo4j; 3× [refs: e-commerce graph analysis request chatId:`23f8b15fa56747`]
 
 ### Emerging (new query patterns)
-- requests AI image generation and direct upload to Google Drive; 4× (since 2025-09-03) [refs: image generation & upload chatId:`a0c3599e3bfb46`; second upload attempt chatId:`a0c3599e3bfb46`; "try again" upload chatId:`a0c3599e3bfb46`; upload screenshot chatId:`612fff72dcdd4c`]
+- requests AI image generation and direct upload to Google Drive; 5× (since 2025-09-03) [refs: image generation & upload chatId:`a0c3599e3bfb46`; second upload attempt chatId:`a0c3599e3bfb46`; upload screenshot chatId:`612fff72dcdd4c`; current upload chatId:`5bf7a148af9947`]
 - requests web scraping and data extraction with Firecrawl; 1× (first: 2025-09-03) [ref: Firecrawl scraping request chatId:`ecd13016eb2946`]
