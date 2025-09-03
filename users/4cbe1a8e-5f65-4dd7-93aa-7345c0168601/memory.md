@@ -21,5 +21,5 @@
 ### Durable (regular platform activities)
 
 ### Emerging (new query patterns)
-- requests commodity price analysis (gold, silver, diamonds); 3× (last: 2025-09-03) [refs: gold, silver, diamond price requests chatId:`4efaf09a423047`]
 - requests UX/UI improvement advice for Bhindi platform; 1× (since 2025-09-02) [ref: UX improvement request chatId:`ba2d44bb613f40`]
+- requests commodity and crypto price analysis (gold, silver, bitcoin); 3× (since 2025-09-03) [refs: gold price request chatId:`4efaf09a423047`; silver price request chatId:`4efaf09a423047`; bitcoin price request chatId:`4efaf09a423047`]
