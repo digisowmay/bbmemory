@@ -9,6 +9,7 @@
 -
 ### Emerging (recent learning, current focus)
 - working on streaming automation workflow using n8n, GPT-4, social media APIs; 2× (since 2025-09-03) [refs: workflow creation request chatId:`cc9ecb10195547`; implementation troubleshooting chatId:`cc9ecb10195547`]
+- uses n8n Cloud instance at https://aigod236.app.n8n.cloud; 1× (first: 2025-09-03) [ref: n8n server URL discussion chatId:`cc9ecb10195547`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
