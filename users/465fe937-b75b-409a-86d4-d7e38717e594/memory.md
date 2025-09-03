@@ -4,8 +4,8 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - prefers concise professional text over detailed bullet lists; 1× (first: 2025-09-02) [ref: request to reduce bullet list detail chatId:`891cbb4a85a54a`]
-- prefers tabular format for data presentation; 1× (first: 2025-09-03) [ref: request to add events in table chatId:`891cbb4a85a54a`]
-- uses "RESUME" keyword to resume tasks; 1× (observed: 2025-09-02) [ref: "RESUME" messages chatId:`891cbb4a85a54a`]
+- prefers tabular format for data presentation; 2× (last: 2025-09-03) [refs: request to add events in table; add events table chatId:`891cbb4a85a54a`]
+- uses "RESUME" keyword to resume tasks; 2× (last: 2025-09-03) [refs: "RESUME" messages chatId:`891cbb4a85a54a`; follow-up after scraping failure]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -24,4 +24,4 @@
 - asks for assistance in composing formal emails and documents; 4× [refs: email drafting requests; vision doc creation; event update doc; events table update chatId:`891cbb4a85a54a`]
 
 ### Emerging (new query patterns)
-- uses AI to update Google Docs for documentation tasks; 2× (since 2025-09-03) [refs: request to insert events table; request to add organizer name chatId:`891cbb4a85a54a`]
+- uses AI to update Google Docs for documentation tasks; 3× (since 2025-09-03) [refs: request to insert events table; organizer name & stats update chatId:`891cbb4a85a54a`]
