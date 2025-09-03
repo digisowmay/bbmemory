@@ -1,11 +1,11 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- prefers concise, lowercase assistant replies; 10× (stable since 2025-08-20) [refs: echo delegation request chatId:`c03273d910cd4b`; news audio request chatId:`898cc38b8e6341`; github issue request chatId:`70331493ea4d4f`; automation request chatId:`2e69f63ce2e444`]
+- prefers concise, lowercase assistant replies; 10× (stable since 2025-08-20) [refs: echo delegation request chatId:`c03273d910cd4b`; news audio request chatId:`898cc38b8e6341`; github issue request chatId:`70331493ea4d4f`]
 - prefers subtle logo integration and minimalist branding; 7× (last: 2025-09-03) [refs: billboard revision requests chatId:`0eed68ac30e145`; mobile-shot billboard tweak chatId:`0eed68ac30e145`]
-- realistic mobile-phone style photos with local Bengaluru context (yellow autos, bikes); 3× (promoted from emerging, last: 2025-09-03) [refs: BLR street vibes request chatId:`0eed68ac30e145`; mobile phone angle with autos chatId:`0eed68ac30e145`; night portrait BLR scene chatId:`0eed68ac30e145`]
+- realistic mobile-phone style photos with local Bengaluru context (yellow autos, bikes); 3× (promoted from emerging, last: 2025-09-03) [refs: BLR street vibes request chatId:`0eed68ac30e145`; mobile phone angle with autos chatId:`0eed68ac30e145`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- wants both landscape and portrait orientation variations; 3× (last: 2025-09-03) [refs: portrait mode request chatId:`0eed68ac30e145`; portrait night version chatId:`0eed68ac30e145`; additional portrait request chatId:`0eed68ac30e145`]
+- wants both landscape and portrait orientation variations; 3× (last: 2025-09-03) [refs: portrait mode request chatId:`0eed68ac30e145`; portrait night version chatId:`0eed68ac30e145`]
 - prefers fresh, non-generic conversational openings; 2× (last: 2025-09-03) [refs: email tone refinement chatId:`e9029187a1d845`; opening line feedback chatId:`e9029187a1d845`]
 - wants middle paragraphs concise, avoiding over-exposure of internal details; 1× (first: 2025-09-03) [ref: mid-para feedback chatId:`e9029187a1d845`]
 
@@ -19,16 +19,17 @@
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
-- delegates operational tasks to assistant (github, communication, content creation, research); 15× [refs: multiple task delegations chatId:`c03273d910cd4b`; news audio request chatId:`898cc38b8e6341`; github issue request chatId:`70331493ea4d4f`; popover size issue chatId:`2e69f63ce2e444`]
+- delegates operational tasks to assistant (github, communication, content creation, research); 15× [refs: multiple task delegations chatId:`c03273d910cd4b`; news audio request chatId:`898cc38b8e6341`; github issue request chatId:`70331493ea4d4f`]
 
 ### Emerging (recent behavioral shifts)
 - asks for code snippet outputs when summarizing prompts/templates; 2× (last: 2025-09-03) [refs: billboard mega prompt code chatId:`0eed68ac30e145`; billboard prompt template chatId:`c0d08c6bcfdd43`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
-- requests assistant-generated operational and creative assets; 8× (since 2025-09-02) [refs: billboard design and revisions chatId:`0eed68ac30e145`; github issue requests chatId:`70331493ea4d4f`; subtle logo integration chatId:`0eed68ac30e145`; crystal clear final billboard chatId:`0eed68ac30e145`]
+- requests assistant-generated operational and creative assets; 8× (since 2025-09-02) [refs: billboard design and revisions chatId:`0eed68ac30e145`; github issue requests chatId:`70331493ea4d4f`]
 
 ### Emerging (new query patterns)
-- prefers Google "nano banana" model for generation tasks and demands highly photorealistic output, removal of AI artifacts; 3× (since 2025-09-03) [refs: model usage request chatId:`c0d08c6bcfdd43`; follow-up generation chatId:`c0d08c6bcfdd43`; realism refinement request chatId:`c0d08c6bcfdd43`]
-- requests Google Drive operations such as file listing and integration setup; 2× (since 2025-09-03) [refs: google drive access request chatId:`b4fdf1ddbf0440`; google drive listing retry chatId:`b4fdf1ddbf0440`]
-- learning data visualization; chart libraries, dashboards; 2× (started 2025-08-25) [refs: D3.js tutorial request chatId:`cde567fgh`; dashboard design consultation chatId:`fgh890ijk`]
+- prefers Google "nano banana" model for generation tasks and demands highly photorealistic output, removal of AI artifacts; 3× (since 2025-09-03) [refs: model usage request chatId:`c0d08c6bcfdd43`]
+- requests Google Drive operations such as file listing and integration setup; 2× (since 2025-09-03) [refs: google drive access request chatId:`b4fdf1ddbf0440`]
+- learning data visualization; chart libraries, dashboards; 2× (started 2025-08-25) [refs: D3.js tutorial request chatId:`cde567fgh`]
+- requests fact-checks via Exa AI; 1× (first: 2025-09-03) [ref: fact-check tweet chatId:`8e53a3d0a5484b`]
