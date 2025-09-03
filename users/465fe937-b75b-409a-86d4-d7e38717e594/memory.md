@@ -17,11 +17,11 @@
 ### Durable (core thinking patterns)
 
 ### Emerging (recent behavioral shifts)
-- seeks efficient solutions by delegating content creation tasks; 2× (last: 2025-09-02) [refs: email & doc update requests; website event integration request chatId:`891cbb4a85a54a`]
+- seeks efficient solutions by delegating content creation tasks; 3× (last: 2025-09-03) [refs: email & doc update requests; website event integration request; table & organizer name update chatId:`891cbb4a85a54a`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
 - asks for assistance in composing formal emails and documents; 4× [refs: email drafting requests; vision doc creation; event update doc; events table update chatId:`891cbb4a85a54a`]
 
 ### Emerging (new query patterns)
-- uses AI to update Google Docs for documentation tasks; 1× (first: 2025-09-03) [ref: request to insert events table chatId:`891cbb4a85a54a`]
+- uses AI to update Google Docs for documentation tasks; 2× (since 2025-09-03) [refs: request to insert events table; request to add organizer name chatId:`891cbb4a85a54a`]
