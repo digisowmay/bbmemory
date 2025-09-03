@@ -1,7 +1,7 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
 - concise, direct requests; 12× (stable since 2025-09-03) [refs: weather/price request chatId:`0f2a45887f814b`; repeated ETH & weather requests chatId:`3a4c3604af3642`]
-- repeats same query when answer not immediately provided; 6× [refs: repeated weather query chatId:`0f2a45887f814b`; follow-up query chatId:`a90c91b55edd49`]
+- repeats same query when answer not immediately provided; 7× [refs: repeated weather query chatId:`0f2a45887f814b`; follow-up query chatId:`a90c91b55edd49`; repeated "hi" to regain attention chatId:`6b1aa698f4854d`]
 
 ### Emerging (new signals, 1-2 reinforcements)
 
@@ -22,4 +22,4 @@
 
 ### Emerging (new query patterns)
 - asks for Bitcoin price; 1× (first: 2025-09-03) [refs: combined ETH/BTC request chatId:`3a4c3604af3642`]
-- wants to connect Telegram account for integration; 1× (first: 2025-09-03) [ref: telegram connect request chatId:`c738ce3cf76148`]
+- wants to connect Telegram account for integration; 2× (last: 2025-09-03) [refs: telegram connect request chatId:`c738ce3cf76148`; telegram connect verification chatId:`6b1aa698f4854d`]
