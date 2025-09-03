@@ -11,6 +11,7 @@
 
 ### Emerging (recent learning, current focus)
 - actively follows equity markets; requests daily market briefings with specific tickers and audio narration; 1× (since 2025-09-03) [ref: investment briefing request chatId:`3f486ff8962f4e`]
+- exploring decentralized finance and Uniswap v4 trading strategies; 1× (first: 2025-09-04) [ref: Uniswap stats request chatId:`97787d4b9e784a`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
@@ -25,3 +26,4 @@
 
 ### Emerging (new query patterns)
 - exploring automated investment updates; seeks quick market summaries with integrated audio; 1× (started 2025-09-03) [ref: investment briefing request chatId:`3f486ff8962f4e`]
+- requesting Uniswap v4 statistics and trading opportunity analysis; 1× (first: 2025-09-04) [ref: Uniswap stats request chatId:`97787d4b9e784a`]
