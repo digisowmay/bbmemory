@@ -18,3 +18,4 @@
 ### Durable (regular platform activities)
 
 ### Emerging (new query patterns)
+- requests AI image edits for personal appearance (hair styling photos); 1× (first: 2025-09-04) [ref: hairstyle perm edits chatId:`490292662eb74c`]
