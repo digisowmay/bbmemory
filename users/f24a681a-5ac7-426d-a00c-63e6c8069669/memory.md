@@ -6,7 +6,7 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - expects the assistant to explicitly request prerequisite details; 5× (last: 2025-09-02) [refs: thumbnail creation chatId:`5aac8767e2714e`; follow-up image prompt chatId:`5aac8767e2714e`; logo design brief chatId:`d5bcc3e22fb24d`; Dior bag deal request chatId:`fbe68d0f8bcc40`; lithium-ion battery research chatId:`cc691ac2615348`]
-- issues terse imperative commands like "execute this", "RESUME" expecting immediate action; 6× (last: 2025-09-02) [refs: Todoist execution chatId:`5aac8767e2714e`; RESUME command chatId:`5aac8767e2714e`; agent replacement request chatId:`fcfddeda041340`; restart prompt chatId:`fcfddeda041340`; confirmation directive chatId:`5aac8767e2714e`; RESUME command chatId:`fcfddeda041340`]
+- issues terse imperative commands like "execute this", "RESUME" expecting immediate action; 7× (last: 2025-09-03) [refs: Todoist execution chatId:`5aac8767e2714e`; RESUME command chatId:`5aac8767e2714e`; agent replacement request chatId:`fcfddeda041340`; restart prompt chatId:`fcfddeda041340`; confirmation directive chatId:`5aac8767e2714e`; RESUME command chatId:`fcfddeda041340`; easy lingo explanation request chatId:`71819b2fc89e44`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
