@@ -1,9 +1,9 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- provides concise, specific visual content instructions; 4× [refs: baked onions image request; unique photo requests; current onion series chatId:`eaad0c9c741440`]
+- provides concise, specific visual content instructions; 5× [refs: baked onions image requests; unique photo modification guidance; current onion series chatId:`eaad0c9c741440`]
+- instructs assistant to wait for additional user input before proceeding; 3× (promoted from emerging) [refs: onion workflow "don’t start without second image" chatId:`eaad0c9c741440`; current photo example instruction]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- instructs assistant to wait for additional user input before proceeding; 2× (last: 2025-09-03) [ref: current onion workflow chatId:`eaad0c9c741440`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -15,7 +15,7 @@
 ### Durable (core thinking patterns)
 
 ### Emerging (recent behavioral shifts)
-- ensures clarity before action begins; asks assistant not to start without full materials; 2× (last: 2025-09-03) [ref: onion image sequence chatId:`eaad0c9c741440`]
+- ensures clarity before action begins; 3× (last: 2025-09-03) [refs: onion image workflow clarification chatId:`eaad0c9c741440`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
