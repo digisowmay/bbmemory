@@ -4,6 +4,7 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - likes iterative refinement asking to “make it peak”; 2× (last: 2025-08-31) [refs: asked to improve the thread twice]
+- dislikes AI-sounding content; prefers natural human tone; 1× (first: 2025-09-03) [ref: feedback "sounds ai" chatId:`cf34a5d995e443`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
