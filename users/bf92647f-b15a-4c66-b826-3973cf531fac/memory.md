@@ -3,7 +3,7 @@
 - gives concise, directive phrases for visual edits ("restore colours", "only correct colours", "no enhancements"); 12× (stable since 2025-08-31) [refs: multiple colour correction requests including chatId:`217f9c7a475c43`]
 - prefers results that look natural and not over-processed; 7× (reinforced 2025-09-03) [refs: "make it look like a natural photo", repeated colour-only instructions chatId:`217f9c7a475c43`]
 ### Emerging (new signals, 1-2 reinforcements)
-- wants stage lights kept at moderate brightness so bulbs remain visible; 2× (last: 2025-09-03) [refs: stage lights instructions chatId:`217f9c7a475c43`]
+- wants stage lights kept at moderate brightness so bulbs remain visible; 3× (last: 2025-09-03) [refs: repeated stage light brightness instructions chatId:`217f9c7a475c43`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
