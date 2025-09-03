@@ -2,7 +2,7 @@
 ### Durable (established, 3+ reinforcements)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- requests step-by-step guidance and drafting assistance for applications; 3× (last: 2025-09-03) [refs: internship application discussion; email modification request; resume template request chatId:`dd08b3f5961e4c`]
+- requests step-by-step guidance and drafting assistance for applications; 4× (last: 2025-09-03) [refs: internship application discussion; email modification request; resume template request chatId:`dd08b3f5961e4c`; internship email exposure modification chatId:`dd08b3f5961e4c`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
