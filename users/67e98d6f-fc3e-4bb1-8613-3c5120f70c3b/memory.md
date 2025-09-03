@@ -2,8 +2,8 @@
 ### Durable (established, 3+ reinforcements)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- issues concise, action-oriented commands for tech tasks; 2× (last: 2025-09-03) [refs: request to extract Gmail emails and send via Telegram; LinkedIn post automation chatId:`756f8b85cdd540`]
-- requests explicit confirmation before executing automated actions; 1× (first: 2025-09-03) [ref: LinkedIn post confirmation chatId:`756f8b85cdd540`]
+- issues concise, action-oriented commands for tech tasks; 3× (last: 2025-09-03) [refs: request to extract Gmail emails and send via Telegram; LinkedIn post automation chatId:`756f8b85cdd540`; request to create LinkedIn post with MCP content chatId:`756f8b85cdd540`]
+- requests explicit confirmation before executing automated actions; 2× (last: 2025-09-03) [refs: LinkedIn post confirmation chatId:`756f8b85cdd540`; ask to show generated image before posting chatId:`756f8b85cdd540`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
