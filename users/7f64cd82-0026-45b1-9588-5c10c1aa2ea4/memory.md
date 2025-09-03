@@ -2,8 +2,8 @@
 ### Durable (established, 3+ reinforcements)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- gives concise instructions for AI image editing tasks; 3× (last: 2025-09-03) [refs: multiple image editing refinement requests chatId:`7a9b6da9331d46`]
-- asks specifically for high-resolution, photorealistic outputs; 1× (first: 2025-09-03) [ref: request to make image ultra-sharp and maximum quality chatId:`7a9b6da9331d46`]
+- gives concise instructions for AI image editing tasks; 4× (last: 2025-09-03) [refs: multiple image editing refinement requests chatId:`7a9b6da9331d46`; clothes replacement request chatId:`71783b768eb74f`]
+- asks specifically for high-resolution, photorealistic outputs; 2× (last: 2025-09-03) [refs: ultra-sharp image request chatId:`7a9b6da9331d46`; current request chatId:`71783b768eb74f`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -19,4 +19,4 @@
 ### Durable (regular platform activities)
 
 ### Emerging (new query patterns)
-- experimenting with AI-based photo editing; 3× (since 2025-09-03) [refs: successive dress/background replacement and enhancement requests chatId:`7a9b6da9331d46`]
+- experimenting with AI-based photo editing; 4× (since 2025-09-03) [refs: successive editing requests chatId:`7a9b6da9331d46`; clothes replacement request chatId:`71783b768eb74f`]
