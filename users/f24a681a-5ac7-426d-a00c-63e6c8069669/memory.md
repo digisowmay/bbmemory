@@ -1,9 +1,9 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- requests content with strict length constraints; 17× (last: 2025-09-03) [refs: n8n Instagram prompt chatId:`79490ef7dd054f`; splitwise prompt chatId:`852891c7196d44`]
+- requests content with strict length constraints; 18× (last: 2025-09-03) [refs: n8n Instagram prompt chatId:`79490ef7dd054f`; splitwise prompt chatId:`852891c7196d44`; stagehand prompt chatId:`3535f07bff634c`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- provides highly detailed multi-step content requirements (specific structure, title, prompt, tags); 5× (last: 2025-09-03) [refs: n8n Instagram prompt chatId:`79490ef7dd054f`; splitwise prompt chatId:`852891c7196d44`]
+- provides highly detailed multi-step content requirements (specific structure, title, prompt, tags); 6× (last: 2025-09-03) [refs: n8n Instagram prompt chatId:`79490ef7dd054f`; splitwise prompt chatId:`852891c7196d44`; stagehand prompt chatId:`3535f07bff634c`]
 - asks for step-by-step guidance for tool setup and processes; 5× (last: 2025-09-03) [refs: Discord bot setup guidance chatId:`1a1bd5c41e0446`; Splitwise API guidance chatId:`852891c7196d44`]
 
 ## Knowledge & Context
