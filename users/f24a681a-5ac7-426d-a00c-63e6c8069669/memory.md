@@ -3,6 +3,7 @@
 - requests content with strict length constraints; 12× (last: 2025-09-03) [refs: sample prompt under 80 words chatId:`0e50ce76e04b42`; current prompt request chatId:`5bf40f69543a44`]
 
 ### Emerging (new signals, 1-2 reinforcements)
+- provides highly detailed multi-step content requirements (specific days, times, character limits, topics); 1× (first: 2025-09-03) [ref: Twitter thread scheduling request chatId:`5bf40f69543a44`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -18,3 +19,4 @@
 ### Durable (regular platform activities)
 
 ### Emerging (new query patterns)
+- requests social media (Twitter) content creation and scheduling; 1× (first: 2025-09-03) [ref: Twitter thread creation & scheduling chatId:`5bf40f69543a44`]
