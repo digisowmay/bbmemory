@@ -2,7 +2,7 @@
 ### Durable (established, 3+ reinforcements)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- prefers concise, action-oriented transformation requests; 1× (first: 2025-09-04) [ref: request to convert brainstorm into Notion page chatId:`b7eebde93ed642`]
+- prefers concise, action-oriented transformation requests; 2× (last: 2025-09-04) [refs: request to convert brainstorm into Notion page chatId:`b7eebde93ed642`; "not connecting" response chatId:`b7eebde93ed642`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
