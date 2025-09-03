@@ -28,5 +28,5 @@
 - explores AI prompt engineering; optimizing ChatGPT prompts and workflows; 4× (promoted from emerging, since 2024-08-18) [refs: prompt improvement discussion chatId:`bb83e4b41f6e4d`; workflow automation discussion chatId:`bb83e4b41f6e4d`; AI tool comparison; question about best prompts chatId:`bb83e4b41f6e4d`]
 
 ### Emerging (new query patterns)
-- exploring AI image generation; 2× (last: 2025-09-03) [refs: Van Gogh golden retriever image request chatId:`03c1d181e8b046`; repeat golden retriever portrait request chatId:`03c1d181e8b046`]
+- exploring AI image generation; 3× (last: 2025-09-03) [refs: Van Gogh golden retriever image request chatId:`03c1d181e8b046`; repeat golden retriever portrait request chatId:`03c1d181e8b046`; third golden retriever portrait request chatId:`03c1d181e8b046`]
 - exploring LinkedIn automation and n8n workflows; 3× (since 2025-09-02) [refs: LinkedIn automation discussion chatId:`bb83e4b41f6e4d`; mention of LinkedIn API/n8n; Apify scraping solution chatId:`bb83e4b41f6e4d`]
