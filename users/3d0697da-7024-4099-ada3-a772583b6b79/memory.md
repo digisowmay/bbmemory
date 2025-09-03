@@ -13,6 +13,7 @@
 ### Emerging (recent learning, current focus)
 - exploring decentralized finance trading and crypto portfolio analysis; 2× (since 2025-09-03) [refs: Uniswap stats request chatId:`aeb4ddc9952641`; crypto portfolio analysis chatId:`658d51cae22842`]
 - planning a trip to Tokyo in Oct 2025; organizing flights, hotels, itinerary; 2× (since 2025-09-03) [refs: travel planning request chatId:`8314aa133c1147`; follow-up travel details chatId:`8314aa133c1147`]
+- building a RAG system to turn Git repositories into chat interfaces; 1× (first: 2025-09-03) [ref: project brainstorm chatId:`03c5bc2f28ae42`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
