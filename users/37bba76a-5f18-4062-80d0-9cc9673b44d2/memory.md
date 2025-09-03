@@ -25,3 +25,4 @@
 
 ### Emerging (new query patterns)
 - requests cryptocurrency prices (e.g., ETH); 3× (last: 2025-09-03) [refs: ETH price requests chatId:`5039cd8205bd49`; ETH price request chatId:`3a33926dec4347`]
+- requests Gmail inbox status; 1× (first: 2025-09-03) [ref: Gmail status request chatId:`204bf2420d8746`]
