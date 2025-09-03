@@ -3,6 +3,7 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - requests automated, end-to-end solutions without excessive detail; 1× (first: 2025-09-03) [ref: lead gen automation setup chatId:`0186614b990243`]
+- uses direct, imperative commands for task management (e.g., “cancel this completely”); 1× (first: 2025-09-03) [ref: cancellation command chatId:`0186614b990243`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
