@@ -1,6 +1,6 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- gives concise, directive requests and expects brief confirmations; 16× (stable since 2025-08-20) [refs: credit addition chatId:`5c423cfd10b843`; subscription creation chatId:`7857e1a6bece41`; verification instruction chatId:`9fd3ecf40d4b4f`; credit addition chatId:`f7f788b208a44c`]
+- gives concise, directive requests and expects brief confirmations; 17× (stable since 2025-08-20) [refs: credit addition chatId:`5c423cfd10b843`; subscription creation chatId:`7857e1a6bece41`; verification instruction chatId:`9fd3ecf40d4b4f`; credit addition chatId:`f7f788b208a44c`; credit addition chatId:`de92a8b61be241`]
 - insists on verification and cross-referenced counts before decisions; 5× [refs: AWS completeness follow-up chatId:`db9b4761e5c242`; method explanation chatId:`4e261e1b31e742`]
 - expects exhaustive datasets and calls out incomplete summaries; 10× [refs: data drill-down chatId:`4e261e1b31e742`; AWS analysis chatId:`db9b4761e5c242`]
 
@@ -17,14 +17,14 @@
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
-- delegates operational tasks (credits, subscriptions, analytics) to assistant/agents; 12× [refs: credit addition chatId:`5c423cfd10b843`; subscription addition chatId:`7e1cf712b7d842`; echo to Sowmay chatId:`04d7a7e287fe46`; credit addition chatId:`f7f788b208a44c`]
+- delegates operational tasks (credits, subscriptions, analytics) to assistant/agents; 13× [refs: credit addition chatId:`5c423cfd10b843`; subscription addition chatId:`7e1cf712b7d842`; echo to Sowmay chatId:`04d7a7e287fe46`; credit addition chatId:`f7f788b208a44c`; credit addition chatId:`de92a8b61be241`]
 
 ### Emerging (recent behavioral shifts)
 - prioritizes data integrity and validation in reports; 2× (since 2025-09-01) [refs: verify every step chatId:`9fd3ecf40d4b4f`; AWS analysis chatId:`db9b4761e5c242`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
-- uses assistant to handle admin tasks and internal analytics; 8× [refs: credit addition chatId:`5c423cfd10b843`; subscription creation chatId:`7857e1a6bece41`; AWS report chatId:`db9b4761e5c242`]
+- uses assistant to handle admin tasks and internal analytics; 9× [refs: credit addition chatId:`5c423cfd10b843`; subscription creation chatId:`7857e1a6bece41`; AWS report chatId:`db9b4761e5c242`; credit addition chatId:`de92a8b61be241`]
 
 ### Emerging (new query patterns)
 - requests automated analytics with visual graphs and Google Docs updates; 1× (first: 2025-09-02) [ref: 2-week analysis report chatId:`1ed4bb03d84b44`]
