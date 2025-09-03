@@ -2,7 +2,7 @@
 ### Durable (established, 3+ reinforcements)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- uses informal greetings like "Oye" and asks concise, direct questions; 1× (first: 2025-09-03) [ref: greeting "Oye bhindi" chatId:`934920a13eb344`]
+- uses informal greetings like "Oye" and asks concise, direct questions; 2× (last: 2025-09-03) [ref: greeting and image generation commands chatId:`934920a13eb344`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -18,4 +18,4 @@
 ### Durable (regular platform activities)
 
 ### Emerging (new query patterns)
-- experimenting with AI image generation; requests specific model Flux Pro Ultra; 1× (first: 2025-09-03) [ref: image generation request chatId:`934920a13eb344`]
+- experimenting with AI image generation; requests specific model Flux Pro Ultra; 2× (since 2025-09-03) [ref: image generation requests chatId:`934920a13eb344`]
