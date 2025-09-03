@@ -3,7 +3,7 @@
 -
 
 ### Emerging (new signals, 1-2 reinforcements)
-- uses very short, direct lowercase commands; 5× (last: 2025-09-03) [refs: osint agent request chatId:`83a6f8f845cc43`; wikipedia agent accuracy inquiry chatId:`83a6f8f845cc43`; debate integration request chatId:`83a6f8f845cc43`; wallpaper request chatId:`931082f00f1145`; nano banana request chatId:`931082f00f1145`]
+- uses very short, direct lowercase commands; 6× (last: 2025-09-03) [refs: osint agent request chatId:`83a6f8f845cc43`; wikipedia agent accuracy inquiry chatId:`83a6f8f845cc43`; debate integration request chatId:`83a6f8f845cc43`; wallpaper request chatId:`931082f00f1145`; nano banana request chatId:`931082f00f1145`; subscription addition request chatId:`2177d9518ceb43`]
 - requests lists separated by commas; 1× (first: 2025-09-02) [ref: agents list request chatId:`12a2cbec90114d`]
 - specifies which tool/agent to use; 1× (first: 2025-09-03) [ref: nano banana request chatId:`931082f00f1145`]
 
