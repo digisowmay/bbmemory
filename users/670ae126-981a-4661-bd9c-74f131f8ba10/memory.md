@@ -1,10 +1,9 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
--
+- gives concise, imperative instructions and expects quick compliance; 6× (stable since 2025-09-02) [refs: request to create lead-gen automation; directive to post without confirmation chatId:`1a5f016aabb745`; reminder not to ask for confirmation chatId:`1a5f016aabb745`; statement "don't ask for confirmation next time" chatId:`1a5f016aabb745`; follow-up instruction today chatId:`1a5f016aabb745`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- gives concise, imperative instructions; 5× (last: 2025-09-02) [refs: request to create lead-gen automation; directive to post without confirmation chatId:`1a5f016aabb745`; reminder not to ask for confirmation chatId:`1a5f016aabb745`; repeated instruction to auto-post chatId:`1a5f016aabb745`; follow-up about repeated content chatId:`1a5f016aabb745`]
-- insists each post is unique with no repeated content; 1× (first: 2025-09-02) [ref: directive to ensure no content is repeated chatId:`1a5f016aabb745`]
+- insists each LinkedIn post is unique with no repeated content; 3× (last: 2025-09-03) [refs: directive to ensure no content is repeated chatId:`1a5f016aabb745`; reminder "and make sure no content is repeated" chatId:`1a5f016aabb745`; follow-up emphasis today chatId:`1a5f016aabb745`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -18,7 +17,7 @@
 -
 
 ### Emerging (recent behavioral shifts)
-- prefers automation and scheduled tasks for efficiency; 4× (last: 2025-09-02) [refs: instructions to schedule emails and voice summaries; directive to post automatically chatId:`1a5f016aabb745`; instruction to post without confirmation chatId:`1a5f016aabb745`; reminder not to ask for confirmation chatId:`1a5f016aabb745`]
+- prefers automation and scheduled tasks executed without confirmation prompts; 5× (last: 2025-09-03) [refs: instructions to schedule emails and voice summaries; directive to post automatically chatId:`1a5f016aabb745`; instruction to post without confirmation chatId:`1a5f016aabb745`; acknowledgement today about auto post chatId:`1a5f016aabb745`; reminder today "why did you not post automatically" chatId:`1a5f016aabb745`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
