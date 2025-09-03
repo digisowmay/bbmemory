@@ -1,6 +1,6 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- uses very short, direct lowercase commands; 10× (promoted from emerging, stable since 2025-09-02) [refs: osint agent request chatId:`83a6f8f845cc43`; wikipedia agent accuracy inquiry chatId:`83a6f8f845cc43`; debate integration request chatId:`83a6f8f845cc43`; wallpaper request chatId:`931082f00f1145`; nano banana request chatId:`931082f00f1145`; subscription addition request chatId:`2177d9518ceb43`; youtube utm fetch request chatId:`2f03ea6533564c`; utm creation command chatId:`2f03ea6533564c`; agents list request chatId:`12a2cbec90114d`; engineering/medicine preference request chatId:`3f790e1cbdbd4b`]
+- uses very short, direct lowercase commands; 11× (promoted from emerging, stable since 2025-09-02) [refs: osint agent request chatId:`83a6f8f845cc43`; wikipedia agent accuracy inquiry chatId:`83a6f8f845cc43`; debate integration request chatId:`83a6f8f845cc43`; wallpaper request chatId:`931082f00f1145`; nano banana request chatId:`931082f00f1145`; subscription addition request chatId:`2177d9518ceb43`; youtube utm fetch request chatId:`2f03ea6533564c`; utm creation command chatId:`2f03ea6533564c`; agents list request chatId:`12a2cbec90114d`; engineering/medicine preference request chatId:`3f790e1cbdbd4b`; hashtag posts count request chatId:`f1cf7c641a6246`]
 
 ### Emerging (new signals, 1-2 reinforcements)
 - specifies which tool/agent to use; 1× (first: 2025-09-03) [ref: nano banana request chatId:`931082f00f1145`]
@@ -10,8 +10,8 @@
 ### Durable (core expertise, established over time)
 -
 
-### Emerging (recent learning, current focus)  
-- setting up digital marketing analytics (google ads, youtube utms); 3× (since 2025-09-02) [refs: agent connection chatId:`730a21b71b3942`; youtube utm fetch request chatId:`2f03ea6533564c`; utm creation command chatId:`2f03ea6533564c`]
+### Emerging (recent learning, current focus)
+- setting up digital marketing analytics (google ads, youtube utms, hashtag tracking); 4× (since 2025-09-02) [refs: agent connection chatId:`730a21b71b3942`; youtube utm fetch request chatId:`2f03ea6533564c`; utm creation command chatId:`2f03ea6533564c`; hashtag posts count request chatId:`f1cf7c641a6246`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
