@@ -25,4 +25,4 @@
 
 ### Emerging (new query patterns)
 - requests LinkedIn/social media post data; LinkedIn scraping; 1× (first: 2025-09-02) [ref: LinkedIn posts request chatId:`9a4b6166919f4f`]
-- exploring diagram generation with Mermaid; prefers visual representations; 1× (first: 2025-09-03) [ref: mermaid agent request chatId:`5193cf53d94f47`]
+- exploring diagram generation with Mermaid; prefers visual representations; 2× (since 2025-09-03) [refs: mermaid agent request chatId:`5193cf53d94f47`; flowchart generation chatId:`5193cf53d94f47`]
