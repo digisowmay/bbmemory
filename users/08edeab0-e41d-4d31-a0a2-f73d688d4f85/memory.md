@@ -3,6 +3,7 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - provides concise, minimal details initially; 3× (last: 2025-09-03) [refs: weekend trip planning chatId:`f55f3bf13c4044`; travel details replies chatId:`f55f3bf13c4044`; clarification answers chatId:`f55f3bf13c4044`]
+- prefers information in concise audio-friendly summaries for easy listening; 1× (first: 2025-09-03) [ref: news summary and TTS request chatId:`f1810e6e2ebd45`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -10,6 +11,7 @@
 
 ### Emerging (recent learning, current focus)
 - located/departs from Kolhapur; 1× (first: 2025-09-03) [ref: provided departure city chatId:`f55f3bf13c4044`]
+- incorporates morning routine listening into daily habits; 1× (first: 2025-09-03) [ref: morning routine audio preference chatId:`f1810e6e2ebd45`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
@@ -21,3 +23,4 @@
 
 ### Emerging (new query patterns)
 - seeks travel planning and booking assistance; 2× (since 2025-09-03) [refs: request to plan Goa weekend trip chatId:`f55f3bf13c4044`; provided travel details chatId:`f55f3bf13c4044`]
+- requests global news summaries with text-to-speech audio for efficient consumption; 1× (first: 2025-09-03) [ref: news summary and TTS request chatId:`f1810e6e2ebd45`]
