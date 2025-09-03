@@ -3,7 +3,7 @@
 - (no durable patterns yet)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- provides precise, detailed instructions for visual design tasks; 6× (last: 2025-09-03) [refs: multiple ASL image requests chatId:`e503c9c6c40c4c`; watermark-free image request chatId:`d12150a630ff49`]
+- provides precise, detailed instructions for visual design tasks; 7× (last: 2025-09-03) [refs: multiple ASL image requests chatId:`e503c9c6c40c4c`; watermark-free image request chatId:`d12150a630ff49`; clip-art conversion request chatId:`a1847bf7c5f246`]
 - demands correct ASL accuracy and gives iterative corrections; 2× (last: 2025-09-03) [refs: repeated correction feedback chatId:`e503c9c6c40c4c`]
 
 ## Knowledge & Context
@@ -25,5 +25,5 @@
 - (no durable patterns yet)
 
 ### Emerging (new query patterns)
-- uses platform to generate custom high-resolution images with specific design parameters; 6× (since 2025-09-03) [refs: multiple image generation requests chatId:`e503c9c6c40c4c`; watermark removal request chatId:`d12150a630ff49`]
+- uses platform to generate custom high-resolution images with specific design parameters; 7× (since 2025-09-03) [refs: multiple image generation requests chatId:`e503c9c6c40c4c`; watermark removal request chatId:`d12150a630ff49`; clip-art conversion request chatId:`a1847bf7c5f246`]
 - requests watermark-free clean reference images; 3× (last: 2025-09-03) [refs: watermark removal request chatId:`e503c9c6c40c4c`; watermark removal request chatId:`d12150a630ff49`]
