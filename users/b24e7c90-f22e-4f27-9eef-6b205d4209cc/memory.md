@@ -22,4 +22,4 @@
 
 ### Emerging (new query patterns)
 - asks for Bitcoin price; 1× (first: 2025-09-03) [refs: combined ETH/BTC request chatId:`3a4c3604af3642`]
-- asks for weather in other Indian cities (Delhi, Mumbai); 1× (first: 2025-09-03) [refs: multi-city weather request chatId:`3a4c3604af3642`]
+- wants to connect Telegram account for integration; 1× (first: 2025-09-03) [ref: telegram connect request chatId:`c738ce3cf76148`]
