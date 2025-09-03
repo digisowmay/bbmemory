@@ -12,6 +12,7 @@
 
 ### Emerging (recent learning, current focus)
 - prefers neutral/cool tone colourization in restored images; 2× (since 2025-09-03) [refs: earlier neutral tone request; current minimal colour correction instructions chatId:`217f9c7a475c43`]
+- prefers retaining authentic 1980s film aesthetic (grain, warm look) in image restorations; 1× (first: 2025-09-03) [ref: 1980s film photo request chatId:`071c0a96f2094c`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
