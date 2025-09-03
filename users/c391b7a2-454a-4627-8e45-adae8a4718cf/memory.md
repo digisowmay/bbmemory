@@ -4,7 +4,7 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - likes casual, scrappy phrasing for messages; 1× (first: 2025-09-03) [ref: scrappy wording request chatId:`68050128442244`]
-- occasionally requests detailed, comprehensive descriptions; 1× (first: 2025-09-04) [ref: YouTube summary request chatId:`6f1c24eb6a9c47`]
+- occasionally requests detailed, comprehensive descriptions; 2× (last: 2025-09-04) [refs: YouTube summary request chatId:`6f1c24eb6a9c47`; 4-5 paragraph summary request chatId:`6f1c24eb6a9c47`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
