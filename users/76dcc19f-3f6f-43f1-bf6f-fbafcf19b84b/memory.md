@@ -14,7 +14,6 @@
 ### Emerging (recent learning, current focus)
 - seeking guidance on crafting marketing carousels for Bhindi; 2× (since 2025-09-01) [refs: carousel ideas & elaboration chatId:`afd7676c123043`]
 - tasked with managing Bhindi's Discord channel, finding clippers, onboarding influencers; 1× (started: 2025-09-01) [ref: task list chatId:`49014cdbca0d41`]
-- exploring LinkedIn automation workflows (API, n8n, Apify scraping); 3× (since 2025-09-02) [refs: LinkedIn automation discussion chatId:`bb83e4b41f6e4d`; request about LinkedIn post extraction chatId:`bb83e4b41f6e4d`; Apify agent inquiry chatId:`bb83e4b41f6e4d`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
@@ -29,6 +28,5 @@
 - explores AI prompt engineering; optimizing ChatGPT prompts and workflows; 4× (promoted from emerging, since 2024-08-18) [refs: prompt improvement discussion chatId:`bb83e4b41f6e4d`; workflow automation discussion chatId:`bb83e4b41f6e4d`; AI tool comparison; question about best prompts chatId:`bb83e4b41f6e4d`]
 
 ### Emerging (new query patterns)
-- requests social media content creation (carousel ideas); 2× (since 2025-09-01) [refs: repeated carousel content requests chatId:`afd7676c123043`]
-- seeking influencer outreach and clipper discovery guidance; 3× (since 2025-09-01) [refs: clipper strategy discussions chatId:`49014cdbca0d41`]
 - exploring LinkedIn automation and n8n workflows; 3× (since 2025-09-02) [refs: LinkedIn automation discussion chatId:`bb83e4b41f6e4d`; mention of LinkedIn API/n8n; Apify scraping solution chatId:`bb83e4b41f6e4d`]
+- exploring AI image generation; 1× (first: 2025-09-03) [ref: Van Gogh golden retriever image request chatId:`03c1d181e8b046`]
