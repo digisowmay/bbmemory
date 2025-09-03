@@ -8,6 +8,7 @@
 - expects the assistant to explicitly request prerequisite details; 5× (last: 2025-09-02) [refs: thumbnail creation chatId:`5aac8767e2714e`; follow-up image prompt chatId:`5aac8767e2714e`; logo design brief chatId:`d5bcc3e22fb24d`; Dior bag deal request chatId:`fbe68d0f8bcc40`; lithium-ion battery research chatId:`cc691ac2615348`]
 - issues terse imperative commands like "execute this", "RESUME" expecting immediate action; 7× (last: 2025-09-03) [refs: Todoist execution chatId:`5aac8767e2714e`; RESUME command chatId:`5aac8767e2714e`; agent replacement request chatId:`fcfddeda041340`; restart prompt chatId:`fcfddeda041340`; confirmation directive chatId:`5aac8767e2714e`; RESUME command chatId:`fcfddeda041340`; easy lingo explanation request chatId:`71819b2fc89e44`]
 - requests simplified "easy lingo" explanations; 2× (last: 2025-09-03) [refs: easy lingo explanation request chatId:`71819b2fc89e44`; sandboxed python explanation chatId:`71819b2fc89e44`]
+- requests content with strict length constraints; 1× (first: 2025-09-03) [ref: sample prompt length constraint chatId:`58a223ab255748`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -25,7 +26,7 @@
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
-- exploring AI prompt engineering; optimization techniques; 6× [refs: ChatGPT prompt improvement; workflow automation discussion; AI tool comparison; calculator prompt request chatId:`413303793f9e42`; prompt tweak chatId:`413303793f9e42`; sample multi-agent prompt request chatId:`5aac8767e2714e`]
+- exploring AI prompt engineering; optimization techniques; 7× [refs: ChatGPT prompt improvement; workflow automation discussion; AI tool comparison; calculator prompt request chatId:`413303793f9e42`; prompt tweak chatId:`413303793f9e42`; sample multi-agent prompt request chatId:`5aac8767e2714e`; sample prompt length constraint chatId:`58a223ab255748`]
 - exploring Bhindi platform tool capabilities; 6× [refs: PDF compressor explanation chatId:`1023387676084f`; zipping agent inquiry chatId:`1023387676084f`; sample prompt request chatId:`1023387676084f`; zipping tool interaction chatId:`e77aeee17b5c43`; current ZIP execution chatId:`1023387676084f`; sample multi-agent prompt request chatId:`5aac8767e2714e`]
 - requests deliverables in Google Docs format; 3× [refs: SEO blog outline Google Doc chatId:`fcfddeda041340`; earlier Google Doc request chatId:`fcfddeda041340`; SEO strategy doc chatId:`fcfddeda041340`]
 
