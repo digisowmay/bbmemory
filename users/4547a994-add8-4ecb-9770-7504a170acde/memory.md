@@ -1,9 +1,9 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- None noted yet.
+- gives very concise imperative requests in Russian; 5× (stable since 2025-08-??) [refs: image editing request chatId:`612b15c8e02d49`; new bald edit request chatId:`40155ef4eba647`; current bald request chatId:`e16e2d6f98364c`; latest request chatId:`0439d1e883974d`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- gives very concise imperative requests in Russian; 4× (last: 2025-09-03) [refs: image editing request chatId:`612b15c8e02d49`; new bald edit request chatId:`40155ef4eba647`; current bald request chatId:`e16e2d6f98364c`]
+- None noted yet.
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -21,7 +21,7 @@
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
-- None noted yet.
+- experimenting with image editing requests; 6× (promoted from emerging) [refs: image bald request chatId:`e74e74c5b6d04a`; image bald request chatId:`612b15c8e02d49`; second bald request chatId:`612b15c8e02d49`; new bald edit request chatId:`40155ef4eba647`; current bald request chatId:`e16e2d6f98364c`; latest chatId:`0439d1e883974d`]
 
 ### Emerging (new query patterns)
-- experimenting with image editing requests; 5× (last: 2025-09-03) [refs: image bald request chatId:`e74e74c5b6d04a`; image bald request chatId:`612b15c8e02d49`; second bald request chatId:`612b15c8e02d49`; new bald edit request chatId:`40155ef4eba647`; current bald request chatId:`e16e2d6f98364c`]
+- None noted yet.
