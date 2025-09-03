@@ -2,13 +2,14 @@
 ### Durable (established, 3+ reinforcements)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- gives concise task-oriented requests for image manipulation; 1× (first: 2025-09-03) [ref: image editing request chatId:`4786b2189c174f`]
+- gives concise task-oriented requests for image manipulation; 2× (last: 2025-09-03) [refs: statue placement requests chatId:`4786b2189c174f`; follow-up position adjustment]
+- requests quick iterative adjustments on visuals; 1× (first: 2025-09-03) [ref: statue position adjustment request chatId:`4786b2189c174f`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
 
 ### Emerging (recent learning, current focus)
-- involved in a building construction project and wants visualizations (e.g., statue placement); 1× (first: 2025-09-03) [ref: construction site statue placement request chatId:`4786b2189c174f`]
+- involved in a building construction project and wants visualizations (e.g., statue placement); 2× (since 2025-09-03) [refs: initial statue placement request; closer to building request chatId:`4786b2189c174f`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
@@ -19,4 +20,4 @@
 ### Durable (regular platform activities)
 
 ### Emerging (new query patterns)
-- requests photo editing / compositing services; 1× (first: 2025-09-03) [ref: statue placement request chatId:`4786b2189c174f`]
+- requests photo editing / compositing services; 2× (since 2025-09-03) [refs: statue placement; reposition statue chatId:`4786b2189c174f`]
