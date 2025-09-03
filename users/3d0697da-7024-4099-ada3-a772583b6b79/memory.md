@@ -4,7 +4,7 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - seeks concise learning formats and analytical insights; 2× (last: 2025-09-03) [refs: ML video summary request chatId:`a4ce558a470e47`; Uniswap stats request chatId:`aeb4ddc9952641`]
-- requests compiled resources into Notion pages for easy access; 1× (first: 2025-09-03) [ref: TypeScript resources compilation chatId:`be48460129a344`]
+- asks for step-by-step instructions; 1× (first: 2025-09-03) [ref: recipe request chatId:`7c11590817c442`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -14,8 +14,8 @@
 - organizing charity concert "Harmony for Hope" benefiting children's education scheduled Dec 2, 2025; 1× (started: 2025-09-03) [ref: poster design request chatId:`8f1e4193c0a844`]
 - preparing an AI startup pitch presentation; focusing on AI market trends and business applications; 1× (started: 2025-09-03) [ref: AI trends research request chatId:`8ef4953dd14240`]
 - studying data science; seeking online resources on machine learning algorithms; 1× (started: 2025-09-03) [ref: ML video summary request chatId:`a4ce558a470e47`]
-- planning a trip to Tokyo in Oct 2025; organizing flights, hotels, itinerary; 1× (started: 2025-09-03) [ref: travel planning request chatId:`8314aa133c1147`]
-- learning TypeScript programming; collecting tutorials, articles, and practice resources; 1× (first: 2025-09-03) [ref: TypeScript resources compilation chatId:`be48460129a344`]
+- exploring decentralized finance trading (Uniswap) for investing; 1× (started: 2025-09-03) [ref: Uniswap stats request chatId:`aeb4ddc9952641`]
+- planning a trip to Tokyo in Oct 2025; organizing flights, hotels, itinerary; 2× (since 2025-09-03) [refs: travel planning request chatId:`8314aa133c1147`; follow-up travel details chatId:`8314aa133c1147`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
@@ -31,4 +31,5 @@
 
 ### Emerging (new query patterns)
 - requests AI-generated multimedia content creation (graphic assets, YouTube scripts) with specific guidance; 4× (since 2025-09-03) [refs: poster design request chatId:`8f1e4193c0a844`; wireframe request chatId:`1db1e8401aca48`; icon set request chatId:`f5d2bb5624ed4a`; YouTube script request chatId:`d716f90722aa46`]
-- requests compilation of study resources into Notion pages; 1× (first: 2025-09-03) [ref: TypeScript resources compilation chatId:`be48460129a344`]
+- uses platform for travel planning and itinerary organization; 2× (since 2025-09-03) [refs: travel planning request chatId:`8314aa133c1147`; follow-up travel details chatId:`8314aa133c1147`]
+- requests AI-generated multimedia content creation (graphic assets, YouTube scripts) with specific guidance; 4× (since 2025-09-03) [refs: poster design request chatId:`8f1e4193c0a844`; wireframe request chatId:`1db1e8401aca48`; icon set request chatId:`f5d2bb5624ed4a`; YouTube script request chatId:`d716f90722aa46`]
