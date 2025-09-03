@@ -1,22 +1,27 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
+- (none yet)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- Gives direct, concise instructions for personal image edits; 1× (first: 2025-09-03) [ref: image enhancement request chatId:`ae8e1651a7494b`]
+- wants image edits that preserve their authentic face; 1× (first: 2025-09-03) [ref: photo edit correction request chatId:`ae8e1651a7494b`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
+- (none yet)
 
 ### Emerging (recent learning, current focus)
-- Shows interest in personal fitness; took gym selfie and requested improvement; 1× (started: 2025-09-03) [ref: gym photo edit chatId:`ae8e1651a7494b`]
+- (none recorded)
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
+- (none yet)
 
 ### Emerging (recent behavioral shifts)
+- values authenticity in personal representations; 1× (first: 2025-09-03) [ref: complaint about face change chatId:`ae8e1651a7494b`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
+- (none yet)
 
 ### Emerging (new query patterns)
-- Exploring AI-powered image editing/enhancement tools; 1× (since 2025-09-03) [ref: nano banana image edit request chatId:`ae8e1651a7494b`]
+- experimenting with AI photo editing tools for self images; 1× (since 2025-09-03) [ref: request to improve gym photo chatId:`ae8e1651a7494b`]
