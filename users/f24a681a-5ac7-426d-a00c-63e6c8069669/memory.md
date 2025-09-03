@@ -5,13 +5,14 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - asks for step-by-step guidance for tool setup and processes; 6× (last: 2025-09-03) [refs: Discord bot setup guidance chatId:`1a1bd5c41e0446`; Splitwise API guidance chatId:`852891c7196d44`; mongodb prompt input guidance chatId:`c2816fe84dcb44`]
+- requests assistant to leverage available integrations and tool calls extensively before answering; 1× (first: 2025-09-03) [ref: personalized memory review request chatId:`7a2d450dc79340`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
 - (none yet)
 
 ### Emerging (recent learning, current focus)
-- (none yet)
+- building an integrated automation toolkit linking Discord, n8n, Splitwise, CloudConvert, and MongoDB; 1× (started: 2025-09-03) [ref: conversation about comprehensive automation toolkit chatId:`7a2d450dc79340`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
