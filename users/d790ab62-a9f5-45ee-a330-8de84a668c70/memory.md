@@ -24,4 +24,4 @@
 - requests creative image editing transformations; 4× (stable since 2025-09-03) [refs: image editing requests chatId:`8f3d8f9fc28f41`]
 
 ### Emerging (new query patterns)
-- (none)
+- requests psychedelic cinematic shots; 1× (first: 2025-09-03) [ref: psychedelic shot request chatId:`c7877afab58647`]
