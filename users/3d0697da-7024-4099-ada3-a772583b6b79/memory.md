@@ -24,9 +24,8 @@
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
-- uses assistant for creative content generation, task management, Notion page drafting, and Slack message creation; 8× (promoted from emerging) (last: 2025-09-03) [refs: Slack GIF request chatId:`3fbaf7c9eefd44`; tweet posting chatId:`5dd3b78eca0543`; google form creation chatId:`f43391e07f9c49`; task addition chatId:`5e88cea998434b`; multi-tool workflow chatId:`bb20c27486ef4d`; Dior bag price comparison chatId:`cfebc518400344`; sustainable fashion blog Notion creation chatId:`98cedaef152a45`]
+- uses assistant for creative content generation, task management, Notion page drafting, and Slack message creation; 8× (last: 2025-09-03) [refs: Slack GIF request chatId:`3fbaf7c9eefd44`; tweet posting chatId:`5dd3b78eca0543`; google form creation chatId:`f43391e07f9c49`; task addition chatId:`5e88cea998434b`; multi-tool workflow chatId:`bb20c27486ef4d`; Dior bag price comparison chatId:`cfebc518400344`; sustainable fashion blog Notion creation chatId:`98cedaef152a45`]
 
 ### Emerging (new query patterns)
 - seeks academic literature and dataset search assistance; 2× (last: 2025-09-03) [refs: lithium-ion battery research request chatId:`0b937098ae2740`; wearable AI paper request chatId:`c75bc9e6567b49`]
-- requesting podcast production guidance and multimedia assets (research, cover image, audio intro); 1× (started: 2025-09-03) [ref: podcast planning request chatId:`c2758e711e304f`]
-- requesting consumer electronics purchase advice; smartphones, spec comparison; 1× (first: 2025-09-03) [ref: phone under ₹50K advice chatId:`dd906e9550164a`]
+- requesting consumer electronics purchase advice; smartphones, spec comparison; 2× (last: 2025-09-03) [refs: phone under ₹50K advice chatId:`dd906e9550164a`; smartphone deals search chatId:`0dd594d1ef6144`]
