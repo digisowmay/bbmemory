@@ -5,12 +5,14 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - requests realistic color/light harmonization across composite images; 3× (last: 2025-09-03) [refs: "adjust their colors" request chatId:`940d86332ffa42`; exterior background request chatId:`62d6d6e5bed348`]
+- specifies placement of objects for accurate scale reference; 1× (first: 2025-09-03) [ref: statue placement instruction chatId:`db7f931206d440`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
 
 ### Emerging (recent learning, current focus)
 - creating highly realistic family portraits via image compositing; 3× (since 2025-09-03) [refs: multiple family portrait iterations; vacation background request chatId:`940d86332ffa42`]
+- exploring architectural visualization by adding elements to construction site photos; 1× (started: 2025-09-03) [ref: statue scale request chatId:`db7f931206d440`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
@@ -25,3 +27,4 @@
 
 ### Emerging (new query patterns)
 - emphasizing realism in composites (lighting, shadows, color); 2× (started: 2025-09-03) [refs: color/shadow harmonization request chatId:`940d86332ffa42`]
+- starting architectural/commercial composite requests (construction site visuals); 1× (first: 2025-09-03) [ref: statue placement chatId:`db7f931206d440`]
