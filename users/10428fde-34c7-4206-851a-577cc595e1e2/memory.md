@@ -2,7 +2,7 @@
 ### Durable (established, 3+ reinforcements)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- prefers communicating in Spanish; gives concise direct instructions for tasks; 3× (last: 2025-09-03) [refs: face swap requests chatId:`1babc58e272141`]
+- prefiere comunicarse en español; da instrucciones concisas y directas para tareas; 4× (last: 2025-09-04) [refs: face swap requests chatId:`1babc58e272141`; muscular body edit request chatId:`5daeeb42a29943`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -18,4 +18,4 @@
 ### Durable (regular platform activities)
 
 ### Emerging (new query patterns)
-- requests image editing/manipulation tasks; 3× (last: 2025-09-03) [refs: face swap requests chatId:`1babc58e272141`]
+- solicita tareas de edición/manipulación de imágenes; 4× (last: 2025-09-04) [refs: face swap requests chatId:`1babc58e272141`; muscular body edit request chatId:`5daeeb42a29943`]
