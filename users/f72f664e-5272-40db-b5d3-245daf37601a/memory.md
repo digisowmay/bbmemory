@@ -1,10 +1,10 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- 
+-
 
 ### Emerging (new signals, 1-2 reinforcements)
 - provides detailed, numbered lists to convey preferences and requirements; 1× (first: 2025-09-03) [ref: movie preference list chatId:`55e8fb3951e24a`]
-- states platform constraints clearly (JioCinema, JioHotstar, ZEE5) to guide responses; 1× (first: 2025-09-03) [ref: streaming availability request chatId:`55e8fb3951e24a`]
+- states platform constraints clearly (JioCinema, JioHotstar, ZEE5) to guide responses; 2× (last: 2025-09-03) [refs: streaming availability request chatId:`55e8fb3951e24a`; follow-up recommendation request chatId:`55e8fb3951e24a`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
