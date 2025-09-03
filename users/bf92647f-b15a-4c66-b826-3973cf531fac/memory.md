@@ -1,23 +1,23 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- gives concise, directive phrases for visual edits ("restore colours", "neutral/cool tone", "correct brightness", "remove texture"); 6× (stable since 2025-08-31) [refs: image restoration request chatId:`217f9c7a475c43`; current colour correction request]
+- gives concise, directive phrases for visual edits ("restore colours", "neutral/cool tone", "correct brightness", "remove texture"); 7× (stable since 2025-08-31) [refs: image restoration request chatId:`217f9c7a475c43`; latest colour correction requests]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- prefers results that look natural and not over-processed; 1× (first: 2025-09-03) [ref: "don't make it look too fake and unrealistic" chatId:`217f9c7a475c43`]
+- prefers results that look natural and not over-processed; 2× (last: 2025-09-03) [refs: "don't make it look too fake and unrealistic" chatId:`217f9c7a475c43`; current request about natural photo look chatId:`217f9c7a475c43`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
 - n/a
 
 ### Emerging (recent learning, current focus)
-- prefers neutral/cool tone colorization in restored images; 2× (since 2025-09-03) [refs: previous neutral tone request; current request chatId:`217f9c7a475c43`]
+- prefers neutral/cool tone colorization in restored images; 2× (since 2025-09-03) [refs: previous neutral tone request; current restoration instructions chatId:`217f9c7a475c43`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
 - n/a
 
 ### Emerging (recent behavioral shifts)
-- detail-oriented visual aesthetic, seeks precise alignment; 4× (last: 2025-09-03) [refs: messy fringe length, mustache thickness, natural look emphasis chatId:`217f9c7a475c43`]
+- detail-oriented visual aesthetic, seeks precise alignment and natural look; 5× (last: 2025-09-03) [refs: messy fringe length, mustache thickness, natural look emphasis chatId:`217f9c7a475c43`; recent natural color correction requests]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
