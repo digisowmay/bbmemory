@@ -1,11 +1,11 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- gives brief imperative commands; expects quick action or implementation; 31× (updated 2025-09-03) [refs: ssh + agent sync command chatId:`44b527d9977b41`; google drive agent commands chatId:`b9946941f7a644`; deployment instruction chatId:`20f56e60637d40`; automation sync command chatId:`99f58bfafba749`; agent addition chatId:`4fab2b34928c44`]
+- gives brief imperative commands; expects quick action or implementation; 32× (updated 2025-09-03) [refs: ssh + agent sync command chatId:`44b527d9977b41`; google drive agent commands chatId:`b9946941f7a644`; deployment instruction chatId:`20f56e60637d40`; automation sync command chatId:`99f58bfafba749`; agent addition chatId:`4fab2b34928c44`; ssh & sync agents chatId:`a117c455509c49`]
 
 ### Emerging (new signals, 1-2 reinforcements)
 - prefers direct resource links (e.g., Drive links) after operations; 3× (last: 2025-09-03) [ref: provided logo URL chatId:`b9946941f7a644`]
 - wants reminder notifications delivered in natural, friendly language with no technical details; 1× (first: 2025-09-03) [ref: reminder delivery preference chatId:`73599a461f4540`]
-- prefers operations without confirmation prompts; explicit instruction "don't ask"; 2× (last: 2025-09-03) [refs: automation sync command chatId:`99f58bfafba749`; ssh + agent sync task chatId:`44aa81b3dae74a`]
+- prefers operations without confirmation prompts; explicit instruction "don't ask"; 3× (last: 2025-09-03) [refs: automation sync command chatId:`99f58bfafba749`; ssh + agent sync task chatId:`44aa81b3dae74a`; ssh & sync agents chatId:`a117c455509c49`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
