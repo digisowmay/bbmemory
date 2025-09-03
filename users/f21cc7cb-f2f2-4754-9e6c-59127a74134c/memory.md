@@ -2,7 +2,7 @@
 ### Durable (established, 3+ reinforcements)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- gives concise, imperative instructions for visual edits; 3× (last: 2025-09-03) [refs: bag replacement request; enlargement request "make it bugger"; family portrait request chatId:`940d86332ffa42`]
+- gives concise, imperative instructions for visual edits; 4× (last: 2025-09-03) [refs: bag replacement request; enlargement request "make it bugger"; initial family portrait request chatId:`940d86332ffa42`; clarification "maintain facial features, no retouch no edit" chatId:`940d86332ffa42`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -14,10 +14,10 @@
 ### Durable (core thinking patterns)
 
 ### Emerging (recent behavioral shifts)
-- iterative refinement approach, providing incremental feedback on outputs; 2× (since 2025-08-31) [refs: asked to enlarge bag after first edit; requested isolated bag image]
+- iterative refinement approach, providing incremental feedback on outputs; 3× (since 2025-08-31) [refs: asked to enlarge bag after first edit; requested isolated bag image; clarified no retouching on family portrait chatId:`940d86332ffa42`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
 
 ### Emerging (new query patterns)
-- using platform for image editing and background removal tasks; 4× (since 2025-08-31) [refs: bag replacement request; enlargement request; extraction of bag only; family portrait request chatId:`940d86332ffa42`]
+- using platform for image editing and background removal tasks; 5× (since 2025-08-31) [refs: bag replacement request; enlargement request; extraction of bag only; family portrait requests chatId:`940d86332ffa42`; clarification about facial features]
