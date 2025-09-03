@@ -3,7 +3,7 @@
 - (none yet)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- gives concise task-oriented directives; 1× (first: 2025-09-03) [ref: image weather transformation request chatId:`8f3d8f9fc28f41`]
+- gives concise task-oriented directives; 2× (last: 2025-09-03) [ref: image editing requests chatId:`8f3d8f9fc28f41`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -24,4 +24,4 @@
 - (none yet)
 
 ### Emerging (new query patterns)
-- requests creative image editing transformations; 1× (first: 2025-09-03) [ref: image weather transformation request chatId:`8f3d8f9fc28f41`]
+- requests creative image editing transformations; 2× (last: 2025-09-03) [ref: image editing requests chatId:`8f3d8f9fc28f41`]
