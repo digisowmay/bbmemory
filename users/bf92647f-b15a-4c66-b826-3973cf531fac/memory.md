@@ -4,7 +4,7 @@
 - prefers results that look natural and not over-processed; 9× (reinforced 2025-09-03) [refs: "make it look like a natural photo" conversations chatId:`217f9c7a475c43`; latest mustache adjustment chatId:`851e4415a0b348`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- wants 80s-style facial hair kept moderate (not too big/thick); 2× (last: 2025-09-03) [refs: repeated moderate mustache instructions chatId:`851e4415a0b348`; earlier moustache edit chats]
+- wants 80s-style facial hair kept moderate (not too big/thick); 3× (last: 2025-09-03) [refs: repeated moderate mustache instructions chatId:`851e4415a0b348`; subsequent mustache size requests]
 - wants stage lights kept at moderate brightness so bulbs remain visible; 3× (last: 2025-09-03) [refs: repeated stage light brightness instructions chatId:`217f9c7a475c43`]
 
 ## Knowledge & Context
