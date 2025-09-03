@@ -1,6 +1,6 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- gives brief imperative commands; expects quick action or implementation; 32× (updated 2025-09-03) [refs: ssh + agent sync command chatId:`44b527d9977b41`; google drive agent commands chatId:`b9946941f7a644`; deployment instruction chatId:`20f56e60637d40`; automation sync command chatId:`99f58bfafba749`; agent addition chatId:`4fab2b34928c44`; ssh & sync agents chatId:`a117c455509c49`]
+- gives brief imperative commands; expects quick action or implementation; 33× (updated 2025-09-03) [refs: image+drive request chatId:`36efb2c4d3eb42`; ssh + agent sync command chatId:`44b527d9977b41`; google drive agent commands chatId:`b9946941f7a644`; deployment instruction chatId:`20f56e60637d40`; automation sync command chatId:`99f58bfafba749`]
 
 ### Emerging (new signals, 1-2 reinforcements)
 - prefers direct resource links (e.g., Drive links) after operations; 3× (last: 2025-09-03) [ref: provided logo URL chatId:`b9946941f7a644`]
@@ -25,7 +25,7 @@
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
 - asks cryptocurrency prices daily; Bitcoin, Ethereum tracking; 11× [refs: BTC price request chatId:`0ecffd4a876841`; ETH price request chatId:`49e0f1ec66e141`; BTC price request chatId:`2938714a8ee348`]
-- requests Google Drive agent usage; file management integration; 5× (since 2025-09-03) [refs: google drive agent request chatId:`5df1c08398f14e`; agent customization chatId:`b9946941f7a644`; google-drive logo update chatId:`b9946941f7a644`; google-drive internal flag set chatId:`b9946941f7a644`; agent addition chatId:`4fab2b34928c44`]
+- requests Google Drive agent usage; file management integration; 6× (since 2025-09-03) [refs: image+drive request chatId:`36efb2c4d3eb42`; google-drive customization chatId:`b9946941f7a644`; google-drive internal flag set chatId:`b9946941f7a644`; agent addition chatId:`4fab2b34928c44`; google drive agent request chatId:`5df1c08398f14e`]
 - customizing Bhindi agents (logos, internal settings); 5× (since 2025-09-03) [refs: google-drive customization chatId:`b9946941f7a644`; cloud-convert internal flag set chatId:`b9946941f7a644`; google-drive internal flag set chatId:`b9946941f7a644`; automation sync command chatId:`99f58bfafba749`; agent addition chatId:`4fab2b34928c44`]
 
 ### Emerging (new query patterns)
