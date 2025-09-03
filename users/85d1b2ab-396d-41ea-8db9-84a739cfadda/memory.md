@@ -24,4 +24,4 @@
 - (no durable platform usage patterns observed yet)
 
 ### Emerging (new query patterns)
-- exploring photo editing; image modification request; 1× (first: 2025-09-03) [ref: photo change request chatId:`741762897a2b4c`]
+- exploring photo editing; image modification requests; 2× (since 2025-09-03) [refs: photo change request chatId:`741762897a2b4c`; demo request chatId:`741762897a2b4c`]
