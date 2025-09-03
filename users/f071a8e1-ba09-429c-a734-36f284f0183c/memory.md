@@ -1,6 +1,6 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- prefers concise, lowercase assistant replies; 10× (stable since 2025-08-20) [refs: echo delegation request chatId:`c03273d910cd4b`; news audio request chatId:`898cc38b8e6341`; github issue request chatId:`70331493ea4d4f`]
+- prefers concise, lowercase assistant replies; 11× (stable since 2025-08-20) [refs: echo delegation request chatId:`c03273d910cd4b`; news audio request chatId:`898cc38b8e6341`; github issue request chatId:`70331493ea4d4f`; frame rewrite request chatId:`e85f5feb2a7f41`]
 - prefers subtle logo integration and minimalist branding; 7× (last: 2025-09-03) [refs: billboard revision requests chatId:`0eed68ac30e145`; mobile-shot billboard tweak chatId:`0eed68ac30e145`]
 - realistic mobile-phone style photos with local Bengaluru context (yellow autos, bikes); 3× (promoted from emerging, last: 2025-09-03) [refs: BLR street vibes request chatId:`0eed68ac30e145`; mobile phone angle with autos chatId:`0eed68ac30e145`]
 
