@@ -2,8 +2,8 @@
 ### Durable (established, 3+ reinforcements)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- concise, direct requests; 4× (last: 2025-09-03) [ref: multiple short queries chatId:`b3a6ee2b8bb940`]
-- repeats same question when response is delayed; 3× (since 2025-09-03) [ref: repeated weather query chatId:`b3a6ee2b8bb940`]
+- concise, direct requests; 2× (last: 2025-09-03) [refs: price query chatId:`b3a6ee2b8bb940`; tools query chatId:`b3a6ee2b8bb940`]
+- repeats same query when answer not immediately provided; 3× (last: 2025-09-03) [refs: repeated weather query chatId:`b3a6ee2b8bb940`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -19,6 +19,5 @@
 ### Durable (regular platform activities)
 
 ### Emerging (new query patterns)
-- asks for cryptocurrency prices (Ethereum); 2× (last: 2025-09-03) [ref: eth price queries chatId:`b3a6ee2b8bb940`]
-- asks about available tools; 2× (since 2025-09-03) [ref: tools queries chatId:`b3a6ee2b8bb940`]
-- asks for weather updates (Bangalore); 4× (since 2025-09-03) [ref: repeated weather queries chatId:`b3a6ee2b8bb940`]
+- asks for cryptocurrency prices (Ethereum); 3× (last: 2025-09-03) [refs: price queries chatId:`b3a6ee2b8bb940`]
+- requests local weather information (Bangalore); 3× (since 2025-09-03) [refs: repeated weather query chatId:`b3a6ee2b8bb940`]
