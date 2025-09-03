@@ -1,9 +1,9 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- 
+-
 
 ### Emerging (new signals, 1-2 reinforcements)
-- gives very detailed creative prompts for AI image generation; 1× (first: 2025-09-04) [ref: image concept prompt chatId:`ca3f0633039046`]
+- gives very detailed creative prompts for AI image generation; 2× (last: 2025-09-04) [ref: image prompt refinement chatId:`ca3f0633039046`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -17,7 +17,8 @@
 -
 
 ### Emerging (recent behavioral shifts)
-- highly specific, detail-oriented instructions with precise attributes (resolution, lighting, signage); 1× (first: 2025-09-04) [ref: detailed image prompt chatId:`ca3f0633039046`]
+- highly specific, detail-oriented instructions with precise attributes; 2× (last: 2025-09-04) [ref: design change request chatId:`ca3f0633039046`]
+- iterative refinement approach to creative outputs; 1× (first: 2025-09-04) [ref: requested hole size change chatId:`ca3f0633039046`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
