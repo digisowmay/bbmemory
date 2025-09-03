@@ -1,6 +1,6 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- gives direct imperative commands for information lookup and cross-platform actions; 9× (last: 2025-09-03) [refs: Telegram confirmation chatId:`8a7bbee82a5847`; marketing jobs request chatId:`5ae756b89a9443`; X posting request chatId:`5dd3b78eca0543`; current X silly tweet request chatId:`5dd3b78eca0543`; image generation chatId:`45a0604c983e4d`; task addition chatId:`5e88cea998434b`; multi-tool deployment workflow chatId:`bb20c27486ef4d`; PR workflow chatId:`bb20c27486ef4d`; smartphone review request chatId:`ba01ea68037a49`]
+- gives direct imperative commands for information lookup and cross-platform actions; 9× (last: 2025-09-03) [refs: Telegram confirmation chatId:`8a7bbee82a5847`; marketing jobs request chatId:`5ae756b89a9443`; X posting request chatId:`5dd3b78eca0543`]
 
 ### Emerging (new signals, 1-2 reinforcements)
 - issues explicit “CONFIRM” messages to authorize next steps and tool actions; 3× (last: 2025-09-03) [refs: multi-step AI trends task chatId:`cb36654bbb9444`; PR workflow confirmations chatId:`bb20c27486ef4d`]
@@ -10,9 +10,9 @@
 ### Durable (core expertise, established over time)
 - none
 
-### Emerging (recent learning, current focus)  
-- seeking marketing job opportunities in Bangalore; 1× (started: 2025-09-01) [ref: marketing jobs request chatId:`5ae756b89a9443`]
+### Emerging (recent learning, current focus)
 - conducting university project on lithium-ion battery degradation and performance; 1× (started: 2025-09-03) [ref: lithium-ion battery research request chatId:`0b937098ae2740`]
+- writing a blog post about sustainable fashion; 1× (first: 2025-09-03) [ref: sustainable fashion blog visual content chatId:`98cedaef152a45`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
@@ -27,5 +27,5 @@
 - none
 
 ### Emerging (new query patterns)
-- uses assistant for creative content generation, task management (Todoist), and retail price comparison (luxury fashion purchase); 6× (since 2025-09-01) [refs: tweet posting chatId:`5dd3b78eca0543`; additional tweet request chatId:`5dd3b78eca0543`; google form creation chatId:`f43391e07f9c49`; task addition chatId:`5e88cea998434b`; multi-tool deployment workflow chatId:`bb20c27486ef4d`; Dior bag price comparison chatId:`cfebc518400344`]
+- uses assistant for creative content generation, task management, and Notion page drafting; 7× (last: 2025-09-03) [refs: tweet posting chatId:`5dd3b78eca0543`; google form creation chatId:`f43391e07f9c49`; task addition chatId:`5e88cea998434b`; multi-tool deployment workflow chatId:`bb20c27486ef4d`; Dior bag price comparison chatId:`cfebc518400344`; sustainable fashion blog Notion creation chatId:`98cedaef152a45`]
 - seeks academic literature and dataset search assistance; 2× (last: 2025-09-03) [refs: lithium-ion battery research request chatId:`0b937098ae2740`; wearable AI paper request chatId:`c75bc9e6567b49`]
