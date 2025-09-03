@@ -24,4 +24,4 @@
 
 ### Emerging (new query patterns)
 - exploring AI-generated imagery and creative content requests; 2× (last: 2025-09-03) [refs: visual workspace image request chatId:`67856cbf637a41`; billboard design request chatId:`67856cbf637a41`]
-- exploring AI voice generation with ElevenLabs for content creation, now including custom cloned voices; 2× (last: 2025-09-04) [refs: ElevenLabs prompt and voice list chatId:`76e2bb80725e48`; custom voice “Shaes” chatId:`76e2bb80725e48`] 
+- exploring AI voice generation with ElevenLabs for content creation, including custom cloned voices; 3× (last: 2025-09-04) [refs: ElevenLabs prompt and voice list chatId:`76e2bb80725e48`; custom voice “Shaes” retrieval chatId:`76e2bb80725e48`; audio generation & access chatId:`76e2bb80725e48`]
