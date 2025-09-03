@@ -1,8 +1,8 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
+- gives direct, imperative instructions in Italian; 5× (promoted from emerging) (last: 2025-09-03) [refs: multiple image editing requests chatId:`f554e9a4e8c840`; current interaction chatId:`012c4633a4e14a`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- gives direct, imperative instructions in Italian; 4× (last: 2025-09-03) [refs: multiple image editing requests chatId:`f554e9a4e8c840`; image edit attempt chatId:`012c4633a4e14a`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
