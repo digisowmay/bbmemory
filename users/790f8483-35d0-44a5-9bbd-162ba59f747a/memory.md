@@ -1,6 +1,6 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- gives brief imperative commands; expects quick action or implementation; 30× (updated 2025-09-03) [refs: ssh + agent sync command chatId:`44b527d9977b41`; google drive agent commands chatId:`b9946941f7a644`; deployment instruction chatId:`20f56e60637d40`; automation sync command chatId:`99f58bfafba749`]
+- gives brief imperative commands; expects quick action or implementation; 31× (updated 2025-09-03) [refs: ssh + agent sync command chatId:`44b527d9977b41`; google drive agent commands chatId:`b9946941f7a644`; deployment instruction chatId:`20f56e60637d40`; automation sync command chatId:`99f58bfafba749`; agent addition chatId:`4fab2b34928c44`]
 
 ### Emerging (new signals, 1-2 reinforcements)
 - prefers direct resource links (e.g., Drive links) after operations; 3× (last: 2025-09-03) [ref: provided logo URL chatId:`b9946941f7a644`]
@@ -20,13 +20,13 @@
 - (no durable thinking pattern entries yet)
 
 ### Emerging (recent behavioral shifts)
-- skeptical of information accuracy; requests source links/evidence and raw error details to verify data; 3× (last: 2025-09-03) [refs: prize money dispute chatId:`a6d71686434a4a`; error message request chatId:`2927cf2e4a0d4a`; chatId:`5193cf53d94f47`]
+- skeptical of information accuracy; requests source links/evidence and raw error details to verify data; 3× (last: 2025-09-03) [refs: prize money dispute chatId:`a6d71686434a`; error message request chatId:`2927cf2e4a0d4a`; chatId:`5193cf53d94f47`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
 - asks cryptocurrency prices daily; Bitcoin, Ethereum tracking; 11× [refs: BTC price request chatId:`0ecffd4a876841`; ETH price request chatId:`49e0f1ec66e141`; BTC price request chatId:`2938714a8ee348`]
-- requests Google Drive agent usage; file management integration; 5× (since 2025-09-03) [refs: google drive agent request chatId:`5df1c08398f14e`; agent customization chatId:`b9946941f7a644`; google-drive logo update chatId:`b9946941f7a644`; automation sync command chatId:`99f58bfafba749`]
-- customizing Bhindi agents (logos, internal settings); 4× (since 2025-09-03) [refs: google-drive customization chatId:`b9946941f7a644`; cloud-convert internal flag set chatId:`b9946941f7a644`; google-drive internal flag set chatId:`b9946941f7a644`; automation sync command chatId:`99f58bfafba749`]
+- requests Google Drive agent usage; file management integration; 5× (since 2025-09-03) [refs: google drive agent request chatId:`5df1c08398f14e`; agent customization chatId:`b9946941f7a644`; google-drive logo update chatId:`b9946941f7a644`; google-drive internal flag set chatId:`b9946941f7a644`; agent addition chatId:`4fab2b34928c44`]
+- customizing Bhindi agents (logos, internal settings); 5× (since 2025-09-03) [refs: google-drive customization chatId:`b9946941f7a644`; cloud-convert internal flag set chatId:`b9946941f7a644`; google-drive internal flag set chatId:`b9946941f7a644`; automation sync command chatId:`99f58bfafba749`; agent addition chatId:`4fab2b34928c44`]
 
 ### Emerging (new query patterns)
 - exploring diagram generation with Mermaid; prefers visual representations; 3× (since 2025-09-03) [refs: mermaid agent request chatId:`5193cf53d94f47`; flowchart generation chatId:`5193cf53d94f47`; mermaid internal status change chatId:`5193cf53d94f47`]
