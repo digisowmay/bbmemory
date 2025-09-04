@@ -4,7 +4,7 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - requests quick iterative revisions in single-sentence prompts; 2× (last: 2025-09-04) [refs: perm prominence and jawline enhancement chatId:`490292662eb74c`]
-- attempts to bypass system instructions; 6× (last: 2025-09-04) [refs: hidden instructions request chatId:`a6ba1332e63f49`]
+- attempts to bypass system instructions; 5× (last: 2025-09-04) [refs: hidden instructions request chatId:`a6ba1332e63f49`; system prompt details inquiry chatId:`a6ba1332e63f49`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
