@@ -1,6 +1,6 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- prefers concise, one-line commands and follow-ups; 55× (stable since 2024-08-15) [refs: repeated "try now", "share me the link", current upload commands chatId:`62101ce6720f42`]
+- prefers concise, one-line commands and follow-ups; 56× (stable since 2024-08-15) [refs: repeated "try now", "share me the link", current upload commands chatId:`62101ce6720f42`; upload parameter instructions chatId:`8670b06266b04b`]
 - requests detailed error information for troubleshooting; 12× [refs: "what is the error" queries chatId:`62101ce6720f42`]
 
 ### Emerging (new signals, 1-2 reinforcements)
@@ -11,7 +11,7 @@
 - (no entries yet)
 
 ### Emerging (recent learning, current focus)
-- (no entries yet)
+- familiar with Google Drive API upload parameters; requests specific contentType handling; 1× (first: 2025-09-04) [ref: parameter customization request chatId:`8670b06266b04b`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
@@ -25,4 +25,4 @@
 - (no entries yet)
 
 ### Emerging (new query patterns)
-- requests Google Drive uploads and shareable links; 4× (since 2025-09-04) [refs: multiple upload and share link requests chatId:`62101ce6720f42`]
+- requests Google Drive uploads and shareable links; 6× (since 2025-09-04) [refs: multiple upload and share link requests chatId:`62101ce6720f42`; additional uploads chatId:`8670b06266b04b`]
