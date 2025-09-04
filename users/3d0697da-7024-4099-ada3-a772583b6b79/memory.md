@@ -29,6 +29,6 @@
 - no durable traits recorded yet; 0×
 
 ### Emerging (new query patterns)
-- requests AI-generated multimedia content creation (graphic assets, scripts, videos) with specific guidance; 5× (since 2025-09-03) [refs: poster design request chatId:`8f1e4193c0a844`; wireframe request chatId:`1db1e8401aca48`; icon set request chatId:`f5d2bb5624ed4a`; YouTube script request chatId:`d716f90722aa46`; video production orchestration chatId:`643b5ce098be4b`]
+- requests AI-generated multimedia content creation (graphic assets, scripts, videos, image editing) with specific guidance; 6× (since 2025-09-03, last: 2025-09-04) [refs: poster design request chatId:`8f1e4193c0a844`; wireframe request chatId:`1db1e8401aca48`; icon set request chatId:`f5d2bb5624ed4a`; YouTube script request chatId:`d716f90722aa46`; video production orchestration chatId:`643b5ce098be4b`; image edit shark cat chatId:`d562157d87dc43`]
 - exploring DeFi data (crypto prices, wallet analytics) for investing; 2× (since 2025-09-03) [refs: Uniswap stats request chatId:`aeb4ddc9952641`; crypto portfolio analysis chatId:`658d51cae22842`]
 - requesting social platform server setup and management (Discord); 1× (first: 2025-09-04) [ref: discord server setup chatId:`6d3ff284890b48`]
