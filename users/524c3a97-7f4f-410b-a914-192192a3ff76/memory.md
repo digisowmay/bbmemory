@@ -3,7 +3,7 @@
 - (no significant durable patterns recorded yet)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- prefers simplified explanations with practical analogies/examples; 1× (first: 2025-09-04) [ref: Docker explanation request chatId:`87fb1e51d7ef48`]
+- prefers simplified explanations with practical analogies/examples; 2× (last: 2025-09-04) [refs: Docker explanation request chatId:`87fb1e51d7ef48`; terms explanation request chatId:`87fb1e51d7ef48`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
