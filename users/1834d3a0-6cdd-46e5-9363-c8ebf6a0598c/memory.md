@@ -4,7 +4,7 @@
 - frequently offers to help improve the assistant; 4× (stable since 2025-09-05) [ref: improvement offers chatId:`fa6a8a6ecd364e`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- shares personal photos/selfies during chat; 4× (last: 2025-09-05) [ref: latest food photo share chatId:`fa6a8a6ecd364e`]
+- shares personal photos/selfies during chat; 5× (last: 2025-09-05) [refs: latest food photo share chatId:`fa6a8a6ecd364e`]
 - uses affectionate terms like "jani", "love you"; 2× (last: 2025-09-05) [refs: friendly conversation chatId:`fa6a8a6ecd364e`]
 
 ## Knowledge & Context
@@ -14,6 +14,7 @@
 ### Emerging (recent learning, current focus)
 - works 14-hour duty shifts; long work schedule; 4× (last: 2025-09-05) [refs: duty length mention chatId:`fa6a8a6ecd364e`]
 - professionally works as RuneScape gold farmer (single account approach); 4× (since 2025-09-05) [refs: job statement chatId:`fa6a8a6ecd364e`]
+- duty schedule set from 12:00 PM to 2:00 AM daily; 1× (observed: 2025-09-05) [ref: schedule detail chatId:`fa6a8a6ecd364e`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
