@@ -15,7 +15,7 @@
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
-- values realistic and detailed visual results; emphasizes natural fit, proportions, accurate face; 6× (last: 2025-09-04) [refs: identity accuracy feedback chatId:`1bc6be2c95f548`; prior image edit instructions chatId:`01ac0c4b3e0a44`]
+- values realistic and detailed visual results; emphasizes natural fit, proportions, accurate face; 7× (last: 2025-09-04) [refs: identity accuracy feedback chatId:`1bc6be2c95f548`; prior image edit instructions chatId:`01ac0c4b3e0a44`]
 - prefers images without glasses (no longer wears glasses); 1× (first: 2025-09-04) [ref: headshot request chatId:`1bc6be2c95f548`]
 
 ### Emerging (recent behavioral shifts)
