@@ -1,10 +1,10 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
 - issues concise imperative commands to manage agents and retrieve data; 15× (stable since 2024-08-15) [refs: multiple agent management commands chatId:`ba6263692e3840`]
+- curious about underlying system/platform; asks meta-level questions (LLM model, platform definition, agent count); 6× (promoted from emerging) [refs: LLM model question; "What is Bhindi?" request; agent count query chatId:`ba6263692e3840`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- curious about underlying system/platform; asks meta-level questions (LLM model, platform definition, agent count); 5× (last: 2025-09-05) [refs: LLM model question; "What is Bhindi?" request; agent count query chatId:`ba6263692e3840`]
-- prefers data in tabular format when requesting stats (e.g., ETH price table); 1× (first: 2025-09-05) [ref: ETH 7-day price table request chatId:`ba6263692e3840`]
+- prefers data in tabular format when requesting stats; 2× (last: 2025-09-05) [ref: ETH 7-day price table request chatId:`ba6263692e3840`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -21,7 +21,7 @@
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
 - manages chat agents frequently; 34× [refs: agent add/remove operations chatId:`ba6263692e3840`]
+- requests latest crypto prices (e.g., ETH) via coingecko; 9× (promoted from emerging) [refs: ETH price requests chatId:`ba6263692e3840`]
 
 ### Emerging (new query patterns)
-- requesting latest crypto prices (e.g., ETH) via coingecko; 8× (last: 2025-09-05) [refs: ETH price requests and historical table chatId:`ba6263692e3840`]
 - uses Telegram agent to verify account connection; 2× (last: 2025-09-05) [refs: telegram agent connection chatId:`ba6263692e3840`]
