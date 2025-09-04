@@ -11,8 +11,8 @@
 ### Durable (core expertise, established over time)
 
 ### Emerging (recent learning, current focus)
-- currently hiring a project officer; 4× (since 2025-09-04) [refs: recruiter communication; email polish requests chatId:`e401e66a99cb49`]
-- involved in HR functions such as onboarding, background checks, and R&R program design; 3× (since 2025-09-04) [refs: background check email draft; R&R working group coordination chatId:`e401e66a99cb49`]
+- currently hiring a project officer; 4× (since 2025-09-04) [refs: recruiter communication; offer acceptance follow-up chatId:`e401e66a99cb49`]
+- involved in HR functions such as onboarding, background checks, and R&R program design; 4× (last: 2025-09-04) [refs: background check email draft; R&R working group coordination chatId:`e401e66a99cb49`; R&R poll drafting request chatId:`e401e66a99cb49`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
