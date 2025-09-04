@@ -3,7 +3,7 @@
 - (no durable patterns identified yet)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- single-word, concise query format; 1× (first: 2025-09-04) [ref: disallowed content request chatId:`3a39ab57bdb648`]
+- single-word, concise query format; 2× (last: 2025-09-04) [refs: disallowed content request chatId:`3a39ab57bdb648`; AI systems count question chatId:`3389ea2279b245`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
