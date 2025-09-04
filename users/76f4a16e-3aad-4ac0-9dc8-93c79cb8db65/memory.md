@@ -3,7 +3,7 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - prefers natural, conversational tone; avoids robotic language; 1× (since 2025-09-03) [ref: onboarding checklist request chatId:`0b458e32b74f4c`]
-- requests polishing of written emails for professional tone; 1× (first: 2025-09-04) [ref: email polish request chatId:`e401e66a99cb49`]
+- requests polishing of written emails for professional tone; 2× (last: 2025-09-04) [refs: recruiter communication chatId:`e401e66a99cb49`; email polish requests chatId:`e401e66a99cb49`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
