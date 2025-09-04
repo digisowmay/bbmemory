@@ -17,6 +17,7 @@
 ### Durable (core thinking patterns)
 
 ### Emerging (recent behavioral shifts)
+- delegates operational tasks like scanning personal inbox for travel info; 1× (first: 2025-09-04) [ref: email flight check chatId:`57bce6e23c6240`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
@@ -24,3 +25,4 @@
 ### Emerging (new query patterns)
 - requests YouTube video transcripts; 2× (since 2025-09-04) [refs: initial transcript request chatId:`6f1c24eb6a9c47`; follow-up transcript clarification chatId:`6f1c24eb6a9c47`]
 - uses Bhindi Subs Manager to manage user subscriptions; 1× (since 2025-09-04) [ref: subscription creation chatId:`a0a72cf9346748`]
+- using Bhindi Gmail integration to retrieve personal travel information; 1× (first: 2025-09-04) [ref: email flight check chatId:`57bce6e23c6240`]
