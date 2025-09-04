@@ -17,4 +17,4 @@
 ### Durable (regular platform activities)
 
 ### Emerging (new query patterns)
-- requests AI-based image editing / generation; 1× (first: 2025-09-03) [ref: image transformation request chatId:`7c7e9b29ebb24a`]
+- requests AI-based image editing / generation; 2× (last: 2025-09-04) [refs: image transformation request chatId:`5cf647389e7547`; image transformation request chatId:`7c7e9b29ebb24a`]
