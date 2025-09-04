@@ -3,7 +3,7 @@
 - (no durable patterns recorded yet)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- prefers communication in Bangla; 1× (first: 2025-09-05) [ref: chatId:`eb63aa46db5d40`]
+- prefers communication in Bangla; 2× (last: 2025-09-05) [refs: chatId:`eb63aa46db5d40`; chatId:`afade33b3aa14a`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
