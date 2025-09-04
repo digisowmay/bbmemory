@@ -1,8 +1,8 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
+- concise imperative instructions; 5× (promoted from emerging, last: 2025-09-05) [refs: chatId:`22d2f71d239d45` messages "make some thing for travel agnecy"; "RESUME"; "Build the form"; "Create Make.com workflows"]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- concise responses to queries; 3× (last: 2025-09-05) [refs: chatId:`22d2f71d239d45`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
