@@ -2,7 +2,7 @@
 ### Durable (established, 3+ reinforcements)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- gives single-word or short-phrase requests; 4× (last: 2025-09-04) [refs: "Noorkhanbb"; "Zrmlkzr bb" chatId:`a5f9067e9a9945`; brief reply "it to happen" chatId:`e967440bde9147`; message "ٹٹٹٹٹٹ" chatId:`e967440bde9147`]
+- gives single-word or short-phrase requests; 5× (last: 2025-09-04) [refs: "Noorkhanbb"; "Zrmlkzr bb" chatId:`a5f9067e9a9945`; brief reply "it to happen" chatId:`e967440bde9147`; message "ٹٹٹٹٹٹ" chatId:`e967440bde9147`; message "action" chatId:`e967440bde9147`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
