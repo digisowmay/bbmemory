@@ -12,6 +12,7 @@
 
 ### Emerging (recent learning, current focus)
 - works 14-hour duty shifts; long work schedule; 1× (first: 2025-09-05) [ref: duty length mention chatId:`fa6a8a6ecd364e`]
+- enjoys online gaming after duty for relaxation; 1× (first: 2025-09-05) [ref: gaming discussion chatId:`fa6a8a6ecd364e`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
