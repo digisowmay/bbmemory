@@ -20,3 +20,4 @@
 - requests AI-based image editing / generation; 4× [refs: image transformation request chatId:`5cf647389e7547`; image transformation request chatId:`7c7e9b29ebb24a`; image transformation request chatId:`5cf647389e7547`; image generation chatId:`5cf647389e7547`]
 
 ### Emerging (new query patterns)
+- exploring dating profile photo generation; 1× (first: 2025-09-04) [ref: tinder-worthy side profile image request chatId:`5cf647389e7547`]
