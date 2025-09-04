@@ -12,6 +12,7 @@
 ### Emerging (recent learning, current focus)
 - working on potential partnership with Zomato scratch card program; 1× (started: 2025-09-04) [ref: chatId:`82fe08666ba940`]
 - exploring broader Zomato advertising opportunities (referral, events, social media, sponsored listings); 2× (since 2025-09-04) [refs: advertising strategy discussion chatId:`82fe08666ba940`; implementation guide request chatId:`82fe08666ba940`]
+- renting furniture for new house; deciding on dressing table and storage solutions; 1× (started: 2025-09-04) [ref: chatId:`05783c2ef9ba4f`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
