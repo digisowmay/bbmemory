@@ -1,6 +1,6 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- wants detailed expert-backed analysis before making purchase/booking decisions; 7× (stable since 2025-09-01) [refs: smartphone buying advice; multiple Delhi accommodation queries chatId:`3f05fd8480d94b`; couple getaway suggestion chatId:`888e103d2b4949`; Hogenakkal plan request chatId:`888e103d2b4949`]
+- wants detailed expert-backed analysis before making purchase/booking decisions; 8× (stable since 2025-09-01) [refs: smartphone buying advice; multiple Delhi accommodation queries chatId:`3f05fd8480d94b`; couple getaway suggestion chatId:`888e103d2b4949`; Hogenakkal plan request chatId:`888e103d2b4949`; international courier suggestion chatId:`dfa0d75fc2f74c`]
 - prefers direct actionable links (URLs) for recommendations; 5× (stable since 2025-09-01) [refs: Airbnb links request; corridor options request; latest link follow-up chatId:`3f05fd8480d94b`; waterfall suggestions chatId:`888e103d2b4949`]
 
 ### Emerging (new signals, 1-2 reinforcements)
