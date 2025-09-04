@@ -1,6 +1,6 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- gives very brief, direct imperative instructions; 11× (stable since 2025-08-30) [refs: agent management commands chatId:`656c190d34a544`; Drive retry chatId:`c357e72220bd41`; n8n workflow request chatId:`662655ca620f4e`]
+- gives very brief, direct imperative instructions; 12× (stable since 2025-08-30) [refs: agent management commands chatId:`656c190d34a544`; Drive retry chatId:`c357e72220bd41`; n8n workflow interactions chatId:`662655ca620f4e`]
 
 ### Emerging (new signals, 1-2 reinforcements)
 - uses casual slang ("bro") and occasional expletives in requests; 5× (last: 2025-09-04) [refs: upload request chatId:`94950b85921c4f`; Drive upload chatId:`c357e72220bd41`; earlier interaction chatId:`4a71763edf844e`]
@@ -25,4 +25,5 @@
 - regularly manages custom agents (create/delete/update); 6× [refs: agent management conversation chatId:`656c190d34a544`; latest agent sync chatId:`325e7e9b563443`]
 
 ### Emerging (new query patterns)
-- asks about n8n workflows; 1× (first: 2025-09-04) [ref: n8n workflow request chatId:`662655ca620f4e`]
+- asks about n8n workflows; 2× (since 2025-09-04) [refs: n8n workflow request chatId:`662655ca620f4e`; exact error request chatId:`662655ca620f4e`]
+- (no other emerging query patterns)
