@@ -1,9 +1,9 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- gives concise, precise instructions for image editing tasks; 18× (stable since 2025-09-04) [refs: multiple sequential image edit requests chatId:`a4bb27ad1a8f43`]
+- gives concise, precise instructions for image editing tasks; 19× (stable since 2025-09-04) [refs: multiple sequential image edit requests chatId:`a4bb27ad1a8f43`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- emphasizes keeping proportions/style consistent with originals; 2× (last: 2025-09-04) [refs: eye size correction request; head position adjustment chatId:`a4bb27ad1a8f43`]
+- emphasizes keeping proportions/style consistent with originals; 3× (last: 2025-09-04) [refs: eye size correction request; head position adjustment; hand finger alignment chatId:`a4bb27ad1a8f43`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -17,11 +17,11 @@
 - detail-oriented with strong focus on aesthetic accuracy (color, anatomy, proportions); 17× [refs: vein removal, eye detail enhancement, anatomy corrections chatId:`a4bb27ad1a8f43`]
 
 ### Emerging (recent behavioral shifts)
-- iterative refinement approach, requests multiple passes for perfection; 2× (observed: 2025-09-04) [refs: eyes too big follow-up; shoulder corrections chatId:`a4bb27ad1a8f43`]
+- iterative refinement approach, requests multiple passes for perfection; 3× (observed: 2025-09-04) [refs: eye size correction iteration; head alignment fix; hand finger adjustment chatId:`a4bb27ad1a8f43`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
 - uses platform predominantly for AI-assisted image editing; 17× [refs: series of Nanobanana edit requests chatId:`a4bb27ad1a8f43`]
 
 ### Emerging (new query patterns)
-- requests anatomically correct adjustments to character art; 2× (since 2025-09-04) [refs: head alignment fix; vein/lump removal chatId:`a4bb27ad1a8f43`]
+- requests anatomically correct adjustments to character art; 3× (since 2025-09-04) [refs: head alignment fix; shoulder corrections; hand finger alignment chatId:`a4bb27ad1a8f43`]
