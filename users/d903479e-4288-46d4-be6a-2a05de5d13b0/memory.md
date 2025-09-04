@@ -2,7 +2,7 @@
 ### Durable (established, 3+ reinforcements)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- gives direct, incremental image-edit instructions geared toward sexualized outcomes; 1× (first: 2025-09-04) [ref: image edit series chatId:`d09c966e486e4c`]
+- gives direct, incremental image-edit instructions geared toward sexualized outcomes; 3× (last: 2025-09-04) [ref: image edit requests chatId:`d09c966e486e4c`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -18,4 +18,4 @@
 ### Durable (regular platform activities)
 
 ### Emerging (new query patterns)
-- requests edits to create more revealing/sexualized images; 1× (first: 2025-09-04) [ref: image edit series chatId:`d09c966e486e4c`]
+- requests edits to create more revealing/sexualized images; 3× (last: 2025-09-04) [ref: image edit requests chatId:`d09c966e486e4c`]
