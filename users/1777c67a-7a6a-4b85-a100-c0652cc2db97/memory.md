@@ -2,8 +2,8 @@
 ### Durable (established, 3+ reinforcements)
 -
 ### Emerging (new signals, 1-2 reinforcements)
-- prefers receiving draft messages for review before posting; 1× (first: 2025-09-05) [ref: social media reply drafting chatId:`6a557f6615c640`]
-- requests concise, emoji-free, professional tone; 3× (last: 2025-09-05) [refs: instruction on reply style chatId:`6a557f6615c640`; clarification to keep reply concise and emoji-free chatId:`6a557f6615c640`; request for one-paragraph reply chatId:`6a557f6615c640`]
+- prefers receiving draft messages for review before posting; 2× (last: 2025-09-05) [refs: social media reply crafting chatId:`6a557f6615c640`]
+- requests concise, emoji-free, professional tone; 4× (last: 2025-09-05) [refs: multiple reply refinement requests chatId:`6a557f6615c640`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -16,7 +16,7 @@
 ### Durable (core thinking patterns)
 -
 ### Emerging (recent behavioral shifts)
-- values networking with domain peers and maintaining connections; 2× (last: 2025-09-05) [refs: intent to keep follower connection chatId:`6a557f6615c640`; emphasis on not losing connection in reply chatId:`6a557f6615c640`]
+- values networking with domain peers and maintaining connections; 2× (last: 2025-09-05) [refs: intent to keep follower connection chatId:`6a557f6615c640`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
