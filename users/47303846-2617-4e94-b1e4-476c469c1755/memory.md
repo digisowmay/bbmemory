@@ -2,7 +2,7 @@
 ### Durable (established, 3+ reinforcements)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- Gives concise, action-oriented requests for task automation; 2× (last: 2025-09-04) [refs: automation setup request chatId:`72a846806dfd4e`; Twitter automation request chatId:`72a846806dfd4e`]
+- Gives concise, action-oriented requests for task automation; 3× (last: 2025-09-04) [refs: automation setup request chatId:`72a846806dfd4e`; Twitter automation request chatId:`72a846806dfd4e`; follow-up automation request chatId:`ab3b01ebb0f844`]
 - Uses explicit commands like ": RESUME" and ": CONFIRM" to prompt next steps; 1× (first: 2025-09-04) [ref: follow-up commands during automation flow chatId:`72a846806dfd4e`]
 
 ## Knowledge & Context
@@ -22,5 +22,5 @@
 ### Durable (regular platform activities)
 
 ### Emerging (new query patterns)
-- Requests cross-platform social media automation (LinkedIn, Twitter) for brand promotion; 2× (since 2025-09-04) [refs: LinkedIn automation setup chatId:`72a846806dfd4e`; Twitter automation setup chatId:`72a846806dfd4e`]
+- Requests cross-platform social media automation (LinkedIn, Twitter) for brand promotion; 3× (since 2025-09-04) [refs: LinkedIn automation setup chatId:`72a846806dfd4e`; Twitter automation setup chatId:`72a846806dfd4e`; follow-up automation setup chatId:`ab3b01ebb0f844`]
 - Seeks email integration and productivity automation via Gmail; 1× (first: 2025-09-04) [ref: Gmail productivity automation request chatId:`ab3b01ebb0f844`]
