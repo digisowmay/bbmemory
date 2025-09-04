@@ -1,6 +1,6 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- gives direct, imperative instructions in Italian; 9× (stable since 2024-08-15) [refs: Caravaggio lighting request chatId:`92f4572c1a2443`; multiple image editing requests; hand pose edit instructions chatId:`92f4572c1a2443`]
+- gives direct, imperative instructions in Italian; 10× (stable since 2024-08-15) [refs: Caravaggio lighting request chatId:`92f4572c1a2443`; multiple image editing requests; hand pose edit instructions chatId:`92f4572c1a2443`]
 
 ### Emerging (new signals, 1-2 reinforcements)
 
@@ -12,12 +12,12 @@
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
+- visual detail oriented; uses specific stylistic references to guide edits; 9× (promoted from emerging, last: 2025-09-04) [refs: hand pose with white lace gloves chatId:`92f4572c1a2443`; dress color changes; jewelry addition instructions]
 
 ### Emerging (recent behavioral shifts)
-- visual detail oriented; uses specific stylistic references to guide edits; 8× (last: 2025-09-04) [refs: hand pose with white lace gloves chatId:`92f4572c1a2443`; dress color changes; jewelry addition instructions]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
-- uses platform for advanced image transformations with precise artistic styles; 9× [refs: repeated image editing requests chatId:`92f4572c1a2443`; Caravaggio lighting; hand pose edits]
+- uses platform for advanced image transformations with precise artistic styles; 10× [refs: repeated image editing requests chatId:`92f4572c1a2443`; Caravaggio lighting; hand pose edits]
 
 ### Emerging (new query patterns)
