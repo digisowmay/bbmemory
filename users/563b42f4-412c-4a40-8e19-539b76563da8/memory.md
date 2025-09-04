@@ -1,17 +1,7 @@
 ## Communication Patterns
-### Durable (established, 3+ reinforcements)
 ### Emerging (new signals, 1-2 reinforcements)
-- provides concise, imperative instructions for image editing tasks; 3× (last: 2025-09-04) [ref: image color variation requests chatId:`a4b9980927df47`]
-
-## Knowledge & Context
-### Durable (core expertise, established over time)
-### Emerging (recent learning, current focus)
-
-## Thinking & Working Style
-### Durable (core thinking patterns)
-### Emerging (recent behavioral shifts)
+- provides concise, imperative instructions for image editing tasks; 4× (last: 2025-09-04) [refs: multiple image edit requests chatId:`a4b9980927df47`]
 
 ## Platform Usage & Queries
-### Durable (regular platform activities)
 ### Emerging (new query patterns)
-- experimenting with AI-based image editing (Nano Banana) to generate color variants; 3× (since 2025-09-04) [ref: image editing requests chatId:`a4b9980927df47`]
+- experimenting with AI-based image editing (Nano Banana) to generate color variants; 5× (since 2025-09-04) [refs: repeated Nano Banana image generation commands chatId:`a4b9980927df47`]
