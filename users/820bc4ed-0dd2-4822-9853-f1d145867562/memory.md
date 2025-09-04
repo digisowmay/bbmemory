@@ -4,7 +4,7 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - prefers outputs with defined structure (tables, exact word counts) for easy use; 2× (last: 2025-09-04) [refs: AI tools research request chatId:`a8a22432f2dc4a`; Instagram script request chatId:`fe55f5ac974846`]
-- issues direct commands for tool actions (Google Sheets, image generation) and expects immediate execution; 5× (last: 2025-09-04) [refs: multiple tool interactions chatId:`fe55f5ac974846`; monkey image generation chatId:`07cb9a021cef4c`]
+- issues direct commands for tool actions (Google Sheets, scheduling, image generation) and expects immediate execution; 6× (last: 2025-09-04) [refs: multiple tool interactions chatId:`fe55f5ac974846`; monkey image generation chatId:`07cb9a021cef4c`; scheduling request chatId:`b1e2cb43e4c349`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
