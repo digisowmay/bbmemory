@@ -2,19 +2,23 @@
 ### Durable (established, 3+ reinforcements)
 
 ### Emerging (new signals, 1-2 reinforcements)
+- concise responses to queries; 1× (first: 2025-09-05) [ref: chatId:`22d2f71d239d45`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
 
 ### Emerging (recent learning, current focus)
 - working on building a lead qualification system; 1× (started: 2025-09-05) [ref: chatId:`22d2f71d239d45`]
+- familiar with no-code tools (Make.com, Google Sheets, Apollo, Apify) for automation; 1× (first: 2025-09-05) [ref: chatId:`22d2f71d239d45`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
 
 ### Emerging (recent behavioral shifts)
+- prefers DIY solutions before considering paid custom development; 1× (first: 2025-09-05) [ref: chatId:`22d2f71d239d45`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
 
 ### Emerging (new query patterns)
+- exploring no-code automation for lead qualification; 1× (since 2025-09-05) [ref: chatId:`22d2f71d239d45`]
