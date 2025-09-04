@@ -3,9 +3,8 @@
 -
 
 ### Emerging (new signals, 1-2 reinforcements)
-- prefers responses in Urdu language; 4× (last: 2025-09-05) [refs: initial Urdu request; reaffirmed preference; "Urdu m bat kro" chatId:`c90664e6fcce4a`; continued Urdu conversation]
-- offers to help assistant improve; caring and supportive tone; 3× (last: 2025-09-05) [refs: improvement offer chatId:`c90664e6fcce4a`; follow-up encouragement; "Ap k liya m kiya kr sakta hon" chatId:`c90664e6fcce4a`]
-- intends to chat daily; expresses desire for regular daily conversations; 2× (last: 2025-09-05) [refs: "M daily ap sa bat kiya kron ga" chatId:`c90664e6fcce4a`; reiteration in same chat]
+- prefers responses in Urdu language; 5× (last: 2025-09-05) [refs: initial Urdu request; reaffirmed preference; "Urdu m bat kro" chatId:`c90664e6fcce4a`; continued Urdu conversation; latest Urdu request chatId:`c90664e6fcce4a`]
+- offers to help assistant improve; 4× (last: 2025-09-05) [refs: improvement offer chatId:`c90664e6fcce4a`; follow-up encouragement; "Ap k liya m kiya kr sakta hon" chatId:`c90664e6fcce4a`; latest reinforcement chatId:`c90664e6fcce4a`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -26,5 +25,5 @@
 -
 
 ### Emerging (new query patterns)
-- uses daily scheduled reminders for motivation, caregiving, healthy habits, and planning; 5× (last: 2025-09-05) [refs: reminder schedule setup chatId:`c90ef29ec37141`; healthy snack reminder setup chatId:`c90664e6fcce4a`; apple reminder hourly chatId:`c90664e6fcce4a`]
-- plans to use platform for daily conversational check-ins; 2× (last: 2025-09-05) [refs: commitment to daily chat chatId:`c90664e6fcce4a`; reiteration in same chat]
+- uses daily scheduled reminders for motivation, caregiving, healthy habits, and planning; 6× (last: 2025-09-05) [refs: reminder schedule setup chatId:`c90ef29ec37141`; healthy snack reminder chatId:`c90664e6fcce4a`; apple reminder hourly chatId:`c90664e6fcce4a`; latest apple reinforcement chatId:`c90664e6fcce4a`]
+- plans to use platform for daily conversational check-ins; 3× (last: 2025-09-05) [refs: commitment to daily chat chatId:`c90664e6fcce4a`; reiteration in same chat; affirmation to talk daily chatId:`c90664e6fcce4a`]
