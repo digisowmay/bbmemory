@@ -1,18 +1,18 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- Provides clear, targeted instructions for very specific visual edits (eyes, nose, tattoo, strawberry); 7× [refs: successive requests for eye, nose, tattoo & strawberry fixes chatId:`c701f0d169ba48`]
-- Supplies direct image URLs for processing in each request; 6× [refs: multiple image URL submissions chatId:`c701f0d169ba48`]
+- Provides clear, targeted instructions for very specific visual edits (eyes, nose, tattoo, strawberry); 8× [refs: successive edit requests including latest strawberry & tattoo removal chatId:`c701f0d169ba48`]
+- Supplies direct image URLs for processing in each request; 7× [refs: multiple image URL submissions chatId:`c701f0d169ba48`]
+- Requests removal of small unwanted objects (tattoo, strawberry) while keeping rest of image unchanged; 4× (promoted from emerging) [refs: repeated tattoo & strawberry removal requests chatId:`c701f0d169ba48`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- Requests removal of small unwanted objects (tattoo, strawberry) while keeping rest of image unchanged; 2× (last: 2025-09-04) [refs: tattoo and strawberry removal requests chatId:`c701f0d169ba48`]
 - Prefers follow-up confirmation that edits kept rest of image unchanged; 2× (last: 2025-09-04) [refs: feedback after conservative edits chatId:`c701f0d169ba48`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
-- (none yet)
+- Refining AI-generated character images with iterative facial and object touch-ups; 5× (promoted from emerging) [refs: series of eye, nose, tattoo & strawberry edits chatId:`c701f0d169ba48`]
 
 ### Emerging (recent learning, current focus)
-- Refining AI-generated character images with iterative facial and object touch-ups; 4× (since 2025-09-04) [refs: series of eye, nose, tattoo, strawberry edits chatId:`c701f0d169ba48`]
+- (none currently)
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
