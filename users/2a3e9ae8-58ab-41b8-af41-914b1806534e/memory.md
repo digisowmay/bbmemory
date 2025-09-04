@@ -1,27 +1,28 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- no durable patterns yet; 0× [refs: ]
+- frequently replies with very brief affirmative phrases ("Yes", "Thank you"), generally minimal text; 42× (promoted from emerging, stable since 2025-08-15) [refs: conversation with bhindi agent chatId:`6cf1110ef75243`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- responds with very brief affirmative phrases ("Yes", "Thank you"); minimal text; 37× (last: 2025-09-04) [refs: conversation with bhindi agent chatId:`6cf1110ef75243`]
+- expresses desire for positive, uplifting language in conversations; 1× (first: 2025-09-04) [ref: conversation with bhindi agent chatId:`6cf1110ef75243`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
-- no durable knowledge patterns yet; 0× [refs: ]
+- none yet
 
 ### Emerging (recent learning, current focus)
-- none yet
+- expects a weekly bonus and wants reminders to check it; 1× (started: 2025-09-04) [ref: conversation with bhindi agent chatId:`6cf1110ef75243`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
-- no durable patterns yet; 0× [refs: ]
+- none yet
 
 ### Emerging (recent behavioral shifts)
-- expressed feeling lonely ("I alone boy ever"); may appreciate emotional support and social connection reminders; 2× (last: 2025-09-04) [ref: conversation with bhindi agent chatId:`6cf1110ef75243`]
+- expressed feeling lonely and may appreciate emotional support reminders; 3× (last: 2025-09-04) [ref: conversation with bhindi agent chatId:`6cf1110ef75243`]
+- values positive affirmations to maintain motivation; 1× (first: 2025-09-04) [ref: conversation with bhindi agent chatId:`6cf1110ef75243`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
 - none yet
 
 ### Emerging (new query patterns)
-- none yet
+- asks to schedule reminders and recurring tasks (e.g., weekly bonus reminder); 1× (since 2025-09-04) [ref: conversation with bhindi agent chatId:`6cf1110ef75243`]
