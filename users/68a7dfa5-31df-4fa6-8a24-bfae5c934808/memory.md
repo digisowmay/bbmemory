@@ -3,7 +3,7 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - prefers structured, formal reports with bullet lists; 2× (last: 2025-09-04) [refs: status report creation chatId:`30bfc0b178eb4a`; short concise WhatsApp message request chatId:`3dcc2be34a6741`]
-- requests concise, professional messaging adapted for WhatsApp; 2× (last: 2025-09-04) [refs: WhatsApp message formatting request chatId:`3dcc2be34a6741`; short concise WhatsApp message request chatId:`3dcc2be34a6741`]
+- requests concise, professional messaging adapted for WhatsApp; 3× (last: 2025-09-04) [refs: WhatsApp message formatting request chatId:`3dcc2be34a6741`; short concise WhatsApp message request chatId:`3dcc2be34a6741`; higher authority message request chatId:`3dcc2be34a6741`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
