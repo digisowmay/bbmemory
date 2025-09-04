@@ -18,7 +18,7 @@
 
 ### Emerging (recent behavioral shifts)
 - iterative visual tweaking approach; asks for incremental changes until satisfied; 2× (since 2025-09-03) [refs: successive perms, beard removal, jawline edits chatId:`490292662eb74c`]
-- delegates operational tasks to system agents for automated handling; 1× (observed: 2025-09-04) [ref: bhindi subs manager delegation chatId:`cf59bcae924846`]
+- delegates operational tasks to system agents for automated handling; 2× (since 2025-09-04) [refs: bhindi subs manager delegation chatId:`cf59bcae924846`; echo channel control chatId:`1c4d2e575d3548`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
