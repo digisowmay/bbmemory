@@ -1,27 +1,29 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- (no durable patterns recorded yet)
+- 
 
 ### Emerging (new signals, 1-2 reinforcements)
-- presents requests in clear, structured bullet format; 1× (first: 2025-09-04) [ref: chatId:`5a46ba2611fc40`]
+- presents requests in clear, structured bullet format; 2× (last: 2025-09-04) [refs: chatId:`5a46ba2611fc40`]
+- prefers iterative follow-up instructions (e.g., "Yes please" to proceed); 1× (first: 2025-09-04) [ref: chatId:`5a46ba2611fc40`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
-- (no durable knowledge recorded yet)
+- 
 
 ### Emerging (recent learning, current focus)
-- working on an AI-powered content app concept “TrendSpark”; 1× (started: 2025-09-04) [ref: chatId:`5a46ba2611fc40`]
+- working on an AI-powered content app “TrendSpark”; 2× (since 2025-09-04) [refs: chatId:`5a46ba2611fc40`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
-- (no durable patterns recorded yet)
+- 
 
 ### Emerging (recent behavioral shifts)
-- shares complete product briefs with monetization strategy; 1× (observed: 2025-09-04) [ref: chatId:`5a46ba2611fc40`]
+- shares complete product briefs with monetization strategy; 2× (observed: 2025-09-04) [refs: chatId:`5a46ba2611fc40`]
+- prefers rapid prototyping and iterative refinement; 1× (first: 2025-09-04) [ref: chatId:`5a46ba2611fc40`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
-- (no durable patterns recorded yet)
+- 
 
 ### Emerging (new query patterns)
-- requests end-to-end app prototypes and business models; 1× (since 2025-09-04) [ref: chatId:`5a46ba2611fc40`]
+- requests end-to-end app prototypes and business models; 2× (since 2025-09-04) [refs: chatId:`5a46ba2611fc40`]
