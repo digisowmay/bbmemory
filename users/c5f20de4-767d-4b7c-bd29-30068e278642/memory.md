@@ -3,13 +3,13 @@
 - uses very short, direct lowercase commands; 30× (stable since 2025-09-02) [refs: iterative hairstyle and beard requests chatId:`490292662eb74c`; protein deficiency fact-check request chatId:`d5f7f1378e5c4d`; subs manager delegation chatId:`cf59bcae924846`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- requests quick iterative revisions in single-sentence prompts; 4× (last: 2025-09-04) [refs: perm prominence and jawline enhancement chatId:`490292662eb74c`; one-line answer request chatId:`d5f7f1378e5c4d`; notification copy refinement chatId:`748df2f4af554a`; prompt iteration chatId:`c6d27d687dac40`]
+- requests quick iterative revisions in single-sentence prompts; 5× (last: 2025-09-04) [refs: perm prominence and jawline enhancement chatId:`490292662eb74c`; one-line answer request chatId:`d5f7f1378e5c4d`; notification copy refinement chatId:`748df2f4af554a`; prompt iteration chatId:`c6d27d687dac40`; credit message refinement chatId:`23a06552fa3143`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
 
 ### Emerging (recent learning, current focus)
-- working on bhindi app ux/copywriting (including notification copy); 2× (since 2025-09-04) [refs: notification copy request chatId:`c6d27d687dac40`; iterative copy refinement discussion chatId:`748df2f4af554a`]
+- working on bhindi app ux/copywriting (including notification copy); 3× (since 2025-09-04) [refs: notification copy request chatId:`c6d27d687dac40`; iterative copy refinement discussion chatId:`748df2f4af554a`; credit message refinement chatId:`23a06552fa3143`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
