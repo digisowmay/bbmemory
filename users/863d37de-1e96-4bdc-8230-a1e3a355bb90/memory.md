@@ -1,6 +1,6 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- gives very brief, direct imperative instructions; 13× (stable since 2025-08-30) [refs: agent management commands chatId:`656c190d34a544`; Drive retry chatId:`c357e72220bd41`; n8n workflow interactions chatId:`662655ca620f4e`; agent creation chatId:`8de5cd0244fb45`]
+- gives very brief, direct imperative instructions; 14× (stable since 2025-08-30) [refs: agent management commands chatId:`656c190d34a544`; Drive retry chatId:`c357e72220bd41`; n8n workflow interactions chatId:`662655ca620f4e`; agent creation chatId:`8de5cd0244fb45`]
 
 ### Emerging (new signals, 1-2 reinforcements)
 - uses casual slang ("bro") and occasional expletives in requests; 5× (last: 2025-09-04) [refs: upload request chatId:`94950b85921c4f`; Drive upload chatId:`c357e72220bd41`; earlier interaction chatId:`4a71763edf844e`]
