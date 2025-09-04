@@ -5,7 +5,7 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - prefers data delivered in structured bullet lists; 1× (first: 2025-09-04) [ref: brand list request chatId:`201073c240e44d`]
-- asks for extended/comprehensive lists beyond initial results; 1× (first: 2025-09-04) [ref: "along with these brands" message chatId:`201073c240e44d`]
+- asks for extended/comprehensive lists beyond initial results; 2× (last: 2025-09-04) [refs: "along with these brands" message; "data is not helpful... top 100 brands" request chatId:`201073c240e44d`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
