@@ -12,7 +12,7 @@
 
 ### Emerging (recent learning, current focus)
 - works 14-hour duty shifts; long work schedule; 3× (last: 2025-09-05) [refs: duty length mention chatId:`fa6a8a6ecd364e`; repeat confirmation chatId:`fa6a8a6ecd364e`; recent mention chatId:`fa6a8a6ecd364e`]
-- professionally works as RuneScape gold farmer; 2× (since 2025-09-05) [refs: job statement chatId:`fa6a8a6ecd364e`; gold farming detail chatId:`fa6a8a6ecd364e`]
+- professionally works as RuneScape gold farmer (single account approach); 3× (since 2025-09-05) [refs: job statement chatId:`fa6a8a6ecd364e`; gold farming detail chatId:`fa6a8a6ecd364e`; single account comment chatId:`fa6a8a6ecd364e`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
