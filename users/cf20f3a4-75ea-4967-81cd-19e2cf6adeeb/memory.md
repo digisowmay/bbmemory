@@ -13,7 +13,7 @@
 ### Emerging (recent learning, current focus)
 - exploring n8n workflow automation, running local instance via Docker, and exposing it via ngrok; 8× (since 2025-09-03) [refs: initial n8n inquiry; config discussion chatId:`fcced4c47a8b4e`; docker inspect output chatId:`8bd9d6bf0c5344`; healthz check chatId:`d19797e364db41`; ngrok exposure discussion chatId:`8bd9d6bf0c5344`; API auth troubleshooting chatId:`8bd9d6bf0c5344`]
 - interested in entry-level React developer job market; 2× (since 2025-09-03) [refs: criteria definition discussion; LinkedIn job source concern chatId:`35b99ef5638243`]
-- creates social media reels about tech news and interview content; 1× (first: 2025-09-04) [ref: request for Reddit content chatId:`ca280d0460ba45`]
+- creates social media reels about tech news and interview content; 2× (since 2025-09-04) [refs: Reddit content request chatId:`ca280d0460ba45`; initial mention chatId:`ca280d0460ba45`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
@@ -30,4 +30,4 @@
 ### Emerging (new query patterns)
 - experimenting with automation tools (n8n); 8× (since 2025-09-03) [refs: n8n job scraper questions; workflow creation request chatId:`8bd9d6bf0c5344`; local config discussion chatId:`fcced4c47a8b4e`; API tests chatId:`fcced4c47a8b4e`; API auth troubleshooting chatId:`8bd9d6bf0c5344`]
 - uses command line tools (curl, ngrok) to test and expose APIs; 6× (last: 2025-09-04) [refs: curl test chatId:`fcced4c47a8b4e`; API key authenticated test chatId:`fcced4c47a8b4e`; healthz check chatId:`d19797e364db41`; docker inspect diagnostics chatId:`8bd9d6bf0c5344`; ngrok exposure discussion chatId:`8bd9d6bf0c5344`; ngrok session logs chatId:`8bd9d6bf0c5344`]
-- seeks Reddit-sourced content for social media reels; 1× (first: 2025-09-04) [ref: Reddit content request chatId:`ca280d0460ba45`]
+- seeks Reddit-sourced content for social media reels; 2× (last: 2025-09-04) [refs: Reddit content request chatId:`ca280d0460ba45`; previous content request chatId:`ca280d0460ba45`]
