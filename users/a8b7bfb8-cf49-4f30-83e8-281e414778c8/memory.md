@@ -4,8 +4,8 @@
 -
 
 ### Emerging (new signals, 1-2 reinforcements)
-- requests complete technical outputs in code/JSON format; 2× (last: 2025-09-05) [refs: workflow JSON request chatId:`5be34a16de4943`; advanced screening request chatId:`5be34a16de4943`]
-- concise, task-focused questions without small talk; 2× (last: 2025-09-05) [refs: automation setup conversation chatId:`5be34a16de4943`; efficiency improvement question chatId:`5be34a16de4943`]
+- requests complete technical outputs in code/JSON format; 3× (last: 2025-09-05) [refs: workflow JSON request chatId:`cac1eed8fad440`; advanced screening request chatId:`5be34a16de4943`; initial workflow JSON request chatId:`5be34a16de4943`]
+- concise, task-focused questions without small talk; 3× (last: 2025-09-05) [refs: workflow JSON request chatId:`cac1eed8fad440`; automation setup conversation chatId:`5be34a16de4943`; efficiency improvement question chatId:`5be34a16de4943`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
