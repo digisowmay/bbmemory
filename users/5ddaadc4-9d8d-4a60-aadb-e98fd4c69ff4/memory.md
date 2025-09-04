@@ -3,7 +3,7 @@
 - (no durable patterns yet)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- requests replies in user-specified language/dialect (Singlish, Pashto); 4× (last: 2025-09-04) [refs: request for 'Singlish'; request for 'Pashto'; 'پښتو وایه'; 'ته دي زان راته معروپي که اول' chatId:`2de82bb3888c40`]
+- requests replies in user-specified language/dialect (Singlish, Pashto); 5× (last: 2025-09-04) [refs: request for 'Singlish'; request for 'Pashto'; 'پښتو وایه'; 'ته دي زان راته معروپي که اول'; 'نو ستا وظیفه څه ده' chatId:`2de82bb3888c40`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
