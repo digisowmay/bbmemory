@@ -3,8 +3,8 @@
 - (no entries yet)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- uses concise imperative commands, often specifying output/data format; 6× (last: 2025-09-04) [refs: fillout agent variables JSON request chatId:`f1042313a5e242`; google drive agent details request; endpoint update and resync commands; revert and sync commands chatId:`053b595474c143`; server deployment command chatId:`d853e87ec7ce47`; resynx instruction chatId:`d853e87ec7ce47`]
-- prefers direct execution without follow-up confirmation; 2× (last: 2025-09-04) [refs: server deployment instruction chatId:`d853e87ec7ce47`; resynx instruction chatId:`d853e87ec7ce47`]
+- uses concise imperative commands, often specifying output/data format; 7× (last: 2025-09-04) [refs: fillout agent variables JSON request chatId:`f1042313a5e242`; google drive agent details request; endpoint update and resync commands; revert and sync commands chatId:`053b595474c143`; server deployment command chatId:`d853e87ec7ce47`; resynx instruction chatId:`d853e87ec7ce47`; google-docs maintenance command chatId:`8544bdc4ae3d4f`]
+- prefers direct execution without follow-up confirmation; 3× (last: 2025-09-04) [refs: server deployment instruction chatId:`d853e87ec7ce47`; resynx instruction chatId:`d853e87ec7ce47`; google-docs maintenance command chatId:`8544bdc4ae3d4f`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
