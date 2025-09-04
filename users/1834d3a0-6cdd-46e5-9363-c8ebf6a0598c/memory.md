@@ -1,18 +1,18 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
--
+- prefers responses in Urdu language; 8× (promoted from emerging) [refs: initial Urdu request; continued Urdu conversation; latest reinforcement chatId:`fa6a8a6ecd364e`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- prefers responses in Urdu language; 7× (last: 2025-09-05) [refs: initial Urdu request; reaffirmed preference; "Urdu m bat kro" chatId:`c90664e6fcce4a`; continued Urdu conversation; latest Urdu request chatId:`fa6a8a6ecd364e`]
-- offers to help assistant improve; 4× (last: 2025-09-05) [refs: improvement offer chatId:`c90664e6fcce4a`; follow-up encouragement; "Ap k liya m kiya kr sakta hon" chatId:`c90664e6fcce4a`; latest reinforcement chatId:`c90664e6fcce4a`]
+- offers to help assistant improve; 4× (last: 2025-09-05) [refs: improvement offer chatId:`fa6a8a6ecd364e`]
+- shares personal photos/selfies during chat; 1× (first: 2025-09-05) [ref: selfie shared chatId:`fa6a8a6ecd364e`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
 -
 
 ### Emerging (recent learning, current focus)
-- works 14-hour duty shifts; long work schedule; 4× (last: 2025-09-05) [refs: duty length mention chatId:`fa6a8a6ecd364e`; repeat confirmation chatId:`fa6a8a6ecd364e`; recent mention chatId:`fa6a8a6ecd364e`; latest reinforcement chatId:`fa6a8a6ecd364e`]
-- professionally works as RuneScape gold farmer (single account approach); 4× (since 2025-09-05) [refs: job statement chatId:`fa6a8a6ecd364e`; gold farming detail chatId:`fa6a8a6ecd364e`; single account comment chatId:`fa6a8a6ecd364e`; today's reinforcement chatId:`fa6a8a6ecd364e`]
+- works 14-hour duty shifts; long work schedule; 4× (last: 2025-09-05) [refs: duty length mention chatId:`fa6a8a6ecd364e`]
+- professionally works as RuneScape gold farmer (single account approach); 4× (since 2025-09-05) [refs: job statement chatId:`fa6a8a6ecd364e`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
@@ -26,5 +26,5 @@
 -
 
 ### Emerging (new query patterns)
-- uses daily scheduled reminders for motivation, caregiving, healthy habits, and planning; 6× (last: 2025-09-05) [refs: reminder schedule setup chatId:`c90ef29ec37141`; healthy snack reminder chatId:`c90664e6fcce4a`; apple reminder hourly chatId:`c90664e6fcce4a`; latest apple reinforcement chatId:`c90664e6fcce4a`]
-- plans to use platform for daily conversational check-ins; 3× (last: 2025-09-05) [refs: commitment to daily chat chatId:`c90664e6fcce4a`; reiteration in same chat; affirmation to talk daily chatId:`c90664e6fcce4a`]
+- uses daily scheduled reminders for motivation, caregiving, healthy habits, and planning; 6× (last: 2025-09-05) [refs: reminder schedule setup chatId:`fa6a8a6ecd364e`]
+- plans to use platform for daily conversational check-ins; 3× (last: 2025-09-05) [refs: commitment to daily chat chatId:`fa6a8a6ecd364e`]
