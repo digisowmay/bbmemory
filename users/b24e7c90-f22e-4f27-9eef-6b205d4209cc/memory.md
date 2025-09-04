@@ -5,7 +5,8 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - asks for explicit "CONFIRM" after actions to verify completion; 7× (last: 2025-09-04) [refs: confirmation prompts after telegram messages chatId:`73b4009701b44d`; repeated CONFIRM usage chatId:`73b4009701b44d`]
-- retries failed actions immediately ("Try again" after PEER_FLOOD errors); 5× (last: 2025-09-04) [refs: multiple telegram send retries chatId:`73b4009701b44d`]
+- retries failed actions immediately ("Try again" after PEER_FLOOD errors); 6× (last: 2025-09-04) [refs: multiple telegram send retries chatId:`73b4009701b44d`]
+- frequently adds or removes agents to control environment; 1× (first: 2025-09-04) [ref: removed all agents chatId:`73b4009701b44d`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
