@@ -7,13 +7,17 @@
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
+- (none yet)
 
 ### Emerging (recent learning, current focus)
+- (none yet)
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
+- (none yet)
 
 ### Emerging (recent behavioral shifts)
+- (none yet)
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
@@ -21,4 +25,4 @@
 
 ### Emerging (new query patterns)
 - requesting latest crypto prices (e.g., ETH) via coingecko; 4× (last: 2025-09-04) [refs: ETH price requests chatId:`ba6263692e3840`]
-- checks recent echo conversations; asks for latest contact; 1× (first: 2025-09-04) [ref: echo list request chatId:`ba6263692e3840`]
+- uses Telegram agent to verify account connection; 1× (first: 2025-09-04) [ref: telegram agent connection chatId:`ba6263692e3840`]
