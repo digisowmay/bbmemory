@@ -2,7 +2,7 @@
 ### Durable (established, 3+ reinforcements)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- tends to write informal, typo-laden but direct requests for guidance; 1× (first: 2025-09-04) [ref: API contact request chatId:`44ebece2ca5446`]
+- tends to write informal, typo-laden but direct requests for guidance; 2× (last: 2025-09-04) [refs: API contact request chatId:`44ebece2ca5446`; curl troubleshooting chatId:`8474d8fba60f42`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -14,7 +14,7 @@
 ### Durable (core thinking patterns)
 
 ### Emerging (recent behavioral shifts)
-- solution-oriented, requests actionable steps quickly; 1× (observed: 2025-09-04) [ref: API contact request chatId:`44ebece2ca5446`]
+- solution-oriented, requests actionable steps quickly; 2× (last: 2025-09-04) [refs: API contact request chatId:`44ebece2ca5446`; curl troubleshooting chatId:`8474d8fba60f42`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
