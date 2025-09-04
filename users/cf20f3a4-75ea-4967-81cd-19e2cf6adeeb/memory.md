@@ -10,7 +10,7 @@
 - None identified yet; 0× [refs: chatId:`35b99ef5638243`]
 
 ### Emerging (recent learning, current focus)
-- exploring n8n workflow automation for job scraping; 2× (since 2025-09-03) [refs: initial n8n job scraper inquiry; LinkedIn feasibility follow-up chatId:`35b99ef5638243`]
+- exploring n8n workflow automation (running local instance) for job scraping; 3× (since 2025-09-03) [refs: initial n8n job scraper inquiry; LinkedIn feasibility follow-up chatId:`35b99ef5638243`; local config discussion chatId:`fcced4c47a8b4e`]
 - interested in entry-level React developer job market; 2× (since 2025-09-03) [refs: criteria definition discussion; LinkedIn job source concern chatId:`35b99ef5638243`]
 
 ## Thinking & Working Style
@@ -25,4 +25,4 @@
 - None identified yet; 0× [refs: chatId:`35b99ef5638243`]
 
 ### Emerging (new query patterns)
-- experimenting with automation tools (n8n); 2× (since 2025-09-03) [refs: n8n job scraper questions; LinkedIn feasibility discussion chatId:`35b99ef5638243`]
+- experimenting with automation tools (n8n); 3× (since 2025-09-03) [refs: n8n job scraper questions; LinkedIn feasibility discussion chatId:`35b99ef5638243`; local config question chatId:`fcced4c47a8b4e`]
