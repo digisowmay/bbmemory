@@ -24,4 +24,5 @@
 - (no durable patterns identified yet)
 
 ### Emerging (new query patterns)
-- asks for simple cooking recipes; 1× (first: 2025-09-04) [ref: beginner pasta recipe request chatId:`db17fa2212304f`]
+- asks for simple cooking recipes; 2× (last: 2025-09-04) [refs: beginner pasta recipe request chatId:`db17fa2212304f`; request for video details chatId:`db17fa2212304f`]
+- prefers recipe content via YouTube videos; 1× (first: 2025-09-04) [ref: request for details on YouTube video chatId:`db17fa2212304f`]
