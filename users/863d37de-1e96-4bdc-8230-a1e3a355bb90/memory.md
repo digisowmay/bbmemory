@@ -1,28 +1,28 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- gives very brief, direct imperative instructions (e.g., "delete X", "add api key", "try now"); 10× (stable since 2025-08-30) [refs: agent management commands chatId:`656c190d34a544`; Drive retry chatId:`c357e72220bd41`; new agent request chatId:`325e7e9b563443`]
+- gives very brief, direct imperative instructions; 11× (stable since 2025-08-30) [refs: agent management commands chatId:`656c190d34a544`; Drive retry chatId:`c357e72220bd41`; n8n workflow request chatId:`662655ca620f4e`]
 
 ### Emerging (new signals, 1-2 reinforcements)
 - uses casual slang ("bro") and occasional expletives in requests; 5× (last: 2025-09-04) [refs: upload request chatId:`94950b85921c4f`; Drive upload chatId:`c357e72220bd41`; earlier interaction chatId:`4a71763edf844e`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
-- (no durable knowledge captured yet)
+- (no entries)
 
 ### Emerging (recent learning, current focus)
-- (none currently)
+- (no entries)
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
-- (none currently)
+- (no entries)
 
 ### Emerging (recent behavioral shifts)
-- (none currently)
+- (no entries)
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
-- (none currently)
+- frequently requests Google Drive operations (upload, analyze, list); 6× [refs: Drive upload chatId:`c357e72220bd41`; Drive upload chatId:`94950b85921c4f`; earlier Drive upload chatId:`4a71763edf844e`]
+- regularly manages custom agents (create/delete/update); 6× [refs: agent management conversation chatId:`656c190d34a544`; latest agent sync chatId:`325e7e9b563443`]
 
 ### Emerging (new query patterns)
-- frequently requests Google Drive operations (upload, analyze, list); 6× (last: 2025-09-04) [refs: Drive upload chatId:`c357e72220bd41`; Drive upload chatId:`94950b85921c4f`; earlier Drive upload chatId:`4a71763edf844e`]
-- regularly manages custom agents (create/delete/update); 6× (last: 2025-09-04) [refs: agent management conversation chatId:`656c190d34a544`; latest agent sync chatId:`325e7e9b563443`]
+- asks about n8n workflows; 1× (first: 2025-09-04) [ref: n8n workflow request chatId:`662655ca620f4e`]
