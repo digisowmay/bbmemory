@@ -2,7 +2,7 @@
 ### Durable (established, 3+ reinforcements)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- uses very brief, single-word or two-word commands for requests; 15× (last: 2025-09-04) [refs: bikini image request; micro bikini command; shirt edit command chatId:`77dd4c248e9e49`]
+- uses very brief, single-word or two-word commands for requests; 18× (last: 2025-09-04) [refs: bikini image request; micro bikini command; shirt edit command chatId:`77dd4c248e9e49`; lingerie command chatId:`77dd4c248e9e49`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -18,4 +18,4 @@
 ### Durable (regular platform activities)
 
 ### Emerging (new query patterns)
-- experimenting with AI image generation of specific attire (bikini, shirt edits, swimwear); 17× (since 2025-09-04) [refs: generated bikini image requests; white shirt edit chatId:`77dd4c248e9e49`]
+- experimenting with AI image generation of specific attire (bikini, lingerie, shirt edits, swimwear); 20× (since 2025-09-04) [refs: generated bikini requests; white shirt edit; lingerie edit chatId:`77dd4c248e9e49`]
