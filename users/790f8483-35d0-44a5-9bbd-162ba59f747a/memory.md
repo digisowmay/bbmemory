@@ -4,7 +4,7 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - asks for data in JSON format; 1× (first: 2025-09-04) [ref: fillout agent variables JSON request chatId:`f1042313a5e242`]
-- uses concise imperative commands to retrieve agent tool details; 1× (first: 2025-09-04) [ref: google drive agent details request chatId:`053b595474c143`]
+- uses concise imperative commands to retrieve and manage agent tool details; 2× (last: 2025-09-04) [refs: google drive agent details request; endpoint update and resync commands chatId:`053b595474c143`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
