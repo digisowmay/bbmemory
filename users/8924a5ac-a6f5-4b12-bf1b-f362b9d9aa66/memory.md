@@ -5,7 +5,7 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - shares raw error logs verbatim for troubleshooting; 1× (last: 2025-09-04) [ref: lengthy rate limit and endpoint error dumps chatId:`01ba9b7f47b449`]
-- asks for high-level roadmaps for complex projects; 1× (first: 2025-09-04) [ref: Google Meet agent roadmap request chatId:`857040474e5945`]
+- asks for high-level roadmaps for complex projects; 2× (last: 2025-09-04) [refs: Google Meet agent roadmap request chatId:`857040474e5945`; follow-up participation management question chatId:`857040474e5945`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -13,7 +13,7 @@
 ### Emerging (recent learning, current focus)
 - building platform to enable two Vapi agents to interact via phone calls; 6× (since 2025-09-04) [refs: initial platform request chatId:`01ba9b7f47b449`; ongoing debugging chats chatId:`01ba9b7f47b449`]
 - troubleshooting Vapi API errors; 4× (first: 2025-09-04) [refs: error outputs and fixes chatId:`01ba9b7f47b449`]
-- planning AI agent that attends Google Meet meetings; 1× (started: 2025-09-04) [ref: roadmap request chatId:`857040474e5945`]
+- planning AI agent that attends Google Meet meetings; 2× (since 2025-09-04) [refs: roadmap request chatId:`857040474e5945`; participation timing concern chatId:`857040474e5945`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
@@ -29,4 +29,4 @@
 ### Emerging (new query patterns)
 - asks for development guidance on Vapi integrations; 6× (since 2025-09-04) [refs: guidance requests chatId:`01ba9b7f47b449`; code implementation fixes chatId:`01ba9b7f47b449`]
 - debugging Vapi API errors; 4× (since 2025-09-04) [refs: phone number endpoint errors chatId:`01ba9b7f47b449`]
-- exploring AI meeting automation (Google Meet agent); 1× (first: 2025-09-04) [ref: roadmap request chatId:`857040474e5945`]
+- exploring AI meeting automation (Google Meet agent); 2× (since 2025-09-04) [refs: roadmap request chatId:`857040474e5945`; follow-up participation management question chatId:`857040474e5945`]
