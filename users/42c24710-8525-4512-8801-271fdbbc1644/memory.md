@@ -21,5 +21,5 @@
 ### Durable (regular platform activities)
 
 ### Emerging (new query patterns)
-- searching for VAT/tax return data service providers; 3× (last: 2025-09-04) [refs: initial Reddit request; perplexity search; follow-up domestic data request chatId:`027eeb966c3f4d`]
-- requested access to competitors’ confidential VAT data (illegal request); 2× (last: 2025-09-04) [refs: first illegal data request; repeated request for domestic data chatId:`027eeb966c3f4d`]
+- searching for VAT/tax return data service providers; attempted to access competitors’ confidential VAT data; 5× (last: 2025-09-04) [refs: initial Reddit request; perplexity search; follow-up domestic data request; first illegal data request; repeated request chatId:`027eeb966c3f4d`]
+- exploring AI calling platforms; voice AI agents; 1× (first: 2025-09-04) [ref: AI calling app inquiry chatId:`019b04a7c4a048`]
