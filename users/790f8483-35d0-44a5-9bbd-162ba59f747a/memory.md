@@ -1,10 +1,10 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- (no entries yet)
+- uses concise imperative commands, often specifying output/data format; 13× [refs: fillout agent variables JSON request chatId:`f1042313a5e242`; google drive agent details request; endpoint update and resync commands; revert and sync commands chatId:`053b595474c143`; server deployment command chatId:`d853e87ec7ce47`; set internal flag chatId:`cbd34c227af442`]
+- prefers direct execution without follow-up confirmation; 9× [refs: server deployment instruction chatId:`d853e87ec7ce47`; resynx instruction chatId:`d853e87ec7ce47`; google-docs maintenance command chatId:`8544bdc4ae3d4f`; google-drive internal status command chatId:`8544bdc4ae3d4f`; set internal flag chatId:`cbd34c227af442`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- uses concise imperative commands, often specifying output/data format; 12× (last: 2025-09-04) [refs: fillout agent variables JSON request chatId:`f1042313a5e242`; google drive agent details request; endpoint update and resync commands; revert and sync commands chatId:`053b595474c143`; server deployment command chatId:`d853e87ec7ce47`; resynx instruction chatId:`d853e87ec7ce47`; google-docs maintenance command chatId:`8544bdc4ae3d4f`]
-- prefers direct execution without follow-up confirmation; 8× (last: 2025-09-04) [refs: server deployment instruction chatId:`d853e87ec7ce47`; resynx instruction chatId:`d853e87ec7ce47`; google-docs maintenance command chatId:`8544bdc4ae3d4f`; google-drive internal status command chatId:`8544bdc4ae3d4f`]
+- (no current emerging patterns)
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
