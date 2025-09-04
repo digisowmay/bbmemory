@@ -1,9 +1,9 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- 
+-
 
 ### Emerging (new signals, 1-2 reinforcements)
-- requests concise, specific deliverables (e.g., 2-3 word phrases); 1× (first: 2025-09-05) [ref: teaser video tagline suggestion chatId:`86f58c7ddb684f`]
+- requests concise, specific deliverables (e.g., 2-3 word phrases, short concept notes); 2× (last: 2025-09-05) [refs: teaser video tagline suggestion; concise concept note request chatId:`86f58c7ddb684f`]
 - asks direct questions to clarify information; 1× (first: 2025-09-05) [ref: "Do you no what is helium robotics?" chatId:`86f58c7ddb684f`]
 
 ## Knowledge & Context
