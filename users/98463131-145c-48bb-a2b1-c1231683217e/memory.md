@@ -1,6 +1,6 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- gives direct, imperative instructions in Italian; 10× (stable since 2024-08-15) [refs: Caravaggio lighting request chatId:`92f4572c1a2443`; multiple image editing requests; hand pose edit instructions chatId:`92f4572c1a2443`]
+- gives direct, imperative instructions in Italian; 11× (stable since 2024-08-15) [refs: Caravaggio lighting request chatId:`92f4572c1a2443`; multiple image editing requests; hand pose edit instructions chatId:`92f4572c1a2443`; refined hand positioning "shush" gesture chatId:`92f4572c1a2443`]
 
 ### Emerging (new signals, 1-2 reinforcements)
 
