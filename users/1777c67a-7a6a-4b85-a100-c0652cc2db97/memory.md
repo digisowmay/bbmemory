@@ -3,7 +3,7 @@
 -
 ### Emerging (new signals, 1-2 reinforcements)
 - prefers receiving draft messages for review before posting; 1× (first: 2025-09-05) [ref: social media reply drafting chatId:`6a557f6615c640`]
-- requests concise, emoji-free, professional tone; 2× (last: 2025-09-05) [refs: instruction on reply style chatId:`6a557f6615c640`; clarification to keep reply concise and emoji-free chatId:`6a557f6615c640`]
+- requests concise, emoji-free, professional tone; 3× (last: 2025-09-05) [refs: instruction on reply style chatId:`6a557f6615c640`; clarification to keep reply concise and emoji-free chatId:`6a557f6615c640`; request for one-paragraph reply chatId:`6a557f6615c640`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
