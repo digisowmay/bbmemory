@@ -5,6 +5,7 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - requests removal of small objects/elements for cleaner composition; 2× (last: 2025-09-04) [refs: strawberry removal requests chatId:`a4bb27ad1a8f43`]
+- specifies which editing tool/engine to use (e.g., "Nanobanana", "Flux"); 1× (first: 2025-09-04) [ref: left eye fix using Flux chatId:`a4bb27ad1a8f43`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -26,4 +27,4 @@
 - uses platform predominantly for AI-assisted image editing; 17× [refs: series of Nanobanana edit requests chatId:`a4bb27ad1a8f43`]
 
 ### Emerging (new query patterns)
-- requests anatomically correct adjustments to character art; 3× (since 2025-09-04) [refs: head alignment fix; shoulder corrections; hand finger alignment chatId:`a4bb27ad1a8f43`]
+- requests specific editing engines/models (Flux, Nanobanana) and compares results; 1× (since 2025-09-04) [ref: Flux eye correction request chatId:`a4bb27ad1a8f43`]
