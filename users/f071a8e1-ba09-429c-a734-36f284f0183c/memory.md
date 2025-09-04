@@ -5,6 +5,7 @@
 ### Emerging (new signals, 1-2 reinforcements)
 - prefers assistant responses concise and lowercase; 2× (since 2025-09-03) [refs: global instruction discussion chatId:`e85f5feb2a7f41`; ios app query chatId:`c846cdc8814d40`]
 - uses numeric scoring to express satisfaction (e.g., "1000 / 1000"); 2× (last: 2025-09-04) [refs: score message chatId:`8f961efc1daf47`; follow-up scoring chatId:`8f961efc1daf47`]
+- requests specific length constraints (e.g., 1000 words, 1000 chars) for responses; 2× (last: 2025-09-04) [refs: length requirement instructions chatId:`8f961efc1daf47`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -20,6 +21,7 @@
 
 ### Emerging (recent behavioral shifts)
 - seeks quick, practical alternatives to obstacles; 1× (observed: 2025-09-04) [ref: ios app alternative ways discussion chatId:`c846cdc8814d40`]
+- iteratively refines requirements through follow-up prompts; 1× (observed: 2025-09-04) [ref: multiple revision requests chatId:`8f961efc1daf47`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
