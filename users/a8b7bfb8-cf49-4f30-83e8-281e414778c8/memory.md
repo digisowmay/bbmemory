@@ -1,15 +1,13 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
 -
--
 
 ### Emerging (new signals, 1-2 reinforcements)
 - requests complete technical outputs in code/JSON format; 3× (last: 2025-09-05) [refs: workflow JSON request chatId:`cac1eed8fad440`; advanced screening request chatId:`5be34a16de4943`; initial workflow JSON request chatId:`5be34a16de4943`]
-- concise, task-focused questions without small talk; 4× (last: 2025-09-05) [refs: digital marketing automation request chatId:`dbbf3741bcc547`; workflow JSON request chatId:`cac1eed8fad440`; automation setup conversation chatId:`5be34a16de4943`; efficiency improvement question chatId:`5be34a16de4943`]
+- concise, task-focused questions without small talk; 5× (last: 2025-09-05) [refs: digital marketing automation request chatId:`dbbf3741bcc547`; workflow JSON request chatId:`cac1eed8fad440`; automation setup conversation chatId:`5be34a16de4943`; efficiency improvement question chatId:`5be34a16de4943`; faceless video automation request chatId:`5e4e0a9013d14f`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
--
 -
 
 ### Emerging (recent learning, current focus)  
@@ -17,6 +15,7 @@
 - exploring WhatsApp Business API automation with n8n; designing WhatsApp chatbot and bulk messaging system; 1× (first: 2025-09-05) [ref: WhatsApp automation clone request chatId:`cac1eed8fad440`]
 - exploring memecoin creation automation on Pump.fun using n8n; 1× (first: 2025-09-05) [ref: memecoin automation request chatId:`e17151ea64cd45`]
 - designing digital marketing automation workflows focused on social media for clients; 1× (first: 2025-09-05) [ref: digital marketing automation request chatId:`dbbf3741bcc547`]
+- exploring video content automation (faceless short videos) using n8n; 1× (first: 2025-09-05) [ref: faceless video automation request chatId:`5e4e0a9013d14f`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
@@ -30,4 +29,4 @@
 -
 
 ### Emerging (new query patterns)
-- seeks guidance on n8n workflow design and automation; 4× (last: 2025-09-05) [refs: digital marketing automation request chatId:`dbbf3741bcc547`; automation requests chatId:`5be34a16de4943`; advanced workflow enhancement chatId:`5be34a16de4943`; WhatsApp automation clone request chatId:`cac1eed8fad440`]
+- seeks guidance on n8n workflow design and automation; 5× (last: 2025-09-05) [refs: digital marketing automation request chatId:`dbbf3741bcc547`; automation requests chatId:`5be34a16de4943`; advanced workflow enhancement chatId:`5be34a16de4943`; WhatsApp automation clone request chatId:`cac1eed8fad440`; faceless video automation request chatId:`5e4e0a9013d14f`]
