@@ -4,7 +4,7 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - prefers assistant responses concise and lowercase; 2× (since 2025-09-03) [refs: global instruction discussion chatId:`e85f5feb2a7f41`; ios app query chatId:`c846cdc8814d40`]
-- requests content in paragraph form; 1× (first: 2025-09-03) [ref: credit pack rewrite paragraph chatId:`e85f5feb2a7f41`]
+- requests content in specific format and same structure as provided; 2× (last: 2025-09-04) [refs: credit pack rewrite paragraph chatId:`e85f5feb2a7f41`; meet integration formatting chatId:`8f961efc1daf47`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
