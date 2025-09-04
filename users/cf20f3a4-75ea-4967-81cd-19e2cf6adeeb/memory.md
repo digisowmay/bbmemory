@@ -5,7 +5,7 @@
 ### Emerging (new signals, 1-2 reinforcements)
 - asks direct feasibility questions about tasks; 4× (last: 2025-09-04) [refs: job scraper feasibility discussion; LinkedIn cost question chatId:`35b99ef5638243`; n8n test build request chatId:`fcced4c47a8b4e`; local n8n connection test chatId:`fcced4c47a8b4e`]
 - shares detailed technical logs when troubleshooting; 4× (last: 2025-09-04) [refs: docker inspect output chatId:`8bd9d6bf0c5344`; n8n container inspect follow-up chatId:`8bd9d6bf0c5344`; ngrok log output chatId:`8bd9d6bf0c5344`; additional ngrok session logs chatId:`8bd9d6bf0c5344`]
-- asks for iterative corrections to outputs; ensures result matches specific criteria; 2× (last: 2025-09-04) [refs: mask position correction chatId:`147c629a1d714b`; group photo addition feedback chatId:`b1aab2b45fd547`]
+- asks for iterative corrections to outputs; ensures result matches specific criteria; 3× (last: 2025-09-04) [refs: mask position correction chatId:`147c629a1d714b`; group photo addition feedback chatId:`b1aab2b45fd547`; group photo correction chatId:`053ca7b6b42a4c`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -31,4 +31,4 @@
 ### Emerging (new query patterns)
 - experimenting with automation tools (n8n); 8× (since 2025-09-03) [refs: n8n job scraper questions; workflow creation request chatId:`8bd9d6bf0c5344`; local config discussion chatId:`fcced4c47a8b4e`; API tests chatId:`fcced4c47a8b4e`; API auth troubleshooting chatId:`8bd9d6bf0c5344`]
 - uses command line tools (curl, ngrok) to test and expose APIs; 6× (last: 2025-09-04) [refs: curl test chatId:`fcced4c47a8b4e`; API key authenticated test chatId:`fcced4c47a8b4e`; healthz check chatId:`d19797e364db41`; docker inspect diagnostics chatId:`8bd9d6bf0c5344`; ngrok exposure discussion chatId:`8bd9d6bf0c5344`; ngrok session logs chatId:`8bd9d6bf0c5344`]
-- requests AI-based image editing for personal photos; 6× (last: 2025-09-04) [refs: friend photo merge request chatId:`147c629a1d714b`; group photo addition chatId:`b1aab2b45fd547`; add red shirt guy chatId:`053ca7b6b42a4c`]
+- requests AI-based image editing for personal photos; 5× (last: 2025-09-04) [refs: friend photo merge request chatId:`147c629a1d714b`; mask adjustment iterations chatId:`147c629a1d714b`; group photo addition chatId:`b1aab2b45fd547`]
