@@ -1,6 +1,6 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- provides very short, often one-word or phrase queries, requiring clarification; 3× (promoted from emerging, last: 2025-09-04) [refs: initial Icelandic phrase and "Shah rukh" queries chatId:`6f1852ff48b246`; Rain in Pakistan and Bilal queries chatId:`c65b944b66ec47`]
+- provides very short, often one-word or phrase queries, requiring clarification; 4× (stable since 2024-08-15, last: 2025-09-04) [refs: queries "Rain in Pakistan", "Bilal Karim bawany", "Arooba hameed" chatId:`c65b944b66ec47`; earlier short queries in chats]
 
 ### Emerging (new signals, 1-2 reinforcements)
 
@@ -20,3 +20,4 @@
 
 ### Emerging (new query patterns)
 - exploring crypto/NFT-related topics; 1× (since 2025-09-04) [ref: NFT fraud inquiry chatId:`6f1852ff48b246`]
+- requesting quick biographical info about individuals; 1× (first: 2025-09-04) [refs: "Bilal Karim bawany" and "Arooba hameed" queries chatId:`c65b944b66ec47`]
