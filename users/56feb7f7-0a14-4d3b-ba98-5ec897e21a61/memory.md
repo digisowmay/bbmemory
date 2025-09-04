@@ -1,28 +1,29 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- (no durable patterns identified yet)
+- concise single-sentence requests; 12× (stable since 2025-09-04) [refs: reminder setup request chatId:`0262fd8a06594f`; GitHub repo list chatId:`3f8d1edd73df43`; Redis timeout fix chatId:`ab6bf2cbe5454a`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- gives concise single-sentence requests; 11× (last: 2025-09-04) [refs: reminder setup request chatId:`0262fd8a06594f`; GitHub repo list & follow-up chats chatId:`3f8d1edd73df43`; language breakdown request chatId:`3f8d1edd73df43`]
+- (no emerging patterns identified currently)
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
-- (no durable knowledge captured yet)
+- (none recorded yet)
 
 ### Emerging (recent learning, current focus)
-- maintains GitHub account 'mannnD' with multi-language repositories (Java, Python/Django, Go, ML); 2× (since 2025-09-04) [refs: GitHub repo list & language breakdown chats chatId:`3f8d1edd73df43`]
+- maintains GitHub account 'mannnD' with multi-language repositories (Java, Python/Django, Go, ML); 2× (since 2025-09-04) [refs: GitHub repo list chatId:`3f8d1edd73df43`; language breakdown chatId:`3f8d1edd73df43`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
-- (no durable patterns captured yet)
+- (none recorded yet)
 
 ### Emerging (recent behavioral shifts)
-- (none at the moment)
+- (none recorded yet)
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
-- (no durable usage patterns yet)
+- (none recorded yet)
 
 ### Emerging (new query patterns)
-- uses scheduling/reminder tool to set specific time alerts; 2× (since 2025-09-04) [refs: initial reminder setup chatId:`0262fd8a06594f`; follow-up interaction chatId:`0262fd8a06594f`]
-- asks GitHub commit/write operations and repository analytics (model layer explanations, language breakdown); 4× (since 2025-09-04) [refs: commit capability request chatId:`3f8d1edd73df43`; language breakdown request chatId:`3f8d1edd73df43`; repo list request chatId:`3f8d1edd73df43`; model layer explanation chatId:`3f8d1edd73df43`]
+- uses scheduling/reminder tool to set specific time alerts; 2× (since 2025-09-04) [refs: reminder setup chatId:`0262fd8a06594f`; follow-up chatId:`0262fd8a06594f`]
+- asks GitHub commit/write operations and repository analytics; 4× (since 2025-09-04) [refs: commit capability chatId:`3f8d1edd73df43`; language breakdown chatId:`3f8d1edd73df43`; repo list chatId:`3f8d1edd73df43`; model layer explanation chatId:`3f8d1edd73df43`]
+- investigates backend infrastructure issues (e.g., Redis timeouts); 1× (first: 2025-09-04) [ref: Redis timeout fix chatId:`ab6bf2cbe5454a`]
