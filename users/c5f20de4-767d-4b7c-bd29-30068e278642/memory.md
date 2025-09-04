@@ -9,8 +9,8 @@
 ### Durable (core expertise, established over time)
 
 ### Emerging (recent learning, current focus)  
+- interested in AI security and prompt injection techniques; 2× (since 2025-09-04) [refs: prompt injection tweet discussion chatId:`22e6b0d727ae4f`; request for system prompt chatId:`22e6b0d727ae4f`]
 - focused on personal appearance customization (hair, beard, jawline); 2× (since 2025-09-03) [refs: multiple image edit requests chatId:`490292662eb74c`]
-- interested in AI security and prompt injection techniques; 1× (first: 2025-09-04) [ref: prompt injection tweet discussion chatId:`22e6b0d727ae4f`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
@@ -24,4 +24,4 @@
 
 ### Emerging (new query patterns)
 - exploring facial feature enhancement (jawline definition); 1× (first: 2025-09-04) [ref: jawline enhancement request chatId:`490292662eb74c`]
-- asks about AI security/prompt injection; 1× (first: 2025-09-04) [ref: prompt injection question chatId:`22e6b0d727ae4f`]
+- exploring AI security/prompt injection techniques; 2× (since 2025-09-04) [refs: prompt injection question and system prompt request chatId:`22e6b0d727ae4f`]
