@@ -1,20 +1,21 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
+- prefers actionable checklists delivered in Notion instead of other schedulers; 3× (stable since 2025-09-04) [refs: multiple checklist creation requests chatId:`5e2c71c1524e4e`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- prefers actionable checklists delivered in Notion instead of other schedulers; 3× (last: 2025-09-04) [refs: multiple checklist creation requests chatId:`5e2c71c1524e4e`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
 - 3rd year B.Tech CS student focusing on AI/ML, preparing for ESOP scholarship and GATE 2026; 1× [ref: shared preparation checklist chatId:`5e2c71c1524e4e`]
 
 ### Emerging (recent learning, current focus)
+- Working on three research projects: NeRF 3D reconstruction, Domain-Adaptive LLM bias reduction, and Safe RL for quadruped robots; 1× (started: 2025-09-04) [ref: project tracking request chatId:`5e2c71c1524e4e`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
 
 ### Emerging (recent behavioral shifts)
-- highly organized, communicates plans as detailed bullet checklists; 2× (last: 2025-09-04) [ref: ETH/ESOP checklist conversation chatId:`5e2c71c1524e4e`]
+- prefers structured project dashboards and milestone tracking pages in Notion; 1× (observed: 2025-09-04) [ref: project tracking page creation chatId:`5e2c71c1524e4e`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
