@@ -4,7 +4,7 @@
 ### Emerging (new signals, 1-2 reinforcements)
 - requests clearly structured professional email drafts; 2× (since 2025-09-04) [refs: email draft request chatId:`82fe08666ba940`; follow-up draft and send request chatId:`82fe08666ba940`]
 - expects assistant to take direct action such as sending emails; 2× (last: 2025-09-04) [refs: email send request chatId:`82fe08666ba940`; repeat send request chatId:`82fe08666ba940`]
-- prefers information delivered in code block format for easy copying; 2× (last: 2025-09-04) [refs: code format request chatId:`82fe08666ba940`; 'phase 3 to copy' request chatId:`0bec80bc25ea4f`]
+- prefers information delivered in code block format for easy copying; 1× (first: 2025-09-04) [ref: code format request chatId:`82fe08666ba940`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -17,7 +17,7 @@
 ### Durable (core thinking patterns)
 
 ### Emerging (recent behavioral shifts)
-- prefers structured step-by-step breakdown for planning; 3× (last: 2025-09-04) [refs: process walkthrough chatId:`82fe08666ba940`; advertising process breakdown chatId:`82fe08666ba940`; planning request chatId:`0bec80bc25ea4f`]
+- prefers structured step-by-step breakdown for planning; 3× (observed: 2025-09-04) [refs: process walkthrough chatId:`82fe08666ba940`; advertising process breakdown chatId:`82fe08666ba940`; process finalization request chatId:`0bec80bc25ea4f`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
