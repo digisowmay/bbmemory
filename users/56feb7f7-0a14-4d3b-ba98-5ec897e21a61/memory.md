@@ -3,14 +3,14 @@
 - (no durable patterns identified yet)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- gives concise single-sentence requests; 2× (last: 2025-09-04) [refs: reminder setup request chatId:`0262fd8a06594f`; reminder follow-up delivery method question chatId:`0262fd8a06594f`]
+- gives concise single-sentence requests; 3× (last: 2025-09-04) [refs: reminder setup request chatId:`0262fd8a06594f`; reminder follow-up delivery method question chatId:`0262fd8a06594f`; GitHub repo list request chatId:`3f8d1edd73df43`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
 - (no durable knowledge captured yet)
 
 ### Emerging (recent learning, current focus)
-- (none at the moment)
+- maintains GitHub account 'mannnD' with multiple repositories across Java, Python/Django, Go, ML; 1× (first: 2025-09-04) [ref: GitHub repo list request chatId:`3f8d1edd73df43`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
