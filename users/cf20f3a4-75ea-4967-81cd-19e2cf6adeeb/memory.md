@@ -3,8 +3,8 @@
 - none identified yet; 0× [refs:]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- asks direct feasibility questions about tasks; 4× (last: 2025-09-04) [refs: job scraper feasibility discussion; LinkedIn cost question chatId:`35b99ef5638243`; n8n test build request chatId:`fcced4c47a8b4e`; local n8n connection test chatId:`fcced4c47a8b4e`]
-- shares detailed technical logs when troubleshooting; 1× (first: 2025-09-04) [ref: docker inspect output chatId:`8bd9d6bf0c5344`]
+- asks direct feasibility questions about tasks; 5× (last: 2025-09-04) [refs: job scraper feasibility discussion; LinkedIn cost question chatId:`35b99ef5638243`; n8n test build request chatId:`fcced4c47a8b4e`; local n8n connection test chatId:`fcced4c47a8b4e`; local hosting feasibility chatId:`8bd9d6bf0c5344`]
+- shares detailed technical logs when troubleshooting; 2× (last: 2025-09-04) [refs: docker inspect output chatId:`8bd9d6bf0c5344`; additional container diagnostics chatId:`8bd9d6bf0c5344`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -19,7 +19,7 @@
 - none identified yet; 0× [refs:]
 
 ### Emerging (recent behavioral shifts)
-- tests feasibility before requesting full implementation; 3× (last: 2025-09-04) [refs: asked if possible before creation; LinkedIn paid access query chatId:`35b99ef5638243`; n8n simple test request chatId:`fcced4c47a8b4e`]
+- tests feasibility before requesting full implementation; 4× (last: 2025-09-04) [refs: asked if possible before creation; LinkedIn paid access query chatId:`35b99ef5638243`; n8n simple test request chatId:`fcced4c47a8b4e`; local hosting feasibility chatId:`8bd9d6bf0c5344`]
 - values thorough reasoning and accurate diagnosis; 1× (first: 2025-09-04) [ref: careful thinking request chatId:`d19797e364db41`]
 
 ## Platform Usage & Queries
