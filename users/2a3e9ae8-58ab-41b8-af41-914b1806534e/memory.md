@@ -12,6 +12,7 @@
 ### Emerging (recent learning, current focus)
 - expects a weekly bonus on Fridays and wants reminders at 2 pm; 6× (since 2025-09-04) [refs: conversation with bhindi agent chatId:`6cf1110ef75243`]
 - requested daily morning and evening motivational reminders; 2× (last: 2025-09-04) [refs: conversation with bhindi agent chatId:`6cf1110ef75243`]
+- searching for job and requested daily job search + weekly networking reminders; 1× (first: 2025-09-04) [ref: job search reminder setup chatId:`6cf1110ef75243`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
