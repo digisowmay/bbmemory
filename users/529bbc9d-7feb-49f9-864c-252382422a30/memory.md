@@ -2,8 +2,8 @@
 ### Durable (established, 3+ reinforcements)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- gives concise, direct-imperative instructions for visual edits; 5× (last: 2025-09-05) [refs: image editing request chatId:`a778fd93a98f47`; bikini variations request chatId:`a87c3354a04842`; green screen stool edit chatId:`f4d819cc531e4a`; bikini art brand variations chatId:`4ae82c3656a049`; current request chatId:`50b6e625837e43`]
-- requests multiple variations for creative outputs; 3× (last: 2025-09-05) [refs: bikini variations request chatId:`a87c3354a04842`; bikini art brand variations chatId:`4ae82c3656a049`; current request chatId:`50b6e625837e43`]
+- gives concise, direct-imperative instructions for visual edits; 6× (last: 2025-09-05) [refs: image editing request chatId:`a778fd93a98f47`; bikini variations request chatId:`a87c3354a04842`; green screen stool edit chatId:`f4d819cc531e4a`; bikini art brand variations chatId:`4ae82c3656a049`; current request chatId:`50b6e625837e43`; back shot variation request chatId:`7afb6d94371d44`]
+- requests multiple variations for creative outputs; 4× (last: 2025-09-05) [refs: bikini variations request chatId:`a87c3354a04842`; bikini art brand variations chatId:`4ae82c3656a049`; current request chatId:`50b6e625837e43`; back shot variation request chatId:`7afb6d94371d44`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -20,4 +20,4 @@
 ### Durable (regular platform activities)
 
 ### Emerging (new query patterns)
-- requests AI-based image editing/manipulation tasks (pose changes, green screen context); 4× (last: 2025-09-05) [refs: pose change edit chatId:`a778fd93a98f47`; stool bikini edits chatId:`a87c3354a04842`; green screen stool edit chatId:`f4d819cc531e4a`; current request chatId:`50b6e625837e43`]
+- requests AI-based image editing/manipulation tasks (pose changes, green screen context); 5× (last: 2025-09-05) [refs: pose change edit chatId:`a778fd93a98f47`; stool bikini edits chatId:`a87c3354a04842`; green screen stool edit chatId:`f4d819cc531e4a`; current request chatId:`50b6e625837e43`; back shot variation request chatId:`7afb6d94371d44`]
