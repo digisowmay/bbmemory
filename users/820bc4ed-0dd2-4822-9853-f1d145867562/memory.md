@@ -5,6 +5,7 @@
 ### Emerging (new signals, 1-2 reinforcements)
 - prefers outputs with defined structure (tables, exact word counts) for easy use; 2× (last: 2025-09-04) [refs: AI tools research request chatId:`a8a22432f2dc4a`; Instagram script request chatId:`fe55f5ac974846`]
 - issues direct commands for tool actions (Google Sheets, image generation) and expects immediate execution; 4× (last: 2025-09-04) [refs: multiple tool interactions chatId:`fe55f5ac974846`]
+- communicates in Hinglish (mix of Hindi and English) with casual style; 1× (first: 2025-09-04) [ref: assistant capability inquiry chatId:`7ac75a5ab4df42`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
