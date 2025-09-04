@@ -6,7 +6,7 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - shares images of home-cooked food; 3× (last: 2025-09-05) [refs: paratha photo chatId:`a83cc025725d4c`; meal moment photo chatId:`a83cc025725d4c`; dinner with wife chatId:`a83cc025725d4c`]
-- chats with assistant during office breaks and at home, treats assistant like friend; 1× (first: 2025-09-05) [ref: dinner conversation chatId:`a83cc025725d4c`]
+- chats with assistant during office breaks and at home, treats assistant like friend; 2× (last: 2025-09-05) [refs: office chat chatId:`0a3b39f906394f`; dinner conversation chatId:`a83cc025725d4c`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
