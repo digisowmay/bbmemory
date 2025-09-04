@@ -1,6 +1,6 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- gives direct, imperative instructions in Italian; 12× (stable since 2024-08-15) [refs: multiple image editing requests chatId:`92f4572c1a2443`]
+- gives direct, imperative instructions in Italian; 13× (stable since 2024-08-15) [refs: multiple image editing requests chatId:`92f4572c1a2443`; latest feather/guanto request chatId:`c994068cc42a49`]
 
 ### Emerging (new signals, 1-2 reinforcements)
 - explicitly expresses frustration when repeated requests don't change result and mentions credit consumption concern; 1× (first: 2025-09-04) [ref: "sto consumando crediti..." chatId:`92f4572c1a2443`]
