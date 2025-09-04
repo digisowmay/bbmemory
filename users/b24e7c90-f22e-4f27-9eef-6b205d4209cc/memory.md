@@ -18,9 +18,9 @@
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
-- asks for cryptocurrency prices (Ethereum); 12× (last: 2025-09-04) [refs: price query chatId:`3a4c3604af3642`; combined ETH/BTC request chatId:`3a4c3604af3642`; ETH price request chatId:`51b0e84b9d0b4f`]
+- asks for cryptocurrency prices (Ethereum); 13× (last: 2025-09-04) [refs: price query chatId:`3a4c3604af3642`; combined ETH/BTC request chatId:`3a4c3604af3642`; ETH price request chatId:`51b0e84b9d0b4f`]
 - requests local weather information (Bangalore); 13× (last: 2025-09-03) [refs: weather query chatId:`3a4c3604af3642`; multi-city weather request chatId:`3a4c3604af3642`]
 
 ### Emerging (new query patterns)
+- wants to connect Telegram account for integration; 4× (last: 2025-09-04) [refs: telegram connect request chatId:`c738ce3cf76148`; telegram connect verification chatId:`6b1aa698f4854d`; search contact request chatId:`6b1aa698f4854d`; telegram addition & check chatId:`51b0e84b9d0b4f`]
 - asks for Bitcoin price; 1× (first: 2025-09-03) [refs: combined ETH/BTC request chatId:`3a4c3604af3642`]
-- wants to connect Telegram account for integration; 3× (last: 2025-09-03) [refs: telegram connect request chatId:`c738ce3cf76148`; telegram connect verification chatId:`6b1aa698f4854d`; search contact request chatId:`6b1aa698f4854d`]
