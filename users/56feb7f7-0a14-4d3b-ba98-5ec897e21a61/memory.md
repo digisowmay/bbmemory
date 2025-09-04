@@ -3,7 +3,7 @@
 - concise single-sentence requests; 12× (stable since 2025-09-04) [refs: reminder setup request chatId:`0262fd8a06594f`; GitHub repo list chatId:`3f8d1edd73df43`; Redis timeout fix chatId:`ab6bf2cbe5454a`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- requests explanation for tool/agent selection; 1× (first: 2025-09-04) [ref: GitHub MCP server query chatId:`ab6bf2cbe5454a`]
+- requests explanation for tool/agent selection; 2× (last: 2025-09-04) [ref: GitHub MCP server query chatId:`ab6bf2cbe5454a`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
