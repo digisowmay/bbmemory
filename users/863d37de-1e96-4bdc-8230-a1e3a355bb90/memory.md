@@ -20,4 +20,4 @@
 
 ### Emerging (new query patterns)
 - frequently requests Google Drive operations (upload, analyze, list); 6× (last: 2025-09-04) [refs: Drive upload chatId:`c357e72220bd41`; Drive upload chatId:`94950b85921c4f`; earlier Drive upload; current chatId:`4a71763edf844e`; chatId:`67fb4a2b359545`; chatId:`04065008853045`]
-- regularly manages custom agents (create/delete/update); 1× (first: 2025-09-04) [ref: agent management conversation chatId:`656c190d34a544`]
+- regularly manages custom agents (create/delete/update); 2× (last: 2025-09-04) [refs: agent management conversation chatId:`656c190d34a544`; earlier agent management conversation chatId:`656c190d34a544`]
