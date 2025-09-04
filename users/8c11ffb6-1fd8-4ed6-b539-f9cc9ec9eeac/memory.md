@@ -3,7 +3,7 @@
 - No durable patterns identified yet
 
 ### Emerging (new signals, 1-2 reinforcements)
-- uses Spanish language greetings; 4× (last: 2025-09-04) [ref: greeting "Hola" chatId:`39bcbc10573144`]
+- uses Spanish language greetings; 5× (last: 2025-09-04) [refs: greeting "Hola" chatId:`39bcbc10573144`; Spanish question "Hén es Teodoro..." chatId:`aa0aa8f112b44d`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
