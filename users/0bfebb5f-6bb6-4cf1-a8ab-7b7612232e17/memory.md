@@ -4,7 +4,7 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - dislikes manual import approaches, repeatedly asks for full automation; 2× (last: 2025-09-04) [refs: rejection of manual method chatId:`cc9ecb10195547`; clarification on background agents chatId:`ac75338f7f314e`]
-- seeks clarity on where automations run and how to monitor them; 2× (last: 2025-09-04) [refs: inquiry on scheduler vs background tasks chatId:`ac75338f7f314e`; request for dashboard link chatId:`ac75338f7f314e`]
+- seeks clarity on where automations run, how to monitor them, and requests direct dashboard links; 3× (last: 2025-09-04) [refs: inquiry on scheduler vs background tasks chatId:`ac75338f7f314e`; request for dashboard link chatId:`ac75338f7f314e`; asks which Twitch account connected chatId:`ac75338f7f314e`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -19,7 +19,7 @@
 
 ### Emerging (recent behavioral shifts)
 - favors comprehensive, structured automation plans; 1× (observed: 2025-09-04) [ref: TwitchMaster Pro workflow design chatId:`ac75338f7f314e`]
-- detail-oriented about system internals and execution visibility; 1× (first: 2025-09-04) [ref: inquiry on scheduler vs background tasks chatId:`ac75338f7f314e`]
+- detail-oriented about system internals and execution visibility; 2× (last: 2025-09-04) [refs: inquiry on scheduler vs background tasks chatId:`ac75338f7f314e`; requests dashboard link chatId:`ac75338f7f314e`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
