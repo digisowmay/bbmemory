@@ -3,7 +3,7 @@
 - prefers Hindi-English mix with dry humour; 3× (stable since 2025-09-04) [refs: user global instruction; echo reply requirement chatId:`52f5cf9f17e44c`; earlier chat about tone]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- expects automatic replies to incoming echoes without prior confirmation; 1× (first: 2025-09-04) [ref: echo handling instruction chatId:`52f5cf9f17e44c`]
+- expects automatic replies to incoming echoes without prior confirmation; 2× (last: 2025-09-04) [refs: echo handling instruction chatId:`52f5cf9f17e44c`; follow-up auto-reply context chatId:`52f5cf9f17e44c`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -17,11 +17,11 @@
 - (none added this update)
 
 ### Emerging (recent behavioral shifts)
-- quickly delegates operational tasks to assistant; 1× (observed: 2025-09-04) [ref: early user plan addition request chatId:`52f5cf9f17e44c`]
+- quickly delegates operational tasks to assistant; 2× (last: 2025-09-04) [refs: early user plan addition request chatId:`52f5cf9f17e44c`; directive to send plan-add text chatId:`52f5cf9f17e44c`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
 - (none added this update)
 
 ### Emerging (new query patterns)
-- internal user management requests (add/remove users from plans); 1× (since 2025-09-04) [ref: early plan addition request chatId:`52f5cf9f17e44c`]
+- internal user management requests (add/remove users from plans); 2× (since 2025-09-04) [refs: early plan addition request chatId:`52f5cf9f17e44c`; instruction to send plan-add text chatId:`52f5cf9f17e44c`]
