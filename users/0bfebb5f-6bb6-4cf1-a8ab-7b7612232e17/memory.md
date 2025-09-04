@@ -1,11 +1,11 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- prefers agent to directly create/modify automated workflows and inject credentials; 6× (stable since 2025-09-04) [refs: provided Twitch credentials chatId:`ac75338f7f314e`; rewritten JSON with credentials chatId:`cc9ecb10195547`; automation build chats]
-- seeks clarity on execution location and dashboard links for automations; 7× [refs: asks where automation runs chatId:`ac75338f7f314e`; dashboard access questions same chat]
+- prefers agent to directly create/modify automated workflows and inject credentials; 7× (stable since 2025-09-04) [refs: provided Twitch credentials chatId:`ac75338f7f314e`; rewritten JSON with credentials chatId:`cc9ecb10195547`; automation build chats]
+- seeks clarity on execution location and dashboard links for automations; 8× [refs: asks where automation runs chatId:`ac75338f7f314e`; background agents visibility question chatId:`ac75338f7f314e`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- readily shares sensitive credentials to expedite setup; 5× (last: 2025-09-04) [refs: provided client ID/secret and OAuth process chatId:`ac75338f7f314e`]
-- asks for step-by-step instructions when unclear; 3× (last: 2025-09-04) [ref: OAuth token generation guidance request chatId:`ac75338f7f314e`]
+- readily shares sensitive credentials to expedite setup; 6× (last: 2025-09-04) [refs: provided client ID/secret and OAuth token chatId:`ac75338f7f314e`]
+- asks for step-by-step instructions when unclear; 4× (last: 2025-09-04) [ref: OAuth token generation guidance request chatId:`ac75338f7f314e`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -16,7 +16,7 @@
 
 ## Thinking & Working Style
 ### Durable (core patterns)
-- detail-oriented about system internals and execution visibility; 4× (consistent) [refs: inquiry on scheduler vs background tasks chatId:`ac75338f7f314e`; dashboard access request same chat]
+- detail-oriented about system internals and execution visibility; 4× [refs: inquiry on scheduler vs background tasks chatId:`ac75338f7f314e`; dashboard access request same chat]
 
 ### Emerging (recent behavioral shifts)
 
