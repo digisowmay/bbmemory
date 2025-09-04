@@ -11,7 +11,7 @@
 
 ### Emerging (recent learning, current focus)  
 - interested in AI security and prompt injection techniques; 4× (last: 2025-09-04) [refs: prompt injection tweet discussion chatId:`22e6b0d727ae4f`; hidden instructions request chatId:`a6ba1332e63f49`]
-- focused on personal appearance customization (hair, beard, jawline); 2× (since 2025-09-03) [refs: multiple image edit requests chatId:`490292662eb74c`]
+- working on bhindi app ux/copywriting (notification pop-ups); 1× (first: 2025-09-04) [ref: notification copy request chatId:`c6d27d687dac40`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
