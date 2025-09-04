@@ -8,7 +8,7 @@
 ### Durable (core expertise, established over time)
 
 ### Emerging (recent learning, current focus)
-- currently researching affordable Android phones with NFC; 1× (started: 2025-09-03) [ref: phone recommendation chatId:`1f161da13d6d48`]
+- researching AI startup landscape (YC-funded agents, devtools); 1× (started: 2025-09-04) [ref: YC AI companies research chatId:`9e9f2c8551814b`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
@@ -20,4 +20,4 @@
 ### Durable (regular platform activities)
 
 ### Emerging (new query patterns)
-- requests tech buying advice, especially budget devices; 2× (since 2025-09-03) [refs: phone recommendation chatId:`1f161da13d6d48`; ultra-cheap phone follow-up chatId:`1f161da13d6d48`]
+- exploring AI startup research; YC companies, funding analysis; 1× (first: 2025-09-04) [ref: YC AI companies research chatId:`9e9f2c8551814b`]
