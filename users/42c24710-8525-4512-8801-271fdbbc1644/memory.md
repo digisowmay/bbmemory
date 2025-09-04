@@ -23,3 +23,4 @@
 ### Emerging (new query patterns)
 - searches academic papers and datasets on Hugging Face, arXiv, and explores Reddit as data source; 1× (since 2025-09-04) [ref: multiple search requests chatId:`027eeb966c3f4d`]
 - searching for VAT/tax return data service providers; 2× (last: 2025-09-04) [refs: initial Reddit request; follow-up perplexity search chatId:`027eeb966c3f4d`]
+- requested access to competitors’ confidential VAT data (illegal request); 1× (first: 2025-09-04) [ref: request for illegal data chatId:`027eeb966c3f4d`]
