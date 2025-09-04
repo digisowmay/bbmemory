@@ -3,6 +3,7 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - prefers outputs/tasks to be short and individual; 1× (first: 2025-09-04) [ref: GitHub issue creation instruction chatId:`d6d7f5d63ea449`]
+- wants assistant to handle linking/sending without asking for confirmation; 1× (first: 2025-09-04) [ref: echo linking confirmation chatId:`93e01ed7361542`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
