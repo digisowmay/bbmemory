@@ -6,13 +6,14 @@
 ### Emerging (new signals, 1-2 reinforcements)
 - uses colon-prefixed shortcut commands like ": RESUME" to trigger actions; 15× (last: 2025-09-04) [refs: repeated ": RESUME" commands chatId:`b86acd69473144`]
 - uses sequential versioning ("v2", "v3", "v4", "v5") in rapid-fire upload commands; 5× (last: 2025-09-04) [refs: file version naming uploads chatId:`b86acd69473144`]
+- uses casual slang ("bro") and occasional expletives in requests; 1× (first: 2025-09-04) [ref: upload request chatId:`94950b85921c4f`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
 - (no entries yet)
 
 ### Emerging (recent learning, current focus)
-- familiar with Google Drive API upload parameters; requests specific contentType handling; 1× (first: 2025-09-04) [ref: parameter customization request chatId:`8670b06266b04b`]
+- familiar with Google Drive API upload parameters; 1× (first: 2025-09-04) [ref: parameter customization request chatId:`8670b06266b04b`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
