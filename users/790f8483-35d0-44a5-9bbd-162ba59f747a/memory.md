@@ -3,8 +3,8 @@
 - (no entries yet)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- uses concise imperative commands, often specifying output/data format; 8× (last: 2025-09-04) [refs: fillout agent variables JSON request chatId:`f1042313a5e242`; google drive agent details request; endpoint update and resync commands; revert and sync commands chatId:`053b595474c143`; server deployment command chatId:`d853e87ec7ce47`; resynx instruction chatId:`d853e87ec7ce47`; google-docs maintenance command chatId:`8544bdc4ae3d4f`; google-drive internal status command chatId:`8544bdc4ae3d4f`]
-- prefers direct execution without follow-up confirmation; 4× (last: 2025-09-04) [refs: server deployment instruction chatId:`d853e87ec7ce47`; resynx instruction chatId:`d853e87ec7ce47`; google-docs maintenance command chatId:`8544bdc4ae3d4f`; google-drive internal status command chatId:`8544bdc4ae3d4f`]
+- uses concise imperative commands, often specifying output/data format; 9× (last: 2025-09-04) [refs: fillout agent variables JSON request chatId:`f1042313a5e242`; google drive agent details request; endpoint update and resync commands; revert and sync commands chatId:`053b595474c143`; server deployment command chatId:`d853e87ec7ce47`; resynx instruction chatId:`d853e87ec7ce47`; google-docs maintenance command chatId:`8544bdc4ae3d4f`; google-drive internal status command chatId:`8544bdc4ae3d4f`; google contacts agent request chatId:`a9bf5aede8ef4b`]
+- prefers direct execution without follow-up confirmation; 5× (last: 2025-09-04) [refs: server deployment instruction chatId:`d853e87ec7ce47`; resynx instruction chatId:`d853e87ec7ce47`; google-docs maintenance command chatId:`8544bdc4ae3d4f`; google-drive internal status command chatId:`8544bdc4ae3d4f`; google contacts agent request chatId:`a9bf5aede8ef4b`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -25,4 +25,4 @@
 - (no entries yet)
 
 ### Emerging (new query patterns)
-- (no entries yet)
+- exploring contact management agents; 1× (first: 2025-09-04) [ref: google contacts agent request chatId:`a9bf5aede8ef4b`]
