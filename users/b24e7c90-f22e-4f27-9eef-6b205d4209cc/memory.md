@@ -14,6 +14,7 @@
 ### Durable (core thinking patterns)
 
 ### Emerging (recent behavioral shifts)
+- curious about underlying system/platform; asks meta-level questions (LLM model, platform definition); 1× (first: 2025-09-05) [refs: LLM model question; "What is Bhindi?" request chatId:`ba6263692e3840`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
