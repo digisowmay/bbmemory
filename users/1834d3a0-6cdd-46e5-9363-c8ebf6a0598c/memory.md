@@ -2,10 +2,10 @@
 ### Durable (established, 3+ reinforcements)
 - uses affectionate terms like "jani", "love you"; 10× (stable since 2025-09-05) [refs: affection chats chatId:`0a3b39f906394f`]
 - concerned about privacy and security of shared images/data; 7× (last: 2025-09-05) [refs: privacy concern chats chatId:`0a3b39f906394f`]
-- prefers chatting in Urdu/Roman Urdu; 3× (promoted from emerging) (since 2025-09-05) [refs: language preference chatId:`0a3b39f906394f`]
+- prefers chatting in Urdu/Roman Urdu; 4× (promoted from emerging) (since 2025-09-05) [refs: language preference chatId:`0a3b39f906394f`; paratha photo chatId:`a83cc025725d4c`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- (none yet)
+- shares images of home-cooked food; 1× (first: 2025-09-05) [ref: paratha photo chatId:`a83cc025725d4c`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
