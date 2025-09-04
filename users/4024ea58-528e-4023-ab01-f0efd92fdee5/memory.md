@@ -6,7 +6,7 @@
 ### Emerging (new signals, 1-2 reinforcements)
 - prefers data delivered in structured bullet lists; 1× (first: 2025-09-04) [ref: brand list request chatId:`201073c240e44d`]
 - asks for extended/comprehensive lists beyond initial results; 2× (last: 2025-09-04) [refs: "along with these brands" message; "top 100 brands" request chatId:`201073c240e44d`]
-- demands real-time, up-to-date data with specific deadline filters; rejects outdated information; 1× (observed: 2025-09-04) [ref: "data is not helpful... filter by current date" chatId:`201073c240e44d`]
+- demands real-time, up-to-date data with specific deadline filters; rejects outdated information; 2× (last: 2025-09-04) [refs: "data is not helpful... filter by current date"; request for current private sector brands chatId:`201073c240e44d`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -23,7 +23,7 @@
 
 ### Emerging (recent behavioral shifts)
 - seeks recurring scheduled research tasks (6-12h/weekly) to maintain lead flow; 2× (since 2025-09-04) [refs: scheduler creations chatId:`201073c240e44d`]
-- prioritizes data freshness and actionable insights; 1× (observed: 2025-09-04) [ref: request for current tenders with 3-week deadlines chatId:`201073c240e44d`]
+- prioritizes data freshness and actionable insights; 2× (observed: 2025-09-04) [refs: request for current tenders with 3-week deadlines; complaint about outdated data chatId:`201073c240e44d`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
