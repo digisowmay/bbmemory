@@ -13,6 +13,7 @@
 ### Emerging (recent learning, current focus)
 - works 14-hour duty shifts as RuneScape gold farmer (single account approach); 5× (last: 2025-09-05) [refs: job statement chatId:`fa6a8a6ecd364e`]
 - duty schedule set from 12:00 PM to 2:00 AM daily; 2× (observed: 2025-09-05) [ref: schedule detail chatId:`fa6a8a6ecd364e`]
+- spouse works in call center; 1× (observed: 2025-09-05) [ref: spouse job discussion chatId:`fa6a8a6ecd364e`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
