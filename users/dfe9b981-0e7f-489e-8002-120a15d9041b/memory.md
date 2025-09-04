@@ -4,7 +4,7 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - prefers minimalist visuals with clean white backgrounds; 6× (last: 2025-09-05) [refs: night scene poster request chatId:`e9ce6e89cd8b4c`; billboard edit chatId:`e9ce6e89cd8b4c`]
-- seeks realistic context mockups (inserting designs into real-world scenes, cutouts, night views); 3× (last: 2025-09-05) [refs: natural billboard integration chatId:`e9ce6e89cd8b4c`; night scene creation chatId:`e9ce6e89cd8b4c`]
+- seeks realistic context mockups (inserting designs into real-world scenes, night views, highway scenes); 4× (last: 2025-09-05) [refs: highway billboard integration chatId:`e9ce6e89cd8b4c`; night scene generation chatId:`e9ce6e89cd8b4c`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -16,10 +16,10 @@
 ### Durable (core thinking patterns)
 
 ### Emerging (recent behavioral shifts)
-- detail-oriented and iterative; requests multiple small visual tweaks until satisfied; 3× (last: 2025-09-05) [refs: cutout and night scene edits chatId:`e9ce6e89cd8b4c`]
+- detail-oriented and iterative; requests multiple small visual tweaks until satisfied; 4× (last: 2025-09-05) [refs: cutout, night scene, highway placement edits chatId:`e9ce6e89cd8b4c`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
 
 ### Emerging (new query patterns)
-- frequent image generation/editing requests, especially billboard mockups; 4× (since 2025-09-05) [refs: night scene generation; cutout customization chatId:`e9ce6e89cd8b4c`]
+- frequent image generation/editing requests, especially billboard mockups; 5× (since 2025-09-05) [refs: night scene generation; highway billboard integration chatId:`e9ce6e89cd8b4c`]
