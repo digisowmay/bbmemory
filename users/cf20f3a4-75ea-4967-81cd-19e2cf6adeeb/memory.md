@@ -4,7 +4,7 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - asks direct feasibility questions about tasks; 4× (last: 2025-09-04) [refs: job scraper feasibility discussion; LinkedIn cost question chatId:`35b99ef5638243`; n8n test build request chatId:`fcced4c47a8b4e`; local n8n connection test chatId:`fcced4c47a8b4e`]
-- shares detailed technical logs when troubleshooting; 2× (last: 2025-09-04) [refs: docker inspect output chatId:`8bd9d6bf0c5344`; n8n container inspect follow-up chatId:`8bd9d6bf0c5344`]
+- shares detailed technical logs when troubleshooting; 3× (last: 2025-09-04) [refs: docker inspect output chatId:`8bd9d6bf0c5344`; n8n container inspect follow-up chatId:`8bd9d6bf0c5344`; ngrok log output chatId:`8bd9d6bf0c5344`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
