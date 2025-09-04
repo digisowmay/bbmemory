@@ -27,4 +27,4 @@
 
 ### Emerging (new query patterns)
 - Requests iterative improvement cycles on the same image; 4× (since 2025-09-04) [refs: multiple passes on edits chatId:`c651e21425e843`]
-- Exploring clothing design alterations in edits (e.g., crop top length, strap removal); 1× (first: 2025-09-04) [ref: clothing modification request chatId:`c651e21425e843`]
+- Exploring clothing design alterations in edits (e.g., crop top length, trim color); 2× (since 2025-09-04) [refs: clothing modification requests including silver trim chatId:`c651e21425e843`]
