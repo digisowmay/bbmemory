@@ -4,7 +4,7 @@
 - requests fully built solutions rather than step-by-step guidance; 7× (promoted from emerging) [refs: "no develop it for me" message chatId:`01ba9b7f47b449`; follow-up implementation fixes chatId:`01ba9b7f47b449`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- none noted this session
+- shares raw error logs verbatim for troubleshooting; 1× (last: 2025-09-04) [ref: lengthy rate limit and endpoint error dumps chatId:`01ba9b7f47b449`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -18,7 +18,8 @@
 - delegates technical build to assistant while providing feedback; 6× (promoted from emerging) [refs: asked assistant to develop platform chatId:`01ba9b7f47b449`; multiple error corrections chatId:`01ba9b7f47b449`]
 
 ### Emerging (recent behavioral shifts)
-- prefers to configure own account resources (e.g., phone numbers) yet offloads code; 4× (last: 2025-09-04) [refs: insisted on using existing phone numbers chatId:`01ba9b7f47b449`]
+- rapid iterative debugging cycles: tests code, reports errors immediately; 1× (observed: 2025-09-04) [ref: successive error log feedback chatId:`01ba9b7f47b449`]
+- prefers robust error handling and fallback mechanisms; 1× (first: 2025-09-04) [ref: asked for rate limit fixes and multiple end-call endpoints chatId:`01ba9b7f47b449`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
