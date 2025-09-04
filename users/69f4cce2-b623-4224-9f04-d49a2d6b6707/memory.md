@@ -2,7 +2,7 @@
 ### Durable (established, 3+ reinforcements)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- prefers actionable checklists delivered in Notion instead of other schedulers; 1× (first: 2025-09-04) [ref: task creation request chatId:`5e2c71c1524e4e`]
+- prefers actionable checklists delivered in Notion instead of other schedulers; 2× (last: 2025-09-04) [refs: task creation request chatId:`5e2c71c1524e4e`; insistence on Notion checklist chatId:`5e2c71c1524e4e`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -20,4 +20,4 @@
 ### Durable (regular platform activities)
 
 ### Emerging (new query patterns)
-- uses Notion for task management and requests integration; 1× (since 2025-09-04) [ref: Notion page link and edit request chatId:`5e2c71c1524e4e`]
+- uses Notion for task management and requests integration; 2× (since 2025-09-04) [refs: Notion page link and edit request chatId:`5e2c71c1524e4e`; insistence on Notion checklist chatId:`5e2c71c1524e4e`]
