@@ -4,7 +4,7 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - uses casual humor such as “hahaha” in feedback; 3× (last: 2025-09-04) [refs: faces change remark chatId:`ec568005d9a54d`; current banner revision chatId:`ec568005d9a54d`]
-- requests multiple design variations/iterations to refine deliverables; 1× (first: 2025-09-04) [ref: request for 5 banner options chatId:`ec568005d9a54d`]
+- requests multiple design variations/iterations to refine deliverables; 3× (last: 2025-09-04) [refs: request for 5 banner options; text removal revision; dimension correction chatId:`ec568005d9a54d`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -16,7 +16,7 @@
 ### Durable (core thinking patterns)
 
 ### Emerging (recent behavioral shifts)
-- values polished, professional aesthetics in visual content; 2× (observed: 2025-09-04) [refs: insistence on professional fonts and design chatId:`ec568005d9a54d`; revision requests]
+- values polished, professional aesthetics and correct technical specifications (e.g., dimensions) in visual content; 3× (last: 2025-09-04) [refs: insistence on professional fonts and design; dimension correction request chatId:`ec568005d9a54d`; revision requests]
 - prioritizes authenticity in visuals (e.g., keeping faces unchanged); 2× (observed: 2025-09-04) [refs: request to keep faces unchanged chatId:`ec568005d9a54d`; comment on changed faces]
 
 ## Platform Usage & Queries
