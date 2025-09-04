@@ -3,15 +3,15 @@
 - none identified yet
 
 ### Emerging (new signals, 1-2 reinforcements)
-- requests concise, high-level overviews (e.g., use-case lists); 3× (last: 2025-09-04) [refs: use-case request chatId:`f3e14af2694440`; company research request chatId:`f3e14af2694440`; digital agency requirement follow-up chatId:`f3e14af2694440`]
-- iterative information gathering (asks follow-up clarifications); 3× (last: 2025-09-04) [refs: questions about Bhindi capabilities chatId:`f3e14af2694440`; company research follow-up chatId:`f3e14af2694440`; digital agency need inquiry chatId:`f3e14af2694440`]
+- requests concise, high-level overviews; 4× (last: 2025-09-04) [refs: use-case request chatId:`f3e14af2694440`; company research request chatId:`f3e14af2694440`; digital agency requirement follow-up chatId:`f3e14af2694440`; validation request chatId:`bec0afef650b4a`]
+- iterative information gathering (asks follow-up clarifications, validation); 4× (last: 2025-09-04) [refs: questions about Bhindi capabilities chatId:`f3e14af2694440`; company research follow-up chatId:`f3e14af2694440`; digital agency need inquiry chatId:`f3e14af2694440`; validation request chatId:`bec0afef650b4a`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
 - none identified yet
 
 ### Emerging (recent learning, current focus)
-- seeking potential Indian companies to pitch website/social media services; 2× (since 2025-09-04) [refs: company research request chatId:`f3e14af2694440`; digital agency requirement inquiry chatId:`f3e14af2694440`]
+- seeking potential Indian companies to pitch website/social media services; 3× (since 2025-09-04) [refs: company research request chatId:`f3e14af2694440`; digital agency requirement inquiry chatId:`f3e14af2694440`; validation request chatId:`bec0afef650b4a`]
 - learning Bhindi agent creation; 1× (first: 2025-09-04) [ref: agent creation guidance chatId:`f3e14af2694440`]
 
 ## Thinking & Working Style
@@ -19,7 +19,8 @@
 - none identified yet
 
 ### Emerging (recent behavioral shifts)
-- exploratory and research-oriented decision making; 1× (first: 2025-09-04) [ref: series of market research queries chatId:`f3e14af2694440`]
+- exploratory and research-oriented decision making; 2× (last: 2025-09-04) [refs: series of market research queries chatId:`f3e14af2694440`; validation request chatId:`bec0afef650b4a`]
+- seeks validation/accuracy confirmation before proceeding; 1× (first: 2025-09-04) [ref: validation request chatId:`bec0afef650b4a`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
