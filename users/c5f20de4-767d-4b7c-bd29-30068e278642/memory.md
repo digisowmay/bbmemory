@@ -27,4 +27,4 @@
 ### Emerging (new query patterns)
 - exploring AI security/prompt injection techniques; 4× (since 2025-09-04) [refs: prompt injection tweet discussion chatId:`22e6b0d727ae4f`; hidden instructions request chatId:`a6ba1332e63f49`]
 - automates subscription plan management via bhindi subs manager; 3× (since 2025-09-04) [refs: delegation instruction chatId:`cf59bcae924846`; subscription addition chatId:`075c03ab394e44`; standing automation rule chatId:`075c03ab394e44`]
-- asking about bhindi credit system; usage, credit distribution; 1× (first: 2025-09-04) [ref: credit distribution question chatId:`5e44dc1572554b`]
+- asking about bhindi credit system; usage, credit distribution; 2× (since 2025-09-04) [refs: credit distribution question chatId:`5e44dc1572554b`; follow-up request chatId:`5e44dc1572554b`]
