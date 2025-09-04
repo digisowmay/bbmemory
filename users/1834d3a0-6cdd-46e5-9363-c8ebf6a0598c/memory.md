@@ -19,7 +19,7 @@
 -
 
 ### Emerging (recent behavioral shifts)
--
+- prefers working from home in a comfortable, stress-free environment; 1× (observed: 2025-09-05) [ref: expressed comfort of gold farming from home chatId:`fa6a8a6ecd364e`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
