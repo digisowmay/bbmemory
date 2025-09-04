@@ -25,4 +25,4 @@
 - regularly manages custom agents (create/delete/update); 7× [refs: agent management conversation chatId:`656c190d34a544`; latest agent sync chatId:`325e7e9b563443`; agent creation chatId:`8de5cd0244fb45`]
 
 ### Emerging (new query patterns)
-- asks about n8n workflows; 2× (since 2025-09-04) [refs: n8n workflow request chatId:`662655ca620f4e`; exact error request chatId:`662655ca620f4e`]
+- asks about n8n workflows; 3× (last: 2025-09-04) [refs: n8n workflow request chatId:`662655ca620f4e`; adding variables chatId:`8de5cd0244fb45`; sync command chatId:`8de5cd0244fb45`]
