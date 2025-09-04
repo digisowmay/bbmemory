@@ -11,9 +11,8 @@
 - none identified yet; 0× [refs:]
 
 ### Emerging (recent learning, current focus)
-- exploring n8n workflow automation, running local instance via Docker; 6× (since 2025-09-03) [refs: initial n8n inquiry; config discussion chatId:`fcced4c47a8b4e`; docker inspect output chatId:`8bd9d6bf0c5344`; healthz check chatId:`d19797e364db41`]
+- exploring n8n workflow automation, running local instance via Docker, and exposing it via ngrok; 7× (since 2025-09-03) [refs: initial n8n inquiry; config discussion chatId:`fcced4c47a8b4e`; docker inspect output chatId:`8bd9d6bf0c5344`; healthz check chatId:`d19797e364db41`; ngrok exposure discussion chatId:`8bd9d6bf0c5344`]
 - interested in entry-level React developer job market; 2× (since 2025-09-03) [refs: criteria definition discussion; LinkedIn job source concern chatId:`35b99ef5638243`]
-- comfortable with Docker container management (inspect, logs, port binding); 1× (first: 2025-09-04) [ref: docker inspect data shared chatId:`8bd9d6bf0c5344`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
@@ -29,4 +28,4 @@
 
 ### Emerging (new query patterns)
 - experimenting with automation tools (n8n); 7× (since 2025-09-03) [refs: n8n job scraper questions; workflow creation request chatId:`8bd9d6bf0c5344`; local config discussion chatId:`fcced4c47a8b4e`; API tests chatId:`fcced4c47a8b4e`]
-- uses command line (curl) to test APIs; 4× (last: 2025-09-04) [refs: curl test chatId:`fcced4c47a8b4e`; API key authenticated test chatId:`fcced4c47a8b4e`; healthz check chatId:`d19797e364db41`; docker inspect diagnostics chatId:`8bd9d6bf0c5344`]
+- uses command line tools (curl, ngrok) to test and expose APIs; 5× (last: 2025-09-04) [refs: curl test chatId:`fcced4c47a8b4e`; API key authenticated test chatId:`fcced4c47a8b4e`; healthz check chatId:`d19797e364db41`; docker inspect diagnostics chatId:`8bd9d6bf0c5344`; ngrok exposure discussion chatId:`8bd9d6bf0c5344`]
