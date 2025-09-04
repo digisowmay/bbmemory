@@ -5,6 +5,7 @@
 ### Emerging (new signals, 1-2 reinforcements)
 - prefers data presented in table format; 1× (first: 2025-09-04) [ref: AI tools research request chatId:`a8a22432f2dc4a`]
 - provides precise word count & structure requirements; prefers concise scripts with defined sections; 1× (first: 2025-09-04) [ref: Instagram script request chatId:`fe55f5ac974846`]
+- uses direct imperative commands for data retrieval tasks; expects immediate action; 1× (first: 2025-09-04) [ref: Google Sheets data request chatId:`fe55f5ac974846`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -29,4 +30,4 @@
 ### Emerging (new query patterns)
 - queries about AI tool landscape and updates; 1× (first: 2025-09-04) [ref: AI tools research request chatId:`a8a22432f2dc4a`]
 - requests social media script generation, especially Instagram Reels; 1× (first: 2025-09-04) [ref: Instagram script request chatId:`fe55f5ac974846`]
-- asks assistant to retrieve data from Google Docs; 1× (first: 2025-09-04) [ref: google doc data retrieval request chatId:`fe55f5ac974846`]
+- asks assistant to retrieve data from Google Docs/Sheets; 2× (last: 2025-09-04) [refs: google doc data retrieval request chatId:`fe55f5ac974846`; Google Sheets data request chatId:`fe55f5ac974846`]
