@@ -3,7 +3,7 @@
 - none yet
 
 ### Emerging (new signals, 1-2 reinforcements)
-- prefers assistant responses concise and lowercase; 2× (since 2025-09-03) [refs: global instruction discussion chatId:`e85f5feb2a7f41`; ios app query chatId:`c846cdc8814d40`]
+- prefers assistant responses concise and lowercase; 3× (last: 2025-09-04) [refs: global instruction discussion chatId:`e85f5feb2a7f41`; ios app query chatId:`c846cdc8814d40`; google docs scopes discussion chatId:`f9e12da616e549`]
 - requests content in paragraph form; 1× (first: 2025-09-03) [ref: credit pack rewrite paragraph chatId:`e85f5feb2a7f41`]
 
 ## Knowledge & Context
@@ -11,8 +11,7 @@
 - none yet
 
 ### Emerging (recent learning, current focus)
-- currently working on iOS app that integrates AI agents and faces App Store promotion issues; 1× (started: 2025-09-04) [ref: ios app alternative ways discussion chatId:`c846cdc8814d40`]
-- integrating Google OAuth scopes for calendar and meet features; optimizing scope redundancy; 1× (first: 2025-09-04) [ref: OAuth scopes optimization chatId:`f9e12da616e549`]
+- integrating Google OAuth scopes for calendar, meet, and google docs; optimizing scope redundancy; 2× (since 2025-09-04) [refs: OAuth scopes optimization chatId:`f9e12da616e549`; ios app alternative ways discussion chatId:`c846cdc8814d40`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
