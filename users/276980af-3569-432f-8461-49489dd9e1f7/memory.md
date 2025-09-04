@@ -3,7 +3,7 @@
 - (none yet)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- uses concise, informal statements when requesting services; 1× (first: 2025-09-04) [ref: dating request chatId:`b861619474234b`]
+- uses concise, informal statements when requesting services; 2× (last: 2025-09-04) [refs: dating request chatId:`b861619474234b`; brief scheduling request chatId:`37b90a6e371b4c`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
