@@ -4,7 +4,6 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - requests visual/structured deliverables (designs, tables) and shareable markdown links; 2× (last: 2025-09-02) [refs: design/table request chatId:`ba2d44bb613f40`; markdown link request chatId:`214d0b46b49d43`]
-- requests marketing/creative copy lists (taglines, slogans) for Bhindi branding; 1× (first: 2025-09-04) [ref: tagline request chatId:`0365b81eb0e740`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -24,4 +23,4 @@
 
 ### Emerging (new query patterns)
 - requests UX/UI improvement advice for Bhindi platform; 1× (since 2025-09-02) [ref: UX improvement request chatId:`ba2d44bb613f40`]
-- exploring brand copywriting/tagline generation; 1× (first: 2025-09-04) [ref: tagline request chatId:`0365b81eb0e740`]
+- requests marketing/creative copy lists (taglines, slogans) for Bhindi branding; 2× (last: 2025-09-04) [refs: tagline request chatId:`0365b81eb0e740`; notification tagline request chatId:`0365b81eb0e740`]
