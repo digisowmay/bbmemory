@@ -1,8 +1,8 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
+- uses Bangla language in conversation; 3× (promoted from emerging, stable since 2025-09-04) [refs: asked agent's name in Bangla chatId:`1aea3bb4d3034a`; asked about exam topics in Bangla chatId:`1aea3bb4d3034a`; requested Bangla syllabus chatId:`1aea3bb4d3034a`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- uses Bangla language in conversation; 2× (last: 2025-09-04) [refs: asked agent's name in Bangla chatId:`1aea3bb4d3034a`; asked about exam topics in Bangla chatId:`1aea3bb4d3034a`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -18,3 +18,4 @@
 ### Durable (regular platform activities)
 
 ### Emerging (new query patterns)
+- asks for school exam syllabus; 1× (first: 2025-09-04) [ref: class 7 exam syllabus discussion chatId:`1aea3bb4d3034a`]
