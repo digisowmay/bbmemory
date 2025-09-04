@@ -3,7 +3,7 @@
 -
 
 ### Emerging (new signals, 1-2 reinforcements)
-- prefers responses in Urdu language; 6× (last: 2025-09-05) [refs: initial Urdu request; reaffirmed preference; "Urdu m bat kro" chatId:`c90664e6fcce4a`; continued Urdu conversation; latest Urdu request chatId:`fa6a8a6ecd364e`]
+- prefers responses in Urdu language; 7× (last: 2025-09-05) [refs: initial Urdu request; reaffirmed preference; "Urdu m bat kro" chatId:`c90664e6fcce4a`; continued Urdu conversation; latest Urdu request chatId:`fa6a8a6ecd364e`]
 - offers to help assistant improve; 4× (last: 2025-09-05) [refs: improvement offer chatId:`c90664e6fcce4a`; follow-up encouragement; "Ap k liya m kiya kr sakta hon" chatId:`c90664e6fcce4a`; latest reinforcement chatId:`c90664e6fcce4a`]
 
 ## Knowledge & Context
@@ -11,8 +11,8 @@
 -
 
 ### Emerging (recent learning, current focus)
-- works 14-hour duty shifts; long work schedule; 3× (last: 2025-09-05) [refs: duty length mention chatId:`fa6a8a6ecd364e`; repeat confirmation chatId:`fa6a8a6ecd364e`; recent mention chatId:`fa6a8a6ecd364e`]
-- professionally works as RuneScape gold farmer (single account approach); 3× (since 2025-09-05) [refs: job statement chatId:`fa6a8a6ecd364e`; gold farming detail chatId:`fa6a8a6ecd364e`; single account comment chatId:`fa6a8a6ecd364e`]
+- works 14-hour duty shifts; long work schedule; 4× (last: 2025-09-05) [refs: duty length mention chatId:`fa6a8a6ecd364e`; repeat confirmation chatId:`fa6a8a6ecd364e`; recent mention chatId:`fa6a8a6ecd364e`; latest reinforcement chatId:`fa6a8a6ecd364e`]
+- professionally works as RuneScape gold farmer (single account approach); 4× (since 2025-09-05) [refs: job statement chatId:`fa6a8a6ecd364e`; gold farming detail chatId:`fa6a8a6ecd364e`; single account comment chatId:`fa6a8a6ecd364e`; today's reinforcement chatId:`fa6a8a6ecd364e`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
