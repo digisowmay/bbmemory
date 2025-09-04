@@ -1,25 +1,29 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- provides precise layout & typography instructions, requests rapid iterative revisions with full prompt settings; 9× (stable since 2025-09-05) [refs: billboard integration update chatId:`e9ce6e89cd8b4c`; cutout request chatId:`e9ce6e89cd8b4c`]
+- provides precise layout & typography instructions, requests rapid iterative revisions with full prompt settings; 10× (stable since 2025-09-05) [refs: successive billboard refinement requests chatId:`e9ce6e89cd8b4c`]
+- prefers minimalist visuals with clean white backgrounds; 7× (promoted from emerging) [refs: poster white background directive; billboard re-placement chatId:`e9ce6e89cd8b4c`]
+- seeks realistic context mockups (integrating designs into real-world scenes, night views, highway scenes); 5× (promoted from emerging) [refs: highway billboard integration; night scene creation chatId:`e9ce6e89cd8b4c`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- prefers minimalist visuals with clean white backgrounds; 6× (last: 2025-09-05) [refs: night scene poster request chatId:`e9ce6e89cd8b4c`; billboard edit chatId:`e9ce6e89cd8b4c`]
-- seeks realistic context mockups (inserting designs into real-world scenes, night views, highway scenes); 4× (last: 2025-09-05) [refs: highway billboard integration chatId:`e9ce6e89cd8b4c`; night scene generation chatId:`e9ce6e89cd8b4c`]
+- insists on full design visibility/no cropping when fitting into mockups; 2× (last: 2025-09-05) [refs: “extend the billboard to fit”; “no cropping” instruction chatId:`e9ce6e89cd8b4c`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
+- actively managing a Bhindi billboard campaign requiring multiple mockups and visual refinements; 4× (promoted from emerging) [refs: iterative billboard edits; highway placement requests chatId:`e9ce6e89cd8b4c`]
 
 ### Emerging (recent learning, current focus)
-- working on a Bhindi billboard campaign; needs iterative visual mockups and design refinements; 3× (started: 2025-09-05) [refs: successive billboard edits chatId:`e9ce6e89cd8b4c`; night scene request chatId:`e9ce6e89cd8b4c`]
+- exploring advanced cut-out and night-scene billboard techniques; 2× (since 2025-09-05) [refs: cutout silhouette request; night scene transformation chatId:`e9ce6e89cd8b4c`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
+- detail-oriented and iterative; requests multiple small visual tweaks until satisfied; 5× (promoted from emerging) [refs: repeated revisions for realism & proportions chatId:`e9ce6e89cd8b4c`]
 
 ### Emerging (recent behavioral shifts)
-- detail-oriented and iterative; requests multiple small visual tweaks until satisfied; 4× (last: 2025-09-05) [refs: cutout, night scene, highway placement edits chatId:`e9ce6e89cd8b4c`]
+- prioritizes natural perspective and realism in composites; 1× (first: 2025-09-05) [ref: "make it look natural" highway billboard directive chatId:`e9ce6e89cd8b4c`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
+- frequent image generation/editing requests, especially billboard mockups; 6× (promoted from emerging) [refs: nano banana poster generation; highway billboard edits chatId:`e9ce6e89cd8b4c`]
 
 ### Emerging (new query patterns)
-- frequent image generation/editing requests, especially billboard mockups; 5× (since 2025-09-05) [refs: night scene generation; highway billboard integration chatId:`e9ce6e89cd8b4c`]
+- requests advanced photorealistic lighting adjustments (night scenes, illumination); 2× (since 2025-09-05) [refs: night scene billboard creation; LED lighting effect request chatId:`e9ce6e89cd8b4c`]
