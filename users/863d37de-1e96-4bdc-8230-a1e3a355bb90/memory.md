@@ -4,7 +4,7 @@
 - requests detailed error information for troubleshooting; 11× [refs: "what is the error" chatId:`62101ce6720f42`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- uses colon-prefixed shortcut commands like ": RESUME" to trigger actions; 9× (last: 2025-09-04) [refs: repeated ": RESUME" commands chatId:`62101ce6720f42`]
+- uses colon-prefixed shortcut commands like ": RESUME" to trigger actions; 10× (last: 2025-09-04) [refs: repeated ": RESUME" commands chatId:`62101ce6720f42`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -25,4 +25,4 @@
 - (no entries yet)
 
 ### Emerging (new query patterns)
-- (no entries yet)
+- requests Google Drive uploads and shareable links; 1× (first: 2025-09-04) [ref: image upload and share link sequence chatId:`62101ce6720f42`]
