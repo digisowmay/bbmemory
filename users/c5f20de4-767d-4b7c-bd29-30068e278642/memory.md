@@ -18,7 +18,7 @@
 
 ### Emerging (recent behavioral shifts)
 - iterative visual tweaking approach; asks for incremental changes until satisfied; 2× (since 2025-09-03) [refs: successive perms, beard removal, jawline edits chatId:`490292662eb74c`]
-- delegates operational tasks to system agents for automated handling; 2× (since 2025-09-04) [refs: bhindi subs manager delegation chatId:`cf59bcae924846`; echo channel control chatId:`1c4d2e575d3548`]
+- delegates operational tasks to system agents for automated handling; 3× (since 2025-09-04) [refs: bhindi subs manager delegation chatId:`cf59bcae924846`; echo channel control chatId:`1c4d2e575d3548`; subscription addition verification chatId:`075c03ab394e44`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
@@ -26,5 +26,4 @@
 
 ### Emerging (new query patterns)
 - exploring AI security/prompt injection techniques; 4× (since 2025-09-04) [refs: prompt injection tweet discussion chatId:`22e6b0d727ae4f`; hidden instructions request chatId:`a6ba1332e63f49`]
-- exploring facial feature enhancement (jawline definition); 1× (first: 2025-09-04) [ref: jawline enhancement request chatId:`490292662eb74c`]
-- automates subscription plan management via bhindi subs manager; 1× (first: 2025-09-04) [ref: delegation instruction chatId:`cf59bcae924846`]
+- automates subscription plan management via bhindi subs manager; 2× (since 2025-09-04) [refs: delegation instruction chatId:`cf59bcae924846`; subscription addition chatId:`075c03ab394e44`]
