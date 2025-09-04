@@ -4,7 +4,7 @@
 - seeks clarity on execution location and dashboard links for automations; 5× [refs: asks where automation runs chatId:`ac75338f7f314e`; request for dashboard link chatId:`ac75338f7f314e`; prior inquiries same chat]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- readily shares sensitive credentials to expedite setup; 2× (last: 2025-09-04) [refs: provided Twitch client ID/secret chatId:`ac75338f7f314e`; earlier credential sharing same chat]
+- readily shares sensitive credentials to expedite setup; 3× (last: 2025-09-04) [refs: provided Twitch client ID/secret chatId:`ac75338f7f314e`; earlier credential sharing same chat]
 - asks for step-by-step instructions when unclear; 1× (first: 2025-09-04) [ref: OAuth token generation guidance request chatId:`ac75338f7f314e`]
 
 ## Knowledge & Context
