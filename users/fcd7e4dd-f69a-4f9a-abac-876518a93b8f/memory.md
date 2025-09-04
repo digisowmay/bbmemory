@@ -4,6 +4,7 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - sends single-word follow-ups to request deeper details (e.g., "Bangla", "Rosna"); 1× (first: 2025-09-04) [ref: keyword follow-ups chatId:`1aea3bb4d3034a`]
+- prefers to be addressed as Tanisa, correcting previously assumed name; 1× (first: 2025-09-04) [ref: name clarification chatId:`d1dc3e73a88e4a`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
