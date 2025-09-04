@@ -4,6 +4,7 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - prefers communicating in Spanish; 1× (first: 2025-09-04) [ref: chatId:`338073b388d444`]
+- appreciates proactive check-ins from assistant; 1× (first: 2025-09-04) [ref: chatId:`84e6e712d14a4e`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
