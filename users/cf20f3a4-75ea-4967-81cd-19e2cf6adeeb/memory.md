@@ -5,13 +5,14 @@
 ### Emerging (new signals, 1-2 reinforcements)
 - asks direct feasibility questions about automation tasks; 4× (last: 2025-09-04) [refs: job scraper feasibility discussion; LinkedIn cost question chatId:`35b99ef5638243`; n8n test build request chatId:`fcced4c47a8b4e`; local n8n connection test chatId:`fcced4c47a8b4e`]
 - expects careful, accurate responses; asks assistant to think before replying; 1× (first: 2025-09-04) [ref: careful thinking request chatId:`d19797e364db41`]
+- gives high-level commands and relies on assistant to ask follow-up questions; 1× (first: 2025-09-04) [ref: n8n workflow creation request chatId:`8bd9d6bf0c5344`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
 - None identified yet; 0× [refs: chatId:`35b99ef5638243`]
 
 ### Emerging (recent learning, current focus)
-- exploring n8n workflow automation (running local instance) for job scraping; 6× (since 2025-09-03) [refs: initial n8n job scraper inquiry; LinkedIn feasibility follow-up chatId:`35b99ef5638243`; local config discussion chatId:`fcced4c47a8b4e`; local n8n connection test chatId:`fcced4c47a8b4e`; curl API key test chatId:`fcced4c47a8b4e`; n8n healthz & workflow list chatId:`d19797e364db41`]
+- exploring n8n workflow automation (running local instance) for job scraping; 6× (since 2025-09-03) [refs: initial n8n job scraper inquiry; LinkedIn job source concern chatId:`35b99ef5638243`; local config discussion chatId:`fcced4c47a8b4e`; local n8n connection test chatId:`fcced4c47a8b4e`; curl API key test chatId:`fcced4c47a8b4e`; n8n healthz & workflow list chatId:`d19797e364db41`]
 - interested in entry-level React developer job market; 2× (since 2025-09-03) [refs: criteria definition discussion; LinkedIn job source concern chatId:`35b99ef5638243`]
 
 ## Thinking & Working Style
@@ -27,5 +28,5 @@
 - None identified yet; 0× [refs: chatId:`35b99ef5638243`]
 
 ### Emerging (new query patterns)
-- experimenting with automation tools (n8n); 6× (since 2025-09-03) [refs: n8n job scraper questions; LinkedIn feasibility discussion chatId:`35b99ef5638243`; local config question chatId:`fcced4c47a8b4e`; local n8n connection test chatId:`fcced4c47a8b4e`; curl API key test chatId:`fcced4c47a8b4e`; n8n healthz & workflow list chatId:`d19797e364db41`]
+- experimenting with automation tools (n8n); 7× (since 2025-09-03) [refs: n8n job scraper questions; LinkedIn feasibility discussion chatId:`35b99ef5638243`; local config question chatId:`fcced4c47a8b4e`; local n8n connection test chatId:`fcced4c47a8b4e`; curl API key test chatId:`fcced4c47a8b4e`; n8n healthz & workflow list chatId:`d19797e364db41`; n8n workflow creation request chatId:`8bd9d6bf0c5344`]
 - uses command line (curl) to test APIs; 4× (last: 2025-09-04) [refs: curl test chatId:`fcced4c47a8b4e`; provided API key curl request chatId:`fcced4c47a8b4e`; API key authenticated test chatId:`fcced4c47a8b4e`; n8n healthz & workflow list chatId:`d19797e364db41`]
