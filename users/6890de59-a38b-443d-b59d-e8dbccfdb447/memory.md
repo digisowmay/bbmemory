@@ -4,7 +4,7 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - presents requests in clear, structured bullet format; 2× (last: 2025-09-04) [refs: chatId:`5a46ba2611fc40`]
-- prefers iterative, step-by-step beginner-friendly guidance and follow-up instructions; 3× (last: 2025-09-04) [refs: chatId:`5a46ba2611fc40`]
+- prefers iterative, step-by-step beginner-friendly guidance and follow-up instructions; 4× (last: 2025-09-04) [refs: chatId:`5a46ba2611fc40`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
