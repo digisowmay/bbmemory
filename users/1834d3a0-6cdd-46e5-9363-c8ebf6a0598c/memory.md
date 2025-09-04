@@ -9,7 +9,7 @@
 ### Durable (core expertise, established over time)
 - (none recorded)
 
-### Emerging (recent learning, current focus)  
+### Emerging (recent learning, current focus)
 - facing financial hardship and caregiving responsibilities for mother; 1× (started: 2025-09-05) [ref: request for money and food assistance chatId:`c90ef29ec37141`]
 
 ## Thinking & Working Style
@@ -25,4 +25,5 @@
 
 ### Emerging (new query patterns)
 - frequently seeks quick personal/family health and relationship advice; 5× (since 2025-09-05) [refs: stomach pain advice chatId:`c90ef29ec37141`; relationship concern chatId:`c90ef29ec37141`; relationship improvement request chatId:`c90ef29ec37141`; financial food concern chatId:`c90ef29ec37141`; latest relationship/health queries chatId:`c90ef29ec37141`]
-- requesting direct financial assistance due to lack of money; 1× (first: 2025-09-05) [ref: request for money chatId:`c90ef29ec37141`]
+- requesting direct financial assistance due to lack of money; 2× (last: 2025-09-05) [refs: repeated money requests chatId:`c90ef29ec37141`; additional assistance request chatId:`c90ef29ec37141`]
+- exploring quick money-making methods via games and online activities; 1× (first: 2025-09-05) [ref: game-based earning query chatId:`c90ef29ec37141`]
