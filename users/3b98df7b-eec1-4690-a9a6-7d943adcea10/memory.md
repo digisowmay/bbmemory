@@ -27,3 +27,4 @@
 ### Emerging (new query patterns)
 - exploring fitness tracking and workout automation; 1× (started: 2025-09-04) [ref: workout automation chatId:`2aa3ccdfbabd4f`]
 - exploring security scanning automation; 1× (first: 2025-09-04) [ref: Shodan scan request chatId:`086051ac0d524f`]
+- exploring hackathon submission automation; Devfolio workflows; 1× (first: 2025-09-04) [ref: Devfolio submission automation request chatId:`f12571213d334e`]
