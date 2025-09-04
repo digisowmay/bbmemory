@@ -2,8 +2,8 @@
 ### Durable (established, 3+ reinforcements)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- uses casual slang ("bro") and occasional expletives in requests; 3× (last: 2025-09-04) [refs: upload request chatId:`94950b85921c4f`; Drive upload chatId:`c357e72220bd41`; earlier interaction]
-- gives very brief, direct imperative instructions (e.g., "try again"); 2× (last: 2025-09-04) [refs: Drive retry chatId:`c357e72220bd41`; earlier concise directive]
+- uses casual slang ("bro") and occasional expletives in requests; 4× (last: 2025-09-04) [refs: upload request chatId:`94950b85921c4f`; Drive upload chatId:`c357e72220bd41`; earlier interaction; current chatId:`4a71763edf844e`]
+- gives very brief, direct imperative instructions (e.g., "try again"); 3× (last: 2025-09-04) [refs: Drive retry chatId:`c357e72220bd41`; earlier concise directive; current chatId:`4a71763edf844e`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -19,4 +19,4 @@
 ### Durable (regular platform activities)
 
 ### Emerging (new query patterns)
-- frequently requests uploading files/images to Google Drive; 3× (last: 2025-09-04) [refs: Drive upload chatId:`c357e72220bd41`; Drive upload chatId:`94950b85921c4f`; earlier Drive upload]
+- frequently requests uploading files/images to Google Drive; 4× (last: 2025-09-04) [refs: Drive upload chatId:`c357e72220bd41`; Drive upload chatId:`94950b85921c4f`; earlier Drive upload; current chatId:`4a71763edf844e`]
