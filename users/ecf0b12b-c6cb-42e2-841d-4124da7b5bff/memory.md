@@ -2,7 +2,7 @@
 ### Durable (established, 3+ reinforcements)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- uses very concise, directive requests; 1× (first: 2025-09-04) [ref: "Need to build n8n lead capturing ai chatbot" chatId:`21e2ed45f17348`]
+- uses very concise, directive requests; 2× (last: 2025-09-04) [ref: lead capture chatbot integration request chatId:`21e2ed45f17348`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -19,4 +19,4 @@
 ### Durable (regular platform activities)
 
 ### Emerging (new query patterns)
-- exploring n8n automation/chatbot setup queries; 1× (first: 2025-09-04) [ref: lead capture chatbot request chatId:`21e2ed45f17348`]
+- exploring n8n automation/chatbot setup queries; 2× (since 2025-09-04) [ref: integration request chatId:`21e2ed45f17348`]
