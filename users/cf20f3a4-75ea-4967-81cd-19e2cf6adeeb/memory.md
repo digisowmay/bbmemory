@@ -4,8 +4,8 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - asks direct feasibility questions about automation tasks; 4× (last: 2025-09-04) [refs: job scraper feasibility discussion; LinkedIn cost question chatId:`35b99ef5638243`; n8n test build request chatId:`fcced4c47a8b4e`; local n8n connection test chatId:`fcced4c47a8b4e`]
-- uses command line (curl) to test APIs; 2× (last: 2025-09-04) [refs: curl test chatId:`fcced4c47a8b4e`; provided API key curl request chatId:`fcced4c47a8b4e`]
-- requests explicit ready-to-use CLI examples (curl) for guidance; 1× (first: 2025-09-04) [ref: requested curl with API key chatId:`fcced4c47a8b4e`]
+- uses command line (curl) to test APIs; 3× (last: 2025-09-04) [refs: curl test chatId:`fcced4c47a8b4e`; provided API key curl request chatId:`fcced4c47a8b4e`; API key authenticated test chatId:`fcced4c47a8b4e`]
+- requests explicit ready-to-use CLI examples (curl) for guidance; 2× (last: 2025-09-04) [refs: requested curl with API key chatId:`fcced4c47a8b4e`; "give curl using this" chatId:`fcced4c47a8b4e`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
