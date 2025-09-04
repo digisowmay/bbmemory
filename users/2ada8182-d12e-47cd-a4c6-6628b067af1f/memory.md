@@ -3,14 +3,14 @@
 - (none yet)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- Prefers communicating in Spanish; 2× (last: 2025-09-04) [ref: chatId:`f9dfa3184f674c`]
+- Prefers communicating in Spanish; 3× (last: 2025-09-04) [ref: chatId:`f9dfa3184f674c`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
 - (none yet)
 
 ### Emerging (recent learning, current focus)
-- (none yet)
+- Exploring naturopathy and natural health topics; 2× (since 2025-09-04) [refs: chatId:`f9dfa3184f674c`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
@@ -24,4 +24,4 @@
 - (none yet)
 
 ### Emerging (new query patterns)
-- Exploring naturopathy and natural health topics; 1× (first: 2025-09-04) [ref: chatId:`f9dfa3184f674c`]
+- (none yet)
