@@ -1,6 +1,6 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- gives brief imperative commands; expects quick action or implementation; 36× (updated 2025-09-04) [refs: fillout agent details request chatId:`f1042313a5e242`; image+drive request chatId:`36efb2c4d3eb42`; ssh + agent sync command chatId:`44b527d9977b41`; google drive agent commands chatId:`b9946941f7a644`; image-upload quick action chatId:`b7328da7465d46`]
+- gives brief imperative commands; expects quick action or implementation; 37× (updated 2025-09-04) [refs: fillout agent details request chatId:`f1042313a5e242`; image+drive request chatId:`36efb2c4d3eb42`; ssh + agent sync command chatId:`44b527d9977b41`; google drive agent commands chatId:`b9946941f7a644`; image-upload quick action chatId:`b7328da7465d46`]
 
 ### Emerging (new signals, 1-2 reinforcements)
 - prefers direct resource links (e.g., Drive links) after operations; 4× (last: 2025-09-03) [ref: requested Drive URL chatId:`b7328da7465d46`]
