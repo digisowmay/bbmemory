@@ -3,7 +3,8 @@
 - (no durable patterns yet)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- prefers Arabic language and interested in voice (TTS) responses; 6× (last: 2025-09-05) [refs: greeting and voice request chatId:`9ad7b063949e45`; name introduction chatId:`9ad7b063949e45`; TTS conversion command chatId:`9ad7b063949e45`; female voice request chatId:`9ad7b063949e45`; date query chatId:`9b3c22e3fca64e`; school address request chatId:`9b3c22e3fca64e`]
+- يفضل اللغة العربية ويهتم بالحصول على ردود صوتية (TTS)؛ 6× (last: 2025-09-05) [refs: greeting and voice request chatId:`9ad7b063949e45`; TTS interaction chatId:`9ad7b063949e45`; image & math support chatId:`9b3c22e3fca64e`]
+- يطلب حلولاً منظمة وخطوات مرتبة للمسائل الدراسية؛ 1× (first: 2025-09-05) [ref: math questions solution request chatId:`9b3c22e3fca64e`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -24,5 +25,5 @@
 - (no durable query patterns yet)
 
 ### Emerging (new query patterns)
-- exploring text-to-speech feature for responses; 4× (last: 2025-09-05) [refs: voice response request chatId:`9ad7b063949e45`; continued TTS interaction chatId:`9ad7b063949e45`; latest TTS generation chatId:`9ad7b063949e45`; female voice request chatId:`9ad7b063949e45`]
-- requests images/photos of locations for better visualization; 1× (first: 2025-09-05) [ref: school image request chatId:`9b3c22e3fca64e`]
+- يستكشف خاصية تحويل النص إلى كلام للردود؛ 4× (last: 2025-09-05) [refs: TTS requests chatId:`9ad7b063949e45`; voice preference chatId:`9ad7b063949e45`; latest voice request chatId:`9ad7b063949e45`]
+- يطلب مساعدة في حل مسائل رياضيات/واجبات؛ 1× (first: 2025-09-05) [ref: math questions solution request chatId:`9b3c22e3fca64e`]
