@@ -2,7 +2,7 @@
 ### Durable (established, 3+ reinforcements)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- sends brief Bangla (Banglish) queries, occasionally mixing other scripts; prefers concise messages; 14× (last: 2025-09-04) [refs: repeated short queries about games, math, scout info chatId:`b232febf9cd642`]
+- sends brief Bangla (Banglish) queries, occasionally mixing other scripts; 15× (last: 2025-09-04) [refs: repeated short queries about games, math, scout info chatId:`b232febf9cd642`; mixed-language clarification chats chatId:`10b0246e453443`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
