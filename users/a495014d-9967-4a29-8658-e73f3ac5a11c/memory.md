@@ -1,8 +1,8 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
+- gives concise, directive instructions about visual output; prefers specific style adjustments; 3× (stable since 2025-08-31) [refs: request to wear Balenciaga in image edit chatId:`9e19cd30063240`; request to remove text and corny background; Jamaican style transformation request chatId:`2fa5539bb9204a`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- gives concise, directive instructions about visual output; prefers specific style adjustments; 1× (first: 2025-08-31) [ref: request to remove text and corny background]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -20,4 +20,4 @@
 ### Durable (regular platform activities)
 
 ### Emerging (new query patterns)
-- uses platform to generate and edit images for YouTube thumbnails; 1× (first: 2025-08-31) [ref: request to generate thumbnail]
+- uses platform to generate and edit images for YouTube thumbnails; 2× (since 2025-08-31) [refs: request to generate thumbnail; Jamaican style transformation request chatId:`2fa5539bb9204a`]
