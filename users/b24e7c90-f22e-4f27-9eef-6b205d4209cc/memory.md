@@ -16,7 +16,7 @@
 ### Durable (core thinking patterns)
 
 ### Emerging (recent behavioral shifts)
-- stress-testing systems for edge cases; deliberately tries to break message transformations; 3× (last: 2025-09-05) [refs: edge case testing discussion chatId:`555a19ed02cb41`; prompt generation for stress tests chatId:`555a19ed02cb41`; whitespace-only message test chatId:`a8c150ccda4d43`]
+- stress-testing systems for edge cases; deliberately tries to break message transformations; 3× (last: 2025-09-05) [refs: edge case testing discussion chatId:`555a19ed02cb41`; prompt generation for stress tests chatId:`555a19ed02cb41`; emoji/control chars message chatId:`4d69fd12c7f545`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
