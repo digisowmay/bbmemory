@@ -1,29 +1,28 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- Requests iterative design adjustments with clear, direct feedback; 6× (last: 2025-09-04) [refs: successive profile/banner revision requests chatId:`ec568005d9a54d`; multiple profile picture iterations]
-- Prefers sophisticated, elegant typography and calls out font quality; 4× (last: 2025-09-04) [refs: repeated "use nice fonts" feedback; professional-looking font requests chatId:`ec568005d9a54d`]
-- Rejects designs deemed "childish", demands mature, high-end aesthetic; 4× (last: 2025-09-04) [refs: "too childish" feedback across banner/profile chats chatId:`ec568005d9a54d`]
+- Requests iterative graphic/design revisions with direct, candid feedback; 6× (last: 2025-09-04) [refs: multiple banner/profile revision requests chatId:`ec568005d9a54d`]
+- Insists on sophisticated, professional typography and rejects designs deemed “childish”; 4× (since 2025-09-04) [refs: repeated "use nice fonts" & "make it professional" feedback chatId:`ec568005d9a54d`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- Insists on correct platform dimensions (YouTube banner 2560×1440 etc.); 2× (last: 2025-09-04) [refs: size correction requests chatId:`ec568005d9a54d`]
+- Quickly calls out incorrect technical specs (e.g., image dimensions) and asks for fixes; 2× (last: 2025-09-04) [refs: "not correct dimensions" feedback chatId:`ec568005d9a54d`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
-- Band branding: dramatic stormy imagery with rain and a cross to convey faith identity; 4× [refs: initial inspiration image; repeated design briefs chatId:`ec568005d9a54d`]
+- Leads/represents Christian gospel band "Shadows of the Last Rain"; values cross imagery and spiritual themes; 4× [refs: banner and profile picture instructions featuring cross & gospel theme chatId:`ec568005d9a54d`]
 
 ### Emerging (recent learning, current focus)
-- Seeks professional logo/profile designs incorporating cross + rain symbolism; 2× (since 2025-09-04) [refs: profile picture iteration requests]
+- Focused on optimizing YouTube branding assets (banners, profile pictures); 2× (since 2025-09-04) [refs: asks for correct YouTube sizes chatId:`ec568005d9a54d`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
-- High aesthetic standards; prioritizes premium, professional finish over speed; 4× [refs: multiple revision cycles demanding polish chatId:`ec568005d9a54d`]
+- High standards/perfectionist: compares outputs to own design, often states theirs is better; 3× [refs: "ours is better" comment & multiple rejections chatId:`ec568005d9a54d`]
 
 ### Emerging (recent behavioral shifts)
-- Open to inspirational references to improve outcomes; 1× (first: 2025-09-04) [ref: provided current logo as inspiration]
+- Seeks balance of spiritual symbolism with modern professionalism; 1× (first: 2025-09-04) [ref: request to merge cross with sleek logo chatId:`ec568005d9a54d`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
-- Iteratively commissions custom graphic assets (banners, profile pics); 6× [refs: banner/profile generation cycles chatId:`ec568005d9a54d`]
+- Frequently generates and refines custom graphic assets (banners, logos, profile pics); 7× [refs: entire design iteration session chatId:`ec568005d9a54d`]
 
 ### Emerging (new query patterns)
-- Wants future-proof brand assets (logos adaptable to circular crops, high resolution); 1× (first: 2025-09-04) [ref: circular-friendly request]
+- Pays attention to technical compliance (image aspect ratios, resolution) for social media; 2× (since 2025-09-04) [refs: YouTube banner size corrections chatId:`ec568005d9a54d`]
