@@ -3,8 +3,8 @@
 - prefers answers in Urdu when asked; 6× (stable since 2025-09-05) [refs: multiple Urdu reply requests chatId:`c90ef29ec37141`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- uses Roman Urdu for queries; 5× (last: 2025-09-05) [refs: ongoing Roman Urdu messages chatId:`c90ef29ec37141`]
-- expresses affectionate language towards the AI assistant quickly ("love you"); 1× (first: 2025-09-05) [ref: affection message chatId:`c90ef29ec37141`]
+- uses Roman Urdu for queries; 7× (last: 2025-09-05) [refs: ongoing Roman Urdu messages chatId:`c90ef29ec37141`]
+- expresses affectionate language towards the AI assistant quickly ("love you"); 3× (last: 2025-09-05) [refs: affection messages chatId:`c90ef29ec37141`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
