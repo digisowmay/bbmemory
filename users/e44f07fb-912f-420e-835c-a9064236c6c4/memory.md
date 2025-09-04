@@ -12,7 +12,8 @@
 
 ### Emerging (recent learning, current focus)
 - involved in Pure DC LON01 data centre structured cabling & BMS documentation analysis; 3× (since 2025-09-01) [refs: repeated Datel proposal and BMS diagrams discussions chatId:`b2776138c89440`]
-- exploring career pivot from project management to high-growth roles (GTM strategist, sustainability/green tech paths); 3× (last: 2025-09-03) [refs: high-growth roles queries including sustainability chatId:`ad65743123e647`]
+- exploring career pivot from project management to high-growth roles (GTM strategist, sustainability/green tech paths); 4× (last: 2025-09-04) [refs: high-growth roles queries including sustainability chatId:`ad65743123e647`]
+- interested in high-paying digital marketing (PPC/SEO) roles; 1× (first: 2025-09-04) [ref: PPC & SEO salary query chatId:`ad65743123e647`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
@@ -28,4 +29,5 @@
 
 ### Emerging (new query patterns)
 - exploring document parsing capabilities (AutoCAD PDFs, Excel files, system diagrams); 6× (since 2025-09-01) [refs: capability inquiries and file attachment attempts chatId:`b2776138c89440`]
-- job & career search queries in high-growth sectors (GTM, sustainability, green tech); 3× (last: 2025-09-03) [refs: career pivot requests and sustainability roles discussion chatId:`ad65743123e647`]
+- job & career search queries in high-growth sectors (GTM, sustainability, green tech); 4× (last: 2025-09-04) [refs: career pivot requests, sustainability roles discussion, high-paying PPC/SEO query chatId:`ad65743123e647`]
+- searching for high-paying PPC/SEO digital marketing roles; 1× (first: 2025-09-04) [ref: PPC & SEO salary query chatId:`ad65743123e647`]
