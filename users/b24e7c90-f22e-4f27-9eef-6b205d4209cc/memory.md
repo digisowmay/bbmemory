@@ -4,8 +4,8 @@
 - repeats same query when answer not immediately provided; 8× [refs: repeated weather query chatId:`0f2a45887f814b`; follow-up query chatId:`a90c91b55edd49`; repeated "hi" to regain attention chatId:`6b1aa698f4854d`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- asks for explicit "CONFIRM" after actions to verify completion; 5× (last: 2025-09-04) [refs: confirmation prompts after telegram messages chatId:`73b4009701b44d`; additional CONFIRM after retries chatId:`73b4009701b44d`]
-- retries failed actions immediately ("Try again" after PEER_FLOOD errors); 4× (since 2025-09-04) [refs: multiple telegram send attempts chatId:`73b4009701b44d`]
+- asks for explicit "CONFIRM" after actions to verify completion; 7× (last: 2025-09-04) [refs: confirmation prompts after telegram messages chatId:`73b4009701b44d`; repeated CONFIRM usage chatId:`73b4009701b44d`]
+- retries failed actions immediately ("Try again" after PEER_FLOOD errors); 5× (last: 2025-09-04) [refs: multiple telegram send retries chatId:`73b4009701b44d`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -16,7 +16,7 @@
 ### Durable (core thinking patterns)
 
 ### Emerging (recent behavioral shifts)
-- persistent in pursuing task completion despite errors; 4× (since 2025-09-04) [refs: repeated telegram send retries chatId:`73b4009701b44d`]
+- persistent in pursuing task completion despite errors; 5× (last: 2025-09-04) [refs: repeated telegram send attempts chatId:`73b4009701b44d`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
@@ -24,5 +24,5 @@
 - requests local weather information (Bangalore); 13× (last: 2025-09-03) [refs: weather query chatId:`3a4c3604af3642`; multi-city weather request chatId:`3a4c3604af3642`]
 
 ### Emerging (new query patterns)
-- wants to connect Telegram account for integration; 8× (last: 2025-09-04) [refs: telegram connect & send attempts chatId:`73b4009701b44d`]
+- wants to connect Telegram account for integration; 6× (last: 2025-09-04) [refs: telegram connect request chatId:`73b4009701b44d`; telegram agent add chatId:`73b4009701b44d`]
 - requests trending crypto token lists; 1× (first: 2025-09-04) [ref: trending crypto list request chatId:`73b4009701b44d`]
