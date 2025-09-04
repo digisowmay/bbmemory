@@ -4,14 +4,14 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - asks direct feasibility questions about tasks; 4× (last: 2025-09-04) [refs: job scraper feasibility discussion; LinkedIn cost question chatId:`35b99ef5638243`; n8n test build request chatId:`fcced4c47a8b4e`; local n8n connection test chatId:`fcced4c47a8b4e`]
-- shares detailed technical logs when troubleshooting; 3× (last: 2025-09-04) [refs: docker inspect output chatId:`8bd9d6bf0c5344`; n8n container inspect follow-up chatId:`8bd9d6bf0c5344`; ngrok log output chatId:`8bd9d6bf0c5344`]
+- shares detailed technical logs when troubleshooting; 4× (last: 2025-09-04) [refs: docker inspect output chatId:`8bd9d6bf0c5344`; n8n container inspect follow-up chatId:`8bd9d6bf0c5344`; ngrok log output chatId:`8bd9d6bf0c5344`; additional ngrok session logs chatId:`8bd9d6bf0c5344`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
 - none identified yet; 0× [refs:]
 
 ### Emerging (recent learning, current focus)
-- exploring n8n workflow automation, running local instance via Docker, and exposing it via ngrok; 7× (since 2025-09-03) [refs: initial n8n inquiry; config discussion chatId:`fcced4c47a8b4e`; docker inspect output chatId:`8bd9d6bf0c5344`; healthz check chatId:`d19797e364db41`; ngrok exposure discussion chatId:`8bd9d6bf0c5344`]
+- exploring n8n workflow automation, running local instance via Docker, and exposing it via ngrok; 8× (since 2025-09-03) [refs: initial n8n inquiry; config discussion chatId:`fcced4c47a8b4e`; docker inspect output chatId:`8bd9d6bf0c5344`; healthz check chatId:`d19797e364db41`; ngrok exposure discussion chatId:`8bd9d6bf0c5344`; API auth troubleshooting chatId:`8bd9d6bf0c5344`]
 - interested in entry-level React developer job market; 2× (since 2025-09-03) [refs: criteria definition discussion; LinkedIn job source concern chatId:`35b99ef5638243`]
 
 ## Thinking & Working Style
@@ -27,5 +27,5 @@
 - none identified yet; 0× [refs:]
 
 ### Emerging (new query patterns)
-- experimenting with automation tools (n8n); 7× (since 2025-09-03) [refs: n8n job scraper questions; workflow creation request chatId:`8bd9d6bf0c5344`; local config discussion chatId:`fcced4c47a8b4e`; API tests chatId:`fcced4c47a8b4e`]
-- uses command line tools (curl, ngrok) to test and expose APIs; 5× (last: 2025-09-04) [refs: curl test chatId:`fcced4c47a8b4e`; API key authenticated test chatId:`fcced4c47a8b4e`; healthz check chatId:`d19797e364db41`; docker inspect diagnostics chatId:`8bd9d6bf0c5344`; ngrok exposure discussion chatId:`8bd9d6bf0c5344`]
+- experimenting with automation tools (n8n); 8× (since 2025-09-03) [refs: n8n job scraper questions; workflow creation request chatId:`8bd9d6bf0c5344`; local config discussion chatId:`fcced4c47a8b4e`; API tests chatId:`fcced4c47a8b4e`; API auth troubleshooting chatId:`8bd9d6bf0c5344`]
+- uses command line tools (curl, ngrok) to test and expose APIs; 6× (last: 2025-09-04) [refs: curl test chatId:`fcced4c47a8b4e`; API key authenticated test chatId:`fcced4c47a8b4e`; healthz check chatId:`d19797e364db41`; docker inspect diagnostics chatId:`8bd9d6bf0c5344`; ngrok exposure discussion chatId:`8bd9d6bf0c5344`; ngrok session logs chatId:`8bd9d6bf0c5344`]
