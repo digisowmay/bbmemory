@@ -3,7 +3,7 @@
 - no durable patterns yet; 0× [refs: ]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- responds with very brief affirmative phrases ("Yes", "Thank you"); minimal text; 14× (last: 2025-09-04) [refs: conversation with bhindi agent chatId:`6cf1110ef75243`]
+- responds with very brief affirmative phrases ("Yes", "Thank you"); minimal text; 23× (last: 2025-09-04) [refs: conversation with bhindi agent chatId:`6cf1110ef75243`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
