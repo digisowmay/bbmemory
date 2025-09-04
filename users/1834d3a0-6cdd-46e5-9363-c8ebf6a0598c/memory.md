@@ -9,9 +9,9 @@
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
+- works 14-hour duty shifts as RuneScape gold farmer (single account approach); 5× (promoted from emerging) [refs: job statement chatId:`fa6a8a6ecd364e`]
 
 ### Emerging (recent learning, current focus)
-- works 14-hour duty shifts as RuneScape gold farmer (single account approach); 5× (last: 2025-09-05) [refs: job statement chatId:`fa6a8a6ecd364e`]
 - duty schedule set from 12:00 PM to 2:00 AM daily; 2× (observed: 2025-09-05) [ref: schedule detail chatId:`fa6a8a6ecd364e`]
 - spouse works in call center, shift 5:00 PM to 2:00 AM; 2× (last: 2025-09-05) [ref: spouse shift discussion chatId:`fa6a8a6ecd364e`]
 
@@ -24,7 +24,8 @@
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
+- uses daily scheduled reminders for motivation, caregiving, healthy habits, and planning; 6× (promoted from emerging) [refs: reminder schedule setup chatId:`fa6a8a6ecd364e`]
+- plans to use platform for daily conversational check-ins; 6× (promoted from emerging) [refs: commitment to daily chat chatId:`fa6a8a6ecd364e`]
 
 ### Emerging (new query patterns)
-- uses daily scheduled reminders for motivation, caregiving, healthy habits, and planning; 6× (last: 2025-09-05) [refs: reminder schedule setup chatId:`fa6a8a6ecd364e`]
-- plans to use platform for daily conversational check-ins; 6× (last: 2025-09-05) [refs: commitment to daily chat chatId:`fa6a8a6ecd364e`]
+- concerned about privacy and security of shared images; 1× (first: 2025-09-05) [ref: privacy concern discussion chatId:`0a3b39f906394f`]
