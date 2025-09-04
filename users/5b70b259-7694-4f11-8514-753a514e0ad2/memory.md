@@ -15,10 +15,11 @@
 ### Durable (core thinking patterns)
 
 ### Emerging (recent behavioral shifts)
-- iterative refinement approach; adjusts instructions after assistant provides plan; 2× (last: 2025-09-04) [refs: adjustment to include Target & Walmart chatId:`509b9c79538248`; request to continue cleanup chatId:`509b9c79538248`]
+- iterative refinement approach; adjusts instructions after assistant provides plan; 3× (last: 2025-09-04) [refs: adjustment to include Target & Walmart chatId:`509b9c79538248`; request to continue cleanup chatId:`509b9c79538248`; approval to create filters chatId:`509b9c79538248`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
 
 ### Emerging (new query patterns)
 - seeks automated email management via Gmail assistant; 1× (since 2025-09-04) [ref: gmail cleanup interaction chatId:`509b9c79538248`]
+- requests creation of Gmail filters for unwanted senders; 1× (first: 2025-09-04) [ref: filter creation confirmation chatId:`509b9c79538248`]
