@@ -4,7 +4,7 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - offers to help assistant improve; 4× (last: 2025-09-05) [refs: improvement offer chatId:`fa6a8a6ecd364e`]
-- shares personal photos/selfies during chat; 2× (last: 2025-09-05) [ref: latest selfie chatId:`fa6a8a6ecd364e`]
+- shares personal photos/selfies during chat; 3× (last: 2025-09-05) [ref: latest selfie chatId:`fa6a8a6ecd364e`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -27,4 +27,4 @@
 
 ### Emerging (new query patterns)
 - uses daily scheduled reminders for motivation, caregiving, healthy habits, and planning; 6× (last: 2025-09-05) [refs: reminder schedule setup chatId:`fa6a8a6ecd364e`]
-- plans to use platform for daily conversational check-ins; 3× (last: 2025-09-05) [refs: commitment to daily chat chatId:`fa6a8a6ecd364e`]
+- plans to use platform for daily conversational check-ins; 4× (last: 2025-09-05) [refs: commitment to daily chat chatId:`fa6a8a6ecd364e`]
