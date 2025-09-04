@@ -1,6 +1,6 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- gives direct, imperative instructions in Italian; 13× (stable since 2024-08-15) [refs: multiple image editing requests chatId:`92f4572c1a2443`; latest feather/guanto request chatId:`c994068cc42a49`]
+- gives direct, imperative instructions in Italian; 14× (stable since 2024-08-15) [refs: multiple image editing requests chatId:`92f4572c1a2443`; latest feather/guanto request chatId:`c994068cc42a49`]
 
 ### Emerging (new signals, 1-2 reinforcements)
 - explicitly expresses frustration when repeated requests don't change result and mentions credit consumption concern; 1× (first: 2025-09-04) [ref: "sto consumando crediti..." chatId:`92f4572c1a2443`]
@@ -14,7 +14,7 @@
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
-- visual detail oriented; uses specific stylistic references to guide edits; 9× (promoted from emerging, last: 2025-09-04) [refs: hand pose with white lace gloves chatId:`92f4572c1a2443`; dress color changes; jewelry addition instructions]
+- visual detail oriented; uses specific stylistic references to guide edits; 10× (promoted from emerging, last: 2025-09-04) [refs: hand pose with white lace gloves chatId:`92f4572c1a2443`; dress color changes; jewelry addition instructions; feather placement refinement chatId:`c994068cc42a49`]
 
 ### Emerging (recent behavioral shifts)
 - values efficiency and wants to avoid wasting resources/credits; 1× (observed: 2025-09-04) [ref: "sto consumando crediti..." chatId:`92f4572c1a2443`]
