@@ -3,7 +3,7 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - asking for step-by-step instructions; wants clear, sequential reasoning; 1× (first: 2025-09-04) [ref: step-by-step math reasoning request chatId:`bb01e9d64a9e44`]
-- issues concise imperative commands to manage agents and retrieve data; 7× (last: 2025-09-04) [refs: multiple agent control commands chatId:`19761532feaa4a`]
+- issues concise imperative commands to manage agents and retrieve data; 8× (last: 2025-09-04) [refs: multiple agent control commands chatId:`19761532feaa4a`; crypto price request chatId:`ba6263692e3840`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -17,7 +17,7 @@
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
-- manages chat agents frequently; add/remove telegram, open-weather, coingecko, bhindi-echo; 16× (last: 2025-09-04) [refs: agent add/remove commands chatId:`19761532feaa4a`; prior agent management logs]
+- manages chat agents frequently; add/remove telegram, open-weather, coingecko, bhindi-echo; 17× (last: 2025-09-04) [refs: agent add/remove commands chatId:`19761532feaa4a`; agent add in current chat chatId:`ba6263692e3840`]
 
 ### Emerging (new query patterns)
-- requesting latest crypto prices (e.g., ETH) via coingecko; 2× (last: 2025-09-04) [refs: ETH price requests chatId:`19761532feaa4a`]
+- requesting latest crypto prices (e.g., ETH) via coingecko; 3× (last: 2025-09-04) [refs: ETH price requests chatId:`19761532feaa4a`; crypto price request chatId:`ba6263692e3840`]
