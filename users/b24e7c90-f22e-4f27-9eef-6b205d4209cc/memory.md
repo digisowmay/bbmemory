@@ -11,7 +11,7 @@
 - (no notable entries yet)
 
 ### Emerging (recent learning, current focus)
-- (no notable entries yet)
+- testing "Pineapple project"; 1× (first: 2025-09-05) [ref: conversation about project testing chatId:`555a19ed02cb41`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
