@@ -1,6 +1,6 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- requests direct, action-oriented tasks without extra explanation; 6× (stable since 2025-09-02) [refs: pull request merge commands chatId:`55d2eeb73a884b`]
+- requests direct, action-oriented tasks without extra explanation; 7× (stable since 2025-09-02) [refs: pull request merge commands chatId:`55d2eeb73a884b`; latest PR merges chatId:`55d2eeb73a884b`]
 
 ### Emerging (new signals, 1-2 reinforcements)
 - uses casual profanity in commands; 2× (last: 2025-09-02) [refs: Telegram message content chatId:`13250b6f1b2146`; directive "okay don't do you bitch" chatId:`13250b6f1b2146`]
@@ -17,7 +17,7 @@
 ### Durable (core thinking patterns)
 
 ### Emerging (recent behavioral shifts)
-- prefers automated assistance for workflows (development and messaging); 3× (last: 2025-09-04) [refs: pull request automation chatId:`9334b22983e548`; Telegram messaging automation chatId:`13250b6f1b2146`; latest PR merges chatId:`55d2eeb73a884b`]
+- prefers automated assistance for workflows (development and messaging); 4× (last: 2025-09-04) [refs: pull request automation chatId:`9334b22983e548`; Telegram messaging automation chatId:`13250b6f1b2146`; latest PR merges chatId:`55d2eeb73a884b`; additional PR merge chatId:`55d2eeb73a884b`]
 - privacy-conscious, verifies data before proceeding; 1× (first: 2025-09-02) [ref: phone number clarification chatId:`13250b6f1b2146`]
 
 ## Platform Usage & Queries
