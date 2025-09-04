@@ -11,13 +11,13 @@
 
 ### Emerging (recent learning, current focus)
 - working on potential partnership with Zomato scratch card program; 1× (started: 2025-09-04) [ref: chatId:`82fe08666ba940`]
-- exploring broader Zomato advertising opportunities (referral, events, social media, sponsored listings); 2× (since 2025-09-04) [refs: advertising strategy discussion chatId:`82fe08666ba940`; implementation guide request chatId:`82fe08666ba940`]
+- exploring broader Zomato advertising opportunities (referral, events, social media, sponsored listings); 3× (last: 2025-09-04) [refs: advertising strategy discussion chatId:`82fe08666ba940`; implementation guide request chatId:`82fe08666ba940`; partnership exploration chatId:`0e5d2f064b8849`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
 
 ### Emerging (recent behavioral shifts)
-- prefers structured step-by-step breakdown for planning; 2× (observed: 2025-09-04) [refs: process walkthrough chatId:`82fe08666ba940`; advertising process breakdown chatId:`82fe08666ba940`]
+- prefers structured step-by-step breakdown for planning; 3× (last: 2025-09-04) [refs: process walkthrough chatId:`82fe08666ba940`; advertising process breakdown chatId:`82fe08666ba940`; program finalization walkthrough chatId:`0e5d2f064b8849`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
