@@ -3,6 +3,26 @@
 - prefers concise, one-line commands and follow-ups; 40× [refs: "try now" Drive OAuth attempts chatId:`62101ce6720f42`; previous quick commands]
 - requests detailed error information for troubleshooting; 8× [refs: "what is the error" Drive OAuth chatId:`62101ce6720f42`; earlier sync error inquiries]
 
+### Emerging (new signals, 1-2 reinforcements)
+- uses colon-prefixed shortcut commands like ": RESUME" to trigger actions; 2× (last: 2025-09-04) [refs: ": RESUME" commands chatId:`62101ce6720f42`]
+
+## Knowledge & Context
+### Durable (core expertise, established over time)
+- (no entries yet)
+
+### Emerging (recent learning, current focus)
+- (no entries yet)
+
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
-- iterative debugging approach; repeatedly retries tools after inspecting errors; 8× (promoted from emerging) [refs: Drive OAuth troubleshooting chatId:`62101ce6720f42`; earlier sync retries chatId:`307ca8ef14424e`]
+- iterative debugging approach; repeatedly retries tools after inspecting errors; 8× [refs: Drive OAuth troubleshooting chatId:`62101ce6720f42`; earlier sync retries chatId:`62101ce6720f42`]
+
+### Emerging (recent behavioral shifts)
+- (no entries yet)
+
+## Platform Usage & Queries
+### Durable (regular platform activities)
+- (no entries yet)
+
+### Emerging (new query patterns)
+- uses Google Drive integration for listing and uploading files; 1× (first: 2025-09-04) [refs: Drive list and upload operations chatId:`62101ce6720f42`]
