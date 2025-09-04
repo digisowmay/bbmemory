@@ -21,7 +21,8 @@
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
 - manages chat agents frequently; 34× [refs: agent add/remove operations chatId:`ba6263692e3840`]
-- requests latest crypto prices (e.g., ETH) via coingecko; 9× (promoted from emerging) [refs: ETH price requests chatId:`ba6263692e3840`]
+- requests latest crypto prices (e.g., ETH) via coingecko; 10× [refs: ETH price requests chatId:`ba6263692e3840`; hourly tracking setup chatId:`208fe6e5660040`]
 
 ### Emerging (new query patterns)
 - uses Telegram agent to verify account connection; 2× (last: 2025-09-05) [refs: telegram agent connection chatId:`ba6263692e3840`]
+- sets up automated reminders/schedules for crypto tracking; 1× (first: 2025-09-05) [ref: ETH hourly schedule request chatId:`208fe6e5660040`]
