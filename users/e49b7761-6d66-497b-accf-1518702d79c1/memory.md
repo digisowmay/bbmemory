@@ -26,3 +26,4 @@
 
 ### Emerging (new query patterns)
 - requests career assistance such as resume optimization and ATS scoring; 2× (last: 2025-09-04) [ref: repeated resume assistance chatId:`838d1399807946`]
+- asks coding troubleshooting questions focused on algorithms and Java; 1× (first: 2025-09-04) [ref: Java LCS correctness inquiry chatId:`838d1399807946`]
