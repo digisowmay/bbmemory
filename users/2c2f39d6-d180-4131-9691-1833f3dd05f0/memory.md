@@ -1,8 +1,9 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
+- submits complete JSON/n8n workflow definitions; expects technical, code-level assistance; 4× (last: 2025-09-04) [refs: job hunt workflow JSON chatId:`b2fbf349819348`; modular workflow submission chatId:`701186742f2a42`; full code request chatId:`701186742f2a42`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- submits complete JSON/n8n workflow definitions; expects technical, code-level assistance; 3× (last: 2025-09-04) [refs: job hunt workflow JSON chatId:`b2fbf349819348`; modular workflow submission chatId:`701186742f2a42`]
+- prefers direct, full code responses with minimal commentary; 1× (first: 2025-09-04) [ref: request "just provide the all code" chatId:`701186742f2a42`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
