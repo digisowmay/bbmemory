@@ -3,7 +3,7 @@
 -
 
 ### Emerging (new signals, 1-2 reinforcements)
-- gives concise, direct commands; 5× (last: 2025-09-04) [ref: image generation requests chatId:`e607dac089114c`]
+- gives concise, direct commands; 8× (last: 2025-09-04) [ref: image generation requests chatId:`e607dac089114c`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -24,4 +24,4 @@
 -
 
 ### Emerging (new query patterns)
-- requesting AI image generation; 5× (since 2025-09-04) [ref: image generation requests chatId:`e607dac089114c`]
+- requesting AI image generation; 8× (since 2025-09-04) [ref: image generation requests chatId:`e607dac089114c`]
