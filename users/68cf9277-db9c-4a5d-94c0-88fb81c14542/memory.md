@@ -2,7 +2,7 @@
 ### Durable (established, 3+ reinforcements)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- blunt and unfiltered feedback; uses strong language when dissatisfied; 1× (first: 2025-09-05) [ref: health app naming conversation chatId:`0e27f6de7ab844`]
+- blunt and unfiltered feedback; uses strong language when dissatisfied; 2× (last: 2025-09-05) [refs: health app naming conversation chatId:`0e27f6de7ab844`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
