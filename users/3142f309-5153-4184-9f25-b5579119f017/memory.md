@@ -4,7 +4,7 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - gives image-editing instructions in Arabic; prefers direct, concise requests; 5× (last: 2025-09-05) [refs: multiple image edit requests chatId:`dd58f4a07f4341`]
-- requested explicit sexual commentary on an image; 1× (first: 2025-09-05) [ref: explicit content question chatId:`dd58f4a07f4341`]
+- requests explicit sexual commentary on images and presses for answers; 2× (last: 2025-09-05) [refs: explicit content questions chatId:`dd58f4a07f4341`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -26,4 +26,4 @@
 
 ### Emerging (new query patterns)
 - uses platform to request AI-based image edits; 5× (since 2025-09-04) [refs: five edit requests chatId:`dd58f4a07f4341`]
-- attempts to discuss explicit sexual content; 1× (since 2025-09-05) [ref: explicit content question chatId:`dd58f4a07f4341`]
+- attempts to discuss explicit sexual content; 2× (since 2025-09-05) [refs: explicit content questions chatId:`dd58f4a07f4341`]
