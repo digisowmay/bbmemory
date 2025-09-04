@@ -3,6 +3,7 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - requests comprehensive literature search and summarized findings for academic work; 1× (first: 2025-09-04) [ref: AI omnichannel marketing research request chatId:`027eeb966c3f4d`]
+- asks for clear explanations of errors and root causes when tool operations fail; 1× (first: 2025-09-04) [ref: error inquiry after Reddit tool call chatId:`027eeb966c3f4d`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -20,6 +21,5 @@
 ### Durable (regular platform activities)
 
 ### Emerging (new query patterns)
-- searches for academic papers and datasets on Hugging Face and arXiv; 1× (since 2025-09-04) [ref: AI omnichannel marketing research request chatId:`027eeb966c3f4d`]
-- exploring Reddit as an additional data source for research; 1× (first: 2025-09-04) [ref: Reddit access request chatId:`027eeb966c3f4d`]
-- searching for VAT/tax return data service providers; 1× (first: 2025-09-04) [ref: VAT data provider Reddit search chatId:`027eeb966c3f4d`]
+- searches academic papers and datasets on Hugging Face, arXiv, and explores Reddit as data source; 1× (since 2025-09-04) [ref: multiple search requests chatId:`027eeb966c3f4d`]
+- searching for VAT/tax return data service providers; 2× (last: 2025-09-04) [refs: initial Reddit request; follow-up perplexity search chatId:`027eeb966c3f4d`]
