@@ -12,7 +12,7 @@
 
 ### Emerging (recent learning, current focus)
 - familiar with DevOps/server deployment workflows (SSH, git, npm, pm2); 1× (first: 2025-09-04) [ref: server deployment command chatId:`d853e87ec7ce47`]
-- interested in maintaining hydration and daily wellness routines; 1× (first: 2025-09-04) [ref: hydration schedule setup chatId:`6a1537167b0649`]
+- interested in maintaining hydration and daily wellness routines; 2× (since 2025-09-04) [refs: hydration schedule setup chatId:`6a1537167b0649`; daily food reminder creation chatId:`6a1537167b0649`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
@@ -27,4 +27,4 @@
 
 ### Emerging (new query patterns)
 - seeking local coffee/food recommendations; 1× (first: 2025-09-04) [ref: coffee places request chatId:`023bf6383f8e46`]
-- sets automated health/wellness reminders (hydration schedule) using scheduler; 1× (first: 2025-09-04) [ref: hydration schedule setup chatId:`6a1537167b0649`]
+- sets automated health/wellness reminders (hydration and meal schedules) using scheduler; 2× (since 2025-09-04) [refs: hydration schedule setup chatId:`6a1537167b0649`; daily food reminder creation chatId:`6a1537167b0649`]
