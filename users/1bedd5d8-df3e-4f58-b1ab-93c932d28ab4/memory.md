@@ -4,14 +4,14 @@
 - prefers explicit INR/₹ currency in outputs; 4× (last: 2025-09-03) [refs: budget dashboard chatId:`1a566ad8947549`; invoice generation chatId:`92100943325142`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- requests clear mandatory vs optional distinctions and structured breakdowns; 2× (last: 2025-09-04) [refs: ESI vs PF clarity chatId:`ec908d4d87314f`]
+- requests clear mandatory vs optional distinctions and structured breakdowns; 3× (last: 2025-09-04) [refs: ESI vs PF clarity chatId:`ec908d4d87314f`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
 
 ### Emerging (recent learning, current focus)
 - Business context: creates invoices for DizzyDuck Lab LLP with service "Freelancer Tech"; 1× (since 2025-09-01) [ref: invoice generation chatId:`92100943325142`]
-- Workforce paid above ₹25,000; ESI not applicable but PF mandatory; 1× (first: 2025-09-04) [ref: ESI vs PF discussion chatId:`ec908d4d87314f`]
+- Workforce details: 19 full-time employees earning >₹25,000 and 13 freelancers; PF not mandatory yet, ESI not applicable; 1× (first: 2025-09-04) [ref: PF applicability discussion chatId:`ec908d4d87314f`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
