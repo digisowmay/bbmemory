@@ -23,3 +23,4 @@
 
 ### Emerging (new query patterns)
 - requests daily meme generation; 1× (started: 2025-09-04) [ref: scheduler setup chatId:`f54cc428ba1b4d`]
+- requests personal background searches/dirt on individuals; 1× (first: 2025-09-04) [ref: personal info request chatId:`e1a74e1fc6fe41`]
