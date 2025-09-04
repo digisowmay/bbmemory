@@ -4,6 +4,7 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - prefers responses in Urdu language; 2× (last: 2025-09-05) [refs: request for Urdu response chatId:`c90664e6fcce4a`; reaffirmed preference chatId:`c90664e6fcce4a`]
+- offers to help assistant improve; caring and supportive tone; 1× (first: 2025-09-05) [ref: request to help assistant improve chatId:`c90664e6fcce4a`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
