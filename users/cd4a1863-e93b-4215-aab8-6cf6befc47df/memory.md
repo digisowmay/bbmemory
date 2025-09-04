@@ -3,7 +3,7 @@
 - prefers clear, actionable deliverables like tab-delimited blocks for quick copy-paste; 3× (stable since 2025-08-28) [refs: tab-delimited contact list request chatId:`7c6272a8663f48`; earlier list formatting clarification]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- wants batch execution over repetitive confirmations; 2× (last: 2025-09-04) [refs: dissatisfaction with confirm-each-email flow chatId:`7c6272a8663f48`; request for daily 50 draft emails instead of manual confirmations chatId:`7c6272a8663f48`]
+- wants batch execution over repetitive confirmations; 3× (last: 2025-09-04) [refs: dissatisfaction with confirm-each-email flow chatId:`7c6272a8663f48`; request for daily 50 draft emails chatId:`7c6272a8663f48`; automation scheduling approval chatId:`7c6272a8663f48`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -18,6 +18,7 @@
 - seeks efficiency and automation in workflows; 3× [refs: batch email draft request chatId:`7c6272a8663f48`; prior bulk contact list requirements]
 
 ### Emerging (recent behavioral shifts)
+- prefers scheduled automation at fixed daily time; 1× (observed: 2025-09-04) [ref: request for daily drafts at 8:30 AM chatId:`7c6272a8663f48`]
 - emphasis on brand consistency (correct titles & email in signatures); 1× (observed: 2025-09-04) [ref: signature revision chatId:`7c6272a8663f48`]
 
 ## Platform Usage & Queries
@@ -25,4 +26,4 @@
 - frequently requests marketing/email automation assistance; 4× [refs: outreach email template creation chatId:`7c6272a8663f48`; Gmail draft generation]
 
 ### Emerging (new query patterns)
-- using Gmail drafts for mass outreach; 3× (since 2025-09-04) [refs: request to leave all emails in drafts chatId:`7c6272a8663f48`; scheduled daily draft creation]
+- using Gmail drafts for mass outreach; 4× (since 2025-09-04) [refs: request to leave all emails in drafts chatId:`7c6272a8663f48`; scheduled daily draft creation]
