@@ -2,7 +2,7 @@
 ### Durable (established, 3+ reinforcements)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- provides detailed visual instructions for image edits; 1× (first: 2025-09-04) [ref: image transformation request chatId:`5cf647389e7547`]
+- provides detailed visual instructions for image edits; 2× (last: 2025-09-04) [refs: image transformation requests chatId:`5cf647389e7547`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -13,10 +13,10 @@
 ### Durable (core thinking patterns)
 
 ### Emerging (recent behavioral shifts)
-- focuses on visual aesthetics and composition details; 1× (first: 2025-09-04) [ref: image edit specification chatId:`5cf647389e7547`]
+- focuses on visual aesthetics and composition details; 2× (last: 2025-09-04) [ref: image edit specification chatId:`5cf647389e7547`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
-- requests AI-based image editing / generation; 3× (promoted from emerging) [refs: image transformation request chatId:`5cf647389e7547`; image transformation request chatId:`7c7e9b29ebb24a`; image transformation request chatId:`5cf647389e7547`]
+- requests AI-based image editing / generation; 4× [refs: image transformation request chatId:`5cf647389e7547`; image transformation request chatId:`7c7e9b29ebb24a`; image transformation request chatId:`5cf647389e7547`; image generation chatId:`5cf647389e7547`]
 
 ### Emerging (new query patterns)
