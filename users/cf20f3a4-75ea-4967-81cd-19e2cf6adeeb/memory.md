@@ -3,14 +3,14 @@
 - None identified yet; 0× [refs: chatId:`35b99ef5638243`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- asks direct feasibility questions about automation tasks; 3× (last: 2025-09-04) [refs: job scraper feasibility discussion; LinkedIn cost question chatId:`35b99ef5638243`; n8n test build request chatId:`fcced4c47a8b4e`]
+- asks direct feasibility questions about automation tasks; 4× (last: 2025-09-04) [refs: job scraper feasibility discussion; LinkedIn cost question chatId:`35b99ef5638243`; n8n test build request chatId:`fcced4c47a8b4e`; local n8n connection test chatId:`fcced4c47a8b4e`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
 - None identified yet; 0× [refs: chatId:`35b99ef5638243`]
 
 ### Emerging (recent learning, current focus)
-- exploring n8n workflow automation (running local instance) for job scraping; 3× (since 2025-09-03) [refs: initial n8n job scraper inquiry; LinkedIn feasibility follow-up chatId:`35b99ef5638243`; local config discussion chatId:`fcced4c47a8b4e`]
+- exploring n8n workflow automation (running local instance) for job scraping; 4× (since 2025-09-03) [refs: initial n8n job scraper inquiry; LinkedIn feasibility follow-up chatId:`35b99ef5638243`; local config discussion chatId:`fcced4c47a8b4e`; local n8n connection test chatId:`fcced4c47a8b4e`]
 - interested in entry-level React developer job market; 2× (since 2025-09-03) [refs: criteria definition discussion; LinkedIn job source concern chatId:`35b99ef5638243`]
 
 ## Thinking & Working Style
@@ -25,4 +25,4 @@
 - None identified yet; 0× [refs: chatId:`35b99ef5638243`]
 
 ### Emerging (new query patterns)
-- experimenting with automation tools (n8n); 3× (since 2025-09-03) [refs: n8n job scraper questions; LinkedIn feasibility discussion chatId:`35b99ef5638243`; local config question chatId:`fcced4c47a8b4e`]
+- experimenting with automation tools (n8n); 4× (since 2025-09-03) [refs: n8n job scraper questions; LinkedIn feasibility discussion chatId:`35b99ef5638243`; local config question chatId:`fcced4c47a8b4e`; local n8n connection test chatId:`fcced4c47a8b4e`]
