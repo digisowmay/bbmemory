@@ -2,6 +2,7 @@
 ### Durable (established, 3+ reinforcements)
 
 ### Emerging (new signals, 1-2 reinforcements)
+- asking for step-by-step instructions; wants clear, sequential reasoning; 1× (first: 2025-09-04) [ref: step-by-step math reasoning request chatId:`bb01e9d64a9e44`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
