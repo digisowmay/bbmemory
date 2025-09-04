@@ -2,8 +2,8 @@
 ### Durable (established, 3+ reinforcements)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- requests clearly structured professional email drafts; 1× (first: 2025-09-04) [ref: email draft request chatId:`82fe08666ba940`]
-- expects assistant to take direct action such as sending emails, not just drafting; 1× (first: 2025-09-04) [ref: email send request chatId:`82fe08666ba940`]
+- requests clearly structured professional email drafts; 2× (since 2025-09-04) [refs: email draft request chatId:`82fe08666ba940`; follow-up draft and send request chatId:`82fe08666ba940`]
+- expects assistant to take direct action such as sending emails, not just drafting; 2× (last: 2025-09-04) [refs: email send request chatId:`82fe08666ba940`; repeat send request chatId:`82fe08666ba940`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -21,5 +21,5 @@
 ### Durable (regular platform activities)
 
 ### Emerging (new query patterns)
-- asks for drafting emails/communication templates; 1× (since 2025-09-04) [ref: chatId:`82fe08666ba940`]
-- attempts to have assistant send emails directly via integrations; 1× (first: 2025-09-04) [ref: chatId:`82fe08666ba940`]
+- asks for drafting emails/communication templates; 2× (since 2025-09-04) [refs: email draft request chatId:`82fe08666ba940`; additional draft email conversation chatId:`82fe08666ba940`]
+- attempts to have assistant send emails directly via integrations; 2× (last: 2025-09-04) [refs: email send request chatId:`82fe08666ba940`; send email follow-up chatId:`82fe08666ba940`]
