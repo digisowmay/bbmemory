@@ -18,7 +18,7 @@
 - (no notable entries yet)
 
 ### Emerging (recent behavioral shifts)
-- stress-testing systems for edge cases; deliberately tries to break message transformations; 1× (first: 2025-09-05) [ref: edge case testing discussion chatId:`555a19ed02cb41`]
+- stress-testing systems for edge cases; deliberately tries to break message transformations; 2× (last: 2025-09-05) [refs: edge case testing discussion chatId:`555a19ed02cb41`; whitespace message test chatId:`a8c150ccda4d43`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
