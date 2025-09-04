@@ -4,7 +4,7 @@
 - prefers explicit INR/₹ currency in outputs; 4× (last: 2025-09-03) [refs: budget dashboard chatId:`1a566ad8947549`; invoice generation chatId:`92100943325142`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- requests clear mandatory vs optional distinctions and structured breakdowns; 3× (last: 2025-09-04) [refs: ESI vs PF clarity chatId:`ec908d4d87314f`]
+- requests clear mandatory vs optional distinctions and structured breakdowns; 4× (last: 2025-09-04) [refs: ESI vs PF clarity chatId:`ec908d4d87314f`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -12,12 +12,14 @@
 ### Emerging (recent learning, current focus)
 - Business context: creates invoices for DizzyDuck Lab LLP with service "Freelancer Tech"; 1× (since 2025-09-01) [ref: invoice generation chatId:`92100943325142`]
 - Workforce details: 19 full-time employees earning >₹25,000 and 13 freelancers; PF not mandatory yet, ESI not applicable; 1× (first: 2025-09-04) [ref: PF applicability discussion chatId:`ec908d4d87314f`]
+- Exploring strategy to remain under PF threshold (splitting companies/legal structuring); 1× (first: 2025-09-04) [ref: compliance strategy discussion chatId:`ec908d4d87314f`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
 - detail-oriented about financial accuracy, especially currency; 2× (last: 2025-09-03) [refs: budget dashboard chatId:`1a566ad8947549`; invoice generation chatId:`92100943325142`]
 
 ### Emerging (recent behavioral shifts)
+- evaluates compliance workload and performs cost–benefit analysis before decisions; 1× (observed: 2025-09-04) [ref: compliance burden question chatId:`ec908d4d87314f`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
