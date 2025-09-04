@@ -1,10 +1,9 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- (no durable patterns identified yet)
+- asks for quick, actionable feedback on resume and improvements; 2× (stable since 2025-09-04) [refs: ATS score and rewrite request chatId:`838d1399807946`; resume sections rewrite request chatId:`838d1399807946`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- asks for quick, actionable feedback on resume and improvements; 2× (last: 2025-09-04) [ref: ATS score and rewrite request chatId:`838d1399807946`]
-- asks for full rewrites and end-to-end deliverables once feedback is given; 1× (first: 2025-09-04) [ref: resume sections rewrite request chatId:`838d1399807946`]
+- uses casual slang (e.g., "bro"); prefers informal, friendly tone; 1× (first: 2025-09-04) [ref: chatId:`e4167612f7ca43`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
