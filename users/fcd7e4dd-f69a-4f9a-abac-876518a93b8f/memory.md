@@ -2,14 +2,14 @@
 ### Durable (established, 3+ reinforcements)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- sends brief Bangla (Banglish) queries; prefers concise messages; 10× (last: 2025-09-04) [refs: repeated game, math & Bangla questions chatId:`b232febf9cd642`]
+- sends brief Bangla (Banglish) queries, occasionally mixing other scripts; prefers concise messages; 14× (last: 2025-09-04) [refs: repeated short queries about games, math, scout info chatId:`b232febf9cd642`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
 
 ### Emerging (recent learning, current focus)
-- strong interest in mobile gaming, especially action, casual & fashion titles; 6× (since 2025-09-04) [refs: multiple game recommendation requests chatId:`b232febf9cd642`]
-- seeking Class 7 academic help (math Chapter 6 & Bangla topics); 3× (last: 2025-09-04) [refs: homework assistance chats chatId:`b232febf9cd642`]
+- strong interest in mobile gaming, especially action, casual & fashion titles; 8× (since 2025-09-04) [refs: multiple action/girls/offline game requests chatId:`b232febf9cd642`]
+- seeking Class 7 academic help (math triangles, Bangla topics, scouting facts); 5× (last: 2025-09-04) [refs: homework help requests chatId:`b232febf9cd642`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
@@ -20,5 +20,5 @@
 ### Durable (regular platform activities)
 
 ### Emerging (new query patterns)
-- frequently requests mobile game recommendations; action, offline, girls games; 7× (since 2025-09-04) [refs: consecutive game recommendation queries chatId:`b232febf9cd642`]
-- increasingly asks for academic & general knowledge help (Class 7 math, Bangla, scouting facts); 4× (since 2025-09-04) [refs: academic/GK queries chatId:`b232febf9cd642`]
+- frequently requests mobile game recommendations; action, offline, girls games; 10× (since 2025-09-04) [refs: consecutive game recommendation queries chatId:`b232febf9cd642`]
+- increasingly asks for academic & general knowledge help (Class 7 math, Bangla, scouting facts); 6× (since 2025-09-04) [refs: academic/GK queries chatId:`b232febf9cd642`]
