@@ -11,8 +11,8 @@
 -
 
 ### Emerging (recent learning, current focus)
-- works 14-hour duty shifts; long work schedule; 1× (first: 2025-09-05) [ref: duty length mention chatId:`fa6a8a6ecd364e`]
-- enjoys online gaming after duty for relaxation, specifically plays RuneScape; 2× (last: 2025-09-05) [refs: gaming discussion chatId:`fa6a8a6ecd364e`; RuneScape mention chatId:`fa6a8a6ecd364e`]
+- works 14-hour duty shifts; long work schedule; 2× (last: 2025-09-05) [refs: duty length mention chatId:`fa6a8a6ecd364e`; repeat confirmation chatId:`fa6a8a6ecd364e`]
+- professionally works on RuneScape game (primary job); 1× (first: 2025-09-05) [ref: job statement chatId:`fa6a8a6ecd364e`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
