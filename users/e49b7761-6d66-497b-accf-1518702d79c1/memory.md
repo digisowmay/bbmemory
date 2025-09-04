@@ -3,7 +3,7 @@
 - asks for quick, actionable feedback on resume and improvements; 2× (stable since 2025-09-04) [refs: ATS score and rewrite request chatId:`838d1399807946`; resume sections rewrite request chatId:`838d1399807946`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- uses casual slang (e.g., "bro"); prefers informal, friendly tone; 2× (last: 2025-09-04) [refs: chatId:`e4167612f7ca43`; follow-up informal messages chatId:`e4167612f7ca43`]
+- uses casual slang (e.g., "bro"); 3× (last: 2025-09-04) [refs: chatId:`e4167612f7ca43`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
