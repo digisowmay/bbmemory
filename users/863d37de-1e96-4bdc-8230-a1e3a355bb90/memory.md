@@ -5,7 +5,7 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - uses colon-prefixed shortcut commands like ": RESUME" to trigger actions; 15× (last: 2025-09-04) [refs: repeated ": RESUME" commands chatId:`b86acd69473144`]
-- uses sequential versioning ("v2", "v3", "v4") in rapid-fire upload commands; 3× (last: 2025-09-04) [refs: file version naming uploads chatId:`b86acd69473144`]
+- uses sequential versioning ("v2", "v3", "v4", "v5") in rapid-fire upload commands; 5× (last: 2025-09-04) [refs: file version naming uploads chatId:`b86acd69473144`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -26,4 +26,4 @@
 - (no entries yet)
 
 ### Emerging (new query patterns)
-- requests Google Drive uploads and shareable links; 11× (since 2025-09-04) [refs: multiple upload and share link requests chatId:`b86acd69473144`; additional uploads chatId:`62101ce6720f42`; chatId:`8670b06266b04b`]
+- requests Google Drive uploads and shareable links; 15× (since 2025-09-04) [refs: multiple upload and share link requests chatId:`b86acd69473144`; chatId:`62101ce6720f42`; chatId:`8670b06266b04b`]
