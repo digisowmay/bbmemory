@@ -3,7 +3,8 @@
 - (no durable patterns identified yet)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- asks for quick, actionable feedback on resume and improvements; 1× (first: 2025-09-04) [ref: resume ATS score request chatId:`838d1399807946`]
+- asks for quick, actionable feedback on resume and improvements; 2× (last: 2025-09-04) [ref: ATS score and rewrite request chatId:`838d1399807946`]
+- asks for full rewrites and end-to-end deliverables once feedback is given; 1× (first: 2025-09-04) [ref: resume sections rewrite request chatId:`838d1399807946`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -24,4 +25,4 @@
 - (no durable usage patterns yet)
 
 ### Emerging (new query patterns)
-- requests career assistance such as resume optimization and ATS scoring; 1× (first: 2025-09-04) [ref: ATS score request chatId:`838d1399807946`]
+- requests career assistance such as resume optimization and ATS scoring; 2× (last: 2025-09-04) [ref: repeated resume assistance chatId:`838d1399807946`]
