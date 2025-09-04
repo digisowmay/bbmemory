@@ -3,7 +3,7 @@
 - None identified yet; 0× [refs: chatId:`35b99ef5638243`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- asks direct feasibility questions about automation tasks; 2× (last: 2025-09-03) [refs: job scraper feasibility discussion; LinkedIn cost question chatId:`35b99ef5638243`]
+- asks direct feasibility questions about automation tasks; 3× (last: 2025-09-04) [refs: job scraper feasibility discussion; LinkedIn cost question chatId:`35b99ef5638243`; n8n test build request chatId:`fcced4c47a8b4e`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -18,7 +18,7 @@
 - None identified yet; 0× [refs: chatId:`35b99ef5638243`]
 
 ### Emerging (recent behavioral shifts)
-- tests feasibility before requesting full implementation; 2× (observed: 2025-09-03) [refs: asked if possible before creation; LinkedIn paid access query chatId:`35b99ef5638243`]
+- tests feasibility before requesting full implementation; 3× (observed: 2025-09-04) [refs: asked if possible before creation; LinkedIn paid access query chatId:`35b99ef5638243`; n8n simple test request chatId:`fcced4c47a8b4e`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
