@@ -9,16 +9,17 @@
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
 
-### Emerging (recent learning, current focus)
+### Emerging (recent learning, current focus)  
+- renting furniture for new house; deciding on dressing table and storage solutions, rental period 6-12 months; 2× (since 2025-09-04) [refs: initial furniture discussion chatId:`05783c2ef9ba4f`; follow-up decision on dressing table chatId:`05783c2ef9ba4f`]
 - working on potential partnership with Zomato scratch card program; 1× (started: 2025-09-04) [ref: chatId:`82fe08666ba940`]
 - exploring broader Zomato advertising opportunities (referral, events, social media, sponsored listings); 2× (since 2025-09-04) [refs: advertising strategy discussion chatId:`82fe08666ba940`; implementation guide request chatId:`82fe08666ba940`]
-- renting furniture for new house; deciding on dressing table and storage solutions; 1× (started: 2025-09-04) [ref: chatId:`05783c2ef9ba4f`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
 
 ### Emerging (recent behavioral shifts)
-- prefers structured step-by-step breakdown for planning; 3× (observed: 2025-09-04) [refs: process walkthrough chatId:`82fe08666ba940`; advertising process breakdown chatId:`82fe08666ba940`; process finalization request chatId:`0bec80bc25ea4f`]
+- prefers structured step-by-step breakdown for planning; 3× (observed: 2025-09-04) [refs: process walkthrough chatId:`82fe08666ba940`; advertising process breakdown chatId:`82fe08666ba940`; dressing table decision rationale chatId:`05783c2ef9ba4f`]
+- prefers cost-benefit analysis for decisions; 1× (first: 2025-09-04) [ref: dressing table decision chatId:`05783c2ef9ba4f`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
