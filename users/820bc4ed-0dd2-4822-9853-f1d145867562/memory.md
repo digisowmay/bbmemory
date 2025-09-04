@@ -29,3 +29,4 @@
 ### Emerging (new query patterns)
 - queries about AI tool landscape and updates; 1× (first: 2025-09-04) [ref: AI tools research request chatId:`a8a22432f2dc4a`]
 - requests social media script generation, especially Instagram Reels; 1× (first: 2025-09-04) [ref: Instagram script request chatId:`fe55f5ac974846`]
+- asks assistant to retrieve data from Google Docs; 1× (first: 2025-09-04) [ref: google doc data retrieval request chatId:`fe55f5ac974846`]
