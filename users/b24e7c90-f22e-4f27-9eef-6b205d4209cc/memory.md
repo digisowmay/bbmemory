@@ -27,3 +27,4 @@
 ### Emerging (new query patterns)
 - wants to connect Telegram account for integration; 6× (last: 2025-09-04) [refs: telegram connect request chatId:`73b4009701b44d`; telegram agent add chatId:`73b4009701b44d`]
 - requests trending crypto token lists; 1× (first: 2025-09-04) [ref: trending crypto list request chatId:`73b4009701b44d`]
+- asks to retrieve last message from contacts; monitoring conversation logs; 1× (first: 2025-09-04) [ref: last message request chatId:`afcd452fb83d40`]
