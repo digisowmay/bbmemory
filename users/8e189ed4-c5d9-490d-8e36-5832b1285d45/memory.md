@@ -3,7 +3,7 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - prefers short, witty meme-style responses; 1× (first: 2025-09-04) [ref: meme generation request chatId:`f54cc428ba1b4d`]
-- uses direct casual commands like "can u do it now"; 1× (first: 2025-09-04) [ref: immediate request chatId:`f54cc428ba1b4d`]
+- uses direct casual commands like "can u do it now"; 2× (last: 2025-09-04) [refs: immediate request chatId:`f54cc428ba1b4d`; dirt request chatId:`e1a74e1fc6fe41`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -23,4 +23,4 @@
 
 ### Emerging (new query patterns)
 - requests daily meme generation; 1× (started: 2025-09-04) [ref: scheduler setup chatId:`f54cc428ba1b4d`]
-- requests personal background searches/dirt on individuals; 1× (first: 2025-09-04) [ref: personal info request chatId:`e1a74e1fc6fe41`]
+- requests personal background searches/dirt on individuals; 3× (last: 2025-09-04) [refs: dirt requests chatId:`e1a74e1fc6fe41`]
