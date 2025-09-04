@@ -3,7 +3,7 @@
 - (no data yet)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- informal, concise requests; 5× (last: 2025-09-04) [refs: LinkedIn post & automation and Instagram carousel requests chatId:`7f50d68d0a8249`]
+- informal, concise requests; 6× (last: 2025-09-04) [refs: LinkedIn post & automation and Instagram carousel requests chatId:`7f50d68d0a8249`; website SEO request chatId:`5a56aec0b34243`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -25,5 +25,5 @@
 - (no data yet)
 
 ### Emerging (new query patterns)
-- interested in LinkedIn outreach automation & content creation; 4× (since 2025-09-04) [refs: multiple LinkedIn automation & post chats chatId:`7f50d68d0a8249`]
+- interested in LinkedIn outreach automation, content creation & website SEO analysis; 5× (since 2025-09-04) [refs: multiple LinkedIn automation & post chats chatId:`7f50d68d0a8249`; website SEO request chatId:`5a56aec0b34243`]
 - requests AI-generated visual content for Instagram (carousel slides & images); 3× (since 2025-09-04) [refs: carousel image generation chats chatId:`7f50d68d0a8249`]
