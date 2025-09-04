@@ -10,6 +10,7 @@
 - interested in cinematic visual aesthetics and classical art (e.g., Caravaggio); 7× (since 2025-09-03) [refs: Caravaggio lighting request chatId:`92f4572c1a2443`; dress color transformation; chiaroscuro requests]
 
 ### Emerging (recent learning, current focus)
+- working on a commissioned visual project that still reflects personal artistic inspiration; 1× (started: 2025-09-04) [ref: discussion about commissioned work chatId:`654beee8baa74a`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
