@@ -5,6 +5,7 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - uses colon-prefixed shortcut commands like ": RESUME" to trigger actions; 15× (last: 2025-09-04) [refs: repeated ": RESUME" commands chatId:`b86acd69473144`]
+- uses sequential versioning ("v2", "v3", "v4") in rapid-fire upload commands; 3× (last: 2025-09-04) [refs: file version naming uploads chatId:`b86acd69473144`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
