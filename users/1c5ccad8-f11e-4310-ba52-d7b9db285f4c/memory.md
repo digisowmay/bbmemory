@@ -3,7 +3,7 @@
 -
 
 ### Emerging (new signals, 1-2 reinforcements)
-- asks concise questions expecting direct explanations; 3× (last: 2025-09-04) [refs: AI definition query; "By amaric" follow-up; Abiy Ahmed query chatId:`5467df1d803f48`]
+- asks concise questions expecting direct explanations; 4× (last: 2025-09-04) [refs: AI definition query; "By amaric" follow-up; Abiy Ahmed query chatId:`5467df1d803f48`; Dawit Dana Darebo? chatId:`5467df1d803f48`]
 - requests responses in Amharic when specified; 2× (last: 2025-09-04) [refs: "By amaric" follow-up; Abiy Ahmed query chatId:`5467df1d803f48`]
 
 ## Knowledge & Context
