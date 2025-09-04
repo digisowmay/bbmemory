@@ -19,3 +19,4 @@
 
 ### Emerging (new query patterns)
 - requests agent management operations (e.g., get details, sync); 1× (first: 2025-09-04) [ref: agent sync command chatId:`709390cbc96d4d`]
+- requests information retrieval via perplexity search agent; 1× (first: 2025-09-04) [ref: essay request using perplexity chatId:`7ae6894bf11948`]
