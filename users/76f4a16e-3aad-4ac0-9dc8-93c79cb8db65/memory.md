@@ -25,3 +25,4 @@
 ### Durable (regular platform activities)
 
 ### Emerging (new query patterns)
+- exploring Microsoft Outlook features (polls, selection settings) for internal coordination; 1× (first: 2025-09-04) [ref: Outlook multiple selections question chatId:`e401e66a99cb49`]
