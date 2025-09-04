@@ -4,7 +4,7 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - enjoys playful, humorous creative requests; 5× (last: 2025-09-04) [refs: banana security audit chatId:`94eca21c926640`; Productivity DJ playlist request chatId:`50ea6cce1cb74a`; hackathon project idea chatId:`36a9820690c34d`; news-to-playlist automation chatId:`36a9820690c34d`; tarot daily email setup chatId:`fa840ee4e3d847`]
-- prefers edgy, cult-vibe, concise social media copywriting; 1× (first: 2025-09-04) [ref: cult-oriented tweet request chatId:`fa840ee4e3d847`]
+- prefers edgy, cult-vibe, concise social media copywriting; 2× (last: 2025-09-04) [refs: cult-oriented tweet request chatId:`fa840ee4e3d847`; very short cult tweet chatId:`fa840ee4e3d847`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
