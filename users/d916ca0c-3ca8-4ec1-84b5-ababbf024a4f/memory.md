@@ -2,8 +2,8 @@
 ### Durable (established, 3+ reinforcements)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- provides direct, concise creative instructions; expects professional-looking output; 2× (last: 2025-09-04) [refs: YouTube banner requests chatId:`ec568005d9a54d`]
-- uses casual humor ("hahaha") and light-hearted feedback; 2× (last: 2025-09-04) [refs: faces change remark chatId:`ec568005d9a54d`; earlier reaction chatId:`ec568005d9a54d`]
+- provides direct, concise creative instructions; expects professional-looking output; 3× (last: 2025-09-04) [refs: YouTube banner requests chatId:`ec568005d9a54d`]
+- uses casual humor (e.g., “hahaha”) and light-hearted feedback; 2× (last: 2025-09-04) [refs: faces change remark chatId:`ec568005d9a54d`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -22,4 +22,4 @@
 ### Durable (regular platform activities)
 
 ### Emerging (new query patterns)
-- uses platform for graphic design assistance (e.g., YouTube banner creation); 2× (since 2025-09-04) [refs: multiple banner creation requests chatId:`ec568005d9a54d`]
+- uses platform for graphic design assistance (e.g., YouTube banner creation); 3× (since 2025-09-04) [refs: multiple banner creation requests chatId:`ec568005d9a54d`]
