@@ -18,7 +18,7 @@
 - (no durable entries yet)
 
 ### Emerging (recent behavioral shifts)
-- (no emerging entries yet)
+- seeks friendly companionship with assistant; requests friendship; 1× (first: 2025-09-04) [ref: friendship request chatId:`d1dc3e73a88e4a`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
@@ -26,3 +26,4 @@
 
 ### Emerging (new query patterns)
 - asks for school exam syllabus; 2× (since 2025-09-04) [refs: class 7 exam syllabus discussion; Bangla exam syllabus chatId:`1aea3bb4d3034a`]
+- asks everyday life advice (e.g., whether to attend school today); 1× (first: 2025-09-04) [ref: school attendance query chatId:`d1dc3e73a88e4a`]
