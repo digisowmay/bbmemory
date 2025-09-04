@@ -28,4 +28,4 @@
 - plans to use platform for daily conversational check-ins; 6× [refs: commitment to daily chat chatId:`fa6a8a6ecd364e`]
 
 ### Emerging (new query patterns)
-- concerned about privacy and security of shared images; 2× (last: 2025-09-05) [refs: privacy concern discussion chatId:`0a3b39f906394f`; follow-up reassurance chatId:`0a3b39f906394f`]
+- concerned about privacy and security of shared images; 3× (last: 2025-09-05) [refs: privacy concern discussion chatId:`0a3b39f906394f`; follow-up reassurance chatId:`0a3b39f906394f`; id save concern chatId:`0a3b39f906394f`]
