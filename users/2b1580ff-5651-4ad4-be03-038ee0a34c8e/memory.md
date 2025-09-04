@@ -3,7 +3,7 @@
 - no durable communication patterns identified yet; 0× [refs: ]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- communicates primarily in Chinese; 2× (last: 2025-09-04) [refs: greeting and request chatId:`4100823104614d`; follow-up "需要" chatId:`4100823104614d`]
+- communicates primarily in Chinese; 2× (last: 2025-09-04) [refs: greeting and capability request chatId:`4100823104614d`; browser automation question chatId:`4100823104614d`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -25,3 +25,4 @@
 
 ### Emerging (new query patterns)
 - interested in crypto price queries; 2× (last: 2025-09-04) [refs: Bitcoin price request chatId:`4100823104614d`; detailed crypto market request chatId:`4100823104614d`]
+- exploring browser automation; 1× (first: 2025-09-04) [ref: browser automation request chatId:`4100823104614d`]
