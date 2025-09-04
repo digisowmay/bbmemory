@@ -5,13 +5,14 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - prefers data delivered in structured bullet lists; 1× (first: 2025-09-04) [ref: brand list request chatId:`201073c240e44d`]
-- asks for extended/comprehensive lists beyond initial results; 2× (last: 2025-09-04) [refs: "along with these brands" message; "data is not helpful... top 100 brands" request chatId:`201073c240e44d`]
+- asks for extended/comprehensive lists beyond initial results; 2× (last: 2025-09-04) [refs: "along with these brands" message; "top 100 brands" request chatId:`201073c240e44d`]
+- demands real-time, up-to-date data with specific deadline filters; rejects outdated information; 1× (observed: 2025-09-04) [ref: "data is not helpful... filter by current date" chatId:`201073c240e44d`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
 -  
 
-### Emerging (recent learning, current focus)  
+### Emerging (recent learning, current focus)
 - building cross-industry digital marketing agency lead generation workflows; 2× (since 2025-09-04) [refs: automation tasks chatId:`201073c240e44d`]
 - working on AI adoption training and marketing agency lead generation for Indian media and other industries; 2× (since 2025-09-04) [refs: AI adoption & marketing automations chatId:`201073c240e44d`]
 - exploring brands across sectors that are scaling marketing; 1× (started: 2025-09-04) [ref: brand scaling marketing list request chatId:`201073c240e44d`]
@@ -22,6 +23,7 @@
 
 ### Emerging (recent behavioral shifts)
 - seeks recurring scheduled research tasks (6-12h/weekly) to maintain lead flow; 2× (since 2025-09-04) [refs: scheduler creations chatId:`201073c240e44d`]
+- prioritizes data freshness and actionable insights; 1× (observed: 2025-09-04) [ref: request for current tenders with 3-week deadlines chatId:`201073c240e44d`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
