@@ -11,6 +11,7 @@
 
 ### Emerging (recent learning, current focus)
 - hosts an AI/ML podcast/channel "GroundZero"; 1× (first: 2025-09-04) [ref: YouTube video summary chatId:`6f1c24eb6a9c47`]
+- performs subscription admin tasks (creates pro plans for users); 1× (started: 2025-09-04) [ref: subscription creation chatId:`a0a72cf9346748`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
@@ -22,3 +23,4 @@
 
 ### Emerging (new query patterns)
 - requests YouTube video transcripts; 2× (since 2025-09-04) [refs: initial transcript request chatId:`6f1c24eb6a9c47`; follow-up transcript clarification chatId:`6f1c24eb6a9c47`]
+- uses Bhindi Subs Manager to manage user subscriptions; 1× (since 2025-09-04) [ref: subscription creation chatId:`a0a72cf9346748`]
