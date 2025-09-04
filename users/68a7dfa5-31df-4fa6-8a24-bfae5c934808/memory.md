@@ -2,7 +2,8 @@
 ### Durable (established, 3+ reinforcements)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- prefers structured, formal reports with bullet lists; 1× (first: 2025-09-04) [ref: status report creation chatId:`30bfc0b178eb4a`]
+- prefers structured, formal reports with bullet lists; 2× (last: 2025-09-04) [refs: status report creation chatId:`30bfc0b178eb4a`; WhatsApp message formatting request chatId:`3dcc2be34a6741`]
+- requests concise, professional messaging adapted for WhatsApp; 1× (first: 2025-09-04) [ref: WhatsApp message formatting request chatId:`3dcc2be34a6741`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -21,3 +22,4 @@
 
 ### Emerging (new query patterns)
 - uses Notion for project documentation and status reports; 1× (first: 2025-09-04) [ref: requested Notion evening report chatId:`30bfc0b178eb4a`]
+- uses WhatsApp for professional updates; 1× (first: 2025-09-04) [ref: WhatsApp message formatting request chatId:`3dcc2be34a6741`]
