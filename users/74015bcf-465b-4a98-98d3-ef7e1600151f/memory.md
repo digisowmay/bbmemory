@@ -3,7 +3,7 @@
 - (no durable patterns recorded yet)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- provides precise instructions for image edits; 3× (last: 2025-09-03) [refs: image headshot request chatId:`e028fd46791f40`; hair color request chatId:`c49bb187663544`; image background removal chatId:`84178ca5429649`]
+- provides precise instructions for image edits; 4× (last: 2025-09-04) [refs: wedding guest removal request chatId:`2e4143b6aed546`; image headshot request chatId:`e028fd46791f40`; hair color request chatId:`c49bb187663544`; image background removal chatId:`84178ca5429649`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -17,11 +17,11 @@
 - (no durable patterns recorded yet)
 
 ### Emerging (recent behavioral shifts)
-- visually oriented; seeks AI photo transformations; 3× (since 2025-09-03) [refs: headshot request chatId:`e028fd46791f40`; hair color request chatId:`c49bb187663544`; image background removal chatId:`84178ca5429649`]
+- visually oriented; seeks AI photo transformations; 4× (since 2025-09-03) [refs: wedding guest removal request chatId:`2e4143b6aed546`; headshot request chatId:`e028fd46791f40`; hair color request chatId:`c49bb187663544`; image background removal chatId:`84178ca5429649`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
 - (no durable usage patterns recorded yet)
 
 ### Emerging (new query patterns)
-- exploring AI image editing tools for headshot transformation; 3× (since 2025-09-03) [refs: headshot request chatId:`e028fd46791f40`; hair color request chatId:`c49bb187663544`; image background removal chatId:`84178ca5429649`]
+- exploring AI image editing tools for headshot transformation; 4× (since 2025-09-03) [refs: wedding guest removal request chatId:`2e4143b6aed546`; headshot request chatId:`e028fd46791f40`; hair color request chatId:`c49bb187663544`; image background removal chatId:`84178ca5429649`]
