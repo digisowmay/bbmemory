@@ -21,3 +21,4 @@
 
 ### Emerging (new query patterns)
 - searches for academic papers and datasets on Hugging Face and arXiv; 1× (since 2025-09-04) [ref: AI omnichannel marketing research request chatId:`027eeb966c3f4d`]
+- exploring Reddit as an additional data source for research; 1× (first: 2025-09-04) [ref: Reddit access request chatId:`027eeb966c3f4d`]
