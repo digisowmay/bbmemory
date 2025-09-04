@@ -1,8 +1,8 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
+- provides very short, often one-word or phrase queries, requiring clarification; 3× (promoted from emerging, last: 2025-09-04) [refs: initial Icelandic phrase and "Shah rukh" queries chatId:`6f1852ff48b246`; Rain in Pakistan and Bilal queries chatId:`c65b944b66ec47`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- provides very short, often one-word or phrase queries, requiring clarification; 2× (last: 2025-09-04) [refs: initial Icelandic phrase and "Shah rukh" queries chatId:`6f1852ff48b246`; Rain in Pakistan query chatId:`c65b944b66ec47`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
