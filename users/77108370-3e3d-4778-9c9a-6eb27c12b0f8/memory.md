@@ -5,6 +5,7 @@
 - shares detailed life stories in one long, casual narrative; 3× (last: 2025-09-04) [ref: conversation chatId:`78080c4ad49244`]
 - open about motivations and feelings (e.g., motivation slump); 3× (last: 2025-09-04) [ref: conversation chatId:`78080c4ad49244`]
 - asks for specific step-by-step actionable guidance; 1× (first: 2025-09-04) [ref: conversation chatId:`78080c4ad49244`]
+- prefers irreverent, carefree “bakchod” style conversations with humorous hooks; 1× (first: 2025-09-04) [ref: conversation chatId:`78080c4ad49244`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -12,6 +13,7 @@
 ### Emerging (recent learning, current focus)
 - background in CS, video creation, web3 development, produced content for prominent creators (Superteam, Balaji); 2× (since 2025-09-04) [ref: conversation chatId:`78080c4ad49244`]
 - planning a new “bakchod” podcast with web3 guests; 1× (started: 2025-09-04) [ref: conversation chatId:`78080c4ad49244`]
+- has personal friendship with Denver Dsouza (Devfolio CEO) and plans to feature him as a guest; 1× (started: 2025-09-04) [ref: conversation chatId:`78080c4ad49244`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
@@ -27,4 +29,4 @@
 ### Emerging (new query patterns)
 - seeks guidance on reviving YouTube channel and creating viral content; 1× (since 2025-09-04) [ref: conversation chatId:`78080c4ad49244`]
 - interested in podcast production, guest engagement in web3 space; 3× (last: 2025-09-04) [ref: conversation chatId:`78080c4ad49244`]
-- exploring Bhindi automation to execute creative ideas efficiently; 1× (first: 2025-09-04) [ref: conversation chatId:`78080c4ad49244`]
+- exploring Bhindi for brainstorming podcast hooks and questions; 1× (first: 2025-09-04) [ref: conversation chatId:`78080c4ad49244`]
