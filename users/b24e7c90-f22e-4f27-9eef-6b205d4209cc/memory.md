@@ -8,15 +8,17 @@
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
+- (no notable entries yet)
 
 ### Emerging (recent learning, current focus)
-- testing and building Pineapple project: openrouter-style message router to Anthropic API; 3× (since 2025-09-05) [refs: conversation about project testing chatId:`555a19ed02cb41`; openrouter transformation discussion chatId:`555a19ed02cb41`; edge case handling talk chatId:`555a19ed02cb41`]
+- testing and building Pineapple project: openrouter-style message router to Anthropic API; 2× (since 2025-09-05) [refs: conversation about project testing chatId:`555a19ed02cb41`; openrouter transformation discussion chatId:`555a19ed02cb41`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
+- (no notable entries yet)
 
 ### Emerging (recent behavioral shifts)
-- stress-testing systems for edge cases; deliberately tries to break message transformations; 2× (last: 2025-09-05) [refs: edge case testing discussion chatId:`555a19ed02cb41`; prompt generation for stress tests chatId:`555a19ed02cb41`]
+- stress-testing systems for edge cases; 2× (last: 2025-09-05) [refs: edge case testing discussion chatId:`555a19ed02cb41`; blank message test chatId:`a8c150ccda4d43`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
