@@ -3,8 +3,8 @@
 - uses Bangla language in conversation; 5× (stable since 2025-09-04) [refs: asked agent's name in Bangla; Bangla syllabus request; Bangla exam topic request; follow-up queries chatId:`1aea3bb4d3034a`; name correction chatId:`d1dc3e73a88e4a`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- sends single-word follow-ups to request deeper details (e.g., "Bangla", "Rosna", "Kusina"); 2× (last: 2025-09-04) [refs: keyword follow-ups chatId:`1aea3bb4d3034a`; name correction chatId:`d1dc3e73a88e4a`]
-- prefers to be addressed as Tanisa, correcting previously assumed name; 2× (last: 2025-09-04) [refs: name clarification chatId:`d1dc3e73a88e4a`; reaffirmation chatId:`d1dc3e73a88e4a`]
+- sends single-word follow-ups to request deeper details (e.g., "Bangla", "Rosna", "Kusina"); 3× (last: 2025-09-04) [refs: keyword follow-ups chatId:`1aea3bb4d3034a`; name correction chatId:`d1dc3e73a88e4a`; friend request chatId:`d1dc3e73a88e4a`]
+- prefers to be addressed as Tanisa, correcting previously assumed name; 3× (last: 2025-09-04) [refs: name clarification chatId:`d1dc3e73a88e4a`; reaffirmation chatId:`d1dc3e73a88e4a`; friend request chatId:`d1dc3e73a88e4a`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
