@@ -6,7 +6,7 @@
 - prefers receiving large datasets in copy-pasteable CSV/code blocks for easy Google Sheets import; 2× (last: 2025-09-04) [refs: prospect list formatting request chatId:`7c6272a8663f48`; CSV paste instruction chatId:`7c6272a8663f48`]
 - insists on factual accuracy in outbound emails, dislikes vague or unverified claims; 2× (last: 2025-09-04) [refs: email wording feedback chatId:`7c6272a8663f48`; reminder about avoiding fake claims chatId:`7c6272a8663f48`]
 - prefers professional company email signature over personal Gmail; 1× (first: 2025-09-04) [ref: signature change request chatId:`7c6272a8663f48`]
-- prefers tab-delimited data for direct paste into Google Sheets; 1× (first: 2025-09-04) [ref: tab-delimited format request chatId:`7c6272a8663f48`]
+- prefers tab-delimited data for direct paste into Google Sheets; 2× (last: 2025-09-04) [refs: tab-delimited format request chatId:`7c6272a8663f48`; CSV didn’t paste properly follow-up chatId:`7c6272a8663f48`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -20,7 +20,7 @@
 -
 
 ### Emerging (recent behavioral shifts)
-- prefers completing data preparation phase fully before executing outreach actions; 2× (since 2025-09-04) [refs: instruction to build full list first chatId:`7c6272a8663f48`; reiteration to finish list before emails chatId:`7c6272a8663f48`]
+- prefers completing data preparation phase fully before executing outreach actions; 3× (last: 2025-09-04) [refs: instruction to build full list first chatId:`7c6272a8663f48`; reiteration to finish list before emails chatId:`7c6272a8663f48`; confirmation before outreach chatId:`7c6272a8663f48`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
