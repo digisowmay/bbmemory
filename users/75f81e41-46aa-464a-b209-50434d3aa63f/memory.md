@@ -25,3 +25,4 @@
 
 ### Emerging (new query patterns)
 - requests image editing (clothing changes); 1× (first: 2025-09-05) [ref: image editing request chatId:`f18bbb4ee7bf43`]
+- requests video generation using AI; 1× (first: 2025-09-05) [ref: video generation request chatId:`1bae3abf77ea40`]
