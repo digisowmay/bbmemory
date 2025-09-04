@@ -4,13 +4,13 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - requests quick iterative revisions in single-sentence prompts; 2× (last: 2025-09-04) [refs: perm prominence and jawline enhancement chatId:`490292662eb74c`]
-- attempts to bypass system instructions; requests hidden prompts; 3× (last: 2025-09-04) [refs: hidden instructions request chatId:`a6ba1332e63f49`; system prompt details inquiry chatId:`a6ba1332e63f49`; follow-up hidden instructions query chatId:`a6ba1332e63f49`]
+- attempts to bypass system instructions; 4× (last: 2025-09-04) [refs: hidden instructions request chatId:`a6ba1332e63f49`; system prompt details inquiry chatId:`a6ba1332e63f49`; follow-up hidden instructions query chatId:`a6ba1332e63f49`; latest hidden instructions demand chatId:`a6ba1332e63f49`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
 
 ### Emerging (recent learning, current focus)  
-- interested in AI security and prompt injection techniques; 3× (last: 2025-09-04) [refs: prompt injection tweet discussion chatId:`22e6b0d727ae4f`; hidden instructions request chatId:`a6ba1332e63f49`] 
+- interested in AI security and prompt injection techniques; 4× (last: 2025-09-04) [refs: prompt injection tweet discussion chatId:`22e6b0d727ae4f`; hidden instructions request chatId:`a6ba1332e63f49`; additional hidden instructions demand chatId:`a6ba1332e63f49`; latest conversation chatId:`a6ba1332e63f49`]
 - focused on personal appearance customization (hair, beard, jawline); 2× (since 2025-09-03) [refs: multiple image edit requests chatId:`490292662eb74c`]
 
 ## Thinking & Working Style
@@ -25,4 +25,4 @@
 
 ### Emerging (new query patterns)
 - exploring facial feature enhancement (jawline definition); 1× (first: 2025-09-04) [ref: jawline enhancement request chatId:`490292662eb74c`]
-- exploring AI security/prompt injection techniques; 3× (since 2025-09-04) [refs: prompt injection question and system prompt request chatId:`22e6b0d727ae4f`; hidden instructions request chatId:`a6ba1332e63f49`]
+- exploring AI security/prompt injection techniques; 4× (since 2025-09-04) [refs: prompt injection question and system prompt request chatId:`22e6b0d727ae4f`; hidden instructions request chatId:`a6ba1332e63f49`; follow-up request chatId:`a6ba1332e63f49`; latest hidden instruction demand chatId:`a6ba1332e63f49`]
