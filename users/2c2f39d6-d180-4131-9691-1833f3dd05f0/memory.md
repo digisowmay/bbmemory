@@ -4,6 +4,7 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - prefers direct, full code responses with minimal commentary; 1× (first: 2025-09-04) [ref: request "just provide the all code" chatId:`701186742f2a42`]
+- uses extremely concise or single-word queries expecting context inference; 1× (first: 2025-09-04) [ref: single-word "n8n" query chatId:`a32c257d0bdc47`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
