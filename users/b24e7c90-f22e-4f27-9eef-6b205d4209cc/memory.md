@@ -11,14 +11,14 @@
 - (no notable entries yet)
 
 ### Emerging (recent learning, current focus)
-- testing "Pineapple project"; 1× (first: 2025-09-05) [ref: conversation about project testing chatId:`555a19ed02cb41`]
+- testing and building Pineapple project: openrouter-style message router to Anthropic API; 2× (since 2025-09-05) [refs: conversation about project testing chatId:`555a19ed02cb41`; openrouter transformation discussion chatId:`555a19ed02cb41`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
 - (no notable entries yet)
 
 ### Emerging (recent behavioral shifts)
-- (no notable entries yet)
+- stress-testing systems for edge cases; deliberately tries to break message transformations; 1× (first: 2025-09-05) [ref: edge case testing discussion chatId:`555a19ed02cb41`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
