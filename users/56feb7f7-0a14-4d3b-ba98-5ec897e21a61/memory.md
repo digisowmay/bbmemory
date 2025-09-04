@@ -3,7 +3,7 @@
 - (no durable patterns identified yet)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- gives concise single-sentence requests; 10× (last: 2025-09-04) [refs: reminder setup request chatId:`0262fd8a06594f`; GitHub repo list & follow-up chats chatId:`3f8d1edd73df43`]
+- gives concise single-sentence requests; 11× (last: 2025-09-04) [refs: reminder setup request chatId:`0262fd8a06594f`; GitHub repo list & follow-up chats chatId:`3f8d1edd73df43`; language breakdown request chatId:`3f8d1edd73df43`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -25,4 +25,4 @@
 
 ### Emerging (new query patterns)
 - uses scheduling/reminder tool to set specific time alerts; 2× (since 2025-09-04) [refs: initial reminder setup chatId:`0262fd8a06594f`; follow-up interaction chatId:`0262fd8a06594f`]
-- asks GitHub commit/write operations and repository analytics (model layer explanations, language breakdown); 3× (since 2025-09-04) [refs: commit capability request, language breakdown, MCP query chats chatId:`3f8d1edd73df43`]
+- asks GitHub commit/write operations and repository analytics (model layer explanations, language breakdown); 4× (since 2025-09-04) [refs: commit capability request chatId:`3f8d1edd73df43`; language breakdown request chatId:`3f8d1edd73df43`; repo list request chatId:`3f8d1edd73df43`; model layer explanation chatId:`3f8d1edd73df43`]
