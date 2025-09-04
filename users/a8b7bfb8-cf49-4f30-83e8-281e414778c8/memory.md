@@ -15,6 +15,7 @@
 ### Emerging (recent learning, current focus)  
 - building algorithmic trading automation for Indian stock market using n8n with Upstox broker API; interested in indicators like RSI, MACD, Bollinger; 2× (since 2025-09-05) [refs: initial automation request chatId:`5be34a16de4943`; advanced trading methods request chatId:`5be34a16de4943`]
 - exploring WhatsApp Business API automation with n8n; designing WhatsApp chatbot and bulk messaging system; 1× (first: 2025-09-05) [ref: WhatsApp automation clone request chatId:`cac1eed8fad440`]
+- exploring memecoin creation automation on Pump.fun using n8n; 1× (first: 2025-09-05) [ref: memecoin automation request chatId:`e17151ea64cd45`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
