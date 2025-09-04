@@ -23,3 +23,4 @@
 
 ### Emerging (new query patterns)
 - Requests cross-platform social media automation (LinkedIn, Twitter) for brand promotion; 2× (since 2025-09-04) [refs: LinkedIn automation setup chatId:`72a846806dfd4e`; Twitter automation setup chatId:`72a846806dfd4e`]
+- Seeks email integration and productivity automation via Gmail; 1× (first: 2025-09-04) [ref: Gmail productivity automation request chatId:`ab3b01ebb0f844`]
