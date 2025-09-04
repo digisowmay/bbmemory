@@ -25,3 +25,4 @@
 
 ### Emerging (new query patterns)
 - exploring text-to-speech feature for responses; 4× (last: 2025-09-05) [refs: voice response request chatId:`9ad7b063949e45`; continued TTS interaction chatId:`9ad7b063949e45`; latest TTS generation chatId:`9ad7b063949e45`; female voice request chatId:`9ad7b063949e45`]
+- requests images/photos of locations for better visualization; 1× (first: 2025-09-05) [ref: school image request chatId:`9b3c22e3fca64e`]
