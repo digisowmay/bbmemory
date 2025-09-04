@@ -1,11 +1,10 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- regularly requests idea lists and step-by-step examples for automations with tool mentions; 4× (promoted from emerging) [refs: content writing assistance chatId:`edba2b0d2dad4f`; easy tools request chatId:`edba2b0d2dad4f`; fun automation ideas chatId:`dcd610c08e274d`; Sahil birthday schedule creation chatId:`dcd610c08e274d`]
+- regularly requests idea lists and step-by-step examples for automations with tool mentions; 4× (stable since 2025-09-01) [refs: content writing assistance chatId:`edba2b0d2dad4f`; easy tools request chatId:`edba2b0d2dad4f`; fun automation ideas chatId:`dcd610c08e274d`; Sahil birthday schedule creation chatId:`dcd610c08e274d`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- provides concise imperative follow-up commands (e.g., "send it on whatsapp", "Create a simple command"); 2× (last: 2025-09-01) [refs: send it on whatsapp chatId:`dcd610c08e274d`; simple command request chatId:`46c84315309e42`]
-- asks about capabilities/privacy (e.g., location usage); 2× (since 2025-09-01) [refs: location capability question chatId:`46c84315309e42`; location-based WhatsApp message request chatId:`46c84315309e42`]
-- requests polished social media copy with improved grammar and specific POV; 1× (first: 2025-09-04) [ref: hackathon post creation chatId:`f7be83c7fc5d47`]
+- requests polished social copy, improved grammar, and catchy one-liner titles; 2× (last: 2025-09-04) [refs: hackathon post creation chatId:`f7be83c7fc5d47`; one-liner title request chatId:`f7be83c7fc5d47`]
+- provides concise imperative follow-up commands (e.g., "send it on whatsapp", "create a short post"); 2× (last: 2025-09-04) [refs: send it on whatsapp chatId:`dcd610c08e274d`; short post request chatId:`f7be83c7fc5d47`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -16,7 +15,7 @@
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
-- prefers structured, actionable instructions; 4× (promoted from emerging) [refs: step-by-step guidance chatId:`edba2b0d2dad4f`; simple tools prompt chatId:`edba2b0d2dad4f`; birthday compliment implementation chatId:`dcd610c08e274d`; Sahil birthday schedule creation chatId:`dcd610c08e274d`]
+- prefers structured, actionable instructions; 4× (consistent pattern) [refs: step-by-step guidance chatId:`edba2b0d2dad4f`; simple tools prompt chatId:`edba2b0d2dad4f`; birthday compliment implementation chatId:`dcd610c08e274d`; Sahil birthday schedule creation chatId:`dcd610c08e274d`]
 
 ### Emerging (recent behavioral shifts)
 
@@ -27,4 +26,3 @@
 ### Emerging (new query patterns)
 - setting up WhatsApp message automations; 2× (since 2025-09-01) [refs: Sahil WhatsApp birthday automation chatId:`dcd610c08e274d`; location-based WhatsApp message request chatId:`46c84315309e42`]
 - exploring location-based capabilities and privacy considerations; 2× (since 2025-09-01) [refs: location capability question chatId:`46c84315309e42`; location-based WhatsApp message request chatId:`46c84315309e42`]
-- seeks lists and promotional posts about hackathons/events; 1× (since 2025-09-04) [ref: hackathon list post chatId:`f7be83c7fc5d47`]
