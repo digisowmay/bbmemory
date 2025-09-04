@@ -1,27 +1,27 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- (no durable patterns recorded yet)
+- prefers communication in Bangla; 3× (promoted from emerging) [refs: chatId:`eb63aa46db5d40`; chatId:`afade33b3aa14a`; chatId:`afade33b3aa14a`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- prefers communication in Bangla; 2× (last: 2025-09-05) [refs: chatId:`eb63aa46db5d40`; chatId:`afade33b3aa14a`]
+- (none)
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
-- (no durable knowledge recorded yet)
+- (none)
 
 ### Emerging (recent learning, current focus)
-- (no emerging knowledge recorded yet)
+- (none)
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
-- (no durable thinking patterns recorded yet)
+- (none)
 
 ### Emerging (recent behavioral shifts)
-- (no emerging thinking patterns recorded yet)
+- (none)
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
-- (no durable platform usage patterns recorded yet)
+- (none)
 
 ### Emerging (new query patterns)
-- (no emerging platform usage patterns recorded yet)
+- interested in AI video generation; 1× (first: 2025-09-05) [ref: video creation request chatId:`afade33b3aa14a`]
