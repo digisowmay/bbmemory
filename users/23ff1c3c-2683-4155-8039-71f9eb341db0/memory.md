@@ -4,14 +4,14 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - يستخدم اللغة العربية في الطلبات ويفضل الرد بالعربية; 3× (last: 2025-09-05) [refs: chatId:`32e9247626ed4a`]
-- يفضّل اللهجة العامية المصرية في الردود; 1× (first: 2025-09-05) [ref: chatId:`32e9247626ed4a`]
+- يفضل الأسلوب العامي المصري في الردود; 1× (first: 2025-09-05) [ref: chatId:`32e9247626ed4a`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
 -
 
 ### Emerging (recent learning, current focus)
-- مهتم بأناشيد إسلامية (مثل ماهر زين)؛ 3× (since 2025-09-05) [ref: chatId:`32e9247626ed4a`]
+- مهتم بأناشيد إسلامية (مثل ماهر زين)؛ 2× (since 2025-09-05) [ref: chatId:`32e9247626ed4a`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
@@ -25,4 +25,4 @@
 -
 
 ### Emerging (new query patterns)
-- يطلب معلومات وروابط عن الأغاني/الموسيقى؛ 3× (started: 2025-09-05) [ref: chatId:`32e9247626ed4a`]
+- يطلب معلومات وروابط عن الأغاني/الموسيقى؛ 2× (started: 2025-09-05) [ref: chatId:`32e9247626ed4a`]
