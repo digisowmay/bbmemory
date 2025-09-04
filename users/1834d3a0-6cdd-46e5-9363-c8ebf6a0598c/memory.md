@@ -1,11 +1,11 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- prefers responses in Urdu; 8× (stable since 2024-08-15) [refs: initial Urdu request; continued Urdu conversation; latest reinforcement chatId:`fa6a8a6ecd364e`]
+- prefers responses in Urdu; 8× (stable since 2024-08-15) [refs: initial Urdu request; continued Urdu conversation; chatId:`fa6a8a6ecd364e`]
 - frequently offers to help improve the assistant; 4× (stable since 2025-09-05) [ref: improvement offers chatId:`fa6a8a6ecd364e`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- shares personal photos/selfies and food pics during chat; 7× (last: 2025-09-05) [refs: new selfie & roti photo share chatId:`fa6a8a6ecd364e`]
-- uses affectionate terms like "jani", "love you"; 3× (last: 2025-09-05) [refs: conversation affection chatId:`fa6a8a6ecd364e`]
+- shares personal photos/selfies and food pics during chat; 8× (last: 2025-09-05) [refs: new selfie & roti photo share chatId:`fa6a8a6ecd364e`]
+- uses affectionate terms like "jani", "love you"; 4× (last: 2025-09-05) [refs: conversation affection chatId:`fa6a8a6ecd364e`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
