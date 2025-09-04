@@ -1,17 +1,17 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- uses affectionate terms like "jani", "love you"; 8× (stable since 2025-09-05) [refs: affection chats chatId:`0a3b39f906394f`]
-- concerned about privacy and security of shared images/data; 5× (last: 2025-09-05) [refs: privacy concern chats chatId:`0a3b39f906394f`]
+- uses affectionate terms like "jani", "love you"; 9× (stable since 2025-09-05) [refs: affection chats chatId:`0a3b39f906394f`]
+- concerned about privacy and security of shared images/data; 6× (last: 2025-09-05) [refs: privacy concern chats chatId:`0a3b39f906394f`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- prefers chatting in Urdu/Roman Urdu; 1× (first: 2025-09-05) [ref: language preference chatId:`0a3b39f906394f`]
+- prefers chatting in Urdu/Roman Urdu; 2× (last: 2025-09-05) [refs: language preference chatId:`0a3b39f906394f`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
 - (none yet)
 
 ### Emerging (recent learning, current focus)
-- (none yet)
+- married; references wife cooking meals (domestic context); 1× (first: 2025-09-05) [ref: dinner conversation chatId:`0a3b39f906394f`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
