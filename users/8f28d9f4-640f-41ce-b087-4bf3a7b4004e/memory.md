@@ -2,7 +2,7 @@
 ### Durable (established, 3+ reinforcements)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- prefers concise, action-oriented requests; instructs messaging tasks directly; 2× (last: 2025-09-04) [ref: messaging requests chatId:`09fe36bee16143`]
+- prefers concise, action-oriented requests; instructs messaging tasks directly; 3× (last: 2025-09-04) [ref: messaging tasks chatId:`09fe36bee16143`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -18,5 +18,5 @@
 ### Durable (regular platform activities)
 
 ### Emerging (new query patterns)
-- uses WhatsApp messaging automation; 1× (started: 2025-09-04) [ref: messaging request chatId:`09fe36bee16143`]
-- exploring email automation via Gmail; 1× (first: 2025-09-04) [ref: multiple mail inquiry chatId:`09fe36bee16143`]
+- uses WhatsApp messaging automation; 2× (last: 2025-09-04) [ref: send WhatsApp message request chatId:`09fe36bee16143`]
+- exploring email automation tools (Gmail, Listmonk); 2× (last: 2025-09-04) [refs: multiple mail inquiry chatId:`09fe36bee16143`; Listmonk connection request chatId:`09fe36bee16143`]
