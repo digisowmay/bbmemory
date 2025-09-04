@@ -26,3 +26,4 @@
 
 ### Emerging (new query patterns)
 - asks about n8n workflows; 4× (last: 2025-09-04) [refs: n8n workflow request chatId:`662655ca620f4e`; adding variables chatId:`8de5cd0244fb45`; sync command chatId:`8de5cd0244fb45`; active workflows request chatId:`f4f5a1438f9042`]
+- requests GitHub repository operations (list repos); 1× (first: 2025-09-05) [ref: GitHub repo listing chatId:`c49ec49f168e44`]
