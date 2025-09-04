@@ -5,6 +5,7 @@
 ### Emerging (new signals, 1-2 reinforcements)
 - prefers concise, actionable templates and direct task instructions for LinkedIn content creation; 2× (last: 2025-09-04) [refs: requested post templates and scheduling chatId:`d294ab9c63e148`]
 - requests iterative, step-by-step assistance (topic selection → post analysis → scheduling → replies); 1× (first: 2025-09-04) [ref: sequential task requests chatId:`d294ab9c63e148`]
+- delegating execution to agent (searching, scheduling, posting) rather than manual action; 1× (first: 2025-09-04) [ref: requests to search, schedule, and post replies chatId:`d294ab9c63e148`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -19,6 +20,7 @@
 
 ### Emerging (recent behavioral shifts)
 - task-oriented, seeks concrete deliverables like scheduled posts and ready-made replies; 1× (observed: 2025-09-04) [ref: scheduling request chatId:`d294ab9c63e148`]
+- prefers automation and full-service execution (posting, scheduling) over manual steps; 1× (observed: 2025-09-04) [ref: requested agent to post replies chatId:`d294ab9c63e148`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
