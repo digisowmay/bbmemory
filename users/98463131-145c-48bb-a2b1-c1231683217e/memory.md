@@ -3,7 +3,7 @@
 - gives direct, imperative instructions in Italian; 18× (stable since 2024-08-15) [refs: multiple image editing requests chatId:`92f4572c1a2443`; Caravaggio lighting adjustment chatId:`c7b8289c40454a`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- provides detailed sequential change requests to fine-tune images step-by-step; 2× (last: 2025-09-04) [refs: iterative edit instructions about pearl necklace and gaze chatId:`c7b8289c40454a`]
+- provides detailed sequential change requests to fine-tune images step-by-step; 3× (last: 2025-09-04) [refs: successive gaze/necklace/face angle adjustments chatId:`c7b8289c40454a`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -15,7 +15,7 @@
 ### Durable (core thinking patterns)
 
 ### Emerging (recent behavioral shifts)
-- iterative refinement/perfectionist: requests incremental tweaks until satisfied; 2× (last: 2025-09-04) [refs: successive requests to adjust gaze and add necklace chatId:`c7b8289c40454a`]
+- iterative refinement/perfectionist: requests incremental tweaks until satisfied; 3× (last: 2025-09-04) [refs: face orientation, necklace addition, gaze correction chatId:`c7b8289c40454a`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
