@@ -4,6 +4,7 @@
 ### Emerging (new signals, 1-2 reinforcements)
 - shares detailed life stories in one long, casual narrative; 3× (last: 2025-09-04) [ref: conversation chatId:`78080c4ad49244`]
 - open about motivations and feelings (e.g., motivation slump); 3× (last: 2025-09-04) [ref: conversation chatId:`78080c4ad49244`]
+- asks for specific step-by-step actionable guidance; 1× (first: 2025-09-04) [ref: conversation chatId:`78080c4ad49244`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -25,5 +26,5 @@
 
 ### Emerging (new query patterns)
 - seeks guidance on reviving YouTube channel and creating viral content; 1× (since 2025-09-04) [ref: conversation chatId:`78080c4ad49244`]
-- interested in podcast production, guest engagement in web3 space; 2× (last: 2025-09-04) [ref: conversation chatId:`78080c4ad49244`]
+- interested in podcast production, guest engagement in web3 space; 3× (last: 2025-09-04) [ref: conversation chatId:`78080c4ad49244`]
 - exploring Bhindi automation to execute creative ideas efficiently; 1× (first: 2025-09-04) [ref: conversation chatId:`78080c4ad49244`]
