@@ -1,6 +1,6 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- succinct one-word requests; prefers very brief prompts; 4× (since 2025-09-05) [refs: one-word messages "الأمبراطور", "logo", "mohamed", "car" chatId:`e65cf2893b4f4e`]
+- succinct one-word requests; prefers very brief prompts; 6× (since 2025-09-05) [refs: one-word messages "الأمبراطور", "logo", "mohamed", "car", additional "car" requests chatId:`e65cf2893b4f4e`]
 
 ### Emerging (new signals, 1-2 reinforcements)
 - 
@@ -21,7 +21,7 @@
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
-- requests logo generation; exploring graphic design; 4× (since 2025-09-05) [refs: multiple logo generation requests (general, Mohamed, car) chatId:`e65cf2893b4f4e`]
+- requests logo generation; exploring graphic design; 6× (since 2025-09-05) [refs: multiple logo generation requests (general "logo", "mohamed", "car", additional car variation) chatId:`e65cf2893b4f4e`]
 
 ### Emerging (new query patterns)
 - 
