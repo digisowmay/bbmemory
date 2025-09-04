@@ -3,7 +3,7 @@
 - (no durable patterns yet)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- prefers Arabic language and interested in voice (TTS) responses; 5× (last: 2025-09-05) [refs: greeting and voice request chatId:`9ad7b063949e45`; name introduction chatId:`9ad7b063949e45`; TTS conversion command chatId:`9ad7b063949e45`; female voice request chatId:`9ad7b063949e45`; date query chatId:`9b3c22e3fca64e`]
+- prefers Arabic language and interested in voice (TTS) responses; 6× (last: 2025-09-05) [refs: greeting and voice request chatId:`9ad7b063949e45`; name introduction chatId:`9ad7b063949e45`; TTS conversion command chatId:`9ad7b063949e45`; female voice request chatId:`9ad7b063949e45`; date query chatId:`9b3c22e3fca64e`; school address request chatId:`9b3c22e3fca64e`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
