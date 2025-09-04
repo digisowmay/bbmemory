@@ -2,27 +2,26 @@
 ### Durable (established, 3+ reinforcements)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- direct technical instructions; 6× (last: 2025-09-04) [refs: voice Neha fix chatId:`01ba9b7f47b449`; error logs message chatId:`01ba9b7f47b449`]
-- requests fully built solutions rather than step-by-step guidance; 6× (last: 2025-09-04) [refs: "no develop it for me" chatId:`01ba9b7f47b449`; phone number fix request chatId:`01ba9b7f47b449`]
+- direct technical instructions; 6× (last: 2025-09-04) [refs: agent development discussion chatId:`01ba9b7f47b449`; follow-up request for full platform code chatId:`01ba9b7f47b449`; shared error logs for troubleshooting chatId:`01ba9b7f47b449`; voice provider correction chatId:`01ba9b7f47b449`; doc reference fix request chatId:`01ba9b7f47b449`; phone number reuse note chatId:`01ba9b7f47b449`]
+- requests fully built solutions rather than step-by-step guidance; 6× (last: 2025-09-04) [refs: "no develop it for me" message chatId:`01ba9b7f47b449`; accepted ready-made code chatId:`01ba9b7f47b449`; schema fix request chatId:`01ba9b7f47b449`; voice config update chatId:`01ba9b7f47b449`; doc reference fix chatId:`01ba9b7f47b449`; phone number setup fix chatId:`01ba9b7f47b449`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
 
 ### Emerging (recent learning, current focus)
-- building platform to enable two Vapi agents to interact via phone calls; 6× (since 2025-09-04) [refs: platform code setup chatId:`01ba9b7f47b449`; phone number creation fix chatId:`01ba9b7f47b449`]
-- troubleshooting Vapi agent schema, voice, and phone number errors; 4× (last: 2025-09-04) [refs: agent creation error logs chatId:`01ba9b7f47b449`; voice provider error chatId:`01ba9b7f47b449`; phone number endpoint error chatId:`01ba9b7f47b449`]
-- prefers default Vapi voice "Neha" for agents; 1× (first: 2025-09-04) [ref: voice Neha request chatId:`01ba9b7f47b449`]
+- building platform to enable two Vapi agents to interact via phone calls; 6× (since 2025-09-04) [refs: initial platform request chatId:`01ba9b7f47b449`; implementation code request chatId:`01ba9b7f47b449`; debugging schema errors chatId:`01ba9b7f47b449`; voice config fix chatId:`01ba9b7f47b449`; doc reference fix chatId:`01ba9b7f47b449`; existing phone numbers integration chatId:`01ba9b7f47b449`]
+- troubleshooting Vapi API errors; 4× (first: 2025-09-04) [refs: provided error output chatId:`01ba9b7f47b449`; voice provider error chatId:`01ba9b7f47b449`; phone number endpoint error chatId:`01ba9b7f47b449`; phone number reuse approach chatId:`01ba9b7f47b449`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
 
 ### Emerging (recent behavioral shifts)
-- delegates technical build to assistant while providing error feedback; 5× (last: 2025-09-04) [refs: error logs and fix requests chatId:`01ba9b7f47b449`]
-- prefers to configure own account resources; 2× (last: 2025-09-04) [refs: insisted on adding agents himself chatId:`01ba9b7f47b449`; phone number fix conversation chatId:`01ba9b7f47b449`]
+- delegates technical build to assistant while providing feedback; 5× (last: 2025-09-04) [refs: asked assistant to develop entire platform chatId:`01ba9b7f47b449`; supplied error logs for fixes chatId:`01ba9b7f47b449`; requested voice change chatId:`01ba9b7f47b449`; doc reference fix chatId:`01ba9b7f47b449`; phone number reuse instruction chatId:`01ba9b7f47b449`]
+- prefers to configure own account resources; 3× (last: 2025-09-04) [refs: insisted on adding agents himself chatId:`01ba9b7f47b449`; reiterated preference during debugging chatId:`01ba9b7f47b449`; already has phone numbers chatId:`01ba9b7f47b449`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
 
 ### Emerging (new query patterns)
-- asks for development guidance on Vapi integrations; 6× (since 2025-09-04) [refs: create platform code; agent and phone number setup chatId:`01ba9b7f47b449`]
-- debugging Vapi API errors; 4× (since 2025-09-04) [refs: schema error; voice error; phone number error chatId:`01ba9b7f47b449`]
+- asks for development guidance on Vapi integrations; 6× (since 2025-09-04) [refs: guidance request chatId:`01ba9b7f47b449`; code implementation request chatId:`01ba9b7f47b449`; schema fix request chatId:`01ba9b7f47b449`; voice config update chatId:`01ba9b7f47b449`; doc reference fix chatId:`01ba9b7f47b449`; phone number setup fix chatId:`01ba9b7f47b449`]
+- debugging Vapi API errors; 4× (since 2025-09-04) [refs: error log message chatId:`01ba9b7f47b449`; voice provider error chatId:`01ba9b7f47b449`; phone number endpoint error chatId:`01ba9b7f47b449`; phone number reuse approach chatId:`01ba9b7f47b449`]
