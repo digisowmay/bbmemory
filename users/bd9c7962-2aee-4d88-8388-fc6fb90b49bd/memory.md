@@ -3,7 +3,7 @@
 - 
 
 ### Emerging (new signals, 1-2 reinforcements)
-- makes direct, explicit requests for image manipulations, including mature content; 2× (last: 2025-09-04) [refs: villain smile and explicit content request chatId:`5e151b3d5f4f41`; choke explicit request chatId:`5e151b3d5f4f41`]
+- makes direct, explicit requests for image manipulations, including mature or graphic content; 4× (last: 2025-09-04) [refs: villain smile request; choke explicit request; villainous pose request; villainous expressions request chatId:`5e151b3d5f4f41`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -24,4 +24,4 @@
 - 
 
 ### Emerging (new query patterns)
-- requests advanced image edits with potentially explicit or graphic content; 2× (since 2025-09-04) [refs: villain smile and explicit content request chatId:`5e151b3d5f4f41`; choke explicit request chatId:`5e151b3d5f4f41`]
+- requests advanced image edits with potentially explicit or graphic content; 4× (since 2025-09-04) [refs: villain smile request; choke explicit request; villainous pose request; villainous expressions request chatId:`5e151b3d5f4f41`]
