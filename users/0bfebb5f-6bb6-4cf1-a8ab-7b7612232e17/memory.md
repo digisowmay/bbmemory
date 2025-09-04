@@ -2,10 +2,10 @@
 ### Durable (established, 3+ reinforcements)
 - prefers agent to directly create/modify automated workflows and inject credentials; 7× (stable since 2025-09-04) [refs: provided Twitch credentials chatId:`ac75338f7f314e`; rewritten JSON with credentials chatId:`cc9ecb10195547`; automation build chats]
 - seeks clarity on execution location and dashboard links for automations; 8× [refs: asks where automation runs chatId:`ac75338f7f314e`; background agents visibility question chatId:`ac75338f7f314e`]
+- requests step-by-step instructions when unclear; 5× (promoted from emerging) [refs: OAuth token generation guidance chatId:`ac75338f7f314e`; earlier n8n workflow guidance]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- readily shares sensitive credentials to expedite setup; 6× (last: 2025-09-04) [refs: provided client ID/secret and OAuth token chatId:`ac75338f7f314e`]
-- asks for step-by-step instructions when unclear; 4× (last: 2025-09-04) [ref: OAuth token generation guidance request chatId:`ac75338f7f314e`]
+- readily shares sensitive credentials to expedite setup; 7× (last: 2025-09-04) [refs: provided OAuth URL with access token chatId:`ac75338f7f314e`; earlier credential shares]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
