@@ -12,6 +12,7 @@
 
 ### Emerging (recent learning, current focus)
 - currently working on iOS app that integrates AI agents and faces App Store promotion issues; 1× (started: 2025-09-04) [ref: ios app alternative ways discussion chatId:`c846cdc8814d40`]
+- integrating Google OAuth scopes for calendar and meet features; optimizing scope redundancy; 1× (first: 2025-09-04) [ref: OAuth scopes optimization chatId:`f9e12da616e549`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
