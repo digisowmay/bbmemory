@@ -24,5 +24,5 @@
 -
 
 ### Emerging (new query patterns)
-- requests image editing (clothing changes); 1× (first: 2025-09-05) [ref: image editing request chatId:`f18bbb4ee7bf43`]
-- requests video generation using AI; 1× (first: 2025-09-05) [ref: video generation request chatId:`1bae3abf77ea40`]
+- requests image editing (clothing changes); 2× (last: 2025-09-05) [refs: image editing request chatId:`f18bbb4ee7bf43`; clothing change request chatId:`1bae3abf77ea40`]
+- requests video generation using AI; 2× (last: 2025-09-05) [refs: video generation requests chatId:`1bae3abf77ea40`]
