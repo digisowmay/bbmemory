@@ -1,6 +1,6 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- gives very brief, direct imperative instructions; 15× (stable since 2025-08-30) [refs: agent management commands chatId:`656c190d34a544`; Drive retry chatId:`c357e72220bd41`; n8n workflow interactions chatId:`662655ca620f4e`; agent creation chatId:`8de5cd0244fb45`; agent sync chatId:`8de5cd0244fb45`]
+- gives very brief, direct imperative instructions; 16× (stable since 2025-08-30) [refs: agent management commands chatId:`656c190d34a544`; Drive retry chatId:`c357e72220bd41`; n8n workflow interactions chatId:`662655ca620f4e`; agent creation chatId:`8de5cd0244fb45`; repo diagram request chatId:`c49ec49f168e44`]
 
 ### Emerging (new signals, 1-2 reinforcements)
 - uses casual slang ("bro") and occasional expletives in requests; 5× (last: 2025-09-04) [refs: upload request chatId:`94950b85921c4f`; Drive upload chatId:`c357e72220bd41`; earlier interaction chatId:`4a71763edf844e`]
@@ -26,4 +26,5 @@
 
 ### Emerging (new query patterns)
 - asks about n8n workflows; 4× (last: 2025-09-04) [refs: n8n workflow request chatId:`662655ca620f4e`; adding variables chatId:`8de5cd0244fb45`; sync command chatId:`8de5cd0244fb45`; active workflows request chatId:`f4f5a1438f9042`]
-- requests GitHub repository operations (list repos); 1× (first: 2025-09-05) [ref: GitHub repo listing chatId:`c49ec49f168e44`]
+- requests GitHub repository operations (list repos); 2× (last: 2025-09-05) [refs: GitHub repo listing chatId:`c49ec49f168e44`; earlier listing chatId:`c49ec49f168e44`]
+- requests code visualization (mermaid diagrams); 1× (first: 2025-09-05) [ref: mermaid diagram request chatId:`c49ec49f168e44`]
