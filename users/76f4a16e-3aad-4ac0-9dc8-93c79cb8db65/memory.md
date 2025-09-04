@@ -4,15 +4,15 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - prefers natural, conversational tone; avoids robotic language; 1× (since 2025-09-03) [ref: onboarding checklist request chatId:`0b458e32b74f4c`]
-- often provides short phrases and asks "is the below correct?" for quick validation; 4× (last: 2025-09-04) [refs: phrase checks chatId:`e401e66a99cb49`]
-- instructs assistant to wait for complete context before drafting responses; 1× (first: 2025-09-04) [ref: email drafting instruction chatId:`e401e66a99cb49`]
+- often provides short phrases and asks "is the below correct?" for quick validation; 5× (last: 2025-09-04) [refs: phrase checks chatId:`e401e66a99cb49`]
+- instructs assistant to wait for complete context before drafting responses; 2× (last: 2025-09-04) [ref: email drafting instruction chatId:`e401e66a99cb49`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
 
 ### Emerging (recent learning, current focus)
 - currently hiring a project officer; 4× (since 2025-09-04) [refs: recruiter communication; email polish requests chatId:`e401e66a99cb49`]
-- involved in HR functions such as onboarding, background checks, and R&R program design; 2× (since 2025-09-04) [refs: background check email draft; R&R working group coordination chatId:`e401e66a99cb49`]
+- involved in HR functions such as onboarding, background checks, and R&R program design; 3× (since 2025-09-04) [refs: background check email draft; R&R working group coordination chatId:`e401e66a99cb49`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
