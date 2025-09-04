@@ -3,6 +3,7 @@
 -
 ### Emerging (new signals, 1-2 reinforcements)
 - prefers automated, agent-driven implementations over manual workarounds; 2× (last: 2025-09-04) [ref: insistence on avoiding manual import and requesting agent fix chatId:`cc9ecb10195547`]
+- asks for precise step-by-step instructions and clarification before proceeding; 1× (first: 2025-09-04) [ref: requests "what do I need to provide" and "how do I go about that" chatId:`cc9ecb10195547`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
