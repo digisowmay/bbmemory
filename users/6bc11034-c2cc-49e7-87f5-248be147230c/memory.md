@@ -1,8 +1,9 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
+- provides explicit step-by-step instructions for AI image edits, including reference URLs and desired visual changes; 4× (promoted from emerging, last: 2025-09-04) [refs: headshot variant request chatId:`1bc6be2c95f548`; previous edit instructions chatId:`01ac0c4b3e0a44`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- provides explicit step-by-step instructions for image edits, referencing URLs and desired changes; 3× (last: 2025-09-03) [refs: image editing request chatId:`01ac0c4b3e0a44`]
+- requests multiple variant outputs in a single request (e.g., 5 headshots); 1× (first: 2025-09-04) [ref: headshot variant request chatId:`1bc6be2c95f548`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -15,10 +16,11 @@
 ### Durable (core thinking patterns)
 
 ### Emerging (recent behavioral shifts)
-- values realistic and detailed visual results; specifies natural fit, proportions, accurate face; 3× (last: 2025-09-03) [ref: instructions about lighting, fit, face correction chatId:`01ac0c4b3e0a44`]
+- values realistic and detailed visual results; emphasizes natural fit, proportions, accurate face; 4× (last: 2025-09-04) [refs: headshot variant request chatId:`1bc6be2c95f548`; prior image edit instructions chatId:`01ac0c4b3e0a44`]
+- prefers images without glasses (no longer wears glasses); 1× (first: 2025-09-04) [ref: headshot variant request chatId:`1bc6be2c95f548`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
 
 ### Emerging (new query patterns)
-- frequently uses platform for AI image manipulation via Nano Banana; 3× (since 2025-09-03) [ref: consecutive image edit requests chatId:`01ac0c4b3e0a44`]
+- frequently uses platform for AI image manipulation via Nano Banana; 4× (since 2025-09-03) [refs: consecutive image edit requests chatId:`01ac0c4b3e0a44`; headshot variant request chatId:`1bc6be2c95f548`]
