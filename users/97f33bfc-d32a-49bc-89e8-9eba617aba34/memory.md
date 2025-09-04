@@ -3,7 +3,7 @@
 - gives short, imperative commands for tasks; 20× (last: 2025-09-04) [refs: repeated "using Nano Banana" edit requests chatId:`3527ddad72dc45`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- provides blunt negative feedback when output doesn’t meet expectations; requests precise corrections; 7× (last: 2025-09-04) [refs: "very very bed", "again you do wrong" comments chatId:`3527ddad72dc45`]
+- provides blunt negative feedback when output doesn’t meet expectations; requests precise corrections; 10× (last: 2025-09-04) [refs: "very very bed", "again you do wrong", "why size was not good" comments chatId:`3527ddad72dc45`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -21,7 +21,7 @@
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
-- requests AI-mediated photo editing/manipulation tasks; 24× [refs: continuous image edit requests chatId:`3527ddad72dc45`]
+- requests AI-mediated photo editing/manipulation tasks; 28× [refs: continuous image edit requests chatId:`3527ddad72dc45`]
 
 ### Emerging (new query patterns)
-- demands exact YouTube thumbnail dimensions (1280×720, 16:9) for uploads; 1× (observed: 2025-09-04) [ref: request for precise thumbnail size chatId:`3527ddad72dc45`]
+- demands exact YouTube thumbnail dimensions (1280×720, 16:9) for uploads; 3× (last: 2025-09-04) [refs: repeated dimension specification chatId:`3527ddad72dc45`]
