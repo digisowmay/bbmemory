@@ -2,7 +2,7 @@
 ### Durable (established, 3+ reinforcements)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- issues concise, action-oriented commands for tech tasks; 5× (last: 2025-09-03) [refs: multiple LinkedIn image requests and posting commands chatId:`756f8b85cdd540`]
+- issues concise, action-oriented commands for tech tasks; 6× (last: 2025-09-04) [refs: multiple LinkedIn image requests and posting commands chatId:`756f8b85cdd540`; LinkedIn actions request chatId:`24d8589c30e44f`]
 - requests explicit confirmation or preview before executing automated actions; 4× (last: 2025-09-03) [refs: "show the generated image first" and posting confirmation prompts chatId:`756f8b85cdd540`]
 
 ## Knowledge & Context
