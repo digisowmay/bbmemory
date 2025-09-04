@@ -2,7 +2,7 @@
 ### Durable (established, 3+ reinforcements)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- issues concise, command-style requests for operational actions (e.g., "whats is my calendar today", "send a hi on discord"); 2× (last: 2025-09-05) [refs: calendar request chatId:`8c878adc190646`; discord message instruction chatId:`c318765c11a54b`]
+- issues concise, command-style requests for operational actions (e.g., "whats is my calendar today", "send a hi on discord"); 3× (last: 2025-09-05) [refs: calendar request chatId:`8c878adc190646`; discord message instruction chatId:`c318765c11a54b`; discord bot account query chatId:`c318765c11a54b`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
