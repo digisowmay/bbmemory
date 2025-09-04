@@ -1,27 +1,27 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- 
+-
 
 ### Emerging (new signals, 1-2 reinforcements)
-- gives concise, direct commands; 2× (last: 2025-09-04) [ref: image generation requests chatId:`e607dac089114c`]
+- gives concise, direct commands; 3× (last: 2025-09-04) [ref: image generation requests chatId:`e607dac089114c`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
-- 
+-
 
 ### Emerging (recent learning, current focus)
-- 
+-
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
-- 
+-
 
 ### Emerging (recent behavioral shifts)
-- 
+-
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
-- 
+-
 
 ### Emerging (new query patterns)
-- requesting AI image generation; 2× (since 2025-09-04) [ref: image generation requests chatId:`e607dac089114c`]
+- requesting AI image generation; 3× (since 2025-09-04) [ref: image generation requests chatId:`e607dac089114c`]
