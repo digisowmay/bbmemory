@@ -3,7 +3,8 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - prefers clear, actionable scheduling solutions; 2× (last: 2025-09-04) [refs: social media calendar request chatId:`2ba05e1f2d2248`; follow-up start-from-today instruction chatId:`2ba05e1f2d2248`]
-- specifies preferred tools (Perplexity) for detailed research and includes images for context when seeking ideas; 2× (last: 2025-09-04) [refs: start-from-today instruction chatId:`2ba05e1f2d2248`; gripper holder design request with image chatId:`2ba05e1f2d2248`]
+- specifies preferred tools (Perplexity) for detailed research and includes images or visual references when seeking ideas; 2× (last: 2025-09-04) [refs: start-from-today instruction chatId:`2ba05e1f2d2248`; domain advice + gripper holder design chatId:`2ba05e1f2d2248`]
+- requests AI-generated visuals to preview product design concepts; 1× (first: 2025-09-04) [ref: generate image using suggestive AI chatId:`2ba05e1f2d2248`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -25,3 +26,4 @@
 ### Emerging (new query patterns)
 - requests social media planning, automation, and product design help for macramé business; 3× (since 2025-09-04) [refs: social media calendar request; start-from-today instruction; gripper holder design request chatId:`2ba05e1f2d2248`]
 - researching branding and domain strategy using preferred tool Perplexity; 2× (last: 2025-09-04) [refs: domain advice request; best domain request chatId:`2ba05e1f2d2248`]
+- experimenting with AI image generation for product concept visualization; 1× (first: 2025-09-04) [ref: generate image using suggestive AI chatId:`2ba05e1f2d2248`]
