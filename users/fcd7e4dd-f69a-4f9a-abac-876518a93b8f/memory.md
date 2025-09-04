@@ -2,14 +2,14 @@
 ### Durable (established, 3+ reinforcements)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- sends brief Bangla (Banglish) queries; prefers concise messages; 9× (last: 2025-09-04) [refs: repeated game & math questions chatId:`b232febf9cd642`]
+- sends brief Bangla (Banglish) queries; prefers concise messages; 9× (last: 2025-09-04) [refs: repeated game, math & Bangla questions chatId:`b232febf9cd642`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
 
 ### Emerging (recent learning, current focus)
-- strong interest in mobile gaming, especially action and casual/fashion titles; 7× (since 2025-09-04) [refs: multiple game recommendation requests chatId:`b232febf9cd642`]
-- seeking help with Class 7 mathematics homework (Chapter 6, page 141); 3× (last: 2025-09-04) [refs: math assistance queries chatId:`b232febf9cd642`]
+- strong interest in mobile gaming, especially action, casual & fashion titles; 6× (since 2025-09-04) [refs: multiple game recommendation requests chatId:`b232febf9cd642`]
+- seeking Class 7 academic help (math Chapter 6 & Bangla topics); 3× (last: 2025-09-04) [refs: homework assistance chats chatId:`b232febf9cd642`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
@@ -20,5 +20,5 @@
 ### Durable (regular platform activities)
 
 ### Emerging (new query patterns)
-- frequently requests mobile game recommendations; action, offline, girls games; 7× (since 2025-09-04) [refs: consecutive game recommendation queries chatId:`b232febf9cd642`]
-- beginning to ask for academic/homework assistance (Class 7 math); 3× (since 2025-09-04) [refs: math help requests chatId:`b232febf9cd642`]
+- frequently requests mobile game recommendations; action, offline, girls games; 6× (since 2025-09-04) [refs: consecutive game recommendation queries chatId:`b232febf9cd642`]
+- increasingly asks for academic & general knowledge help (Class 7 math, Bangla, scouting facts); 3× (since 2025-09-04) [refs: academic/GK queries chatId:`b232febf9cd642`]
