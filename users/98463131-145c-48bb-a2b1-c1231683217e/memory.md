@@ -1,8 +1,9 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- gives direct, imperative instructions in Italian; 11× (stable since 2024-08-15) [refs: Caravaggio lighting request chatId:`92f4572c1a2443`; multiple image editing requests; hand pose edit instructions chatId:`92f4572c1a2443`; refined hand positioning "shush" gesture chatId:`92f4572c1a2443`]
+- gives direct, imperative instructions in Italian; 12× (stable since 2024-08-15) [refs: multiple image editing requests chatId:`92f4572c1a2443`]
 
 ### Emerging (new signals, 1-2 reinforcements)
+- explicitly expresses frustration when repeated requests don't change result and mentions credit consumption concern; 1× (first: 2025-09-04) [ref: "sto consumando crediti..." chatId:`92f4572c1a2443`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -15,6 +16,7 @@
 - visual detail oriented; uses specific stylistic references to guide edits; 9× (promoted from emerging, last: 2025-09-04) [refs: hand pose with white lace gloves chatId:`92f4572c1a2443`; dress color changes; jewelry addition instructions]
 
 ### Emerging (recent behavioral shifts)
+- values efficiency and wants to avoid wasting resources/credits; 1× (observed: 2025-09-04) [ref: "sto consumando crediti..." chatId:`92f4572c1a2443`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
