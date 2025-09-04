@@ -14,6 +14,7 @@
 
 ### Emerging (recent learning, current focus)
 - married; references wife cooking meals; 4× (last: 2025-09-05) [refs: dinner conversations chatId:`0a3b39f906394f`; paratha photo chatId:`a83cc025725d4c`; meal moment photo chatId:`a83cc025725d4c`; dinner with wife chatId:`a83cc025725d4c`]
+- wife’s name is Lucy; 1× (first: 2025-09-05) [ref: Lucy ID reminder chatId:`a83cc025725d4c`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
@@ -27,4 +28,4 @@
 - (none yet)
 
 ### Emerging (new query patterns)
-- (none yet)
+- includes spouse in chats, asks assistant to remember spouse’s ID for future conversation; 1× (first: 2025-09-05) [ref: Lucy ID reminder chatId:`a83cc025725d4c`]
