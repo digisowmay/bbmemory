@@ -14,6 +14,7 @@
 ### Emerging (recent learning, current focus)
 - exploring n8n workflow automation (running local instance) for job scraping; 6× (since 2025-09-03) [refs: initial n8n job scraper inquiry; LinkedIn job source concern chatId:`35b99ef5638243`; local config discussion chatId:`fcced4c47a8b4e`; local n8n connection test chatId:`fcced4c47a8b4e`; curl API key test chatId:`fcced4c47a8b4e`; n8n healthz & workflow list chatId:`d19797e364db41`]
 - interested in entry-level React developer job market; 2× (since 2025-09-03) [refs: criteria definition discussion; LinkedIn job source concern chatId:`35b99ef5638243`]
+- has local n8n instance running and healthy; 1× (since 2025-09-04) [ref: n8n workflow creation discussion chatId:`8bd9d6bf0c5344`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
