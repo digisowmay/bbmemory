@@ -3,8 +3,8 @@
 - _No durable patterns identified yet_
 
 ### Emerging (new signals, 1-2 reinforcements)
-- Direct, "no-bs" requests for comprehensive information in a single response; 2× (last: 2025-09-05) [refs: action plan & portfolio requests chatId:`eaa58cdb3c204c`]
-- Prefers minimalist, black-and-white lowercase design aesthetics; 1× (first: 2025-09-05) [ref: portfolio style request chatId:`eaa58cdb3c204c`]
+- Direct, "no-bs" requests for comprehensive information in a single response; 3× (last: 2025-09-05) [refs: multiple action plan & portfolio/resume requests chatId:`eaa58cdb3c204c`]
+- Prefers minimalist, black-and-white lowercase design aesthetics; 2× (last: 2025-09-05) [refs: portfolio style requests chatId:`eaa58cdb3c204c`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
