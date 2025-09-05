@@ -5,7 +5,7 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - prefers data in tabular format when requesting stats; 2× (last: 2025-09-05) [ref: ETH 7-day price table request chatId:`ba6263692e3840`]
-- wants notification messages to be clean and user-friendly without technical details; 1× (first: 2025-09-05) [ref: reminder instruction chatId:`0ebf7fb50c804a`]
+- wants notification messages to be clean and user-friendly without technical details; 2× (last: 2025-09-05) [refs: reminder instruction chatId:`0ebf7fb50c804a`; confirmation request chatId:`fd9763fe2ff24f`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
