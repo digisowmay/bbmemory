@@ -4,7 +4,7 @@
 - preference for examples inspired by existing successful formats (Inspiremediaco style, specific Instagram reel hook patterns); 5× (last: 2025-09-05) [refs: explainer script style reference chatId:`d7400ebda84042`; specific hook phrase request chatId:`d7400ebda84042`; under 35s style request chatId:`d7400ebda84042`; "What if I told you" format request chatId:`d7400ebda84042`; current style refinement chatId:`d7400ebda84042`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- 
+- prefers voice-only scripts with no graphics for quick same-day editing; 1× (first: 2025-09-05) [ref: voice-only script clarification chatId:`d7400ebda84042`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
