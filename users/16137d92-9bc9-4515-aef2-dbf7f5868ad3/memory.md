@@ -5,6 +5,7 @@
 ### Emerging (new signals, 1-2 reinforcements)
 - requests outputs without code formatting, prefers normal text presentation; 1× (first: 2025-09-05) [ref: vendor evaluation format clarification chatId:`646cb01cd1ba49`]
 - provides iterative design feedback and expects quick visual revisions during creative tasks; 1× (last: 2025-09-05) [ref: bus branding design iterations chatId:`646cb01cd1ba49`]
+- prefers concise carousel slide copy with short heading and description; 1× (first: 2025-09-05) [ref: carousel content request chatId:`421187642d774f`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -12,7 +13,7 @@
 
 ### Emerging (recent learning, current focus)
 - investigating user analytics (CTR, feature usage) to guide Bhindi UX improvements; 2× (since 2025-09-05) [refs: UX research data request chatId:`646cb01cd1ba49`; CTR metrics discussion chatId:`646cb01cd1ba49`]
-- working on Bhindi branding/marketing assets including BMTC bus wrap design; 1× (first: 2025-09-05) [ref: bus branding design chatId:`646cb01cd1ba49`]
+- working on Bhindi branding/marketing assets including BMTC bus wrap design; 2× (since 2025-09-05) [refs: bus branding design chatId:`646cb01cd1ba49`; carousel content creation chatId:`421187642d774f`]
 - evaluating media vendor proposals for billboard/window placements with focus on exclusivity over cost; 1× (started: 2025-09-05) [ref: media vendor evaluation discussion chatId:`646cb01cd1ba49`]
 
 ## Thinking & Working Style
