@@ -5,7 +5,7 @@
 - requests step-by-step instructions when unclear; 10× (last: 2025-09-05) [refs: OAuth guidance chatId:`962c55d6d28646`; troubleshooting stream setup chatId:`ac75338f7f314e`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- readily shares sensitive credentials to expedite setup; 10× (last: 2025-09-05) [refs: provided OAuth URL and token chatId:`ac75338f7f314e`; new client secret shared chatId:`962c55d6d28646`]
+- readily shares sensitive credentials to expedite setup; 11× (last: 2025-09-05) [refs: provided client secret chatId:`962c55d6d28646`; provided OAuth URL and token chatId:`ac75338f7f314e`]
 - wants live/real-time testing of automations for validation; 1× (first: 2025-09-04) [ref: live stream test request chatId:`ac75338f7f314e`]
 
 ## Knowledge & Context
@@ -14,9 +14,10 @@
 - owns/operates Twitch channel "aigod236"; 3× (since 2025-09-04) [refs: provided channel name chatId:`ac75338f7f314e`]
 
 ### Emerging (recent learning, current focus)
+- redirect URI configured to http://localhost:3000 for Twitch app; 1× (first: 2025-09-05) [ref: redirect URI clarification chatId:`962c55d6d28646`]
 
 ## Thinking & Working Style
-### Durable (core patterns)
+### Durable (core thinking patterns)
 - detail-oriented about system internals and execution visibility; 4× [refs: inquiry on scheduler vs background tasks chatId:`ac75338f7f314e`; dashboard access request chatId:`ac75338f7f314e`]
 
 ### Emerging (recent behavioral shifts)
