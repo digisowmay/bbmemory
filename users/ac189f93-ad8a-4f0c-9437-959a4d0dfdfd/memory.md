@@ -3,8 +3,8 @@
 - openly shares personal struggles and seeks guidance; 3× (promoted from emerging) [refs: job frustration discussion; resume review chatId:`f7394a6a20b441`; job board exhaustion chatId:`f7394a6a20b441`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- uses informal, friendly language ("bro"); 7× (last: 2025-09-05) [refs: job frustration discussion; resume review chatId:`f7394a6a20b441`; job board exhaustion chatId:`f7394a6a20b441`; OA query chatId:`cdf4bb52a91644`; casual greeting chatId:`1ec4d94609534c`; clarification about email chatId:`1ec4d94609534c`; follow-up on test email chatId:`1ec4d94609534c`]
-- quickly questions inconsistencies or errors; 2× (last: 2025-09-05) [refs: clarification about email chatId:`1ec4d94609534c`; follow-up on test email chatId:`1ec4d94609534c`]
+- uses informal, friendly language ("bro"); 8× (last: 2025-09-05) [refs: job frustration discussion; resume review chatId:`f7394a6a20b441`; job board exhaustion chatId:`f7394a6a20b441`; OA query chatId:`cdf4bb52a91644`; casual greeting chatId:`1ec4d94609534c`; clarification about email chatId:`1ec4d94609534c`; follow-up on test email chatId:`1ec4d94609534c`; questioning source of Yext info chatId:`1ec4d94609534c`]
+- quickly questions inconsistencies or errors; 3× (last: 2025-09-05) [refs: clarification about email chatId:`1ec4d94609534c`; follow-up on test email chatId:`1ec4d94609534c`; questioning source of Yext info chatId:`1ec4d94609534c`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
