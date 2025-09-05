@@ -3,8 +3,8 @@
 - 
 
 ### Emerging (new signals, 1-2 reinforcements)
-- prefers rigorous, step-by-step explanations with lots of concrete examples; 1× (first: 2025-09-05) [ref: core CS teaching request chatId:`6be869f076d44f`]
-- requests code examples primarily in C++; 1× (first: 2025-09-05) [ref: teaching preferences chatId:`6be869f076d44f`]
+- prefers rigorous, step-by-step explanations with lots of concrete examples; 2× (last: 2025-09-05) [ref: core CS teaching continuation chatId:`6be869f076d44f`]
+- requests code examples primarily in C++; 2× (last: 2025-09-05) [ref: repeated coding language preference chatId:`6be869f076d44f`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -25,4 +25,4 @@
 - 
 
 ### Emerging (new query patterns)
-- asks for in-depth educational content and interview preparation guidance; 1× (since 2025-09-05) [ref: multiple teaching requests chatId:`6be869f076d44f`] 
+- asks for in-depth educational content and interview preparation guidance; 1× (since 2025-09-05) [ref: multiple teaching requests chatId:`6be869f076d44f`]
