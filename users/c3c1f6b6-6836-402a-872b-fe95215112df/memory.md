@@ -3,8 +3,8 @@
 -
 
 ### Emerging (new signals, 1-2 reinforcements)
-- uses casual, playful remarks like “so cute” and “broooo lmao”; 2× (last: 2025-08-31) [refs: “so cute” response to Barbie with cat; “broooo lmao” reaction to locked-in edit]
-- gives concise, directive prompts for image creation; 2× (last: 2025-09-05) [refs: short prompt request chatId:`6551b60f18714c`; blur name directive chatId:`e43731c8e99449`]
+- uses casual, playful remarks like “so cute”, “broooo lmao”, “lol”; 3× (last: 2025-09-05) [refs: “so cute” response to Barbie with cat; “broooo lmao” reaction to locked-in edit; “lol its not blured bro” chatId:`e43731c8e99449`]
+- gives concise, directive prompts for image creation; 3× (last: 2025-09-05) [refs: short prompt request chatId:`6551b60f18714c`; blur name directive chatId:`e43731c8e99449`; “using nano banana do a blur the name of eve” chatId:`e43731c8e99449`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
