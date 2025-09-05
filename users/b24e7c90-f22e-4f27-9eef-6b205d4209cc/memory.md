@@ -1,11 +1,11 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- issues concise imperative commands to manage agents and retrieve data; 16× (stable since 2024-08-15) [refs: multiple agent management commands chatId:`ba6263692e3840`; user memory update instruction chatId:`fd9763fe2ff24f`]
+- issues concise imperative commands to manage agents and retrieve data; 17× (stable since 2024-08-15) [refs: multiple agent management commands chatId:`ba6263692e3840`; user memory update instruction chatId:`fd9763fe2ff24f`; staging messaging commands chatId:`fd9763fe2ff24f`]
 - curious about underlying system/platform; asks meta-level questions (LLM model, platform definition, agent count); 6× [refs: LLM model question; "What is Bhindi?" request; agent count query chatId:`ba6263692e3840`]
 
 ### Emerging (new signals, 1-2 reinforcements)
 - prefers data in tabular format when requesting stats; 2× (last: 2025-09-05) [ref: ETH 7-day price table request chatId:`ba6263692e3840`]
-- wants notification messages to be clean and user-friendly without technical details; 2× (last: 2025-09-05) [refs: reminder instruction chatId:`0ebf7fb50c804a`; confirmation request chatId:`fd9763fe2ff24f`]
+- wants notification messages to be clean and user-friendly without technical details; 1× (first: 2025-09-05) [ref: reminder instruction chatId:`0ebf7fb50c804a`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -23,7 +23,7 @@
 ### Durable (regular platform activities)
 - manages chat agents frequently; 34× [refs: agent add/remove operations chatId:`ba6263692e3840`]
 - requests latest crypto prices (e.g., ETH) via coingecko; 10× [refs: ETH price requests chatId:`ba6263692e3840`; hourly tracking setup chatId:`208fe6e5660040`]
+- uses Telegram agent to verify account connection; 3× (promoted from emerging) [refs: telegram agent connection chatId:`ba6263692e3840`; telegram add/remove chatId:`fd9763fe2ff24f`]
 
 ### Emerging (new query patterns)
-- uses Telegram agent to verify account connection; 2× (last: 2025-09-05) [refs: telegram agent connection chatId:`ba6263692e3840`]
 - sets up automated reminders/schedules for crypto tracking; 2× (last: 2025-09-05) [refs: ETH hourly schedule request chatId:`208fe6e5660040`; reminder reschedule request chatId:`0ebf7fb50c804a`]
