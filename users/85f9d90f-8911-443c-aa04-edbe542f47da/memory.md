@@ -3,14 +3,14 @@
 -
 
 ### Emerging (new signals, 1-2 reinforcements)
-- tends to communicate in French for creative requests; 3× (last: 2025-09-05) [ref: logo design request chatId:`e3678f3674d145`]
+- tends to communicate in French for creative requests; 4× (last: 2025-09-05) [ref: logo design conversation chatId:`e3678f3674d145`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
 -
 
 ### Emerging (recent learning, current focus)
-- runs a cake/bakery business; 2× (since 2025-09-05) [ref: bakery discussion chatId:`e3678f3674d145`]
+- runs a cake/bakery business; 3× (since 2025-09-05) [ref: logo design conversation chatId:`e3678f3674d145`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
@@ -24,4 +24,4 @@
 -
 
 ### Emerging (new query patterns)
-- exploring graphic/logo design assistance; 3× (last: 2025-09-05) [ref: logo design assistance chatId:`e3678f3674d145`]
+- exploring graphic/logo design assistance; 4× (last: 2025-09-05) [ref: logo design assistance chatId:`e3678f3674d145`]
