@@ -1,30 +1,27 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
--
+- prefers concise, task-focused instructions; 5× (stable since 2025-09-05) [refs: stress test configuration conversations chatId:`2b72dfb697cd48`; test script request chatId:`2b72dfb697cd48`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- prefers concise, task-focused instructions; 4× (last: 2025-09-05) [ref: stress test configuration conversations chatId:`2b72dfb697cd48`]
-- goal-oriented, seeks actionable next steps quickly; 4× (last: 2025-09-05) [ref: stress test scripts planning chatId:`2b72dfb697cd48`]
-- provides very detailed, structured prompts and expects strict script adherence; 2× (last: 2025-09-05) [ref: recruiter prompt sharing chatId:`2b72dfb697cd48`]
+- comfortable providing and receiving highly detailed structured documents; 2× (last: 2025-09-05) [refs: large persona + KB prompt sharing chatId:`2b72dfb697cd48`; full stress test script request chatId:`2b72dfb697cd48`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
--
+- operates VAPI voice agent recruiting truck drivers; 3× [refs: assistant id sharing chatId:`2b72dfb697cd48`; stress test planning chats]
 
 ### Emerging (recent learning, current focus)
-- operates VAPI voice agent recruiting truck drivers (assistant id 61ebf07a-503e-42b0-848b-142ff8ce230c); 2× (since 2025-09-05) [refs: assistant id message chatId:`2b72dfb697cd48`; recruiter context chatId:`2b72dfb697cd48`]
-- current project: designing built-in VAPI stress tests for recruiter agent; 1× (started: 2025-09-05) [ref: built-in testing preference chatId:`2b72dfb697cd48`]
+- possesses deep knowledge of FedEx Ground driver operations and compliance framework; 1× (since 2025-09-05) [ref: full FedEx Ground knowledge base provided chatId:`2b72dfb697cd48`]
 
 ## Thinking & Working Style
-### Durable (core thinking patterns)
--
+### Durable (core patterns)
+- detail-oriented and compliance-focused; 2× [refs: structured prompt creation chatId:`2b72dfb697cd48`; KB sharing]
 
 ### Emerging (recent behavioral shifts)
-- detail-oriented and compliance-focused, emphasizing rule-based methodology; 1× (observed: 2025-09-05) [ref: extensive structured prompt chatId:`2b72dfb697cd48`]
+- seeks exhaustive test coverage and documentation; 1× (observed: 2025-09-05) [ref: request for comprehensive test scripts doc chatId:`2b72dfb697cd48`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
--
+- exploring VAPI built-in testing and stress testing methodologies; 5× [refs: ongoing stress test discussions chatId:`2b72dfb697cd48`]
 
 ### Emerging (new query patterns)
-- exploring VAPI built-in testing and stress testing methodologies; 4× (last: 2025-09-05) [refs: built-in testing preference message chatId:`2b72dfb697cd48`]
+- requests generation of full test documentation for voice agent; 1× (first: 2025-09-05) [ref: request for doc with all test scripts chatId:`2b72dfb697cd48`]
