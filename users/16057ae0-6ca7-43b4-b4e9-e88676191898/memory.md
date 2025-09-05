@@ -1,9 +1,10 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- provides concise, direct instructions for explicit character image edits; 9× (stable since 2025-09-05) [refs: repeated bikini and buttocks size requests chatId:`a327e6078ef44f`; face-sitting requests chatId:`dad383f2aefe47`; latest explicit request chatId:`8db16a83590849`]
+- provides concise, direct instructions for explicit character image edits; 10× (stable since 2025-09-05) [refs: repeated bikini and buttocks size requests chatId:`a327e6078ef44f`; face-sitting requests chatId:`dad383f2aefe47`; latest explicit requests chatId:`8db16a83590849`]
+- specifies preferred agent/tool "nano banana" for edits; 8× (promoted from emerging) [refs: successive requests to use nano banana chatId:`a327e6078ef44f`; repeated requests chatId:`8db16a83590849`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- specifies preferred agent/tool "nano banana" for edits; 7× (last: 2025-09-05) [refs: successive requests to use nano banana chatId:`a327e6078ef44f`; latest request chatId:`8db16a83590849`]
+- persists in repeating disallowed explicit requests despite refusals; 1× (first: 2025-09-05) [ref: policy refusal loop chatId:`8db16a83590849`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -20,4 +21,4 @@
 ### Durable (regular platform activities)
 
 ### Emerging (new query patterns)
-- exploring AI-driven image manipulation/editing with specific agents; 8× (since 2025-09-05) [refs: multiple image edit requests via nano banana chatId:`a327e6078ef44f`; latest edit chatId:`8db16a83590849`]
+- exploring AI-driven image manipulation/editing with specific agents; 9× (since 2025-09-05) [refs: multiple image edit requests via nano banana chatId:`a327e6078ef44f`; retries with nano banana chatId:`8db16a83590849`]
