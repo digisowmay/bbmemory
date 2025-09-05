@@ -5,7 +5,7 @@
 - requests voice-only, teleprompter-ready scripts with no graphics or extra commentary; 4× (last: 2025-09-05) [refs: repeated "JUST the script" and plain text requests chatId:`d7400ebda84042`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- prefers final output without headings or structural labels, only the exact words to read; 1× (first: 2025-09-05) [ref: "no hook or set ups or prompts just the words" chatId:`d7400ebda84042`]
+- prefers final output without headings or structural labels, only the exact words to read; 2× (last: 2025-09-05) [ref: "no hook or set ups or prompts just the words" chatId:`d7400ebda84042`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
