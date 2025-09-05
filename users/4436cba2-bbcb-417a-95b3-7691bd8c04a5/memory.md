@@ -3,8 +3,8 @@
 - 
 
 ### Emerging (new signals, 1-2 reinforcements)
-- prefers concise, optimized instructions; 1× (first: 2025-09-05) [ref: payment tracker setup chatId:`0e747d02117244`]
-- requests automation to minimize manual work; 1× (first: 2025-09-05) [ref: automation request chatId:`0e747d02117244`]
+- prefers concise, optimized instructions; 2× (last: 2025-09-05) [refs: payment tracker setup chatId:`0e747d02117244`; remove unnecessary items chatId:`0e747d02117244`]
+- requests automation to minimize manual work; 2× (last: 2025-09-05) [refs: automation request chatId:`0e747d02117244`; simplified system request chatId:`0e747d02117244`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -19,12 +19,13 @@
 - 
 
 ### Emerging (recent behavioral shifts)
-- prioritizes automation and efficiency over manual data entry; 1× (observed: 2025-09-05) [ref: asked to minimize manual entries chatId:`0e747d02117244`]
+- prioritizes automation and efficiency over manual data entry; 2× (last: 2025-09-05) [refs: asked to minimize manual entries chatId:`0e747d02117244`; requested simplified automated system chatId:`0e747d02117244`]
 - avoids external integrations, prefers single-platform solutions; 1× (observed: 2025-09-05) [ref: declined external app integration chatId:`0e747d02117244`]
+- prefers minimalistic setup, removal of unnecessary components; 1× (observed: 2025-09-05) [ref: remove unnecessary items chatId:`0e747d02117244`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
 - 
 
 ### Emerging (new query patterns)
-- seeks Google Sheets automation templates and workflows; 1× (started 2025-09-05) [ref: requested automated tracker chatId:`0e747d02117244`]
+- seeks Google Sheets automation templates and workflows; 2× (since 2025-09-05) [refs: requested automated tracker chatId:`0e747d02117244`; simplified Google Sheets system chatId:`0e747d02117244`]
