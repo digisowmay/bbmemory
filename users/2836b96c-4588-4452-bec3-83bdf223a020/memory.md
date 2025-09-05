@@ -4,7 +4,8 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - prefers accuracy verification of technical data; 2× (last: 2025-09-05) [refs: ARAS bike features accuracy request chatId:`7aa138899e6943`; follow-up comparison table accuracy check chatId:`7aa138899e6943`]
-- needs direct clickable links for provided resources; 2× (last: 2025-09-05) [refs: unable to find link chatId:`7aa138899e6943`; ARAS companies product link request chatId:`f30ef65a2e7840`]
+- needs direct clickable links for provided resources; 3× (last: 2025-09-05) [refs: unable to find link chatId:`7aa138899e6943`; ARAS companies product link request chatId:`f30ef65a2e7840`; current product link request chatId:`f30ef65a2e7840`]
+- provides example images/templates to specify desired format; 1× (first: 2025-09-05) [ref: ARAS feature comparison table image chatId:`f30ef65a2e7840`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -25,5 +26,5 @@
 - none
 
 ### Emerging (new query patterns)
-- seeks detailed comparison tables for technology topics; 1× (started: 2025-09-05) [ref: ARAS comparison table request chatId:`7aa138899e6943`]
+- seeks detailed comparison tables for technology topics; 2× (last: 2025-09-05) [refs: ARAS comparison table request chatId:`7aa138899e6943`; table format request chatId:`f30ef65a2e7840`]
 - requests creation of slide decks/presentations (PPT) for gathered information; 2× (last: 2025-09-05) [refs: PPT request chatId:`7aa138899e6943`; how to download PPT instructions chatId:`7aa138899e6943`]
