@@ -3,7 +3,7 @@
 - gives very concise imperative requests in Russian; 14× (stable since 2025-08-15) [refs: image editing request chatId:`612b15c8e02d49`; new bald edit chatId:`40155ef4eba647`; beard color correction chatId:`73d9b004360444`; random selfie creation chatId:`7c83c0447c3044`; current chatId:`fea2d2dfac3b43`; chatId:`bd8fc985959340`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- none noted yet
+- demands that original faces remain unchanged in edits; 1× (first: 2025-09-05) [ref: group selfie complaint chatId:`bd8fc985959340`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
