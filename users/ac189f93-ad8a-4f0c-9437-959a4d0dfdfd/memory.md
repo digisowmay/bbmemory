@@ -20,9 +20,11 @@
 
 ### Emerging (recent behavioral shifts)
 - experiencing self-doubt under parental pressure, looking for practical action plan; 1× (first: 2025-09-01) [ref: feeling loser discussion chatId:`f7394a6a20b441`]
+- uses visual mindmaps/diagrams (Excalidraw) to structure preparation tasks; 1× (observed: 2025-09-05) [ref: assessment prep diagram chatId:`1ec4d94609534c`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
 
 ### Emerging (new query patterns)
 - seeks career guidance on resume building, job search strategies; 3× (last: 2025-09-05) [refs: guidance request; resume review chatId:`f7394a6a20b441`; OA query chatId:`cdf4bb52a91644`]
+- shares screenshots/visual diagrams for feedback on planning (Excalidraw); 1× (since 2025-09-05) [ref: assessment prep diagram chatId:`1ec4d94609534c`]
