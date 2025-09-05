@@ -3,7 +3,7 @@
 - provides precise instructions for image edits; 8× [refs: face swap request chatId:`22f3f6abe5c943`; wedding guest removal chatId:`2e4143b6aed546`; headshot request chatId:`e028fd46791f40`; album cover recreation chatId:`26d86b4d2c0643`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- specifies preferred AI model ("nanobanana") for image edits; 3× (last: 2025-09-05) [refs: face swap "use nanobanana" chatId:`22f3f6abe5c943`; album cover recreation chatId:`26d86b4d2c0643`; exact recreation follow-up chatId:`26d86b4d2c0643`]
+- specifies preferred AI model ("nanobanana") for image edits; 4× (last: 2025-09-05) [refs: face swap "use nanobanana" chatId:`22f3f6abe5c943`; album cover recreation chatId:`26d86b4d2c0643`; exact recreation follow-up chatId:`26d86b4d2c0643`; colorize request chatId:`1154b08d473b42`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
