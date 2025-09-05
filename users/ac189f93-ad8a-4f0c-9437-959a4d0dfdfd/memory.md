@@ -28,4 +28,4 @@
 
 ### Emerging (new query patterns)
 - seeks career guidance and coding practice platform recommendations (resume building, job search strategies, mock assessments); 4× (since 2025-09-01) [refs: guidance request; resume review chatId:`f7394a6a20b441`; OA query chatId:`cdf4bb52a91644`; mock assessment sites request chatId:`1ec4d94609534c`]
-- shares screenshots/visual diagrams for feedback on planning (Excalidraw); 1× (since 2025-09-05) [ref: assessment prep diagram chatId:`1ec4d94609534c`]
+- prefers free practice platforms/resources; cost-conscious about paid services; 1× (first: 2025-09-05) [ref: mock assessment free sites request chatId:`1ec4d94609534c`]
