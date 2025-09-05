@@ -4,7 +4,7 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - uses casual, playful remarks like “so cute” and “broooo lmao”; 2× (last: 2025-08-31) [refs: “so cute” response to Barbie with cat; “broooo lmao” reaction to locked-in edit]
-- gives concise, directive prompts for image creation (e.g., “write crypto tank”); 1× (first: 2025-09-03) [ref: short prompt request chatId:`6551b60f18714c`]
+- gives concise, directive prompts for image creation; 2× (last: 2025-09-05) [refs: short prompt request chatId:`6551b60f18714c`; blur name directive chatId:`e43731c8e99449`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -26,4 +26,4 @@
 -
 
 ### Emerging (new query patterns)
-- frequently requests AI image generation using “Nano Banana” model; 7× (since 2025-08-31) [refs: Barbie image; Barbie with cat; locked-in edit; Asian girl with blonde hair; Shark Tank background request; Crypto Tank request chatId:`6551b60f18714c`; Shark Tank background request chatId:`6551b60f18714c`]
+- frequently requests AI image generation using “Nano Banana” model; 8× (since 2025-08-31) [refs: Barbie image; Barbie with cat; locked-in edit; Asian girl with blonde hair; Shark Tank background request; Crypto Tank request chatId:`6551b60f18714c`; Shark Tank background request chatId:`6551b60f18714c`; blur name directive chatId:`e43731c8e99449`]
