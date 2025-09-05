@@ -4,7 +4,7 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - prefers concise follow-ups (e.g., replied with single word "without"); 1× (first: 2025-09-05) [ref chatId:`529e8e053f1141`]
-- mixes English & Hindi (Hinglish) in queries; 1× (first: 2025-09-05) [ref chatId:`ea02122dbd5f49`]
+- mixes English & Hindi (Hinglish) in queries; 2× (last: 2025-09-05) [refs: chatId:`ea02122dbd5f49`; chatId:`529e8e053f1141`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -19,12 +19,12 @@
 
 ### Emerging (recent behavioral shifts)
 - iterative inquiry approach (asks initial question then refines); 1× (first: 2025-09-05) [ref chatId:`529e8e053f1141`]
-- prefers visual examples/screenshots to understand design concepts; 1× (first: 2025-09-05) [ref chatId:`ea02122dbd5f49`]
+- prefers visual examples/screenshots to understand design concepts; 2× (last: 2025-09-05) [refs: chatId:`ea02122dbd5f49`; chatId:`ea02122dbd5f49`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
 - no regular query patterns identified yet
 
 ### Emerging (new query patterns)
-- exploring landing page design inspiration and best practices; 1× (first: 2025-09-05) [ref chatId:`ea02122dbd5f49`]
+- exploring landing page design inspiration and best practices; 2× (since 2025-09-05) [refs: chatId:`ea02122dbd5f49`; chatId:`ea02122dbd5f49`]
 - exploring ways to increase social media reach with and without paid subscriptions; 1× (first: 2025-09-05) [ref chatId:`529e8e053f1141`]
