@@ -2,8 +2,8 @@
 ### Durable (established, 3+ reinforcements)
 
 ### Emerging (new signals, 1-2 reinforcements)
+- asks concise, direct questions or commands to retrieve information or perform tasks; 6× (last: 2025-09-05) [refs: meeting check request chatId:`53039a1d6b824c`; meeting check request chatId:`054be6368feb46`; meeting check request chatId:`e84f1c5da3654c`; meeting check request chatId:`1e00a727980741`; meeting check request chatId:`decc37d5a6634c`; email request chatId:`7af55910510547`]
 - prefers tasks executed via background/backroom agent rather than scheduler; 1× (first: 2025-09-02) [ref: reminder setup request chatId:`05097723455b4d`]
-- asks concise, direct questions to retrieve information; 5× (last: 2025-09-02) [refs: meeting check request chatId:`53039a1d6b824c`; meeting check request chatId:`054be6368feb46`; meeting check request chatId:`e84f1c5da3654c`; meeting check request chatId:`1e00a727980741`; meeting check request chatId:`decc37d5a6634c`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
