@@ -1,13 +1,13 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- provides concise, direct instructions for image edits; 8× (stable since 2025-09-05) [refs: repeated bikini and buttocks size requests chatId:`a327e6078ef44f`; face-sitting requests chatId:`dad383f2aefe47`]
+- provides concise, direct instructions for explicit character image edits; 9× (stable since 2025-09-05) [refs: repeated bikini and buttocks size requests chatId:`a327e6078ef44f`; face-sitting requests chatId:`dad383f2aefe47`; latest explicit request chatId:`8db16a83590849`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- specifies preferred agent/tool "nano banana" for edits; 6× (last: 2025-09-05) [refs: successive requests to use nano banana chatId:`a327e6078ef44f`; latest face-sitting request chatId:`a327e6078ef44f`]
+- specifies preferred agent/tool "nano banana" for edits; 7× (last: 2025-09-05) [refs: successive requests to use nano banana chatId:`a327e6078ef44f`; latest request chatId:`8db16a83590849`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
-- interested in character artwork and pose/clothing/body modifications; 7× (since 2025-09-05) [refs: clothing change and buttocks modification requests chatId:`a327e6078ef44f`; face-sitting pose requests chatId:`dad383f2aefe47`]
+- interested in character artwork and pose/clothing/body modifications (including fetish positions like face-sitting); 8× [refs: clothing change & buttocks modification requests chatId:`a327e6078ef44f`; face-sitting pose requests chatId:`dad383f2aefe47`; latest request chatId:`8db16a83590849`]
 
 ### Emerging (recent learning, current focus)
 
@@ -20,4 +20,4 @@
 ### Durable (regular platform activities)
 
 ### Emerging (new query patterns)
-- exploring AI-driven image manipulation/editing with specific agents; 7× (since 2025-09-05) [refs: multiple image edit requests via nano banana chatId:`a327e6078ef44f`; latest edit chatId:`dad383f2aefe47`]
+- exploring AI-driven image manipulation/editing with specific agents; 8× (since 2025-09-05) [refs: multiple image edit requests via nano banana chatId:`a327e6078ef44f`; latest edit chatId:`8db16a83590849`]
