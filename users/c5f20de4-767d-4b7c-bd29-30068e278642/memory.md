@@ -22,3 +22,4 @@
 ### Emerging (new query patterns)
 - exploring bhindi scheduler and automation queries; 5× (since 2025-09-04) [refs: water reminder request chatId:`407648c3c0fe44`; scheduler capability question chatId:`407648c3c0fe44`; usecases request chatId:`407648c3c0fe44`; difference vs background agents chatId:`407648c3c0fe44`; user stats request chatId:`a8af09c9134b4f`]
 - exploring crypto monitoring and defi automation; 1× (first: 2025-09-05) [ref: crypto monitoring request chatId:`407648c3c0fe44`]
+- requesting MongoDB analytics queries; user stats retrieval automation; 1× (first: 2025-09-05) [ref: user stats schedule request chatId:`a8af09c9134b4f`]
