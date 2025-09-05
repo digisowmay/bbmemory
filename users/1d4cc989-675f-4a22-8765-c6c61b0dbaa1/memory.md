@@ -9,6 +9,7 @@
 - working with n8n workflow automation; 4× [refs: n8n error troubleshooting chatId:`f7b944c87b8849`; n8n workflow duplication chatId:`f5b605e0eb5544`]
 
 ### Emerging (recent learning, current focus)
+- integrating Zoho Desk API data (tickets, accounts/customers) into Supabase via n8n; 2× (since 2025-09-05) [refs: tickets sync discussion chatId:`f5b605e0eb5544`; accounts/customer sync chatId:`f5b605e0eb5544`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
@@ -21,3 +22,4 @@
 - troubleshooting n8n workflow errors; 6× [refs: n8n error troubleshooting chatId:`f7b944c87b8849`; current workflow fix chatId:`f5b605e0eb5544`]
 
 ### Emerging (new query patterns)
+- exploring Zoho Desk API integration (tickets, accounts); 2× (since 2025-09-05) [refs: ticket sync query chatId:`f5b605e0eb5544`; account sync query chatId:`f5b605e0eb5544`]
