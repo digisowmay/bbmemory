@@ -3,14 +3,15 @@
 -
 
 ### Emerging (new signals, 1-2 reinforcements)
-- provides concise, direct instructions for image edits; 4× (last: 2025-09-05) [refs: sexy pose request chatId:`74deb7dfa44d46`; bikini outfit change request chatId:`a327e6078ef44f`; current bikini request chatId:`a327e6078ef44f`]
+- provides concise, direct instructions for image edits; 5× (last: 2025-09-05) [refs: bikini change and butt size request chatId:`a327e6078ef44f`]
+- specifies preferred agent/tool ("nano banana") for image edits; 1× (first: 2025-09-05) [ref: buttocks enhancement request chatId:`a327e6078ef44f`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
 -
 
 ### Emerging (recent learning, current focus)
-- interested in character artwork and pose/clothing modifications; 4× (since 2025-09-05) [refs: initial pose adjustment request chatId:`74deb7dfa44d46`; bikini outfit change chatId:`a327e6078ef44f`; current bikini request chatId:`a327e6078ef44f`]
+- interested in character artwork and pose/clothing/body modifications; 5× (since 2025-09-05) [refs: outfit change and butt modification requests chatId:`a327e6078ef44f`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
@@ -24,4 +25,4 @@
 -
 
 ### Emerging (new query patterns)
-- exploring AI-driven image manipulation/editing; 4× (since 2025-09-05) [refs: first image edit interaction chatId:`74deb7dfa44d46`; latest request chatId:`a327e6078ef44f`; current bikini request chatId:`a327e6078ef44f`]
+- exploring AI-driven image manipulation/editing with specific agents; 5× (since 2025-09-05) [refs: nano banana requests chatId:`a327e6078ef44f`]
