@@ -1,10 +1,10 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
 - tends to communicate in French for creative requests; 5× (stable since 2025-09-05) [refs: logo design conversation chatId:`e3678f3674d145`; business card request chatId:`01b3c472837a4c`]
+- asks for detailed explanations after receiving deliverables; 3× (promoted from emerging) [refs: repeated "Pour en savoir plus" requests chatId:`e3678f3674d145`; follow-up card request chatId:`ea0f6628031941`]
 
 ### Emerging (new signals, 1-2 reinforcements)
 - corrects small details promptly (e.g., spelling of brand name); 3× (last: 2025-09-05) [ref: name corrections chatId:`e3678f3674d145`]
-- asks for detailed explanations after receiving deliverables; 2× (last: 2025-09-05) [ref: repeated "Pour en savoir plus" requests chatId:`e3678f3674d145`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
