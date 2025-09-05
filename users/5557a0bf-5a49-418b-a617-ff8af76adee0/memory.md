@@ -1,9 +1,9 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- prefers highly structured, detailed answers with bullet points and clear sections; 3× [refs: startup research request chatId:`4c80539a996c43`]
+- prefers highly structured, detailed answers with bullet points and clear sections; 4× [refs: startup research request chatId:`4c80539a996c43`; 20-startup list insistence chatId:`4c80539a996c43`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- requests in-depth analysis linking personal resume to recommendations; 1× (first: 2025-09-05) [ref: resume match request chatId:`4c80539a996c43`]
+- sets explicit quantitative requirements and demands proper links for deliverables; 1× (first: 2025-09-05) [ref: 20-startup list insistence chatId:`4c80539a996c43`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -21,7 +21,7 @@
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
-- frequently asks for startup/market research and analysis; 3× [refs: AI startup research request chatId:`4c80539a996c43`]
+- frequently asks for startup/market research and analysis; 4× [refs: AI startup research request chatId:`4c80539a996c43`; 20-startup list insistence chatId:`4c80539a996c43`]
 
 ### Emerging (new query patterns)
 - seeking job opportunity matching based on personal skills; 1× (started: 2025-09-05) [ref: resume match request chatId:`4c80539a996c43`]
