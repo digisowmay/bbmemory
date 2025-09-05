@@ -11,6 +11,7 @@
 - managing creative projects (film production, Wishtales scripts, bug reports, Instagram/YouTube content); 1× (started: 2025-09-05) [ref: workflow discussion chatId:`93f9879be6bc4d`]
 - uses Trello, Notion, Google Docs, GitHub, Linear, Instagram, YouTube for workflow; 1× (first: 2025-09-05) [ref: agent configuration chatId:`93f9879be6bc4d`]
 - investigating AI video generation tools (Google Veo3) for film projects; 1× (first: 2025-09-05) [ref: Veo3 FPS question chatId:`93f9879be6bc4d`]
+- planning an Instagram content comeback after 4–7 month hiatus; 1× (first: 2025-09-05) [ref: Instagram comeback discussion chatId:`93f9879be6bc4d`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
@@ -24,3 +25,4 @@
 ### Emerging (new query patterns)
 - configuring multiple platform agents for daily creative workflow (Trello, Notion, Google Docs, GitHub, Linear, social media analyzers); 1× (first: 2025-09-05) [ref: agent setup chatId:`93f9879be6bc4d`]
 - asks technical specifications about AI video generation models; 1× (first: 2025-09-05) [ref: Veo3 FPS question chatId:`93f9879be6bc4d`]
+- seeking Instagram comeback content ideas and social media strategy; 1× (since 2025-09-05) [ref: Instagram content strategy chatId:`93f9879be6bc4d`]
