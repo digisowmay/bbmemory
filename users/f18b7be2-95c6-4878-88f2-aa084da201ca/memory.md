@@ -3,7 +3,7 @@
 - gives concise, directive photo-editing instructions and supplies image URLs; 30× [refs: multiple photo editing requests chatId:`002f3b058dec49`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- 
+- requests iterative refinements on previously edited photos; points out small issues like patches, play button, background, and expects quick fix; 2× (last: 2025-09-05) [refs: background smoothing follow-up; play button removal chatId:`002f3b058dec49`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -17,7 +17,7 @@
 - 
 
 ### Emerging (recent behavioral shifts)
-- 
+- detail-oriented iterative improvement approach; revisits edits for fine tuning; 2× (since 2025-09-05) [refs: dark patch smoothing; frame extraction and restoration chatId:`002f3b058dec49`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
