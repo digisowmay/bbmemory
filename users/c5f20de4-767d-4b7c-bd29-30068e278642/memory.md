@@ -3,6 +3,7 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - gives concise action-oriented commands to agent; 5× (last: 2025-09-05) [refs: water reminder request chatId:`407648c3c0fe44`; scheduler inquiry chatId:`407648c3c0fe44`; difference vs background agents chatId:`407648c3c0fe44`; user stats request chatId:`a8af09c9134b4f`; schedule frequency clarification chatId:`a8af09c9134b4f`]
+- prefers conversational, human-like notifications without technical details; no emojis unless requested; 2× (last: 2025-09-05) [refs: hydration reminder delivery chatId:`db2af612c1964b`; notification instructions chatId:`db2af612c1964b`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
