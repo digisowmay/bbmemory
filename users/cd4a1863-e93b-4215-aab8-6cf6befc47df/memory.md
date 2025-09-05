@@ -5,6 +5,7 @@
 ### Emerging (new signals, 1-2 reinforcements)
 - wants batch execution over repetitive confirmations; 3× (last: 2025-09-04) [refs: dissatisfaction with confirm-each-email flow chatId:`7c6272a8663f48`; daily 50 draft emails scheduling chatId:`7c6272a8663f48`]
 - requests concise performance summaries of executed tasks (e.g., email campaign stats); 1× (first: 2025-09-05) [ref: campaign summary request chatId:`fa54cea53d9841`]
+- prefers updating existing documents rather than creating new ones; 1× (first: 2025-09-05) [ref: request to update existing sheet chatId:`fa54cea53d9841`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -28,3 +29,4 @@
 
 ### Emerging (new query patterns)
 - using Gmail for both drafting and monitoring replies to mass outreach; 2× (since 2025-09-05) [refs: reply monitoring request chatId:`fa54cea53d9841`; earlier draft send chatId:`fa54cea53d9841`]
+- uses Google Sheets for campaign tracking and expects updates there; 1× (first: 2025-09-05) [ref: sheet update request chatId:`fa54cea53d9841`]
