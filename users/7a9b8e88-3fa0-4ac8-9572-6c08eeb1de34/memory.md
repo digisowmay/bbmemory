@@ -2,13 +2,14 @@
 ### Durable (established, 3+ reinforcements)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- prefers concise, direct questions about practical tasks; 1× (first: 2025-09-05) [ref: LinkedIn access request chatId:`42ef5532149846`]
+- prefers concise, direct questions about practical tasks; 2× (last: 2025-09-05) [refs: LinkedIn access request chatId:`42ef5532149846`; expand add-on how-to chatId:`42ef5532149846`]
+- asks for step-by-step/how-to instructions for tools; 1× (first: 2025-09-05) [ref: expand add-on how-to chatId:`42ef5532149846`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
 
-### Emerging (recent learning, current focus)
-- researching LinkedIn lead generation/access methods; 1× (started: 2025-09-05) [ref: LinkedIn access request chatId:`42ef5532149846`]
+### Emerging (recent learning, current focus)  
+- researching LinkedIn lead generation/access methods; 2× (since 2025-09-05) [refs: LinkedIn access request chatId:`42ef5532149846`; add-on usage details chatId:`42ef5532149846`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
@@ -20,4 +21,4 @@
 ### Durable (regular platform activities)
 
 ### Emerging (new query patterns)
-- exploring LinkedIn profile access tools; 1× (first: 2025-09-05) [ref: LinkedIn access request chatId:`42ef5532149846`]
+- exploring LinkedIn profile access tools; 2× (since 2025-09-05) [refs: LinkedIn access request chatId:`42ef5532149846`; add-on how-to chatId:`42ef5532149846`]
