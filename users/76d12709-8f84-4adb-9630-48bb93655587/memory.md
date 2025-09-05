@@ -20,4 +20,4 @@
 ### Durable (regular platform activities)
 
 ### Emerging (new query patterns)
-- Seeks coding help for Chrome extensions and LaTeX automation; 1× (since 2025-09-02) [ref: chrome extension resume generator request chatId:`3161b2457a2342`]
+- Seeks coding help for repository analysis, Python, Chrome extensions, and LaTeX automation; 2× (since 2025-09-02, last: 2025-09-05) [refs: chrome extension resume generator request chatId:`3161b2457a2342`; repository code analysis request chatId:`89e2f321eda845`]
