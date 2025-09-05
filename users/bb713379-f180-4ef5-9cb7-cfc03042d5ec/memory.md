@@ -1,6 +1,6 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- gives precise, iterative design instructions; 3× (promoted from emerging, stable since 2025-09-05) [refs: logo revision requests chatId:`fd7f66d9958b4b`; typography refinement request chatId:`fd7f66d9958b4b`; sophisticated typography update chatId:`fd7f66d9958b4b`]
+- gives precise, iterative design instructions; 4× (stable since 2025-09-05) [refs: logo revision requests chatId:`fd7f66d9958b4b`; typography refinement request chatId:`fd7f66d9958b4b`; sophisticated typography update chatId:`fd7f66d9958b4b`; removal of two-tone text instruction chatId:`fd7f66d9958b4b`]
 
 ### Emerging (new signals, 1-2 reinforcements)
 
@@ -14,10 +14,10 @@
 ### Durable (core thinking patterns)
 
 ### Emerging (recent behavioral shifts)
-- detail-oriented, requests specific visual changes and iterative refinements; 2× (last: 2025-09-04) [refs: logo revision conversation chatId:`fd7f66d9958b4b`; typography improvement request chatId:`fd7f66d9958b4b`]
+- detail-oriented, requests specific visual changes and iterative refinements; 3× (last: 2025-09-05) [refs: logo revision conversation chatId:`fd7f66d9958b4b`; typography improvement request chatId:`fd7f66d9958b4b`; latest two-tone removal request chatId:`fd7f66d9958b4b`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
 
 ### Emerging (new query patterns)
-- uses platform for graphic design edits and iteration; 2× (since 2025-09-05) [refs: logo design edits chatId:`fd7f66d9958b4b`; typography enhancement request chatId:`fd7f66d9958b4b`]
+- uses platform for graphic design edits and iteration; 3× (since 2025-09-05) [refs: logo design edits chatId:`fd7f66d9958b4b`; typography enhancement request chatId:`fd7f66d9958b4b`; two-tone removal instruction chatId:`fd7f66d9958b4b`]
