@@ -1,6 +1,6 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- provides clear image URLs and explicit edit instructions for visual tasks; 13× (stable since 2025-09-05) [refs: photo editing requests chatId:`67c12d0365dd4c`]
+- provides clear image URLs and explicit edit instructions for visual tasks; 14× (stable since 2025-09-05) [refs: photo editing requests chatId:`67c12d0365dd4c`; image replacement request chatId:`a3d77fdf37d84c`]
 
 ### Emerging (new signals, 1-2 reinforcements)
 - gives iterative feedback, requesting precise tweaks until satisfied; 6× (last: 2025-09-05) [refs: multiple correction cycles chatId:`67c12d0365dd4c`]
@@ -23,7 +23,7 @@
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
-- frequently requests image manipulation/editing tasks; 13× (stable since 2025-09-05) [refs: photo editing requests chatId:`67c12d0365dd4c`]
+- frequently requests image manipulation/editing tasks; 14× (stable since 2025-09-05) [refs: photo editing requests chatId:`67c12d0365dd4c`; image replacement request chatId:`a3d77fdf37d84c`]
 
 ### Emerging (new query patterns)
 - employs progressive instructions to refine images; 6× (since 2025-09-05) [refs: successive edit instructions chatId:`67c12d0365dd4c`]
