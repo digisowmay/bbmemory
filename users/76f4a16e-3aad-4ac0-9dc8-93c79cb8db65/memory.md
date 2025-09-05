@@ -1,11 +1,11 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- frequently requests polishing and correcting written emails for professional English; 10× [refs: multiple correction requests chatId:`e401e66a99cb49`; latest warm rewrite chatId:`58222435412842`]
-- often provides short phrases and asks for quick validation ("is the below correct?"); 10× [refs: repeated phrase checks chatId:`e401e66a99cb49`; warm email rewrite chatId:`58222435412842`]
-- prefers natural, conversational tone; avoids robotic language; 3× (promoted from emerging) [refs: warm email rewrite chatId:`58222435412842`; onboarding checklist request chatId:`0b458e32b74f4c`]
+- frequently requests polishing and correcting written emails for professional English; 11× [refs: multiple correction requests chatId:`e401e66a99cb49`; latest warm rewrite chatId:`58222435412842`]
+- often provides short phrases and asks for quick validation ("is the below correct?"); 11× [refs: repeated phrase checks chatId:`e401e66a99cb49`; warm email rewrite chatId:`58222435412842`]
+- prefers natural, conversational tone; avoids robotic language; 4× [refs: warm email rewrite chatId:`58222435412842`; onboarding checklist request chatId:`0b458e32b74f4c`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- instructs assistant to wait for complete context before drafting responses; 3× (last: 2025-09-04) [ref: email drafting instruction chatId:`e401e66a99cb49`]
+- instructs assistant to wait for complete context before drafting responses; 3× (last: 2025-09-05) [ref: email drafting instruction chatId:`58222435412842`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -17,7 +17,7 @@
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
-- seeks quick, precise language corrections; iterative review style; 7× [refs: repeated correction queries chatId:`e401e66a99cb49`; warm email rewrite chatId:`58222435412842`]
+- seeks quick, precise language corrections; iterative review style; 8× [refs: repeated correction queries chatId:`e401e66a99cb49`; warm email rewrite chatId:`58222435412842`]
 
 ### Emerging (recent behavioral shifts)
 - values clear, structured communication documents; 3× (last: 2025-09-04) [refs: email polish request chatId:`e401e66a99cb49`]
