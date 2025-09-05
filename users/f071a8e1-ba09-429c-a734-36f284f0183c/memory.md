@@ -22,5 +22,5 @@
 ### Durable (regular platform activities)
 
 ### Emerging (new query patterns)
-- uses assistant to manage GitHub tasks (issues, pull request audits); 5× (last: 2025-09-05) [refs: issue creation request chatId:`d6d7f5d63ea449`; issue creation on recipient field disappearance chatId:`c9ae0e65c93b40`; PR audit request chatId:`0afe2348bbcb44`; aggregation review chatId:`0afe2348bbcb44`; repository refactor issue chatId:`644cb143bf0e46`]
+- uses assistant to manage GitHub tasks (issues, pull request audits); 6× (last: 2025-09-05) [refs: issue creation request chatId:`d6d7f5d63ea449`; issue creation on recipient field disappearance chatId:`c9ae0e65c93b40`; PR audit request chatId:`0afe2348bbcb44`; aggregation review chatId:`0afe2348bbcb44`; repository refactor issue chatId:`644cb143bf0e46`; PR audit chatId:`deb062392c8449`]
 - uses assistant to handle backroom echo communications automatically; 1× (first: 2025-09-04) [ref: backroom echo confirmation chatId:`93e01ed7361542`]
