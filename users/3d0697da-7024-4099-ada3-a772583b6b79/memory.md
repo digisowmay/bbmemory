@@ -5,6 +5,7 @@
 ### Emerging (new signals, 1-2 reinforcements)
 - seeks concise learning formats and analytical insights; 3× (last: 2025-09-04) [refs: ML video summary request chatId:`a4ce558a470e47`; Uniswap stats request chatId:`aeb4ddc9952641`; weekly productivity summary request chatId:`ee290b8886e74e`]
 - prefers structured summaries with clear categories and bullet lists; 1× (first: 2025-09-04) [ref: weekly productivity summary request chatId:`ee290b8886e74e`]
+- asks assistant to automate communication tasks (e.g., sending voice messages via Telegram); 1× (first: 2025-09-05) [ref: voice message request chatId:`f811ace4c8184f`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -30,3 +31,5 @@
 
 ### Emerging (new query patterns)
 - requests AI-generated multimedia content creation (graphic assets, scripts, videos, image editing) with specific guidance; 7× (since 2025-09-03) [refs: poster design request chatId:`8f1e4193c0a844`; wireframe request chatId:`1db1e8401aca48`; icon set request chatId:`f5d2bb5624ed4a`; YouTube script request chatId:`d716f90722aa46`; video production orchestration chatId:`643b5ce098be4b`; image edit shark cat chatId:`d562157d87dc43`; 2d cat art request chatId:`4f8e04abb7b449`]
+- exploring decentralized finance tools and stats; 2× (since 2025-09-03) [refs: Uniswap stats request chatId:`aeb4ddc9952641`; crypto portfolio analysis chatId:`658d51cae22842`]
+- requests TTS voice messages and messaging-platform delivery (e.g., Telegram); 1× (since 2025-09-05) [ref: voice message request chatId:`f811ace4c8184f`]
