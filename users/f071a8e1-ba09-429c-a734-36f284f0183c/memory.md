@@ -2,8 +2,8 @@
 ### Durable (established, 3+ reinforcements)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- prefers outputs/tasks to be short and individual; 4× (last: 2025-09-05) [refs: GitHub issue creation instruction chatId:`d6d7f5d63ea449`; issue creation on recipient field disappearance chatId:`c9ae0e65c93b40`; PR audit request chatId:`0afe2348bbcb44`; aggregation review chatId:`0afe2348bbcb44`]
-- wants assistant to execute linking/sending tasks automatically without additional confirmation; 2× (last: 2025-09-05) [refs: backroom echo confirmation chatId:`93e01ed7361542`; issue creation on recipient field disappearance chatId:`c9ae0e65c93b40`]
+- prefers outputs/tasks to be short and individual; 5× (last: 2025-09-05) [refs: GitHub issue creation instruction chatId:`d6d7f5d63ea449`; issue creation on recipient field disappearance chatId:`c9ae0e65c93b40`; PR audit request chatId:`0afe2348bbcb44`; aggregation review chatId:`0afe2348bbcb44`; repository refactor issue chatId:`644cb143bf0e46`]
+- wants assistant to execute linking/sending tasks automatically without additional confirmation; 3× (last: 2025-09-05) [refs: backroom echo confirmation chatId:`93e01ed7361542`; issue creation on recipient field disappearance chatId:`c9ae0e65c93b40`; repository refactor issue chatId:`644cb143bf0e46`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -22,5 +22,5 @@
 ### Durable (regular platform activities)
 
 ### Emerging (new query patterns)
-- uses assistant to manage GitHub tasks (issues, pull request audits); 4× (last: 2025-09-05) [refs: issue creation request chatId:`d6d7f5d63ea449`; issue creation on recipient field disappearance chatId:`c9ae0e65c93b40`; PR audit request chatId:`0afe2348bbcb44`; aggregation review chatId:`0afe2348bbcb44`]
+- uses assistant to manage GitHub tasks (issues, pull request audits); 5× (last: 2025-09-05) [refs: issue creation request chatId:`d6d7f5d63ea449`; issue creation on recipient field disappearance chatId:`c9ae0e65c93b40`; PR audit request chatId:`0afe2348bbcb44`; aggregation review chatId:`0afe2348bbcb44`; repository refactor issue chatId:`644cb143bf0e46`]
 - uses assistant to handle backroom echo communications automatically; 1× (first: 2025-09-04) [ref: backroom echo confirmation chatId:`93e01ed7361542`]
