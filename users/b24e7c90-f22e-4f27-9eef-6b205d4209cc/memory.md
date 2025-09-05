@@ -1,6 +1,6 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- issues concise imperative commands to manage agents and retrieve data; 15× (stable since 2024-08-15) [refs: multiple agent management commands chatId:`ba6263692e3840`]
+- issues concise imperative commands to manage agents and retrieve data; 16× (stable since 2024-08-15) [refs: multiple agent management commands chatId:`ba6263692e3840`; user memory update instruction chatId:`fd9763fe2ff24f`]
 - curious about underlying system/platform; asks meta-level questions (LLM model, platform definition, agent count); 6× [refs: LLM model question; "What is Bhindi?" request; agent count query chatId:`ba6263692e3840`]
 
 ### Emerging (new signals, 1-2 reinforcements)
