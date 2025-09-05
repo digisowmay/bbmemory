@@ -4,6 +4,7 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - prefers concise follow-ups (e.g., replied with single word "without"); 1× (first: 2025-09-05) [ref chatId:`529e8e053f1141`]
+- mixes English & Hindi (Hinglish) in queries; 1× (first: 2025-09-05) [ref chatId:`ea02122dbd5f49`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -18,6 +19,7 @@
 
 ### Emerging (recent behavioral shifts)
 - iterative inquiry approach (asks initial question then refines); 1× (first: 2025-09-05) [ref chatId:`529e8e053f1141`]
+- prefers visual examples/screenshots to understand design concepts; 1× (first: 2025-09-05) [ref chatId:`ea02122dbd5f49`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
