@@ -3,7 +3,7 @@
 - (no durable patterns yet)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- gives concise, direct requests combining multiple data points; 1× (first: 2025-09-03) [ref: weather & ETH price request chatId:`83094207ce5241`]
+- gives concise, direct requests; 2× (last: 2025-09-06) [refs: weather & ETH price request chatId:`83094207ce5241`; image request chatId:`5aff371c1a5c42`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
