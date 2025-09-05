@@ -1,10 +1,9 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
--
+- issues direct commands for tool actions (Google Sheets, scheduling, image generation, integrations) and expects immediate execution; 8× (promoted from emerging) [refs: multiple tool interactions chatId:`fe55f5ac974846`; schedule creation chatId:`1e9af075cac04d`]
 
 ### Emerging (new signals, 1-2 reinforcements)
 - prefers outputs with defined structure (tables, exact word counts) for easy use; 2× (last: 2025-09-04) [refs: AI tools research request chatId:`a8a22432f2dc4a`; Instagram script request chatId:`fe55f5ac974846`]
-- issues direct commands for tool actions (Google Sheets, scheduling, image generation, integrations) and expects immediate execution; 7× (last: 2025-09-04) [refs: multiple tool interactions chatId:`fe55f5ac974846`; monkey image generation chatId:`07cb9a021cef4c`; scheduling request chatId:`b1e2cb43e4c349`; twitter integration chatId:`b1e2cb43e4c349`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -27,6 +26,6 @@
 -
 
 ### Emerging (new query patterns)
-- frequently interacts with Google Sheets via assistant (retrieve & write data) for content and research; 4× (last: 2025-09-04) [refs: Google Sheets data tasks chatId:`fe55f5ac974846`]
+- frequently interacts with Google Sheets via assistant (retrieve & write data) for content and research; 5× (last: 2025-09-05) [refs: Google Sheets data tasks chatId:`fe55f5ac974846`; schedule creation chatId:`1e9af075cac04d`]
 - requests image generation for content and marketing; 3× (last: 2025-09-04) [refs: Instagram script request; sneaker billboard ad generation chatId:`fe55f5ac974846`; monkey banana image chatId:`07cb9a021cef4c`]
 - sets up social media integrations (Instagram, Twitter) and scheduling reminders; 1× (first: 2025-09-04) [ref: scheduler setup and twitter integration chatId:`b1e2cb43e4c349`]
