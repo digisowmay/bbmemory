@@ -1,9 +1,9 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- يفضّل المحادثة باللغة العربية؛ 5× (promoted from emerging) [refs: language preference request chatId:`0920df87acc14a`; follow-up Arabic conversation chatId:`0920df87acc14a`; Arabic logo request chatId:`0920df87acc14a`; branding name request chatId:`0920df87acc14a`; name uniqueness clarification chatId:`0920df87acc14a`]
+- يفضّل المحادثة باللغة العربية؛ 5× (stable since 2024-08-15) [refs: language preference request chatId:`0920df87acc14a`; follow-up Arabic conversation chatId:`0920df87acc14a`; Arabic logo request chatId:`0920df87acc14a`; branding name request chatId:`0920df87acc14a`; name uniqueness clarification chatId:`0920df87acc14a`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- يفضّل الأسماء القصيرة القوية والمميزة للعلامة التجارية؛ 1× (first: 2025-09-05) [ref: brand name uniqueness request chatId:`0920df87acc14a`]
+- يفضّل الأسماء القصيرة القوية والمميزة للعلامة التجارية؛ 2× (last: 2025-09-05) [refs: brand name brainstorming chatId:`0920df87acc14a`; new name uniqueness request chatId:`0920df87acc14a`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
