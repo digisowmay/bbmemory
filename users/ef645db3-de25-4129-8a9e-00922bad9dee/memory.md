@@ -3,7 +3,7 @@
 - يفضّل المحادثة باللغة العربية؛ 5× (stable since 2024-08-15) [refs: language preference request chatId:`0920df87acc14a`; follow-up Arabic conversation chatId:`0920df87acc14a`; Arabic logo request chatId:`0920df87acc14a`; branding name request chatId:`0920df87acc14a`; name uniqueness clarification chatId:`0920df87acc14a`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- يفضّل الأسماء القصيرة القوية والمميزة للعلامة التجارية؛ 3× (last: 2025-09-05) [refs: brand name brainstorming chatId:`0920df87acc14a`; new name uniqueness request chatId:`0920df87acc14a`; rejection of suggestions seeking uniqueness chatId:`0920df87acc14a`]
+- يفضّل الأسماء القصيرة القوية والمميزة للعلامة التجارية؛ 4× (last: 2025-09-05) [refs: brand name brainstorming chatId:`0920df87acc14a`; new name uniqueness request chatId:`0920df87acc14a`; rejection of suggestions seeking uniqueness chatId:`0920df87acc14a`; further rejections chatId:`0920df87acc14a`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -15,7 +15,7 @@
 ### Durable (core thinking patterns)
 
 ### Emerging (recent behavioral shifts)
-- دقيق ومتمسك بالتميّز؛ يرفض المقترحات بسرعة حتى يجد اسم فريد للغاية؛ 1× (first: 2025-09-05) [ref: repeated رفض الأسماء المقترحة chatId:`0920df87acc14a`]
+- دقيق ومتمسك بالتميّز؛ يرفض المقترحات بسرعة حتى يجد اسم فريد للغاية؛ 2× (last: 2025-09-05) [refs: repeated رفض الأسماء المقترحة chatId:`0920df87acc14a`; latest rejections chatId:`0920df87acc14a`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
