@@ -3,8 +3,8 @@
 - provides clear image URLs and explicit edit instructions for visual tasks; 15× (stable since 2025-09-05) [refs: photo editing requests chatId:`67c12d0365dd4c`; image replacement request chatId:`a3d77fdf37d84c`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- gives iterative feedback, requesting precise tweaks until satisfied; 9× (last: 2025-09-05) [refs: multiple correction cycles chatId:`67c12d0365dd4c`; follow-up clarifications chatId:`a3d77fdf37d84c`; quick correction “You didn't at the girl” chatId:`8ed2439be0c744`]
-- emphasizes correct positioning outside reflections, indicates dissatisfaction when results are off; 5× (last: 2025-09-05) [refs: mirror/person placement clarifications chatId:`67c12d0365dd4c`; replacement corrections chatId:`a3d77fdf37d84c`]
+- gives iterative feedback, requesting precise tweaks until satisfied; 10× (last: 2025-09-05) [refs: multiple correction cycles chatId:`67c12d0365dd4c`; follow-up clarifications chatId:`a3d77fdf37d84c`; quick correction “You didn't at the girl” chatId:`8ed2439be0c744`]
+- emphasizes correct positioning, equal sizing, and natural composition; 6× (last: 2025-09-05) [refs: mirror/person placement clarifications chatId:`67c12d0365dd4c`; equal size request chatId:`8ed2439be0c744`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -26,4 +26,4 @@
 - frequently requests image manipulation/editing tasks; 15× [refs: photo editing requests chatId:`67c12d0365dd4c`; image replacement request chatId:`a3d77fdf37d84c`]
 
 ### Emerging (new query patterns)
-- employs progressive instructions to refine images; 7× (since 2025-09-05) [refs: successive edit instructions chatId:`67c12d0365dd4c`; replacement corrections chatId:`a3d77fdf37d84c`]
+- employs progressive instructions to refine images; 8× (since 2025-09-05) [refs: successive edit instructions chatId:`67c12d0365dd4c`; replacement corrections chatId:`a3d77fdf37d84c`; equal size request chatId:`8ed2439be0c744`]
