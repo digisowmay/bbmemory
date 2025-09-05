@@ -1,6 +1,6 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- gives brief, direct commands for image editing tasks (e.g., "Replace clothing", "Keep background same"); 25× (stable since 2025-09-05) [refs: multiple image editing commands chatId:`e508a5a375464a`]
+- gives brief, direct commands for image editing tasks (e.g., "Replace clothing", "Keep background same"); 33× (stable since 2025-09-05) [refs: multiple image editing commands chatId:`e508a5a375464a`]
 
 ### Emerging (new signals, 1-2 reinforcements)
 - (no emerging patterns currently)
@@ -21,7 +21,7 @@
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
-- interested in photo restoration and image editing, specifying model preference ("nano banana model"); 25× [refs: multiple image editing requests chatId:`e508a5a375464a`]
+- interested in photo restoration and image editing, specifying model preference ("nano banana model"); 33× [refs: multiple image editing requests chatId:`e508a5a375464a`]
 
 ### Emerging (new query patterns)
 - (no emerging query patterns currently)
