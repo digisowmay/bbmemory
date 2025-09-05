@@ -1,6 +1,6 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- wants detailed expert-backed analysis before making purchase/booking decisions; 8× (stable since 2025-09-01) [refs: smartphone buying advice; multiple Delhi accommodation queries chatId:`3f05fd8480d94b`; couple getaway suggestion chatId:`888e103d2b4949`; Hogenakkal plan request chatId:`888e103d2b4949`; international courier suggestion chatId:`dfa0d75fc2f74c`]
+- wants detailed expert-backed analysis before making purchase/booking decisions; 9× (stable since 2025-09-01) [refs: smartphone buying advice; multiple Delhi accommodation queries chatId:`3f05fd8480d94b`; couple getaway suggestion chatId:`888e103d2b4949`; Hogenakkal plan request chatId:`888e103d2b4949`; international courier suggestion chatId:`dfa0d75fc2f74c`; earphone advice chatId:`2302ee4971e444`]
 - prefers direct actionable links (URLs) for recommendations; 5× (stable since 2025-09-01) [refs: Airbnb links request; corridor options request; latest link follow-up chatId:`3f05fd8480d94b`; waterfall suggestions chatId:`888e103d2b4949`]
 
 ### Emerging (new signals, 1-2 reinforcements)
@@ -27,3 +27,4 @@
 ### Emerging (new query patterns)
 - uses Google Sheets automation via assistant; 1× (first: 2025-09-03) [ref: investor outreach sheet creation chatId:`ff2500dc8c7c47`]
 - seeks assistant help crafting startup application content (one-line pitches, founder bios, form answers); 1× (first: 2025-09-04) [ref: founder description drafting chatId:`c5d09771708947`]
+- asks gadget buying advice; smartphones, earphones; 2× (since 2025-09-01) [refs: smartphone buying advice; earphone advice chatId:`2302ee4971e444`]
