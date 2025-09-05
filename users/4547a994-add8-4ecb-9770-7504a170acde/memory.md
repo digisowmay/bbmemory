@@ -25,3 +25,4 @@
 
 ### Emerging (new query patterns)
 - requests patriotic color edits (national flag themes); 2× (since 2025-09-03) [refs: beard flag colour chatId:`73d9b004360444`; beard russian flag edit chatId:`b7b3dfa2b48746`]
+- requests deliberately imperfect or low-quality casual selfies; 1× (first: 2025-09-05) [ref: casual selfie generation chatId:`cacb663e293f44`]
