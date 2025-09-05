@@ -1,9 +1,9 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- (no durable patterns identified yet)
+- gives brief, direct commands for image editing tasks (e.g., "Restore this image", "Replace shirt with ..."); 7× [refs: image editing commands chatId:`ee422ced3e5547`; previous image restoration requests]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- gives brief, direct commands for image editing tasks (e.g., "Restore this image", "Erase the child"); 6× (last: 2025-09-05) [refs: image restoration request chatId:`fc8c00554c3b44`; image restoration request chatId:`c18c80b366004b`; image edit removal chatId:`189f37391e094d`; image edit removal chatId:`2d13194869394e`; image edit removal chatId:`27dc449e4f6843`; image edit clothing change chatId:`ee422ced3e5547`]
+- (no emerging patterns currently)
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -21,7 +21,7 @@
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
-- (no durable platform usage patterns identified yet)
+- interested in photo restoration and image editing, specifying model preference ("nano banana model"); 7× [refs: multiple image editing requests chatId:`ee422ced3e5547`]
 
 ### Emerging (new query patterns)
-- interested in photo restoration and image editing, specifying model preference ("nano banana model"); 6× (last: 2025-09-05) [refs: image restoration request chatId:`fc8c00554c3b44`; image restoration request chatId:`c18c80b366004b`; image edit removal chatId:`189f37391e094d`; image edit removal chatId:`2d13194869394e`; image edit removal chatId:`27dc449e4f6843`; image edit clothing change chatId:`ee422ced3e5547`]
+- (no emerging query patterns currently)
