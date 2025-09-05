@@ -3,9 +3,9 @@
 - concise imperative instructions; 6× (stable since 2025-09-05) [refs: chatId:`22d2f71d239d45` messages "make some thing for travel agnecy"; "RESUME"; "Build the form"; "Create Make.com workflows"; "give me make.com flow in json"; "make.com give error for imorting jason"]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- prefers WhatsApp/Telegram channels over email and likes Hindi-English mix responses; 1× (first: 2025-09-06) [ref: chatId:`22d2f71d239d45` messages about Indian customers not reading email and request for Hindi-English WhatsApp messages]
+- prefers WhatsApp/Telegram channels over email and likes Hindi-English mix responses; 2× (last: 2025-09-06) [refs: chatId:`22d2f71d239d45` Indian customers not reading email comment; Telegram bot setup troubleshooting]
 - requests lowest-cost or free alternatives before committing; 1× (first: 2025-09-06) [ref: chatId:`22d2f71d239d45` "mostle free or mimum pay for test this"]
-- asks for step-by-step simple testing plans; 3× (last: 2025-09-06) [refs: chatId:`22d2f71d239d45` messages "take it simple first for testing"; "where i want to check that form working or not"; Telegram API troubleshooting]
+- asks for step-by-step simple testing plans; 4× (last: 2025-09-06) [refs: chatId:`22d2f71d239d45` messages requesting simple first testing; API 404 screenshot]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -18,13 +18,13 @@
 ### Durable (core thinking patterns)
 
 ### Emerging (recent behavioral shifts)
-- cost-conscious, prefers free/minimal-pay solutions for prototyping; 1× (observed: 2025-09-06) [ref: chatId:`22d2f71d239d45` message "mostle free or mimum pay for test"]
-- iterative test-first approach before scaling automation; 3× (since 2025-09-06) [refs: chatId:`22d2f71d239d45` pivot to manual testing; request for simple workflow; form testing plan]
-- hands-on API debugging; tests endpoints manually via browser; 1× (observed: 2025-09-06) [ref: chatId:`22d2f71d239d45` Telegram getUpdates 404 screenshot]
+- iterative test-first approach before scaling automation; 4× (since 2025-09-06) [refs: chatId:`22d2f71d239d45` manual testing request; simple workflow setup; Telegram bot troubleshooting; desire for incremental scaling guidance]
+- cost-conscious, prefers free/minimal-pay solutions for prototyping; 1× (observed: 2025-09-06) [ref: chatId:`22d2f71d239d45` "mostle free or mimum pay for test"]
+- hands-on API debugging; tests endpoints manually via browser; 2× (last: 2025-09-06) [refs: chatId:`22d2f71d239d45` Telegram getUpdates 404 screenshot; subsequent troubleshooting]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
 
 ### Emerging (new query patterns)
-- exploring WhatsApp/Telegram integration options (ChatAPI, Twilio, Telegram) for no-code workflows; 3× (since 2025-09-06) [refs: chatId:`22d2f71d239d45` "WhatsApp Business API alternatives?"; requests for Telegram guidance; Telegram API troubleshooting]
+- exploring WhatsApp/Telegram integration options (ChatAPI, Twilio, Telegram) for no-code workflows; 4× (since 2025-09-06) [refs: chatId:`22d2f71d239d45` WhatsApp Business API alternatives; Telegram bot troubleshooting; integration steps]
 - investigating Gemini API/LLM usage for lead qualification automation; 2× (since 2025-09-06) [refs: chatId:`22d2f71d239d45` messages about GAmini api llm]
