@@ -12,13 +12,13 @@
 ### Emerging (recent learning, current focus)
 - creating marketing mockups with gradient backgrounds and floating laptops; 22× (since 2025-09-01) [refs: multiple mockup iterations chatId:`607d0969a2f34b`; floating MacBook generation chatId:`2e2b70530cf142`; gradient bg request chatId:`26524afb6b3a4d`]
 - developing full presentation slide decks for retail brand pitches; 1× (started: 2025-09-05) [ref: Brand Avenue slide deck specification chatId:`bb76382088cd48`]
-- prefers blue and yellow gradient backgrounds; 1× (first: 2025-09-05) [ref: gradient bg request chatId:`26524afb6b3a4d`]
+- prefers blue and yellow gradient backgrounds; 2× (since 2025-09-05) [refs: initial gradient bg request chatId:`26524afb6b3a4d`; darker classy gradient refinement chatId:`26524afb6b3a4d`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
 
 ### Emerging (recent behavioral shifts)
-- iteratively refines visuals, requesting angle, layout, color, and size adjustments; 20× (last: 2025-09-01) [refs: step-by-step refinement sequence chatId:`607d0969a2f34b`]
+- iteratively refines visuals, requesting angle, layout, color, and size adjustments; 20× (last: 2025-09-05) [refs: step-by-step refinement sequence chatId:`607d0969a2f34b`; gradient refinement chatId:`26524afb6b3a4d`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
