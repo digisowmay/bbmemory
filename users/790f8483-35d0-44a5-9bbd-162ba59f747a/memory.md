@@ -1,7 +1,7 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- uses concise imperative commands, often specifying output/data format; 22× [refs: ssh command chatId:`8eeb6391733040`; previous interactions; ssh command chatId:`212306697fbf4f`]
-- prefers direct execution without follow-up confirmation; 17× [refs: ssh command chatId:`8eeb6391733040`; prior server deployment instruction; ssh command chatId:`212306697fbf4f`]
+- uses concise imperative commands, often specifying output/data format; 23× [refs: ssh command chatId:`8eeb6391733040`; ETH price request chatId:`f52bcc69015a42`; previous interactions]
+- prefers direct execution without follow-up confirmation; 18× [refs: ssh command chatId:`8eeb6391733040`; ETH price request chatId:`f52bcc69015a42`; prior server deployment instruction]
 
 ### Emerging (new signals, 1-2 reinforcements)
 
@@ -22,3 +22,4 @@
 
 ### Emerging (new query patterns)
 - runs live server shell commands through platform; 3× (since 2025-09-05) [refs: ssh command executions chatId:`8eeb6391733040`; ssh command execution chatId:`212306697fbf4f`]
+- checks cryptocurrency prices, e.g., ETH; 1× (first: 2025-09-05) [ref: ETH price request chatId:`f52bcc69015a42`]
