@@ -5,7 +5,7 @@
 - corrects small details promptly (e.g., spelling of brand name); 5× [refs: name corrections chatId:`e3678f3674d145`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- provides iterative design feedback, requesting specific element changes (poche à douille, gâteau entier); 2× (last: 2025-09-05) [refs: design adjustment thread chatId:`e3678f3674d145`]
+- provides iterative design feedback, requesting specific element changes (poche à douille, gâteau entier, gâteau entier à changer); 3× (last: 2025-09-05) [refs: design adjustment thread chatId:`e3678f3674d145`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
