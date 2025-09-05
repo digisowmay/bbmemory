@@ -2,7 +2,7 @@
 ### Durable (established, 3+ reinforcements)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- prefers Arabic with emojis and friendly tone; provides structured scripts; 2× (last: 2025-09-05) [refs: script for Lolo episode chatId:`e4ee68fcf22046`]
+- prefers Arabic with emojis and friendly tone; 3× (last: 2025-09-05) [refs: script for Lolo episode; video request "ممكن تعملي فديو"; audio request "اعملي الصوت للحلقه الأولى" chatId:`e4ee68fcf22046`]
 - collaborative, asks if assistant wants further content and suggestions; 1× (first: 2025-09-05) [ref: offer to write second episode chatId:`e4ee68fcf22046`]
 
 ## Knowledge & Context
@@ -22,5 +22,5 @@
 ### Durable (regular platform activities)
 
 ### Emerging (new query patterns)
-- uses platform to schedule and automate publishing of content; 1× (since 2025-09-05) [ref: asked to schedule episode chatId:`e4ee68fcf22046`]
-- exploring video generation tools for the cat show; 1× (first: 2025-09-05) [ref: video request chatId:`e4ee68fcf22046`]
+- uses platform to schedule and automate publishing of content; 1× (since 2025-09-05) [ref: scheduling episode chatId:`e4ee68fcf22046`]
+- exploring video and TTS audio generation tools for the cat show; 2× (since 2025-09-05) [refs: video generation request; TTS audio generation request chatId:`e4ee68fcf22046`]
