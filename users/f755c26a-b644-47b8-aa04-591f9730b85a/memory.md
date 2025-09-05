@@ -5,6 +5,7 @@
 ### Emerging (new signals, 1-2 reinforcements)
 - prefers concise, task-focused instructions; 4× (last: 2025-09-05) [ref: stress test configuration conversations chatId:`2b72dfb697cd48`]
 - goal-oriented, seeks actionable next steps quickly; 4× (last: 2025-09-05) [ref: stress test scripts planning chatId:`2b72dfb697cd48`]
+- provides very detailed, structured prompts and expects strict script adherence; 2× (last: 2025-09-05) [ref: recruiter prompt sharing chatId:`2b72dfb697cd48`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -19,7 +20,7 @@
 -
 
 ### Emerging (recent behavioral shifts)
-- no new items
+- detail-oriented and compliance-focused, emphasizing rule-based methodology; 1× (observed: 2025-09-05) [ref: extensive structured prompt chatId:`2b72dfb697cd48`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
