@@ -4,7 +4,7 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - supplies very detailed descriptive prompts when seeking custom AI images; 2× (last: 2025-09-04) [refs: Egyptian goddess prompt chatId:`a4b9980927df47`]
-- specifies distinct modifications for each image index within a multi-image request; 1× (first: 2025-09-05) [ref: 4-image white hair/angry/happy/idol request chatId:`a4b9980927df47`]
+- specifies distinct modifications for each image index within a multi-image request; 2× (last: 2025-09-05) [refs: latest 5-image hair/expression/uniform/pose/eyes request chatId:`a4b9980927df47`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
