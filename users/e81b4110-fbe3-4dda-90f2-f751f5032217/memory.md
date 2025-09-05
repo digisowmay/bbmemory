@@ -3,8 +3,8 @@
 - prefiere comunicarse en español; 6× (stable since 2025-09-05) [refs: plano técnico de perno request; "Solo quiero que se vean los planos" chatId:`59b0ada511a247`; nueva solicitud de plano motoreductor chatId:`a36bfdbfd86343`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- pide detalles y precisión en dibujos técnicos; 5× (last: 2025-09-05) [refs: petición de cotas y vistas; plano AutoCAD limpio chatId:`59b0ada511a247`; solicitud de motoreductor chatId:`a36bfdbfd86343`; corrección hoja en blanco; cálculo chancadora y despiece chatId:`e8cf06411ad040`]
-- prefiere planos 2D limpios estilo AutoCAD sin elementos 3D; 3× (last: 2025-09-05) [refs: solicitud "Solo plano de construcción de ingeniería" chatId:`59b0ada511a247`; repetición motoreductor chatId:`a36bfdbfd86343`; despiece chancadora chatId:`e8cf06411ad040`]
+- pide detalles, precisión y estándares de presentación (alta resolución, cajetín A3) en dibujos técnicos; 6× (last: 2025-09-05) [refs: petición de cotas y vistas; mejora resolución y cajetín A3 chatId:`e8cf06411ad040`; plano AutoCAD limpio chatId:`59b0ada511a247`; solicitud motoreductor chatId:`a36bfdbfd86343`; despiece chancadora chatId:`e8cf06411ad040`]
+- prefiere planos 2D limpios estilo AutoCAD sin elementos 3D; 4× (last: 2025-09-05) [refs: solicitud "Solo plano de construcción de ingeniería" chatId:`59b0ada511a247`; repetición motoreductor chatId:`a36bfdbfd86343`; despiece chancadora chatId:`e8cf06411ad040`; mejora resolución chatId:`e8cf06411ad040`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
