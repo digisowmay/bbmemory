@@ -5,7 +5,7 @@
 ### Emerging (new signals, 1-2 reinforcements)
 - prefers WhatsApp/Telegram channels over email and likes Hindi-English mix responses; 1× (first: 2025-09-06) [ref: chatId:`22d2f71d239d45` messages about Indian customers not reading email and request for Hindi-English WhatsApp messages]
 - requests lowest-cost or free alternatives before committing; 1× (first: 2025-09-06) [ref: chatId:`22d2f71d239d45` "mostle free or mimum pay for test this"]
-- asks for step-by-step simple testing plans; 2× (last: 2025-09-06) [refs: chatId:`22d2f71d239d45` messages "take it simple first for testing"; "where i want to check that form working or not"]
+- asks for step-by-step simple testing plans; 3× (last: 2025-09-06) [refs: chatId:`22d2f71d239d45` messages "take it simple first for testing"; "where i want to check that form working or not"; Telegram API troubleshooting]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -20,10 +20,11 @@
 ### Emerging (recent behavioral shifts)
 - cost-conscious, prefers free/minimal-pay solutions for prototyping; 1× (observed: 2025-09-06) [ref: chatId:`22d2f71d239d45` message "mostle free or mimum pay for test"]
 - iterative test-first approach before scaling automation; 3× (since 2025-09-06) [refs: chatId:`22d2f71d239d45` pivot to manual testing; request for simple workflow; form testing plan]
+- hands-on API debugging; tests endpoints manually via browser; 1× (observed: 2025-09-06) [ref: chatId:`22d2f71d239d45` Telegram getUpdates 404 screenshot]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
 
 ### Emerging (new query patterns)
-- exploring WhatsApp integration options (ChatAPI, Twilio, Telegram) for no-code workflows; 2× (since 2025-09-06) [refs: chatId:`22d2f71d239d45` "WhatsApp Business API alternatives?"; requests for Telegram/ChatAPI guidance]
+- exploring WhatsApp/Telegram integration options (ChatAPI, Twilio, Telegram) for no-code workflows; 3× (since 2025-09-06) [refs: chatId:`22d2f71d239d45` "WhatsApp Business API alternatives?"; requests for Telegram guidance; Telegram API troubleshooting]
 - investigating Gemini API/LLM usage for lead qualification automation; 2× (since 2025-09-06) [refs: chatId:`22d2f71d239d45` messages about GAmini api llm]
