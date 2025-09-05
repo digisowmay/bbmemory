@@ -19,7 +19,7 @@
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
-- requests commodity and crypto price analysis (gold, silver, bitcoin) regularly; 5× (promoted from emerging) (last: 2025-09-04) [refs: gold coin price request chatId:`41f3236204854e`; gold price request chatId:`3845323573134b`; gold price request chatId:`4efaf09a423047`; silver price request chatId:`4efaf09a423047`; bitcoin price request chatId:`4efaf09a423047`]
+- requests commodity and crypto price analysis (gold, silver, bitcoin) regularly; 6× (last: 2025-09-06) [refs: morning price check routine; market analysis discussion; portfolio review with advisor; gold coin price request chatId:`41f3236204854e`; gold price request chatId:`3845323573134b`; current gold coin price discussion chatId:`2bd1fbdf156948`]
 
 ### Emerging (new query patterns)
 - requests UX/UI improvement advice for Bhindi platform; 1× (since 2025-09-02) [ref: UX improvement request chatId:`ba2d44bb613f40`]
