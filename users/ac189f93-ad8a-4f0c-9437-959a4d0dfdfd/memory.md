@@ -3,7 +3,7 @@
 - openly shares personal struggles and seeks guidance; 3× (promoted from emerging) [refs: job frustration discussion; resume review chatId:`f7394a6a20b441`; job board exhaustion chatId:`f7394a6a20b441`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- uses informal, friendly language ("bro"); 4× (last: 2025-09-05) [refs: job frustration discussion; resume review chatId:`f7394a6a20b441`; job board exhaustion chatId:`f7394a6a20b441`; OA query chatId:`cdf4bb52a91644`]
+- uses informal, friendly language ("bro"); 5× (last: 2025-09-05) [refs: job frustration discussion; resume review chatId:`f7394a6a20b441`; job board exhaustion chatId:`f7394a6a20b441`; OA query chatId:`cdf4bb52a91644`; casual greeting chatId:`1ec4d94609534c`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
