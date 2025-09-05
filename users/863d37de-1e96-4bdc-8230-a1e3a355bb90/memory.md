@@ -29,4 +29,4 @@
 ### Emerging (new query patterns)
 - asks about n8n workflows; 9× (since 2025-09-04) [refs: n8n workflow request chatId:`662655ca620f4e`; n8n tools trial chatId:`e1b27463830d43`]
 - requests code visualization (mermaid diagrams); 2× (last: 2025-09-05) [refs: mermaid diagram requests chatId:`c49ec49f168e44`]
-- initiates Bolna voice calls; agent call function; 1× (first: 2025-09-05) [ref: voice call request chatId:`9c2cbd9de44647`]
+- initiates Bolna voice calls; agent call function; 2× (last: 2025-09-05) [refs: voice call request chatId:`9c2cbd9de44647`; call initiation chatId:`9c2cbd9de44647`]
