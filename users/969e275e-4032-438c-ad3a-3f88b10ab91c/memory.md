@@ -1,9 +1,9 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- prefers concise, direct questions with minimal context; 8× (stable since 2025-08-31) [refs: asked "Which is best for me?" chatId:`6994fff183bf4d`; asked "What is yolo"; screenshot instructions; Gujarat news request chatId:`72d2ea4881464e`; career guidance question chatId:`6994fff183bf4d`; QA salary inquiry chatId:`6994fff183bf4d`; future QA scope question chatId:`6994fff183bf4d`]
+- prefers concise, direct questions with minimal context; 8× (stable since 2025-08-31) [refs: asked "Which is best for me?" chatId:`6994fff183bf4d`; asked "What is yolo"; Gujarat news request chatId:`72d2ea4881464e`; career guidance question chatId:`6994fff183bf4d`; QA salary inquiry chatId:`6994fff183bf4d`; future QA scope question chatId:`6994fff183bf4d`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- asks for structured, step-by-step learning plans and formal reports; 4× (last: 2025-09-02) [refs: 6-month data analytics plan chatId:`a3e427fd350243`; daily lesson plan request chatId:`a3e427fd350243`; QA report request chatId:`a40fdaee95e545`]
+- asks for structured, step-by-step learning plans, example answers, and formal reports; 5× (last: 2025-09-05) [refs: 6-month data analytics plan chatId:`a3e427fd350243`; daily lesson plan request chatId:`a3e427fd350243`; QA report request chatId:`a40fdaee95e545`; Day 1 lesson & assignment answers chatId:`a40fdaee95e545`]
 - seeks immediate actionable assistance (e.g., bug finding); 5× (last: 2025-09-02) [refs: website bug testing request chatId:`a40fdaee95e545`; Bhindi.io bug check chatId:`a40fdaee95e545`]
 
 ## Knowledge & Context
@@ -19,7 +19,7 @@
 
 ### Emerging (recent behavioral shifts)
 - action-oriented, prefers practical demonstrations (testing, scheduling); 5× (last: 2025-09-02) [refs: trip scheduling; QA bug testing request chatId:`a40fdaee95e545`; daily lesson plan request chatId:`a3e427fd350243`; Bhindi.io bug check chatId:`a40fdaee95e545`; QA report request chatId:`a40fdaee95e545`]
-- prefers structured roadmaps and documentation; 3× (since 2025-09-01) [refs: 6-month roadmap chatId:`a3e427fd350243`; QA learning path request chatId:`a40fdaee95e545`; QA report request chatId:`a40fdaee95e545`]
+- prefers structured roadmaps, documentation, and example solutions; 4× (since 2025-09-01) [refs: 6-month roadmap chatId:`a3e427fd350243`; QA learning path request chatId:`a40fdaee95e545`; Day 1 lesson & answers chatId:`a40fdaee95e545`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
