@@ -3,8 +3,8 @@
 - gives concise, direct task instructions for graphics/image generation; 20× (stable since 2025-09-01) [refs: successive gradient & mockup requests chatId:`607d0969a2f34b`; abstract gradient request chatId:`26524afb6b3a4d`; latest professional gradient refinement chatId:`26524afb6b3a4d`]
 
 ### Emerging (new signals, 1-2 reinforcements)
+- provides detailed multi-slide presentation design briefs; 2× (last: 2025-09-05) [refs: Brand Avenue slide deck specification chatId:`bb76382088cd48`; competitive advantage table request chatId:`bb76382088cd48`]
 - requests text-free/minimalist visuals; 8× (last: 2025-09-05) [refs: "i dont want text" request chatId:`607d0969a2f34b`; abstract gradient refinement chatId:`26524afb6b3a4d`]
-- provides detailed multi-slide presentation design briefs; 1× (first: 2025-09-05) [ref: Brand Avenue slide deck specification chatId:`bb76382088cd48`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -24,4 +24,4 @@
 
 ### Emerging (new query patterns)
 - frequently uses platform to generate 3D graphic assets/mockups; 24× (since 2025-09-01) [refs: repeated image generation calls chatId:`26524afb6b3a4d`]
-- exploring AI-generated presentation slide creation; 2× (since 2025-09-05) [refs: Brand Avenue slide deck generation and gradient deck background chatId:`26524afb6b3a4d`]
+- exploring AI-generated presentation slide creation; 3× (since 2025-09-05) [refs: Brand Avenue slide deck generation chatId:`bb76382088cd48`; competitive advantage table request chatId:`bb76382088cd48`]
