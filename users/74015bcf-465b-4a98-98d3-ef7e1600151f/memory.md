@@ -1,9 +1,9 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- (no durable patterns recorded yet)
+- provides precise instructions for image edits; 8× (promoted from emerging) [refs: face swap request chatId:`22f3f6abe5c943`; wedding guest removal request chatId:`2e4143b6aed546`; headshot request chatId:`e028fd46791f40`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- provides precise instructions for image edits; 7× (last: 2025-09-05) [refs: face swap request chatId:`3f09ddb8d84c47`; wedding guest removal request chatId:`2e4143b6aed546`; image headshot request chatId:`e028fd46791f40`; hair color request chatId:`c49bb187663544`; image background removal chatId:`84178ca5429649`; diploma hold edits chatId:`8e7639ff5c7342`]
+- (none)
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -17,11 +17,11 @@
 - (no durable patterns recorded yet)
 
 ### Emerging (recent behavioral shifts)
-- visually oriented; seeks AI photo transformations; 7× (since 2025-09-03) [refs: face swap request chatId:`3f09ddb8d84c47`; wedding guest removal request chatId:`2e4143b6aed546`; headshot request chatId:`e028fd46791f40`; hair color request chatId:`c49bb187663544`; image background removal chatId:`84178ca5429649`; diploma hold edits chatId:`8e7639ff5c7342`]
+- visually oriented; seeks AI photo transformations; 8× (last: 2025-09-05) [refs: face swap request chatId:`22f3f6abe5c943`; wedding guest removal request chatId:`2e4143b6aed546`; headshot request chatId:`e028fd46791f40`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
 - (no durable usage patterns recorded yet)
 
 ### Emerging (new query patterns)
-- exploring AI image editing tools for headshot transformation; 7× (since 2025-09-03) [refs: face swap request chatId:`3f09ddb8d84c47`; wedding guest removal request chatId:`2e4143b6aed546`; headshot request chatId:`e028fd46791f40`; hair color request chatId:`c49bb187663544`; image background removal chatId:`84178ca5429649`; diploma hold edits chatId:`8e7639ff5c7342`]
+- exploring AI image editing tools for headshot transformation; 8× (since 2025-09-03) [refs: face swap request chatId:`22f3f6abe5c943`; wedding guest removal request chatId:`2e4143b6aed546`; headshot request chatId:`e028fd46791f40`]
