@@ -5,11 +5,11 @@
 ### Emerging (new signals, 1-2 reinforcements)
 - requests outputs without code formatting, prefers normal text presentation; 1× (first: 2025-09-05) [ref: vendor evaluation format clarification chatId:`646cb01cd1ba49`]
 - provides iterative design feedback and expects quick visual revisions during creative tasks; 1× (last: 2025-09-05) [ref: bus branding design iterations chatId:`646cb01cd1ba49`]
-- prefers concise carousel slide copy with short heading and description; 1× (first: 2025-09-05) [ref: carousel content request chatId:`421187642d774f`]
+- prefers concise carousel slide copy with short heading and description; 2× (last: 2025-09-05) [refs: carousel content requests chatId:`421187642d774f`; second carousel refinement chatId:`421187642d774f`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
--
+- 
 
 ### Emerging (recent learning, current focus)
 - investigating user analytics (CTR, feature usage) to guide Bhindi UX improvements; 2× (since 2025-09-05) [refs: UX research data request chatId:`646cb01cd1ba49`; CTR metrics discussion chatId:`646cb01cd1ba49`]
@@ -25,9 +25,9 @@
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
--
+- 
 
 ### Emerging (new query patterns)
 - frequently asks for UX research methodologies, user analytics, and data requirements; 2× (since 2025-09-05) [refs: research plan request chatId:`646cb01cd1ba49`; data analysis list chatId:`646cb01cd1ba49`]
 - uses image generation for branding/marketing visuals with iterative feedback; 1× (first: 2025-09-05) [ref: bus branding generation chatId:`646cb01cd1ba49`]
-- exploring video capabilities on the platform (upload, generation, analysis); 1× (first: 2025-09-05) [ref: video upload capability inquiry chatId:`421187642d774f`]
+- exploring video capabilities on the platform (upload, generation, analysis); 2× (since 2025-09-05) [refs: video upload capability inquiry chatId:`421187642d774f`; video generation/analysis discussion chatId:`421187642d774f`]
