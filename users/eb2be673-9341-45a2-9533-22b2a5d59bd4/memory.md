@@ -23,3 +23,4 @@
 
 ### Emerging (new query patterns)
 - uses platform to schedule and automate publishing of content; 1× (since 2025-09-05) [ref: asked to schedule episode chatId:`e4ee68fcf22046`]
+- exploring video generation tools for the cat show; 1× (first: 2025-09-05) [ref: video request chatId:`e4ee68fcf22046`]
