@@ -2,21 +2,22 @@
 ### Durable (established, 3+ reinforcements)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- gives very brief feedback (e.g., "nope") and indicates preferences succinctly; 1× (first: 2025-09-05) [ref: LinkedIn post revision request chatId:`d03a9e92cfb741`]
+- uses very brief commands/feedback (e.g., "nope", "RESUME"); 1× (first: 2025-09-05) [ref: LinkedIn post interaction chatId:`d03a9e92cfb741`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
 
 ### Emerging (recent learning, current focus)
+- interested in creating LinkedIn posts on Indian agriculture scams; 1× (started: 2025-09-05) [ref: LinkedIn post request chatId:`d03a9e92cfb741`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
 
 ### Emerging (recent behavioral shifts)
-- prefers content drafts with a clearly professional tone; 1× (first: 2025-09-05) [ref: response "Something more personal or professional?" chatId:`d03a9e92cfb741`]
+- iterative feedback approach: requests changes with minimal detail; 1× (observed: 2025-09-05) [ref: LinkedIn post revision conversation chatId:`d03a9e92cfb741`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
 
 ### Emerging (new query patterns)
-- requests assistance drafting LinkedIn posts; 1× (first: 2025-09-05) [ref: LinkedIn post request chatId:`d03a9e92cfb741`]
+- requests content creation (LinkedIn posts) via platform; 1× (since 2025-09-05) [ref: LinkedIn post request chatId:`d03a9e92cfb741`]
