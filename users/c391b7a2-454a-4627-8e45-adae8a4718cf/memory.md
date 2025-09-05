@@ -2,17 +2,17 @@
 ### Durable (established, 3+ reinforcements)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- issues concise, command-style requests for operational actions (e.g., "whats is my calendar today", "send a hi on discord"); 3× (last: 2025-09-05) [refs: calendar request chatId:`8c878adc190646`; discord message instruction chatId:`c318765c11a54b`; discord bot account query chatId:`c318765c11a54b`]
+- issues concise, command-style requests for operational actions (e.g., "whats is my calendar today", "send a hi on discord", "share me the loc of orange and dr lal"); 4× (last: 2025-09-05) [refs: calendar request chatId:`8c878adc190646`; discord message instruction chatId:`c318765c11a54b`; discord bot account query chatId:`c318765c11a54b`; diagnostic center location request chatId:`9eea28491b7943`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
 
 ### Emerging (recent learning, current focus)
-- located in/around Koramangala, Bangalore; searching for local healthcare services; 1× (first: 2025-09-05) [ref: diagnostic center query chatId:`9eea28491b7943`]
+- located in/around Koramangala, Bangalore; searching for local healthcare services; 2× (since 2025-09-05) [refs: diagnostic center query chatId:`9eea28491b7943`; location clarification chatId:`9eea28491b7943`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
-- delegates operational tasks (inbox scans, internal messaging, calendar checks, sending messages) via Bhindi commands and agents; 6× (promoted from emerging) [refs: email flight check chatId:`57bce6e23c6240`; internal hosting query chatId:`2c25a2fbe09d46`; calendar calls check chatId:`57416dc0a0794a`; calendar request chatId:`8c878adc190646`; discord message instruction chatId:`c318765c11a54b`]
+- delegates operational tasks (inbox scans, internal messaging, calendar checks, sending messages) via Bhindi commands and agents; 6× [refs: email flight check chatId:`57bce6e23c6240`; internal hosting query chatId:`2c25a2fbe09d46`; calendar calls check chatId:`57416dc0a0794a`; calendar request chatId:`8c878adc190646`; discord message instruction chatId:`c318765c11a54b`]
 
 ### Emerging (recent behavioral shifts)
 
@@ -20,4 +20,4 @@
 ### Durable (regular platform activities)
 
 ### Emerging (new query patterns)
-- seeking local healthcare and diagnostic recommendations; affordable options; 1× (first: 2025-09-05) [ref: diagnostic center query chatId:`9eea28491b7943`]
+- seeking local healthcare and diagnostic recommendations; affordable options; 2× (last: 2025-09-05) [refs: diagnostic center query chatId:`9eea28491b7943`; location request chatId:`9eea28491b7943`]
