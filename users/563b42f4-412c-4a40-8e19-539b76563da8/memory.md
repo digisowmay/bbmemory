@@ -4,13 +4,15 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - supplies very detailed descriptive prompts when seeking custom AI images; 2× (last: 2025-09-04) [refs: Egyptian goddess prompt chatId:`a4b9980927df47`]
+- specifies distinct modifications for each image index within a multi-image request; 1× (first: 2025-09-05) [ref: 4-image white hair/angry/happy/idol request chatId:`a4b9980927df47`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
 - regularly experiments with AI-based image editing (Nano Banana) for color variants, anime style and sensual content; 8× [refs: repeated Nano Banana requests chatId:`a4b9980927df47`]
+- frequently requests multiple facial expression variations in anime characters; 5× (promoted from emerging) [refs: several 3- and 4-expression requests including latest blue uniform/expressions chatId:`a4b9980927df47`]
 
 ### Emerging (recent learning, current focus)
-- interested in creating multiple facial expression variations in anime characters; 4× (last: 2025-09-04) [refs: 4-expression requests; Egyptian goddess expression variations; blonde girl expressions chatId:`a4b9980927df47`]
+- (none currently)
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
