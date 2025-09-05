@@ -1,24 +1,24 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- concise imperative instructions; 6× (promoted from emerging, last: 2025-09-05) [refs: chatId:`22d2f71d239d45` messages "make some thing for travel agnecy"; "RESUME"; "Build the form"; "Create Make.com workflows"; "give me make.com flow in json"; "make.com give error for imorting jason"]
+- concise imperative instructions; 6× (stable since 2025-09-05) [refs: chatId:`22d2f71d239d45` messages "make some thing for travel agnecy"; "RESUME"; "Build the form"; "Create Make.com workflows"; "give me make.com flow in json"; "make.com give error for imorting jason"]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- requests raw/importable assets (JSON, templates) over descriptive guidance; 2× (since 2025-09-05) [refs: chatId:`22d2f71d239d45` messages "give me make.com flow in json"; "make.com give error for imorting jason"]
+- requests fallback/alternative solutions when initial method fails; 2× (last: 2025-09-06) [refs: chatId:`22d2f71d239d45` messages "make.com give error for imorting jason"; "WhatsApp Business API alternatives?"]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
 
 ### Emerging (recent learning, current focus)
-- building Make.com workflows with JSON import for lead qualification; 2× (since 2025-09-05) [refs: chatId:`22d2f71d239d45` messages "give me make.com flow in json"; "make.com give error for imorting jason"]
+- building lead qualification system for Indian travel agency with WhatsApp-first communication; 2× (since 2025-09-06) [refs: chatId:`22d2f71d239d45` discussion on Indian customer profile; request for form with Indian preferences]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
 
 ### Emerging (recent behavioral shifts)
-- prefers ready-to-use, executable artifacts over conceptual explanations; 2× (since 2025-09-05) [refs: chatId:`22d2f71d239d45` messages "give me make.com flow in json"; "make.com give error for imorting jason"]
+- prefers actionable, ready-to-implement steps but adapts to manual instructions when automation unavailable; 2× (since 2025-09-06) [refs: chatId:`22d2f71d239d45` pivot from JSON import to manual Make.com setup]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
 
 ### Emerging (new query patterns)
-- requests detailed Make.com scenario JSONs for direct import; 2× (since 2025-09-05) [refs: chatId:`22d2f71d239d45` messages "give me make.com flow in json"; "make.com give error for imorting jason"]
+- exploring WhatsApp integration options (ChatAPI, Twilio) for no-code workflows; 1× (first: 2025-09-06) [ref: chatId:`22d2f71d239d45` "WhatsApp Business API alternatives?"]
