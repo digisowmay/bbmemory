@@ -3,8 +3,7 @@
 - prefers concise, direct questions with minimal context; 8× (stable since 2025-08-31) [refs: asked "Which is best for me?" chatId:`6994fff183bf4d`; asked "What is yolo"; Gujarat news request chatId:`72d2ea4881464e`; career guidance question chatId:`6994fff183bf4d`; QA salary inquiry chatId:`6994fff183bf4d`; future QA scope question chatId:`6994fff183bf4d`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- asks for structured, step-by-step learning plans, example answers, and formal reports; 5× (last: 2025-09-05) [refs: 6-month data analytics plan chatId:`a3e427fd350243`; daily lesson plan request chatId:`a3e427fd350243`; QA report request chatId:`a40fdaee95e545`; Day 1 lesson & assignment answers chatId:`a40fdaee95e545`]
-- seeks immediate actionable assistance (e.g., bug finding); 5× (last: 2025-09-02) [refs: website bug testing request chatId:`a40fdaee95e545`; Bhindi.io bug check chatId:`a40fdaee95e545`]
+- asks for structured, step-by-step learning plans, example answers, and formal reports; 6× (last: 2025-09-05) [refs: 6-month data analytics plan chatId:`a3e427fd350243`; daily lesson plan request chatId:`a3e427fd350243`; QA report request chatId:`a40fdaee95e545`; Day 1 & 2 lesson & assignment answers chatId:`a40fdaee95e545`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
