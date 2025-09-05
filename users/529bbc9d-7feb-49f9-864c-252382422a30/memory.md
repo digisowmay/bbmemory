@@ -3,6 +3,7 @@
 - gives concise, directive prompts focusing on desired output ("make 2 different variation ..."); 5× [refs: image variation requests chatId:`29c70b311b5c4a`; clothing imaginations request chatId:`e31f85fc19634e`]
 ### Emerging (new signals, 1-2 reinforcements)
 - specifies technical details like camera angle, pose, background ("camera: wide frame", "green screen"); 2× (last: 2025-09-05) [refs: green-screen variation requests chatId:`29c70b311b5c4a`]
+- requests borderline NSFW content but accepts policy-compliant alternatives; 1× (first: 2025-09-05) [ref: NSFW adjustment discussion chatId:`29c70b311b5c4a`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -14,7 +15,7 @@
 ### Durable (core thinking patterns)
 - result-oriented, iterative approach (asks for multiple variations to refine visuals); 3× [refs: repeated variation requests chatId:`29c70b311b5c4a`]
 ### Emerging (recent behavioral shifts)
-- balances artistic tastefulness with brand guidelines (accepted suggestion to keep pose tasteful); 1× (observed: 2025-09-05) [ref: NSFW request adjustment chatId:`29c70b311b5c4a`]
+- balances artistic tastefulness with brand guidelines; 2× (last: 2025-09-05) [refs: NSFW request adjustment chatId:`29c70b311b5c4a`; hands-covering-chest variation chatId:`29c70b311b5c4a`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
