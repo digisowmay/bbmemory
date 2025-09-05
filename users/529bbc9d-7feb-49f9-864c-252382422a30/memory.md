@@ -1,1 +1,23 @@
-- current project: brand integration for a startup swimsuit brand; 1× (started: 2025-09-05) [ref: brand integration discussion chatId:`e31f85fc19634e`]
+## Communication Patterns
+### Durable (established, 3+ reinforcements)
+- gives concise, directive prompts focusing on desired output ("make 2 different variation ..."); 4× [refs: image variation requests chatId:`29c70b311b5c4a`]
+### Emerging (new signals, 1-2 reinforcements)
+- specifies technical details like camera angle, pose, background ("camera: wide frame", "green screen"); 2× (last: 2025-09-05) [refs: green-screen variation requests chatId:`29c70b311b5c4a`]
+
+## Knowledge & Context
+### Durable (core expertise, established over time)
+- working on brand integration for a startup swimsuit brand; 2× (since 2025-09-05) [refs: brand integration discussion chatId:`e31f85fc19634e`; bikini art variations chatId:`29c70b311b5c4a`]
+### Emerging (recent learning, current focus)
+- needs front and back green-screen swimsuit images for marketing creatives; 1× (started: 2025-09-05) [ref: bikini variation requests chatId:`29c70b311b5c4a`]
+
+## Thinking & Working Style
+### Durable (core thinking patterns)
+- result-oriented, iterative approach (asks for multiple variations to refine visuals); 3× [refs: repeated variation requests chatId:`29c70b311b5c4a`]
+### Emerging (recent behavioral shifts)
+- balances artistic tastefulness with brand guidelines (accepted suggestion to keep pose tasteful); 1× (observed: 2025-09-05) [ref: NSFW request adjustment chatId:`29c70b311b5c4a`]
+
+## Platform Usage & Queries
+### Durable (regular platform activities)
+- frequently uses AI image editing for fashion/swimwear content; 3× [refs: multiple image edit calls chatId:`29c70b311b5c4a`]
+### Emerging (new query patterns)
+- requests specific technical specs (wide frame, green screen) for generated images; 2× (since 2025-09-05) [refs: image generation specs chatId:`29c70b311b5c4a`]
