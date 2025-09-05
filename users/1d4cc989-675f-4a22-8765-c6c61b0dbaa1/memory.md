@@ -3,6 +3,7 @@
 - provides raw JSON snippets and screenshots when requesting technical help; 7× (stable since 2025-09-04) [refs: n8n error troubleshooting chatId:`f7b944c87b8849`; n8n workflow duplication chatId:`f5b605e0eb5544`; current workflow fix chatId:`f5b605e0eb5544`; build query issue chatId:`f5b605e0eb5544`]
 
 ### Emerging (new signals, 1-2 reinforcements)
+- occasionally pastes full workflow JSON into Code node causing syntax errors; needs explicit "paste code only" guidance; 1× (first: 2025-09-05) [ref: build query syntax error chatId:`f5b605e0eb5544`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
