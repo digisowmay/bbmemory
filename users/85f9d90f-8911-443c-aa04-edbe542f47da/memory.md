@@ -1,16 +1,16 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
--
+- tends to communicate in French for creative requests; 4× (stable since 2025-09-05) [ref: logo design conversation chatId:`e3678f3674d145`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- tends to communicate in French for creative requests; 4× (last: 2025-09-05) [ref: logo design conversation chatId:`e3678f3674d145`]
+- corrects small details promptly (e.g., spelling of brand name); 1× (first: 2025-09-05) [ref: logo name correction chatId:`e3678f3674d145`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
--
+- runs a cake/bakery business; 3× (promoted from emerging) [ref: multiple logo design requests chatId:`e3678f3674d145`]
 
 ### Emerging (recent learning, current focus)
-- runs a cake/bakery business; 3× (since 2025-09-05) [ref: logo design conversation chatId:`e3678f3674d145`]
+- bakery brand name is “Ikram Mosbah”; 1× (since 2025-09-05) [ref: logo name correction chatId:`e3678f3674d145`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
