@@ -1,28 +1,3 @@
-## Communication Patterns
-### Durable (established, 3+ reinforcements)
-- uses very short, direct lowercase commands; 30× (stable since 2025-09-02) [refs: iterative hairstyle and beard requests chatId:`490292662eb74c`; protein deficiency fact-check request chatId:`d5f7f1378e5c4d`; subs manager delegation chatId:`cf59bcae924846`]
-
-### Emerging (new signals, 1-2 reinforcements)
-- requests quick iterative revisions in single-sentence prompts; 5× (last: 2025-09-04) [refs: perm prominence and jawline enhancement chatId:`490292662eb74c`; one-line answer request chatId:`d5f7f1378e5c4d`; notification copy refinement chatId:`748df2f4af554a`; prompt iteration chatId:`c6d27d687dac40`; credit message refinement chatId:`23a06552fa3143`]
-
-## Knowledge & Context
-### Durable (core expertise, established over time)
-
-### Emerging (recent learning, current focus)
-- working on bhindi app ux/copywriting (including notification copy); 3× (since 2025-09-04) [refs: notification copy request chatId:`c6d27d687dac40`; iterative copy refinement discussion chatId:`748df2f4af554a`; credit message refinement chatId:`23a06552fa3143`]
-
 ## Thinking & Working Style
-### Durable (core thinking patterns)
-
 ### Emerging (recent behavioral shifts)
-- iterative refinement approach; asks for incremental changes until satisfied (visual edits and copywriting); 3× (since 2025-09-03) [refs: successive perms/beard/jawline edits chatId:`490292662eb74c`; notification copy iteration chatId:`748df2f4af554a`; echo channel control chatId:`1c4d2e575d3548`]
-- delegates operational tasks to system agents for automated handling; 4× (since 2025-09-04) [refs: subs manager delegation chatId:`cf59bcae924846`; subscription addition verification chatId:`075c03ab394e44`; standing automation rule chatId:`075c03ab394e44`; echo channel control chatId:`1c4d2e575d3548`]
-
-## Platform Usage & Queries
-### Durable (regular platform activities)
-- requests AI image edits for personal appearance; 8× [refs: latest perm, beard, jawline edits chatId:`490292662eb74c`]
-
-### Emerging (new query patterns)
-- exploring AI security/prompt injection techniques; 4× (since 2025-09-04) [refs: prompt injection tweet discussion chatId:`22e6b0d727ae4f`; hidden instructions request chatId:`a6ba1332e63f49`; sandbox prompt exploration chatId:`748df2f4af554a`; security discussion chatId:`5e44dc1572554b`]
-- automates subscription plan management via bhindi subs manager; 3× (since 2025-09-04) [refs: delegation instruction chatId:`cf59bcae924846`; subscription addition chatId:`075c03ab394e44`; standing automation rule chatId:`075c03ab394e44`]
-- asking about bhindi credit system; usage, credit distribution; 3× (since 2025-09-04) [refs: credit distribution question chatId:`5e44dc1572554b`; follow-up request chatId:`5e44dc1572554b`; credit accuracy confirmation chatId:`23a06552fa3143`]
+- delegates operational tasks to system agents for automated handling; 5× (since 2025-09-04) [refs: subs manager delegation chatId:`cf59bcae924846`; subscription addition verification chatId:`075c03ab394e44`; standing automation rule chatId:`075c03ab394e44`; echo channel control chatId:`1c4d2e575d3548`; water reminder request chatId:`407648c3c0fe44`]
