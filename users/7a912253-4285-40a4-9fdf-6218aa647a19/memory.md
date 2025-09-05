@@ -1,31 +1,27 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- 
+-
 
 ### Emerging (new signals, 1-2 reinforcements)
-- Uses colon-prefixed single-word commands (": RESUME", ": CONFIRM") for quick actions; 2× (last: 2025-09-03) [refs: chatId:`7630da4f771f45`]
-- Requests detailed workflow transparency and logs before trusting system; 1× (first: 2025-09-03) [refs: chatId:`7630da4f771f45`]
+- Uses uppercase/emphatic messages when expectations are not met ("I DIDNT GOT ALERT TODAY WHY"); 1× (first: 2025-09-05) [ref: chatId:`265d1916fbf744`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
 -
 
 ### Emerging (recent learning, current focus)
-- Focused on Solana meme coin trading and automated monitoring setup; 2× (since 2025-09-03) [refs: chatId:`7630da4f771f45`]
-- Uses Telegram bot for real-time trading alerts; 1× (started: 2025-09-03) [refs: chatId:`7630da4f771f45`]
+- Wants more frequent Solana meme coin monitoring alerts; 1× (first: 2025-09-05) [ref: chatId:`265d1916fbf744`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
 -
 
 ### Emerging (recent behavioral shifts)
-- Seeks verification and confirmation (system tests, logs) before trusting automation; 2× (since 2025-09-03) [refs: chatId:`7630da4f771f45`]
-- Prefers automated solutions but validates manually first; 1× (observed: 2025-09-03) [refs: chatId:`7630da4f771f45`]
+- Prioritizes reliability of automated tasks; quickly flags missed executions; 2× (since 2025-09-03, last: 2025-09-05) [refs: chatId:`7630da4f771f45`; chatId:`265d1916fbf744`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
 -
 
 ### Emerging (new query patterns)
-- Interacts with Telegram bot integration for alerts; 2× (since 2025-09-03) [refs: chatId:`7630da4f771f45`]
-- Frequently asks about crypto monitoring workflows and automation; 2× (since 2025-09-03) [refs: chatId:`7630da4f771f45`]
+- Requests adjustments to task schedules (frequency changes) for monitoring workflows; 1× (first: 2025-09-05) [ref: chatId:`265d1916fbf744`]
