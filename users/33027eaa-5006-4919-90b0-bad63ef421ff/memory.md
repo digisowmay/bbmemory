@@ -1,6 +1,6 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- gives concise directives for image editing, provides URLs; 5× (stable since 2025-09-05) [refs: image manipulation requests chatId:`f855ee89df1245`; face authenticity correction chatId:`f855ee89df1245`; boy face fix request chatId:`37be1c14c77e4a`; repeat hugging request chatId:`f855ee89df1245`; new pose change request chatId:`f855ee89df1245`]
+- gives concise directives for image editing, provides URLs; 6× (stable since 2025-09-05) [refs: image manipulation requests chatId:`f855ee89df1245`; face authenticity correction chatId:`f855ee89df1245`; boy face fix request chatId:`37be1c14c77e4a`; repeat hugging request chatId:`f855ee89df1245`; new pose change request chatId:`f855ee89df1245`; wedding combine request chatId:`9e866f14aae247`]
 
 ### Emerging (new signals, 1-2 reinforcements)
 - requests corrections when output deviates (e.g., specifies keeping original face); 3× (last: 2025-09-05) [refs: face authenticity correction chatId:`f855ee89df1245`; reiterated face change concern chatId:`f855ee89df1245`; pose change request chatId:`f855ee89df1245`]
