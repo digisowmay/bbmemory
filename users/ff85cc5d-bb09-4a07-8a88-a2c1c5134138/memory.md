@@ -1,12 +1,11 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- _No notable durable patterns yet_
+- uses concise, imperative commands for requests; 5× (since 2025-09-03) [refs: email retrieval request; weather request chatId:`4b992218b9574b`; news search chatId:`d14a97723c0142`; email drafting request chatId:`d14a97723c0142`; email count request chatId:`d14a97723c0142`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- uses concise, imperative commands for requests; 5× (since 2025-09-03) [refs: email retrieval request; weather request chatId:`4b992218b9574b`; news search chatId:`d14a97723c0142`; email drafting request chatId:`d14a97723c0142`; email count request chatId:`d14a97723c0142`]
-- allows assistant to decide details when drafting emails; 2× (last: 2025-09-05) [refs: email drafting conversation chatId:`d14a97723c0142`; random subject acceptance chatId:`d14a97723c0142`]
-- requests detailed information about underlying tools and schemas; 2× (last: 2025-09-05) [ref: tool details requests chatId:`d14a97723c0142`]
-- uses casual informal slang ("bro") in responses; 1× (observed: 2025-09-05) [ref: email count correction chatId:`d14a97723c0142`]
+- allows assistant to decide details (e.g., subject/content) when drafting emails; 2× (last: 2025-09-05) [refs: email drafting conversation chatId:`d14a97723c0142`; random subject acceptance chatId:`d14a97723c0142`]
+- requests detailed information about underlying tools and schemas; 2× (last: 2025-09-05) [refs: tool description requests chatId:`d14a97723c0142`]
+- uses casual slang like "bro" in conversation; 1× (first: 2025-09-05) [ref: chatId:`d14a97723c0142`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -20,7 +19,7 @@
 - _No notable durable thinking patterns yet_
 
 ### Emerging (recent behavioral shifts)
-- corrects assistant when information seems inaccurate; values accurate data; 2× (last: 2025-09-05) [ref: email count corrections chatId:`d14a97723c0142`]
+- corrects the assistant when information seems inaccurate; values accurate data; 2× (last: 2025-09-05) [refs: email count correction chatId:`d14a97723c0142`; total emails correction chatId:`d14a97723c0142`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
