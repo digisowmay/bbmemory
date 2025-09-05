@@ -5,8 +5,8 @@
 ### Emerging (new signals, 1-2 reinforcements)
 - requests outputs without code formatting, prefers normal text presentation; 1× (first: 2025-09-05) [ref: vendor evaluation format clarification chatId:`646cb01cd1ba49`]
 - provides iterative design feedback and expects quick visual revisions during creative tasks; 1× (last: 2025-09-05) [ref: bus branding design iterations chatId:`646cb01cd1ba49`]
-- prefers concise carousel slide copy with short heading and description; 2× (last: 2025-09-05) [refs: carousel content requests chatId:`421187642d774f`; second carousel refinement chatId:`421187642d774f`]
-- likes mild dry humor tone in marketing copy; 1× (first: 2025-09-05) [ref: carousel humor adjustment chatId:`421187642d774f`]
+- prefers concise carousel slide copy with short heading and description; 3× (last: 2025-09-05) [refs: initial carousel content requests chatId:`421187642d774f`; second carousel refinement chatId:`421187642d774f`; toned-down wit request chatId:`421187642d774f`]
+- likes mild dry humor tone in marketing copy, but asks to keep it balanced; 2× (last: 2025-09-05) [refs: carousel humor adjustment chatId:`421187642d774f`; toned-down wit request chatId:`421187642d774f`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
