@@ -3,6 +3,7 @@
 - gives concise, directive prompts focusing on desired output ("make 2 different variation ..."); 4× [refs: image variation requests chatId:`29c70b311b5c4a`]
 ### Emerging (new signals, 1-2 reinforcements)
 - specifies technical details like camera angle, pose, background ("camera: wide frame", "green screen"); 2× (last: 2025-09-05) [refs: green-screen variation requests chatId:`29c70b311b5c4a`]
+- pushes for NSFW or partial-nudity content despite refusals; 2× (last: 2025-09-05) [refs: NSFW and topless requests chatId:`29c70b311b5c4a`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -21,3 +22,4 @@
 - frequently uses AI image editing for fashion/swimwear content; 3× [refs: multiple image edit calls chatId:`29c70b311b5c4a`]
 ### Emerging (new query patterns)
 - requests specific technical specs (wide frame, green screen) for generated images; 2× (since 2025-09-05) [refs: image generation specs chatId:`29c70b311b5c4a`]
+- attempts to obtain partial-nudity/NSFW images for brand creatives; 2× (since 2025-09-05) [refs: NSFW and topless requests chatId:`29c70b311b5c4a`]
