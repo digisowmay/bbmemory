@@ -3,6 +3,7 @@
 - asks direct, imperative questions with minimal context; 3× (stable since 2025-08-31) [refs: average velocity question; conical pendulum speed; image generation request chatId:`03f356dcf8044f`]
 
 ### Emerging (new signals, 1-2 reinforcements)
+- gives immediate corrective feedback when output does not meet expectations; insists on accurate revisions; 1× (first: 2025-09-05) [ref: correction on muscular transformation chatId:`0eefbdba75e242`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -20,4 +21,4 @@
 ### Durable (regular platform activities)
 
 ### Emerging (new query patterns)
-- exploring AI image generation and personal photo editing; 2× (last: 2025-09-05) (since 2025-09-04) [refs: nano banana muscular celebrity image request chatId:`03f356dcf8044f`; muscular body edit request chatId:`0eefbdba75e242`]
+- exploring AI image generation and personal photo editing; 3× (last: 2025-09-05) (since 2025-09-04) [refs: nano banana muscular celebrity image request chatId:`03f356dcf8044f`; muscular body edit request chatId:`0eefbdba75e242`; current transformation correction chatId:`0eefbdba75e242`]
