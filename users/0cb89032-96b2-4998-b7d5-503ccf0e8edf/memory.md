@@ -7,7 +7,7 @@
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
-- _No durable knowledge captured yet_
+- brand initials "JC" repeatedly requested for logo designs; 6× [refs: "JC logo"; "J c"; "Jc"; JC gold logo requests chatId:`c4f777bc31f845`]
 
 ### Emerging (recent learning, current focus)
 - _No emerging knowledge captured yet_
@@ -21,7 +21,7 @@
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
-- requesting logo designs; image generation tasks; 10× (promoted from emerging) [refs: repeated logo requests including JC, Goldy, gold design chatId:`c4f777bc31f845`]
+- requesting logo designs; image generation tasks; 10× [refs: repeated logo requests including JC, Goldy, gold design chatId:`c4f777bc31f845`]
 
 ### Emerging (new query patterns)
-- _No emerging query patterns observed_
+- prefers gold color schemes in logo designs; 2× (since 2025-09-06) [refs: "Goldy" logo request; "Design logo with gold" chatId:`c4f777bc31f845`]
