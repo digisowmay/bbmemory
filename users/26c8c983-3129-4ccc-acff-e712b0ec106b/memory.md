@@ -2,14 +2,15 @@
 ### Durable (established, 3+ reinforcements)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- requests step-by-step automation workflows; 1× (first: 2025-09-05) [ref: n8n workflow request chatId:`b647328e95d845`]
+- requests step-by-step automation workflows; 2× (last: 2025-09-05) [ref: n8n workflow request chatId:`b647328e95d845`]
 - cost-conscious, asks for free AI solutions; 1× (first: 2025-09-05) [ref: free AI suggestion request chatId:`b647328e95d845`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
 
 ### Emerging (recent learning, current focus)
-- exploring n8n automation and web scraping; 1× (started: 2025-09-05) [ref: grocery scraper workflow chatId:`b647328e95d845`]
+- exploring n8n automation and web scraping; 1× (since 2025-09-05) [ref: grocery scraper workflow chatId:`b647328e95d845`]
+- monitoring Australian grocery prices (Woolworths, Coles, Aldi); 1× (started: 2025-09-05) [ref: AU grocery site list chatId:`b647328e95d845`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
@@ -21,4 +22,4 @@
 ### Durable (regular platform activities)
 
 ### Emerging (new query patterns)
-- queries about automation workflows (n8n) and data scraping; 1× (since 2025-09-05) [ref: n8n workflow request chatId:`b647328e95d845`]
+- queries about automation workflows (n8n) and data scraping; 2× (since 2025-09-05) [refs: initial n8n workflow request; AU grocery list update chatId:`b647328e95d845`]
