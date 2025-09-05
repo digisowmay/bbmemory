@@ -25,4 +25,4 @@
 
 ### Emerging (new query patterns)
 - uses assistant to handle backroom echo communications automatically; 1× (first: 2025-09-04) [ref: backroom echo confirmation chatId:`93e01ed7361542`]
-- exploring AI image editing & transformations via "nano banana" / generative tools; 1× (first: 2025-09-05) [ref: image weathering request chatId:`e6f4f242718f4e`]
+- exploring AI image editing & transformations via "nano banana" / generative tools; 2× (since 2025-09-05) [refs: image weathering request chatId:`e6f4f242718f4e`; prompt disclosure request chatId:`e6f4f242718f4e`]
