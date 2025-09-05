@@ -22,3 +22,4 @@
 - frequently uses AI image editing for fashion/swimwear content; 4× [refs: multiple image edit calls chatId:`29c70b311b5c4a`; clothing imaginations request chatId:`e31f85fc19634e`]
 ### Emerging (new query patterns)
 - requests specific technical specs (wide frame, green screen) for generated images; 2× (since 2025-09-05) [refs: image generation specs chatId:`29c70b311b5c4a`]
+- exploring offline/local video generation models to avoid external API use; 1× (first: 2025-09-05) [ref: video model without api inquiry chatId:`e31f85fc19634e`]
