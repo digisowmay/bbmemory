@@ -1,6 +1,6 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- gives brief, direct commands for image editing tasks (e.g., "Restore this image", "Replace shirt with ..."); 7× [refs: image editing commands chatId:`ee422ced3e5547`; previous image restoration requests]
+- gives brief, direct commands for image editing tasks (e.g., "Restore this image", "Replace shirt with ..."); 8× [refs: image editing commands chatId:`ee422ced3e5547`; previous image restoration requests; current edit chatId:`e508a5a375464a`]
 
 ### Emerging (new signals, 1-2 reinforcements)
 - (no emerging patterns currently)
@@ -21,7 +21,7 @@
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
-- interested in photo restoration and image editing, specifying model preference ("nano banana model"); 7× [refs: multiple image editing requests chatId:`ee422ced3e5547`]
+- interested in photo restoration and image editing, specifying model preference ("nano banana model"); 8× [refs: multiple image editing requests chatId:`ee422ced3e5547`; current edit chatId:`e508a5a375464a`]
 
 ### Emerging (new query patterns)
 - (no emerging query patterns currently)
