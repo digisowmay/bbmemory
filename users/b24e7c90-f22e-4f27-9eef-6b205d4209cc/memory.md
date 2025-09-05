@@ -25,3 +25,4 @@
 
 ### Emerging (new query patterns)
 - initiating smoke tests via conversation; 2× (since 2025-09-05) [refs: staging smoke test plan chatId:`44bc6910e0504c`]
+- exploring AI image generation; 1× (first: 2025-09-05) [ref: random image generation request chatId:`e7eea98f4f0e4c`]
