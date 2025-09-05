@@ -3,8 +3,8 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - requests step-by-step automation workflows; 2× (last: 2025-09-05) [ref: n8n workflow request chatId:`b647328e95d845`]
-- cost-conscious, asks for free AI solutions; 3× (last: 2025-09-05) [refs: free AI suggestion request; Hugging Face free tier clarification; cost question chatId:`b647328e95d845`]
-- asks clarifying questions on unfamiliar tech terms; 3× (last: 2025-09-05) [refs: Hugging Face API question; free tier inquiry chatId:`b647328e95d845`]
+- cost-conscious, asks for free AI solutions; 4× (last: 2025-09-05) [refs: free AI suggestion request; Hugging Face free tier clarification; cost question chatId:`b647328e95d845`; Hugging Face free vs pro clarification chatId:`b647328e95d845`]
+- asks clarifying questions on unfamiliar tech terms; 4× (last: 2025-09-05) [refs: Hugging Face API question; free tier inquiry chatId:`b647328e95d845`; AI cost clarification chatId:`b647328e95d845`; "Hugging Face doesn't seem to be free" chatId:`b647328e95d845`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
