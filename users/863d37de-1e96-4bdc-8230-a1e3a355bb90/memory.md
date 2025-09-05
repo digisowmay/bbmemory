@@ -1,6 +1,6 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- gives very brief, direct imperative instructions; 21× (stable since 2025-08-30) [refs: agent management commands chatId:`656c190d34a544`; Drive retry chatId:`c357e72220bd41`; n8n workflow interactions chatId:`662655ca620f4e`; agent creation chatId:`8de5cd0244fb45`; repo diagram request chatId:`c49ec49f168e44`; parameter issue discussion chatId:`5de3554b8e7d4b`]
+- gives very brief, direct imperative instructions; 22× (stable since 2025-08-30) [refs: agent management commands chatId:`656c190d34a544`; Drive retry chatId:`c357e72220bd41`; n8n workflow interactions chatId:`662655ca620f4e`; agent creation chatId:`8de5cd0244fb45`; repo diagram request chatId:`c49ec49f168e44`; parameter issue discussion chatId:`5de3554b8e7d4b`]
 - asks for exact error messages/logs for debugging; 6× [refs: error detail request chatId:`5de3554b8e7d4b`; earlier error clarification chatId:`5de3554b8e7d4b`]
 
 ### Emerging (new signals, 1-2 reinforcements)
@@ -18,7 +18,7 @@
 - (no entries)
 
 ### Emerging (recent behavioral shifts)
-- iterative troubleshooting approach; repeatedly requests sync and retest until success; 3× (last: 2025-09-05) [refs: sync-and-try cycles chatId:`5de3554b8e7d4b`]
+- iterative troubleshooting approach; repeatedly requests sync and retest until success; 4× (last: 2025-09-05) [refs: sync-and-try cycles chatId:`5de3554b8e7d4b`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
