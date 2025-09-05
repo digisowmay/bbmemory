@@ -2,9 +2,8 @@
 ### Durable (established, 3+ reinforcements)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- prefers Arabic with emojis and friendly tone; 4× (last: 2025-09-05) [refs: script for Lolo episode; video request "ممكن تعملي فديو"; audio request "اعملي الصوت للحلقه الأولى"; follow-up conversation chatId:`e4ee68fcf22046`]
-- collaborative, asks if assistant wants further content and suggestions; 1× (first: 2025-09-05) [ref: offer to write second episode chatId:`e4ee68fcf22046`]
-- prefers audio content in Egyptian Arabic male cat voice; 2× (last: 2025-09-05) [refs: initial request for Egyptian Arabic male voice; reiterated "ممكن كمان تعمله بالعربية المصريه ويكون صوت قط ولد" chatId:`e4ee68fcf22046`]
+- prefers Arabic with emojis and friendly tone; collaborative ومبادر في طلب واقتراح المحتوى؛ 6× (last: 2025-09-05) [refs: script for Lolo episode; video request "ممكن تعملي فديو"; audio request "اعملي الصوت للحلقه الأولى"; record conversation request "تمام سجل كل الحوار"; program purpose question; follow-up chats chatId:`e4ee68fcf22046`]
+- insists on audio content in Egyptian Arabic male cat voice; 3× (last: 2025-09-05) [refs: repeated audio voice requests chatId:`e4ee68fcf22046`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -16,12 +15,12 @@
 ### Durable (core thinking patterns)
 
 ### Emerging (recent behavioral shifts)
-- structured and proactive, breaks episodes into segments and lists key points; 1× (observed: 2025-09-05) [ref: episode script bullet list chatId:`e4ee68fcf22046`]
+- structured and proactive, breaks episodes into segments and lists key points; 2× (last: 2025-09-05) [refs: episode script bullet list; request to record full conversation chatId:`e4ee68fcf22046`]
 - creative storytelling approach, uses character voice; 1× (first: 2025-09-05) [ref: Lolo speaking script chatId:`e4ee68fcf22046`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
 
 ### Emerging (new query patterns)
-- uses platform to schedule and automate publishing of content; 1× (since 2025-09-05) [ref: scheduling episode chatId:`e4ee68fcf22046`]
-- exploring video and TTS audio generation tools for the cat show; 4× (since 2025-09-05) [refs: video generation request; TTS audio generation request; Egyptian Arabic male voice request; repeated video/audio requests chatId:`e4ee68fcf22046`]
+- uses platform to schedule and automate publishing of content; 2× (since 2025-09-05) [refs: scheduling episode; scheduling conversation log chatId:`e4ee68fcf22046`]
+- exploring video and TTS audio generation tools for the cat show; 4× (since 2025-09-05) [refs: video generation requests; TTS audio generation; Egyptian Arabic male voice requests chatId:`e4ee68fcf22046`]
