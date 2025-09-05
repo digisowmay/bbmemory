@@ -4,13 +4,13 @@
 ### Emerging (new signals, 1-2 reinforcements)
 - requests clearly structured professional email drafts; 2× (since 2025-09-04) [refs: email draft request chatId:`82fe08666ba940`; follow-up draft and send request chatId:`82fe08666ba940`]
 - expects assistant to take direct action such as sending emails; 2× (last: 2025-09-04) [refs: email send request chatId:`82fe08666ba940`; repeat send request chatId:`82fe08666ba940`]
-- prefers information delivered in code block format for easy copying; 1× (first: 2025-09-04) [ref: code format request chatId:`82fe08666ba940`]
+- prefers information delivered in code block format for easy copying; 2× (last: 2025-09-05) [refs: code format request chatId:`82fe08666ba940`; mattress size comparison chatId:`391aad5114fd4d`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
 
 ### Emerging (recent learning, current focus)  
-- renting furniture for new house; deciding on dressing table and storage solutions, rental period 6-12 months; 2× (since 2025-09-04) [refs: initial furniture discussion chatId:`05783c2ef9ba4f`; follow-up decision on dressing table chatId:`05783c2ef9ba4f`]
+- renting furniture for new house; deciding on dressing table, storage solutions, mattress size; rental period 6-12 months; 3× (since 2025-09-04, last: 2025-09-05) [refs: initial furniture discussion chatId:`05783c2ef9ba4f`; dressing table decision chatId:`05783c2ef9ba4f`; mattress size query chatId:`391aad5114fd4d`]
 - working on potential partnership with Zomato scratch card program; 1× (started: 2025-09-04) [ref: chatId:`82fe08666ba940`]
 - exploring broader Zomato advertising opportunities (referral, events, social media, sponsored listings); 2× (since 2025-09-04) [refs: advertising strategy discussion chatId:`82fe08666ba940`; implementation guide request chatId:`82fe08666ba940`]
 
