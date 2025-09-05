@@ -10,7 +10,7 @@
 ### Durable (core expertise, established over time)
 
 ### Emerging (recent learning, current focus)
-- pursuing QA assurance career; practical testing focus; 5× (since 2025-09-02) [refs: initial QA question chatId:`a40fdaee95e545`; ChatGPT QA testing question chatId:`a40fdaee95e545`; website bug testing request chatId:`a40fdaee95e545`; Bhindi.io bug check chatId:`a40fdaee95e545`; QA report request chatId:`a40fdaee95e545`]
+- pursuing QA assurance career; practical testing focus; 6× (last: 2025-09-05) [refs: initial QA question chatId:`a40fdaee95e545`; QA salary inquiry chatId:`6994fff183bf4d`; QA report request chatId:`a40fdaee95e545`; website bug testing request chatId:`a40fdaee95e545`; Bhindi.io bug check chatId:`a40fdaee95e545`]
 - developing data analytics skills and career; 2× (since 2025-09-01) [refs: data analyst roadmap request chatId:`a3e427fd350243`; analytics roadmaps chatId:`a3e427fd350243`]
 - computer engineering background but lacks coding skills; 1× (started: 2025-09-05) [ref: career guidance question chatId:`6994fff183bf4d`]
 
@@ -25,5 +25,5 @@
 ### Durable (regular platform activities)
 
 ### Emerging (new query patterns)
-- exploring QA assurance resources and practical testing; 5× (since 2025-09-02) [refs: QA questions chatId:`a40fdaee95e545`; website bug testing request chatId:`a40fdaee95e545`; Bhindi.io bug check chatId:`a40fdaee95e545`; QA report request chatId:`a40fdaee95e545`; QA test report chatId:`a40fdaee95e545`]
+- exploring QA assurance resources and practical testing; 6× (last: 2025-09-05) [refs: QA questions chatId:`a40fdaee95e545`; website bug testing request chatId:`a40fdaee95e545`; Bhindi.io bug check chatId:`a40fdaee95e545`; QA test report chatId:`a40fdaee95e545`; QA salary inquiry chatId:`6994fff183bf4d`; QA report request chatId:`a40fdaee95e545`]
 - asks about crypto trading indicators; 3× (since 2025-09-01) [refs: crypto indicators request chatId:`a3e427fd350243`; trend indicators lesson chatId:`a3e427fd350243`; best indicators request chatId:`a3e427fd350243`]
