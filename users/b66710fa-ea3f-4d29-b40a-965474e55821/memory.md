@@ -10,6 +10,7 @@
 ### Emerging (recent learning, current focus)  
 - managing creative projects (film production, Wishtales scripts, bug reports, Instagram/YouTube content); 1× (started: 2025-09-05) [ref: workflow discussion chatId:`93f9879be6bc4d`]
 - uses Trello, Notion, Google Docs, GitHub, Linear, Instagram, YouTube for workflow; 1× (first: 2025-09-05) [ref: agent configuration chatId:`93f9879be6bc4d`]
+- investigating AI video generation tools (Google Veo3) for film projects; 1× (first: 2025-09-05) [ref: Veo3 FPS question chatId:`93f9879be6bc4d`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
@@ -21,4 +22,5 @@
 ### Durable (regular platform activities)
 
 ### Emerging (new query patterns)
-- configuring multiple platform agents for daily creative workflow (trello, notion, google-docs, github, linear, social media analyzers); 1× (first: 2025-09-05) [ref: agent setup chatId:`93f9879be6bc4d`]
+- configuring multiple platform agents for daily creative workflow (Trello, Notion, Google Docs, GitHub, Linear, social media analyzers); 1× (first: 2025-09-05) [ref: agent setup chatId:`93f9879be6bc4d`]
+- asks technical specifications about AI video generation models; 1× (first: 2025-09-05) [ref: Veo3 FPS question chatId:`93f9879be6bc4d`]
