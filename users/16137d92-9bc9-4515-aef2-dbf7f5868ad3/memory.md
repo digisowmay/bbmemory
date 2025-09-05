@@ -18,6 +18,7 @@
 ### Emerging (recent behavioral shifts)
 - values professional-quality deliverables and downloadable outputs; 2× (since 2025-09-05) [refs: TTS audio request chatId:`5596d52280c448`; blog script TTS request chatId:`350bcf06dc064f`]
 - prefers data-driven, structured comparisons for purchase decisions; 1× (first: 2025-09-05) [ref: gaming laptop comparison chatId:`646cb01cd1ba49`]
+- emphasis on classy, professional aesthetics in visual deliverables; 1× (observed: 2025-09-05) [ref: BMTC bus branding image request chatId:`646cb01cd1ba49`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
@@ -25,3 +26,4 @@
 ### Emerging (new query patterns)
 - requests TTS audio narration with specific accent and downloadable professional quality; 2× (since 2025-09-05) [refs: TTS audio request chatId:`5596d52280c448`; blog script TTS request chatId:`350bcf06dc064f`]
 - asks for detailed tech product comparisons (specs, pricing across stores); 1× (first: 2025-09-05) [ref: gaming laptop comparison chatId:`646cb01cd1ba49`]
+- requests AI-generated marketing visuals (photorealistic branding images); 1× (first: 2025-09-05) [ref: BMTC bus branding image request chatId:`646cb01cd1ba49`]
