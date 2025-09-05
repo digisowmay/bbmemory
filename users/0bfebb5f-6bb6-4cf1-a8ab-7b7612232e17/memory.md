@@ -18,6 +18,7 @@
 - integrating Discord webhooks/bots for Twitch milestone notifications; 5× (started: 2025-09-05) [refs: bot & webhook setup chatId:`962c55d6d28646`]
 - owns Discord server (ID 1413161443834073140) and wants milestone notifications in #general (channel ID 1413161445537091668); 2× (last: 2025-09-05) [refs: Discord channel confirmation chatId:`962c55d6d28646`]
 - experimenting with Discord bot setup using broad permissions for test run; 1× (first: 2025-09-05) [ref: bot authorization discussion chatId:`962c55d6d28646`]
+- planning automated clip creation and cross-platform social media distribution from Twitch streams; 1× (first: 2025-09-05) [ref: clip creation discussion chatId:`962c55d6d28646`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
@@ -26,6 +27,7 @@
 ### Emerging (recent behavioral shifts)
 - cautious about triggering platform security systems; prefers minimal API usage and browser automation; 6× (last: 2025-09-05) [refs: reduce scheduler frequency & firewall concern chatId:`962c55d6d28646`]
 - conducts test runs before finalizing configurations; 1× (observed: 2025-09-05) [ref: acknowledges test run chatId:`962c55d6d28646`]
+- uses phased roadmap approach, frequently asks "what's next" to plan sequential tasks; 2× (since 2025-09-05) [refs: phased plan queries chatId:`962c55d6d28646`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
@@ -34,3 +36,4 @@
 ### Emerging (new query patterns)
 - exploring browser automation to bypass social media IP firewalls; 7× (since 2025-09-05) [refs: Twitch IP block workaround & discussion of future platforms chatId:`962c55d6d28646`]
 - integrating Discord webhooks/bots for automated notifications; 5× (since 2025-09-05) [refs: bot token & webhook URL setup chatId:`962c55d6d28646`]
+- wants automatic posting of clips to TikTok, Instagram, Twitter, YouTube Shorts; 1× (first: 2025-09-05) [ref: cross-platform posting plan chatId:`962c55d6d28646`]
