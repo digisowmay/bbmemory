@@ -5,6 +5,7 @@
 ### Emerging (new signals, 1-2 reinforcements)
 - requests no emojis and strictly straightforward language; 1× (first: 2025-09-05) [ref: no emojis instruction chatId:`6ee76af9b7124a`]
 - prefers bullet points/arrows and concise threads (3-5 tweets); 1× (first: 2025-09-05) [ref: thread length guidance chatId:`6ee76af9b7124a`]
+- wants clear CTAs aimed at builders when relevant; 1× (first: 2025-09-05) [ref: builder CTA request chatId:`6ee76af9b7124a`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
