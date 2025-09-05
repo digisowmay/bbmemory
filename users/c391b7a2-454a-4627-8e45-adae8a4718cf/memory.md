@@ -8,6 +8,7 @@
 ### Durable (core expertise, established over time)
 
 ### Emerging (recent learning, current focus)
+- located in/around Koramangala, Bangalore; searching for local healthcare services; 1× (first: 2025-09-05) [ref: diagnostic center query chatId:`9eea28491b7943`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
@@ -19,3 +20,4 @@
 ### Durable (regular platform activities)
 
 ### Emerging (new query patterns)
+- seeking local healthcare and diagnostic recommendations; affordable options; 1× (first: 2025-09-05) [ref: diagnostic center query chatId:`9eea28491b7943`]
