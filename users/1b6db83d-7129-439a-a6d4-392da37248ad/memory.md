@@ -4,7 +4,7 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - provides raw JSON/technical code and requests direct fixes; 5× (last: 2025-09-05) [refs: coding workflow fix request chatId:`1b881f35b77b42`; JSON workflow request chatId:`05d9e7c6498e40`]
-- requests high-level workflow architecture and structured approach; 3× (last: 2025-09-05) [refs: automation design request chatId:`05d9e7c6498e40`]
+- requests high-level workflow architecture and structured approach; 4× (last: 2025-09-05) [refs: automation design request chatId:`05d9e7c6498e40`; n8n automation clone request chatId:`fe85420e42b641`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -26,5 +26,5 @@
 - (no durable activities recorded yet)
 
 ### Emerging (new query patterns)
-- asks coding troubleshooting questions (n8n workflows); 5× (since 2025-09-05) [refs: initial workflow bug chatId:`1b881f35b77b42`; JSON workflow request chatId:`05d9e7c6498e40`]
-- explores healthcare automation & WhatsApp integration via n8n; 3× (last: 2025-09-05) [refs: automation design request chatId:`05d9e7c6498e40`]
+- asks coding troubleshooting questions (n8n workflows); 6× (since 2025-09-05) [refs: initial workflow bug chatId:`1b881f35b77b42`; JSON workflow request chatId:`05d9e7c6498e40`; n8n automation clone request chatId:`fe85420e42b641`]
+- explores healthcare automation & WhatsApp integration via n8n; 4× (last: 2025-09-05) [refs: automation design request chatId:`05d9e7c6498e40`; n8n automation clone request chatId:`fe85420e42b641`]
