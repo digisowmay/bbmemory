@@ -3,8 +3,8 @@
 - (none yet)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- provides raw JSON/technical code and requests direct fixes; 9× (last: 2025-09-05) [refs: coding workflow fix request chatId:`1b881f35b77b42`; JSON workflow request chatId:`05d9e7c6498e40`; node link issue chatId:`fe85420e42b641`; automation clone request chatId:`520bc5c731f545`]
-- requests high-level workflow architecture and structured approach; 8× (last: 2025-09-05) [refs: automation design request chatId:`05d9e7c6498e40`; full workflow request chatId:`fe85420e42b641`; automation clone request chatId:`520bc5c731f545`]
+- provides raw JSON/technical code and requests direct fixes; 10× (last: 2025-09-05) [refs: advanced workflow JSON request chatId:`520bc5c731f545`; previous coding workflow fix chatId:`1b881f35b77b42`]
+- requests high-level workflow architecture and structured approach; 9× (last: 2025-09-05) [refs: Manyreach advanced workflow architecture request chatId:`520bc5c731f545`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -20,12 +20,12 @@
 - (none yet)
 
 ### Emerging (recent behavioral shifts)
-- seeks concise, actionable technical solutions; 9× (last: 2025-09-05) [refs: workflow fix request chatId:`1b881f35b77b42`; JSON workflow request chatId:`05d9e7c6498e40`; automation clone request chatId:`520bc5c731f545`]
+- seeks concise, actionable technical solutions; 10× (last: 2025-09-05) [refs: advanced workflow JSON request chatId:`520bc5c731f545`; earlier JSON fix chatId:`1b881f35b77b42`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
 - (none yet)
 
 ### Emerging (new query patterns)
-- asks coding troubleshooting questions (n8n workflows); 9× (since 2025-09-05) [refs: initial workflow bug chatId:`1b881f35b77b42`; n8n automation clone request chatId:`520bc5c731f545`]
+- asks coding troubleshooting questions (n8n workflows); 10× (since 2025-09-05) [refs: advanced workflow request chatId:`520bc5c731f545`; initial bug chatId:`1b881f35b77b42`]
 - exploring cold email automation & outreach tooling; 1× (first: 2025-09-05) [ref: Manyreach clone request chatId:`520bc5c731f545`]
