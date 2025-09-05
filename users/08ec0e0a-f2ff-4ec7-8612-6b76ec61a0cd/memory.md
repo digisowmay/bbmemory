@@ -6,10 +6,11 @@
 ### Emerging (new signals, 1-2 reinforcements)
 - wants scripts to include precise technical details from whitepapers/litepapers while staying concise; 1× (first: 2025-09-05) [ref: request to incorporate phases & identity graph chatId:`d7400ebda84042`]
 - prefers voice-only scripts with no graphics for quick same-day editing; 2× (last: 2025-09-05) [refs: voice-only clarification and reminder chatId:`d7400ebda84042`]
+- requests final deliverables with ONLY the specific content (e.g., "JUST the script") without extra explanation; 1× (first: 2025-09-05) [ref: explicit "just that script" request chatId:`d7400ebda84042`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
-- 
+-
 
 ### Emerging (recent learning, current focus)
 - creating promotional content for blockchain/crypto projects (Memory Protocol); 3× (since 2025-09-05) [refs: multiple script refinement chats chatId:`d7400ebda84042`]
@@ -21,11 +22,11 @@
 - iterative refinement approach; provides clear constraints (length, style) and asks for revisions; 6× (last: 2025-09-05) [refs: successive revision requests chatId:`d7400ebda84042`]
 
 ### Emerging (recent behavioral shifts)
-- 
+-
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
-- 
+-
 
 ### Emerging (new query patterns)
 - uses platform to generate marketing scripts and creative assets for crypto projects; 3× (since 2025-09-05) [refs:script generation and refinement chatId:`d7400ebda84042`]
