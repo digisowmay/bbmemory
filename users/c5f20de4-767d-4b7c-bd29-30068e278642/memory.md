@@ -2,7 +2,7 @@
 ### Durable (established, 3+ reinforcements)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- gives concise action-oriented commands to agent; 3× (last: 2025-09-05) [refs: water reminder request chatId:`407648c3c0fe44`; scheduler inquiry chatId:`407648c3c0fe44`; difference vs background agents chatId:`407648c3c0fe44`]
+- gives concise action-oriented commands to agent; 4× (last: 2025-09-05) [refs: water reminder request chatId:`407648c3c0fe44`; scheduler inquiry chatId:`407648c3c0fe44`; difference vs background agents chatId:`407648c3c0fe44`; user stats request chatId:`a8af09c9134b4f`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -20,5 +20,5 @@
 ### Durable (regular platform activities)
 
 ### Emerging (new query patterns)
-- exploring bhindi scheduler and automation queries; 4× (since 2025-09-04) [refs: water reminder request chatId:`407648c3c0fe44`; scheduler capability question chatId:`407648c3c0fe44`; usecases request chatId:`407648c3c0fe44`; difference vs background agents chatId:`407648c3c0fe44`]
+- exploring bhindi scheduler and automation queries; 5× (since 2025-09-04) [refs: water reminder request chatId:`407648c3c0fe44`; scheduler capability question chatId:`407648c3c0fe44`; usecases request chatId:`407648c3c0fe44`; difference vs background agents chatId:`407648c3c0fe44`; user stats request chatId:`a8af09c9134b4f`]
 - exploring crypto monitoring and defi automation; 1× (first: 2025-09-05) [ref: crypto monitoring request chatId:`407648c3c0fe44`]
