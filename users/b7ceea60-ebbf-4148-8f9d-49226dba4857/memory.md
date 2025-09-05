@@ -11,6 +11,7 @@
 
 ### Emerging (recent learning, current focus)
 - interested in anime-style artwork and visual content generation; 3× (since 2025-09-05) [refs: supplied anime reference image chatId:`38308cf6048f40`; current anime variation request chatId:`f74033902f3a43`; latest multi-condition request chatId:`f511410f6b8b4f`]
+- prefers high-contrast black-and-white manga illustrations (seinen style); 1× (since 2025-09-05) [ref: manga lingerie prompt chatId:`6e534fd99c9542`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
