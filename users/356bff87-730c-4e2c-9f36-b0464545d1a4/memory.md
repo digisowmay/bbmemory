@@ -1,6 +1,6 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- asks for direct assistance with short, concise prompts; 6× (promoted from emerging) (last: 2025-09-06) [refs: chatId:`d77eb4126a6240`; chatId:`c0996c2244974e`; chatId:`b8c4a19da02840`]
+- asks for direct assistance with short, concise prompts; 7× (stable since 2024-08-15) [refs: chatId:`d77eb4126a6240`; chatId:`c0996c2244974e`; chatId:`b8c4a19da02840`; chatId:`229e3aaa67364a`]
 
 ### Emerging (new signals, 1-2 reinforcements)
 - prefers structured, step-by-step guidance for tasks; 1× (first: 2025-09-05) [ref: chatId:`c0996c2244974e`]
@@ -16,7 +16,7 @@
 ### Durable (core thinking patterns)
 
 ### Emerging (recent behavioral shifts)
-- looks for practical, actionable advice over theoretical info; 2× (last: 2025-09-06) [refs: chatId:`d77eb4126a6240`; chatId:`c0996c2244974e`]
+- looks for practical, actionable advice over theoretical info; 3× (last: 2025-09-06) [refs: chatId:`d77eb4126a6240`; chatId:`c0996c2244974e`; chatId:`229e3aaa67364a`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
