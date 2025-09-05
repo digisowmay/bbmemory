@@ -1,31 +1,7 @@
-## Communication Patterns
-### Durable (established, 3+ reinforcements)
-- gives direct, detailed imperative instructions for outputs; 4× (stable since 2025-09-05) [refs: TTS audio request chatId:`5596d52280c448`; laptop comparison criteria chatId:`646cb01cd1ba49`; bus branding revision chatId:`646cb01cd1ba49`; UX research plan request chatId:`646cb01cd1ba49`]
-
-### Emerging (new signals, 1-2 reinforcements)
-- iterative visual feedback, requests precise design tweaks; 3× (last: 2025-09-05) [refs: bus branding revision chatId:`646cb01cd1ba49`; Bhindi logo iteration chatId:`646cb01cd1ba49`; final logo placement chatId:`646cb01cd1ba49`]
-- asks for structured strategic plans and frameworks; 1× (first: 2025-09-05) [ref: UX research plan request chatId:`646cb01cd1ba49`]
-
 ## Knowledge & Context
-### Durable (core expertise, established over time)
-
 ### Emerging (recent learning, current focus)
-- interested in psychology-themed blog content; 1× (first: 2025-09-05) [ref: blog script request chatId:`350bcf06dc064f`]
-- researching gaming laptops/hardware comparisons; 1× (first: 2025-09-05) [ref: gaming laptop comparison chatId:`646cb01cd1ba49`]
-- focusing on improving Bhindi product UX using user data and metrics; 1× (first: 2025-09-05) [ref: UX research plan request chatId:`646cb01cd1ba49`]
+- investigating user analytics (CTR, feature usage) to guide Bhindi UX improvements; 1× (first: 2025-09-05) [ref: UX research data request chatId:`646cb01cd1ba49`]
 
 ## Thinking & Working Style
-### Durable (core thinking patterns)
-
 ### Emerging (recent behavioral shifts)
-- emphasis on classy, professional aesthetics in visual deliverables; 3× (since 2025-09-05) [refs: initial BMTC bus branding image request chatId:`646cb01cd1ba49`; branding revision chatId:`646cb01cd1ba49`; Bhindi logo iteration chatId:`646cb01cd1ba49`]
-- values professional-quality deliverables and downloadable outputs; 2× (since 2025-09-05) [refs: TTS audio request chatId:`5596d52280c448`; blog script TTS request chatId:`350bcf06dc064f`]
-- data-driven, systematic planning approach; 1× (observed: 2025-09-05) [ref: UX research plan request chatId:`646cb01cd1ba49`]
-
-## Platform Usage & Queries
-### Durable (regular platform activities)
-
-### Emerging (new query patterns)
-- requests AI-generated marketing visuals and branding images; 2× (since 2025-09-05) [refs: initial BMTC bus branding image request chatId:`646cb01cd1ba49`; branding revision chatId:`646cb01cd1ba49`]
-- requests detailed tech product comparisons including prices; 1× (first: 2025-09-05) [ref: gaming laptop comparison chatId:`646cb01cd1ba49`]
-- seeks guidance on UX/product research strategies; 1× (first: 2025-09-05) [ref: UX research plan request chatId:`646cb01cd1ba49`]
+- strongly data-driven, requests specific performance metrics (CTR, cohort, funnel) to inform decisions; 2× (since 2025-09-05) [refs: UX research plan chatId:`646cb01cd1ba49`; CTR rates follow-up chatId:`646cb01cd1ba49`]
