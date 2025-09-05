@@ -1,26 +1,25 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- submits complete JSON/n8n workflow definitions; expects technical, code-level assistance; 6× (last: 2025-09-05) [refs: modular multi-platform workflow chatId:`78b6d17e3eed41`; job hunt workflow JSON chatId:`b2fbf349819348`; modular workflow submission chatId:`701186742f2a42`; automated modular workflow script chatId:`14d55ade940a42`]
+- submits complete JSON/n8n workflow definitions; expects technical, code-level assistance; 7× (last: 2025-09-05) [refs: modular multi-platform workflow chatId:`78b6d17e3eed41`; job hunt workflow JSON chatId:`b2fbf349819348`; corrected workflow request chatId:`78b6d17e3eed41`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- prefers direct, full code responses with minimal commentary; 2× (last: 2025-09-05) [refs: corrected workflow request chatId:`78b6d17e3eed41`; request "just provide the all code" chatId:`701186742f2a42`]
-- uses extremely concise or single-word queries expecting context inference; 1× (first: 2025-09-04) [ref: single-word "n8n" query chatId:`a32c257d0bdc47`]
+- prefers direct, full code responses with minimal commentary; 3× (last: 2025-09-05) [refs: corrected workflow request chatId:`78b6d17e3eed41`; updated multi-platform JSON chatId:`78b6d17e3eed41`; request "just provide the all code" chatId:`701186742f2a42`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
 
 ### Emerging (recent learning, current focus)
-- building n8n workflow for automated job search across multiple job APIs; 4× (last: 2025-09-05) [refs: multi-platform workflow chatId:`78b6d17e3eed41`; job hunt workflow JSON chatId:`b2fbf349819348`; modular workflow submission chatId:`701186742f2a42`; automated modular workflow script chatId:`14d55ade940a42`]
+- building n8n workflow for automated job search across multiple job APIs; 5× (last: 2025-09-05) [refs: multi-platform workflow chatId:`78b6d17e3eed41`; job hunt workflow JSON chatId:`b2fbf349819348`; modular workflow submission chatId:`701186742f2a42`; automated modular workflow script chatId:`14d55ade940a42`; latest step-by-step prompt chatId:`78b6d17e3eed41`]
 - uses Python scripts to auto-generate modular n8n workflows; 2× (since 2025-09-04) [refs: generator script chatId:`b2fbf349819348`; python generation script chatId:`701186742f2a42`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
 
 ### Emerging (recent behavioral shifts)
-- prefers systematic, modular automation solutions to streamline repetitive tasks; 4× (last: 2025-09-05) [refs: multi-platform workflow chatId:`78b6d17e3eed41`; job hunt workflow JSON chatId:`b2fbf349819348`; modular workflow submission chatId:`701186742f2a42`; automated modular workflow script chatId:`14d55ade940a42`]
+- prefers systematic, modular automation solutions to streamline repetitive tasks; 5× (last: 2025-09-05) [refs: multi-platform workflow chatId:`78b6d17e3eed41`; job hunt workflow JSON chatId:`b2fbf349819348`; modular workflow submission chatId:`701186742f2a42`; automated modular workflow script chatId:`14d55ade940a42`; step-by-step prompt chatId:`78b6d17e3eed41`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
 
 ### Emerging (new query patterns)
-- exploring n8n integrations with job APIs, AI models, Google Sheets; 4× (last: 2025-09-05) [refs: multi-platform workflow chatId:`78b6d17e3eed41`; job hunt workflow JSON chatId:`b2fbf349819348`; modular workflow submission chatId:`701186742f2a42`; automated modular workflow script chatId:`14d55ade940a42`]
+- exploring n8n integrations with job APIs, AI models, Google Sheets; 5× (last: 2025-09-05) [refs: multi-platform workflow chatId:`78b6d17e3eed41`; job hunt workflow JSON chatId:`b2fbf349819348`; modular workflow submission chatId:`701186742f2a42`; automated modular workflow script chatId:`14d55ade940a42`; step-by-step prompt chatId:`78b6d17e3eed41`]
