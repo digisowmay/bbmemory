@@ -4,6 +4,7 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - uses casual slang ("bro") and occasional expletives in requests; 5× (last: 2025-09-04) [refs: upload request chatId:`94950b85921c4f`; Drive upload chatId:`c357e72220bd41`; earlier interaction chatId:`4a71763edf844e`]
+- asks for exact error messages/logs for debugging; 1× (first: 2025-09-05) [ref: agent sync error clarification chatId:`5de3554b8e7d4b`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
