@@ -4,8 +4,8 @@
 ### Emerging (new signals, 1-2 reinforcements)
 - prefers Arabic with emojis and friendly tone; 4× (last: 2025-09-05) [refs: script for Lolo episode; video request "ممكن تعملي فديو"; audio request "اعملي الصوت للحلقه الأولى"; follow-up conversation chatId:`e4ee68fcf22046`]
 - collaborative, asks if assistant wants further content and suggestions; 1× (first: 2025-09-05) [ref: offer to write second episode chatId:`e4ee68fcf22046`]
-- prefers audio content in Egyptian Arabic male cat voice; 2× (last: 2025-09-05) [refs: initial request for Egyptian Arabic male voice; repeated "...ويكون صوت قط ولد" chatId:`e4ee68fcf22046`]
-- likes complete documentation/record of conversations; 1× (first: 2025-09-05) [ref: request "سجل كل الحوار" chatId:`e4ee68fcf22046`]
+- prefers audio content in Egyptian Arabic male cat voice; 2× (last: 2025-09-05) [refs: initial request for Egyptian Arabic male voice; repeated "ويكون صوت قط ولد" chatId:`e4ee68fcf22046`]
+- likes complete documentation/record of conversations; 2× (last: 2025-09-05) [refs: initial request "سجل كل الحوار"; repeated instruction to record conversation chatId:`e4ee68fcf22046`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -26,4 +26,4 @@
 ### Emerging (new query patterns)
 - uses platform to schedule and automate publishing of content; 1× (since 2025-09-05) [ref: scheduling episode chatId:`e4ee68fcf22046`]
 - exploring video and TTS audio generation tools for the cat show; 4× (since 2025-09-05) [refs: video generation request; TTS audio generation request; Egyptian Arabic male voice request; repeated video/audio requests chatId:`e4ee68fcf22046`]
-- exploring AI cartoon generation/animation tools; 2× (last: 2025-09-05) [refs: request for "برنامج بيعمل كرتون ب ai مجاني"; follow-up choosing Leonardo AI chatId:`e4ee68fcf22046`]
+- exploring AI cartoon generation/animation tools; 3× (last: 2025-09-05) [refs: request for "برنامج بيعمل كرتون ب ai مجاني"; follow-up choosing Leonardo AI; request for multiple prompts chatId:`e4ee68fcf22046`]
