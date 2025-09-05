@@ -2,7 +2,7 @@
 ### Durable (established, 3+ reinforcements)
 - prefers agent to directly create/modify automated workflows and inject credentials; 8× (stable since 2025-09-04) [refs: provided Twitch credentials chatId:`ac75338f7f314e`; rewritten JSON with credentials chatId:`cc9ecb10195547`; automation build chats]
 - seeks clarity on execution location and dashboard links for automations; 9× [refs: asks where automation runs chatId:`ac75338f7f314e`; background agents visibility question chatId:`ac75338f7f314e`]
-- requests step-by-step instructions when unclear; 9× [refs: OAuth token generation guidance chatId:`962c55d6d28646`; troubleshooting stream setup chatId:`ac75338f7f314e`]
+- requests step-by-step instructions when unclear; 10× (last: 2025-09-05) [refs: OAuth guidance chatId:`962c55d6d28646`; OAuth token generation guidance chatId:`962c55d6d28646`; troubleshooting stream setup chatId:`ac75338f7f314e`]
 
 ### Emerging (new signals, 1-2 reinforcements)
 - readily shares sensitive credentials to expedite setup; 9× (last: 2025-09-04) [refs: provided OAuth URL and token chatId:`ac75338f7f314e`]
@@ -13,7 +13,7 @@
 - building complex n8n and Twitch streaming automations; 4× [refs: StreamMaster Pro attempt; TwitchMaster Pro creation chatId:`ac75338f7f314e`; multiple n8n workflow chats]
 - owns/operates Twitch channel "aigod236"; 3× (since 2025-09-04) [refs: provided channel name chatId:`ac75338f7f314e`]
 
-### Emerging (recent learning, current focus)  
+### Emerging (recent learning, current focus)
 
 ## Thinking & Working Style
 ### Durable (core patterns)
