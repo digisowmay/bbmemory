@@ -3,8 +3,7 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - prefers including required details upfront to avoid back-and-forth; 3× (last: 2025-09-05) [refs: dating agent prompt conversation chatId:`ca5a897ff3c74c`; sample prompt inclusion request chatId:`ca5a897ff3c74c`; product hunt prompt instruction chatId:`0117ece7933344`]
-- prefers concise prompts with explicit word limits; 1× (first: 2025-09-05) [ref: sample prompt under 80 words chatId:`0117ece7933344`]
-- requests lists of tools/agents for tasks; 1× (first: 2025-09-05) [ref: agent suggestions request chatId:`49152d8f827546`]
+- requests lists of tools/agents for tasks; 2× (last: 2025-09-05) [refs: agent suggestions request chatId:`49152d8f827546`; follow-up asking for other agents chatId:`49152d8f827546`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -22,5 +21,4 @@
 
 ### Emerging (new query patterns)
 - exploring dating agent for matchmaking assistance; 4× (since 2025-09-05) [refs: dating agent prompt creation chatId:`ca5a897ff3c74c`; profile setup chatId:`ca5a897ff3c74c`; match browsing chatId:`ca5a897ff3c74c`; profile like action chatId:`ca5a897ff3c74c`]
-- exploring Product Hunt product discovery and analysis; 1× (first: 2025-09-05) [ref: product hunt prompt execution chatId:`0117ece7933344`]
-- exploring Upwork freelancer sourcing and Apollo enrichment; 1× (first: 2025-09-05) [ref: freelancer database activity chatId:`49152d8f827546`]
+- exploring Upwork freelancer sourcing and Apollo enrichment; 2× (last: 2025-09-05) [ref: freelancer database activity chatId:`49152d8f827546`]
