@@ -10,7 +10,7 @@
 - no core expertise noted yet
 
 ### Emerging (recent learning, current focus)
-- interested in social media reach and growth strategies; 1× (first: 2025-09-05) [ref chatId:`529e8e053f1141`]
+- interested in social media reach, growth strategies, and landing page design; 2× (since 2025-09-05) [refs: chatId:`529e8e053f1141`; chatId:`ea02122dbd5f49`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
@@ -24,4 +24,5 @@
 - no regular query patterns identified yet
 
 ### Emerging (new query patterns)
+- exploring landing page design inspiration and best practices; 1× (first: 2025-09-05) [ref chatId:`ea02122dbd5f49`]
 - exploring ways to increase social media reach with and without paid subscriptions; 1× (first: 2025-09-05) [ref chatId:`529e8e053f1141`]
