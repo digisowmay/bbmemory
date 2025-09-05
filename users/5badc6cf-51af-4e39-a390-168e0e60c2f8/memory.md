@@ -3,7 +3,7 @@
 - provides clear image URLs and explicit edit instructions for visual tasks; 15× (stable since 2025-09-05) [refs: photo editing requests chatId:`67c12d0365dd4c`; image replacement request chatId:`a3d77fdf37d84c`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- gives iterative feedback, requesting precise tweaks until satisfied; 8× (last: 2025-09-05) [refs: multiple correction cycles chatId:`67c12d0365dd4c`; follow-up clarifications chatId:`a3d77fdf37d84c`]
+- gives iterative feedback, requesting precise tweaks until satisfied; 9× (last: 2025-09-05) [refs: multiple correction cycles chatId:`67c12d0365dd4c`; follow-up clarifications chatId:`a3d77fdf37d84c`; quick correction “You didn't at the girl” chatId:`8ed2439be0c744`]
 - emphasizes correct positioning outside reflections, indicates dissatisfaction when results are off; 5× (last: 2025-09-05) [refs: mirror/person placement clarifications chatId:`67c12d0365dd4c`; replacement corrections chatId:`a3d77fdf37d84c`]
 
 ## Knowledge & Context
@@ -11,7 +11,7 @@
 - (none)
 
 ### Emerging (recent learning, current focus)
-- (none)
+- enjoys creating photorealistic image edits as pranks for friends; 1× (first: 2025-09-05) [ref: prank explanation chatId:`8ed2439be0c744`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
@@ -23,7 +23,7 @@
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
-- frequently requests image manipulation/editing tasks; 15× (stable since 2025-09-05) [refs: photo editing requests chatId:`67c12d0365dd4c`; image replacement request chatId:`a3d77fdf37d84c`]
+- frequently requests image manipulation/editing tasks; 15× [refs: photo editing requests chatId:`67c12d0365dd4c`; image replacement request chatId:`a3d77fdf37d84c`]
 
 ### Emerging (new query patterns)
 - employs progressive instructions to refine images; 7× (since 2025-09-05) [refs: successive edit instructions chatId:`67c12d0365dd4c`; replacement corrections chatId:`a3d77fdf37d84c`]
