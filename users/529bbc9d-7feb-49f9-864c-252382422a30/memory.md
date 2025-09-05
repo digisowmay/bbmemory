@@ -2,8 +2,8 @@
 ### Durable (established, 3+ reinforcements)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- gives concise, direct-imperative instructions for visual edits; 6× (last: 2025-09-05) [refs: image editing request chatId:`a778fd93a98f47`; bikini variations request chatId:`a87c3354a04842`; green screen stool edit chatId:`f4d819cc531e4a`; bikini art brand variations chatId:`4ae82c3656a049`; current request chatId:`50b6e625837e43`; back shot variation request chatId:`7afb6d94371d44`]
-- requests multiple variations for creative outputs; 4× (last: 2025-09-05) [refs: bikini variations request chatId:`a87c3354a04842`; bikini art brand variations chatId:`4ae82c3656a049`; current request chatId:`50b6e625837e43`; back shot variation request chatId:`7afb6d94371d44`]
+- gives concise, direct-imperative instructions for visual edits; 7× (last: 2025-09-05) [refs: image editing request chatId:`a778fd93a98f47`; bikini variations request chatId:`a87c3354a04842`; green screen stool edit chatId:`f4d819cc531e4a`; bikini art brand variations chatId:`4ae82c3656a049`; current request chatId:`50b6e625837e43`; back shot variation request chatId:`7afb6d94371d44`; latest variation request chatId:`29c70b311b5c4a`]
+- requests multiple variations for creative outputs; 5× (last: 2025-09-05) [refs: bikini variations request chatId:`a87c3354a04842`; bikini art brand variations chatId:`4ae82c3656a049`; current request chatId:`50b6e625837e43`; back shot variation request chatId:`7afb6d94371d44`; latest variation request chatId:`29c70b311b5c4a`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -21,5 +21,5 @@
 ### Durable (regular platform activities)
 
 ### Emerging (new query patterns)
-- requests AI-based image editing/manipulation tasks (pose changes, green screen context); 5× (last: 2025-09-05) [refs: pose change edit chatId:`a778fd93a98f47`; stool bikini edits chatId:`a87c3354a04842`; green screen stool edit chatId:`f4d819cc531e4a`; current request chatId:`50b6e625837e43`; back shot variation request chatId:`7afb6d94371d44`]
+- requests AI-based image editing/manipulation tasks (pose changes, green screen context); 6× (last: 2025-09-05) [refs: pose change edit chatId:`a778fd93a98f47`; stool bikini edits chatId:`a87c3354a04842`; green screen stool edit chatId:`f4d819cc531e4a`; current request chatId:`50b6e625837e43`; back shot variation request chatId:`7afb6d94371d44`; latest variation request chatId:`29c70b311b5c4a`]
 - inquiring about legal implications and tools/models for AI NSFW content; 2× (started: 2025-09-05) [refs: legal question chatId:`a99a7ed46bbe47`; open-source models question chatId:`a99a7ed46bbe47`]
