@@ -4,7 +4,7 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - uses casual slang ("bro") and occasional expletives in requests; 5× (last: 2025-09-04) [refs: upload request chatId:`94950b85921c4f`; Drive upload chatId:`c357e72220bd41`; earlier interaction chatId:`4a71763edf844e`]
-- asks for exact error messages/logs for debugging; 4× (last: 2025-09-05) [refs: agent sync error clarification chatId:`5de3554b8e7d4b`; error request chatId:`5de3554b8e7d4b`]
+- asks for exact error messages/logs for debugging; 5× (last: 2025-09-05) [refs: agent sync error clarification chatId:`5de3554b8e7d4b`; error request chatId:`5de3554b8e7d4b`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -18,7 +18,7 @@
 - (no entries)
 
 ### Emerging (recent behavioral shifts)
-- (no entries)
+- iterative troubleshooting approach; repeatedly requests sync and retest until success; 1× (first: 2025-09-05) [ref: sync-and-try cycles chatId:`5de3554b8e7d4b`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
@@ -27,5 +27,5 @@
 - requests GitHub repository operations (list repos); 3× (last: 2025-09-05) [refs: GitHub repo listing chatId:`c49ec49f168e44`]
 
 ### Emerging (new query patterns)
-- asks about n8n workflows; 5× (last: 2025-09-05) [refs: n8n workflow request chatId:`662655ca620f4e`; adding variables chatId:`8de5cd0244fb45`; sync command chatId:`8de5cd0244fb45`; active workflows request chatId:`f4f5a1438f9042`; n8n agent creation chatId:`5de3554b8e7d4b`]
+- asks about n8n workflows; 8× (since 2025-09-04) [refs: n8n workflow request chatId:`662655ca620f4e`; sync commands chatId:`5de3554b8e7d4b`; active workflows request chatId:`f4f5a1438f9042`]
 - requests code visualization (mermaid diagrams); 2× (last: 2025-09-05) [refs: mermaid diagram requests chatId:`c49ec49f168e44`]
