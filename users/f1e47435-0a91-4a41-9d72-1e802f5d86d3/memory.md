@@ -1,6 +1,6 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- prefiere comunicarse en español; 5× (stable since 2025-09-05) [refs: saludo inicial "Hola"; solicitud "Un retrato de una personas la creas" chatId:`0a19e653307d42`; solicitud "Hacer una persona de cuerpo entero" chatId:`0a19e653307d42`; conversación sobre creación de imagen chatId:`c4f4e4b21eb247`; petición de nueva imagen de mujer blanca ojos azules chatId:`c4f4e4b21eb247`]
+- prefiere comunicarse en español; 6× (stable since 2025-09-05) [refs: saludo inicial "Hola"; solicitud "Un retrato de una personas la creas" chatId:`0a19e653307d42`; solicitud "Hacer una persona de cuerpo entero" chatId:`0a19e653307d42`; conversación sobre creación de imagen chatId:`c4f4e4b21eb247`; petición de nueva imagen de mujer blanca ojos azules chatId:`c4f4e4b21eb247`; saludo "Holq" chatId:`349ea6dc64d84d`]
 
 ### Emerging (new signals, 1-2 reinforcements)
 
