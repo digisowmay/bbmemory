@@ -23,3 +23,4 @@
 
 ### Emerging (new query patterns)
 - exploring bhindi scheduler and automation queries; 11× (since 2025-09-04) [refs: water reminder request chatId:`407648c3c0fe44`; scheduler capability question chatId:`407648c3c0fe44`; usecases request chatId:`407648c3c0fe44`; difference vs background agents chatId:`407648c3c0fe44`; user stats request chatId:`a8af09c9134b4f`; schedule frequency clarification chatId:`a8af09c9134b4f`; tasks vs reminders clarification chatId:`db2af612c1964b`; scheduler usecases with durations chatId:`db2af612c1964b`; follower count reminder chatId:`02f56478730e44`; new usecase generation chatId:`5025398d38bc41`; bolna agent addition chatId:`a183c54dab0b4f`]
+- exploring bolna voice ai for outbound calls; 1× (first: 2025-09-05) [ref: bolna call request chatId:`a183c54dab0b4f`]
