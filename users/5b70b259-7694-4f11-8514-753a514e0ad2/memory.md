@@ -3,6 +3,7 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - provides explicit step-by-step task instructions and updates them iteratively; 2× (last: 2025-09-04) [refs: mailbox cleanup directives chatId:`509b9c79538248`; follow-up "you can continue" chatId:`509b9c79538248`]
+- gives concise link-based requests for automation solutions; 1× (first: 2025-09-05) [ref: SIR bot request chatId:`2d9d3a0e828c4f`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -23,3 +24,4 @@
 ### Emerging (new query patterns)
 - seeks automated email management via Gmail assistant; 1× (since 2025-09-04) [ref: gmail cleanup interaction chatId:`509b9c79538248`]
 - requests creation of Gmail filters for unwanted senders; 1× (first: 2025-09-04) [ref: filter creation confirmation chatId:`509b9c79538248`]
+- seeks form automation bot (SIR) that collects data and emails; 1× (first: 2025-09-05) [ref: SIR bot request chatId:`2d9d3a0e828c4f`]
