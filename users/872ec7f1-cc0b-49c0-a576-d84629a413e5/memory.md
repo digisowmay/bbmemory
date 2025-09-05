@@ -3,7 +3,7 @@
 -  
 
 ### Emerging (new signals, 1-2 reinforcements)
-- uses casual shorthand language; 2× (last: 2025-09-04) [refs: timetable request chatId:`4495d96cf79241`; Notion sharing chatId:`4495d96cf79241`]
+- uses casual shorthand language; 3× (last: 2025-09-04) [refs: timetable request chatId:`4495d96cf79241`; Notion sharing chatId:`4495d96cf79241`; invite confirmation chatId:`4495d96cf79241`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -24,4 +24,4 @@
 -  
 
 ### Emerging (new query patterns)
-- requests automation in Notion; 2× (since 2025-09-04) [refs: timetable request chatId:`4495d96cf79241`; Notion page share chatId:`4495d96cf79241`]
+- requests automation in Notion; 3× (since 2025-09-04) [refs: timetable request chatId:`4495d96cf79241`; Notion page share chatId:`4495d96cf79241`; invite confirmation chatId:`4495d96cf79241`]
