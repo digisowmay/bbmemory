@@ -11,6 +11,7 @@
 
 ### Emerging (recent learning, current focus)
 - seeking to gamify study routine for better memory; 1× (started: 2025-09-05) [ref: gamification request chatId:`4afe77c8bb574d`]
+- learning electronic devices and circuit theory; 1× (started: 2025-09-05) [ref: electronics study goal chatId:`4afe77c8bb574d`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
