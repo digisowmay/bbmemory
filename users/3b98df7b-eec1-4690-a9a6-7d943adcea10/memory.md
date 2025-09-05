@@ -25,5 +25,5 @@
 - None recorded yet
 
 ### Emerging (new query patterns)
-- requests multi-step creative automations & scheduled content delivery (news analysis → playlist generation; tarot draw → image → email); 2× (since 2025-09-04) [refs: news-to-playlist automation chatId:`36a9820690c34d`; tarot daily email setup chatId:`fa840ee4e3d847`]
+- requests multi-step creative automations & scheduled content delivery (news analysis → playlist generation; tarot draw → image → email; handwritten notes → Notion doc); 3× (since 2025-09-04) [refs: news-to-playlist automation chatId:`36a9820690c34d`; tarot daily email setup chatId:`fa840ee4e3d847`; Notion conversion chatId:`73d54061deb64c`]
 - requests social media copy creation (tweets); 1× (first: 2025-09-04) [ref: cult-oriented tweet request chatId:`fa840ee4e3d847`]
