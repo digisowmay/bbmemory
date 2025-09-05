@@ -1,6 +1,6 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- prefers content that highlights user benefits and clear value propositions; 2× [refs: focus on user benefit correction chatId:`6ee76af9b7124a`; reminder to focus on benefits chatId:`6ee76af9b7124a`]
+- prefers content that highlights user benefits and clear value propositions; 3× [refs: focus on user benefit correction chatId:`6ee76af9b7124a`; reminder to focus on benefits chatId:`6ee76af9b7124a`; emphasis on user benefit in AI spotlight chatId:`6ee76af9b7124a`]
 
 ### Emerging (new signals, 1-2 reinforcements)
 - requests no emojis and strictly straightforward language; 1× (first: 2025-09-05) [ref: no emojis instruction chatId:`6ee76af9b7124a`]
@@ -11,7 +11,7 @@
 - focuses on Base ecosystem and crypto AI projects; 1× [ref: recurring recap and spotlight requests chatId:`6ee76af9b7124a`]
 
 ### Emerging (recent learning, current focus)
-- curating AI-on-Base weekly/48h recaps; 1× (started: 2025-09-05) [ref: recap requests chatId:`6ee76af9b7124a`]
+- curating AI-on-Base weekly/48h recaps and "Weekly AI Spotlight" series; 2× (since 2025-09-05) [refs: recap requests chatId:`6ee76af9b7124a`; weekly AI spotlight planning chatId:`6ee76af9b7124a`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
