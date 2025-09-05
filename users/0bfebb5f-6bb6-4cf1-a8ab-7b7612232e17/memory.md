@@ -6,6 +6,7 @@
 ### Emerging (new signals, 1-2 reinforcements)
 - prefers actionable, minimal-explanation responses; 3× (last: 2025-09-05) [refs: scheduling directive, short prompts chatId:`962c55d6d28646`]
 - security-conscious about API usage; requests reduced frequency & browser automation to avoid platform firewalls; 4× (last: 2025-09-05) [refs: adjust scheduler & firewall concern chatId:`962c55d6d28646`]
+- allows assistant to fill in placeholder answers for testing scenarios; 1× (first: 2025-09-05) [ref: delegate FAQ answers chatId:`962c55d6d28646`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -15,6 +16,7 @@
 - frequent questions about Twitch API authentication and automation; 6× (since 2025-09-05) [refs: OAuth troubleshooting chatId:`962c55d6d28646`]
 - integrating Discord webhooks/bots for Twitch milestone notifications; 5× (started: 2025-09-05) [refs: bot & webhook setup chatId:`962c55d6d28646`]
 - owns Discord server (ID 1413161443834073140) and wants milestone notifications in #general (channel ID 1413161445537091668); 2× (last: 2025-09-05) [refs: Discord channel confirmation chatId:`962c55d6d28646`]
+- experimenting with Discord bot setup using broad permissions for test run; 1× (first: 2025-09-05) [ref: bot authorization discussion chatId:`962c55d6d28646`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
@@ -22,6 +24,7 @@
 
 ### Emerging (recent behavioral shifts)
 - cautious about triggering platform security systems; prefers minimal API usage and browser automation; 6× (last: 2025-09-05) [refs: reduce scheduler frequency & firewall concern chatId:`962c55d6d28646`]
+- conducts test runs before finalizing configurations; 1× (observed: 2025-09-05) [ref: acknowledges test run chatId:`962c55d6d28646`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
