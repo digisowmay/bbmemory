@@ -18,6 +18,7 @@
 
 ### Emerging (recent behavioral shifts)
 - prefers rapid, iterative troubleshooting; 1× (first: 2025-09-05) [ref: quick follow-up after staging query chatId:`44bc6910e0504c`]
+- prefers visual data representation (charts) for insights; 1× (first: 2025-09-05) [ref: portfolio performance chart request chatId:`f16dd02528d443`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
@@ -25,4 +26,4 @@
 
 ### Emerging (new query patterns)
 - initiating smoke tests via conversation; 2× (since 2025-09-05) [refs: staging smoke test plan chatId:`44bc6910e0504c`]
-- exploring AI image generation; 1× (first: 2025-09-05) [ref: random image generation request chatId:`e7eea98f4f0e4c`]
+- requests crypto price and portfolio analysis; 1× (first: 2025-09-05) [ref: crypto price request chatId:`f16dd02528d443`]
