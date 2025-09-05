@@ -1,6 +1,6 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- gives very brief, direct imperative instructions; 25× (stable since 2025-08-30) [refs: agent management commands chatId:`656c190d34a544`; Drive retry chatId:`c357e72220bd41`; n8n workflow interactions chatId:`662655ca620f4e`; brief directive chatId:`e1b27463830d43`; repo diagram request chatId:`c49ec49f168e44`; voice call request chatId:`9c2cbd9de44647`]
+- gives very brief, direct imperative instructions; 30× (stable since 2025-08-30) [refs: agent management commands chatId:`656c190d34a544`; Drive retry chatId:`c357e72220bd41`; repeated "now?" polling chatId:`914bd6959db843`]
 - asks for exact error messages/logs for debugging; 7× [refs: error detail request chatId:`5de3554b8e7d4b`; earlier error clarification chatId:`5de3554b8e7d4b`; error detail request chatId:`a78c1acc277b4d`]
 
 ### Emerging (new signals, 1-2 reinforcements)
@@ -18,7 +18,7 @@
 - (no entries)
 
 ### Emerging (recent behavioral shifts)
-- iterative troubleshooting approach; repeatedly requests sync and retest until success; 4× (last: 2025-09-05) [refs: sync-and-try cycles chatId:`5de3554b8e7d4b`]
+- iterative troubleshooting approach; repeatedly requests sync/check until success; 5× (last: 2025-09-06) [refs: sync-and-try cycles chatId:`5de3554b8e7d4b`; repeated polling chatId:`914bd6959db843`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
@@ -28,5 +28,4 @@
 
 ### Emerging (new query patterns)
 - asks about n8n workflows; 9× (since 2025-09-04) [refs: n8n workflow request chatId:`662655ca620f4e`; n8n tools trial chatId:`e1b27463830d43`]
-- requests code visualization (mermaid diagrams); 2× (last: 2025-09-05) [refs: mermaid diagram requests chatId:`c49ec49f168e44`]
 - initiates Bolna voice calls; agent call function; 2× (last: 2025-09-05) [refs: voice call request chatId:`9c2cbd9de44647`; call initiation chatId:`9c2cbd9de44647`]
