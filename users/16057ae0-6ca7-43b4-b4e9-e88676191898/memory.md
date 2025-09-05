@@ -3,14 +3,14 @@
 - 
 
 ### Emerging (new signals, 1-2 reinforcements)
-- provides concise, direct instructions for image edits; 1× (first: 2025-09-05) [ref: image pose change request chatId:`74deb7dfa44d46`]
+- provides concise, direct instructions for image edits; 2× (last: 2025-09-05) [refs: image pose change request chatId:`74deb7dfa44d46`; sexy pose request chatId:`74deb7dfa44d46`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
 - 
 
 ### Emerging (recent learning, current focus)
-- interested in character artwork and pose modifications; 1× (first: 2025-09-05) [ref: request to adjust character pose chatId:`74deb7dfa44d46`]
+- interested in character artwork and pose modifications; 2× (since 2025-09-05) [refs: initial pose adjustment request chatId:`74deb7dfa44d46`; follow-up sexy pose request chatId:`74deb7dfa44d46`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
@@ -24,4 +24,4 @@
 - 
 
 ### Emerging (new query patterns)
-- exploring AI-driven image manipulation/editing; 1× (first: 2025-09-05) [ref: request for new pose via image edit chatId:`74deb7dfa44d46`]
+- exploring AI-driven image manipulation/editing; 2× (since 2025-09-05) [refs: first image edit interaction chatId:`74deb7dfa44d46`; second image edit interaction chatId:`74deb7dfa44d46`]
