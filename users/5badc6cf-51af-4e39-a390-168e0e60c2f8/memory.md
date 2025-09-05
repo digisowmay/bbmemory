@@ -3,8 +3,8 @@
 - provides clear image URLs and explicit edit instructions for visual tasks; 14× (stable since 2025-09-05) [refs: photo editing requests chatId:`67c12d0365dd4c`; image replacement request chatId:`a3d77fdf37d84c`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- gives iterative feedback, requesting precise tweaks until satisfied; 6× (last: 2025-09-05) [refs: multiple correction cycles chatId:`67c12d0365dd4c`]
-- emphasizes correct positioning outside reflections, indicates dissatisfaction when results are off; 3× (last: 2025-09-05) [ref: mirror placement clarification chatId:`67c12d0365dd4c`]
+- gives iterative feedback, requesting precise tweaks until satisfied; 7× (last: 2025-09-05) [refs: multiple correction cycles chatId:`67c12d0365dd4c`; follow-up clarifications chatId:`a3d77fdf37d84c`]
+- emphasizes correct positioning outside reflections, indicates dissatisfaction when results are off; 4× (last: 2025-09-05) [refs: mirror placement clarification chatId:`67c12d0365dd4c`; person swap clarification chatId:`a3d77fdf37d84c`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
