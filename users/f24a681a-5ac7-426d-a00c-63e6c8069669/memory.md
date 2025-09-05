@@ -2,7 +2,7 @@
 ### Durable (established, 3+ reinforcements)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- prefers including required details upfront to avoid back-and-forth; 2× (last: 2025-09-05) [refs: dating agent prompt conversation chatId:`ca5a897ff3c74c`; sample prompt inclusion request chatId:`ca5a897ff3c74c`]
+- prefers including required details upfront to avoid back-and-forth; 3× (last: 2025-09-05) [refs: dating agent prompt conversation chatId:`ca5a897ff3c74c`; sample prompt inclusion request chatId:`ca5a897ff3c74c`; product hunt prompt instruction chatId:`0117ece7933344`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
