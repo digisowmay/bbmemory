@@ -1,10 +1,9 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
--
+- asks for outputs in specific structured sections (title, prompt, tags); 7× (promoted from emerging) [refs: acuweather prompt crafting request chatId:`7684941abceb42`; LinkedIn insight request chatId:`db1b8217c7f74e`; groq transcribe prompt request chatId:`b7af20d6bd764f`; uniswap v4 stats prompt request chatId:`b7af20d6bd764f`; kling-video prompt request chatId:`abdf8c41ffc143`; gcp storage prompt request chatId:`eac7db170ca54d`; hashnode prompt request chatId:`af25040147634d`]
 
 ### Emerging (new signals, 1-2 reinforcements)
 - uses informal shorthand ("u", numeric replies like "2") in requests; 5× (last: 2025-09-05) [refs: LinkedIn insight requests chatId:`db1b8217c7f74e`; acuweather prompt execution chatId:`7684941abceb42`; uniswap stats execution chatId:`b7af20d6bd764f`; prompt for kling-video chatId:`abdf8c41ffc143`]
-- asks for outputs in specific structured sections (title, prompt, tags); 6× (last: 2025-09-05) [refs: acuweather prompt crafting request chatId:`7684941abceb42`; LinkedIn insight request chatId:`db1b8217c7f74e`; groq transcribe prompt request chatId:`b7af20d6bd764f`; uniswap v4 stats prompt request chatId:`b7af20d6bd764f`; kling-video prompt request chatId:`abdf8c41ffc143`; gcp storage prompt request chatId:`eac7db170ca54d`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
