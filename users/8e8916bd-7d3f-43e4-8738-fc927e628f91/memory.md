@@ -2,8 +2,8 @@
 ### Durable (established, 3+ reinforcements)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- يفضل التواصل باللغة العربية؛ 3× (last: 2025-09-06) [refs: genealogy info request chatId:`8283eadc421f48`; follow-up genealogy query chatId:`8283eadc421f48`; latest family name clarification chatId:`8283eadc421f48`]
-- يرسل أحيانًا رسائل بلغة أجنبية غير مفهومة، يحتاج توجيه لكتابة بالعربية/الإنجليزية؛ 2× (since 2025-09-06) [refs: رسائل آيسلندية غير مفهومة chatId:`8283eadc421f48`]
+- يفضل التواصل باللغة العربية؛ 4× (last: 2025-09-06) [refs: genealogy info request chatId:`8283eadc421f48`; follow-up genealogy query chatId:`8283eadc421f48`; latest family name clarification chatId:`8283eadc421f48`; repeated foreign-language messages requiring redirection chatId:`8283eadc421f48`]
+- يرسل أحيانًا رسائل بلغة أجنبية غير مفهومة، يحتاج توجيه لكتابة بالعربية/الإنجليزية؛ 3× (last: 2025-09-06) [refs: رسائل آيسلندية غير مفهومة chatId:`8283eadc421f48`; additional unintelligible messages chatId:`8283eadc421f48`; current session foreign-language inputs chatId:`8283eadc421f48`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
