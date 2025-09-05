@@ -19,6 +19,7 @@
 
 ### Emerging (recent behavioral shifts)
 - seeks high realism in image composites, demanding 100% natural appearance; 2× (observed: 2025-09-05) [refs: “make it look 100% real” requests chatId:`67c12d0365dd4c`]
+- experiment-driven approach; uses tasks primarily as experimentation rather than specific projects; 1× (first: 2025-09-05) [ref: experimentation explanation chatId:`556fe004dcfa43`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
