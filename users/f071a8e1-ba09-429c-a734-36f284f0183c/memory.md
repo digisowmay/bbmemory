@@ -1,7 +1,7 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- prefers outputs/tasks to be short and individual; 5× (stable since 2025-09-05) [refs: GitHub issue creation instruction chatId:`d6d7f5d63ea449`; issue creation on recipient field disappearance chatId:`c9ae0e65c93b40`; PR audit request chatId:`0afe2348bbcb44`; aggregation review chatId:`0afe2348bbcb44`; repository refactor issue chatId:`644cb143bf0e46`]
-- wants assistant to execute linking/sending tasks automatically without additional confirmation; 3× (stable since 2025-09-05) [refs: backroom echo confirmation chatId:`93e01ed7361542`; issue creation on recipient field disappearance chatId:`c9ae0e65c93b40`; repository refactor issue chatId:`644cb143bf0e46`]
+- prefers outputs/tasks to be short and individual; 6× (stable since 2025-09-05) [refs: GitHub issue creation instruction chatId:`d6d7f5d63ea449`; issue creation on recipient field disappearance chatId:`c9ae0e65c93b40`; PR audit request chatId:`0afe2348bbcb44`; aggregation review chatId:`0afe2348bbcb44`; repository refactor issue chatId:`644cb143bf0e46`; issue creation chatId:`49d8ecf6e0b648`]
+- wants assistant to execute linking/sending tasks automatically without additional confirmation; 4× (stable since 2025-09-05) [refs: backroom echo confirmation chatId:`93e01ed7361542`; issue creation on recipient field disappearance chatId:`c9ae0e65c93b40`; repository refactor issue chatId:`644cb143bf0e46`; issue creation chatId:`49d8ecf6e0b648`]
 
 ### Emerging (new signals, 1-2 reinforcements)
 
@@ -21,7 +21,7 @@
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
-- uses assistant to manage GitHub tasks (issues, PR audits) regularly; 6× [refs: issue creation request chatId:`d6d7f5d63ea449`; issue creation on recipient field disappearance chatId:`c9ae0e65c93b40`; PR audit request chatId:`0afe2348bbcb44`; aggregation review chatId:`0afe2348bbcb44`; repository refactor issue chatId:`644cb143bf0e46`; PR audit chatId:`deb062392c8449`]
+- uses assistant to manage GitHub tasks (issues, PR audits) regularly; 7× [refs: issue creation request chatId:`d6d7f5d63ea449`; issue creation on recipient field disappearance chatId:`c9ae0e65c93b40`; PR audit request chatId:`0afe2348bbcb44`; aggregation review chatId:`0afe2348bbcb44`; repository refactor issue chatId:`644cb143bf0e46`; PR audit chatId:`deb062392c8449`; issue creation chatId:`49d8ecf6e0b648`]
 
 ### Emerging (new query patterns)
 - uses assistant to handle backroom echo communications automatically; 1× (first: 2025-09-04) [ref: backroom echo confirmation chatId:`93e01ed7361542`]
