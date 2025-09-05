@@ -4,7 +4,8 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - asks for comprehensive running/testing guides and step-by-step instructions; 1× (last: 2025-09-05) [ref: chatId:`afa7bc7bd9e940`]
-- prefers structured JSON outputs for knowledge bases; 1× (first: 2025-09-05) [ref: chatId:`f18ba6691f4744`]
+- prefers structured JSON outputs for knowledge bases; 2× (last: 2025-09-05) [refs: chatId:`f18ba6691f4744`; chatId:`f18ba6691f4744`]
+- insists on complete, lossless information coverage ("100% info") when requesting data transformations; 1× (first: 2025-09-05) [ref: chatId:`f18ba6691f4744`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
