@@ -1,11 +1,11 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
 - insists no automated agents/tools without explicit permission; 3× (stable since 2025-09-01) [refs: instruction "dont use any agents without asking me"; credit deduction concern; twitter interaction commands chatId:`4bf3b72254ed4d`]
-- concise imperative commands with strong privacy boundaries (shares contact info but refuses sensitive credentials); 3× [refs: tweet & DM commands chatId:`4bf3b72254ed4d`; provided phone number then refused 2FA password chatId:`22aa4e89152d4e`; agent action queries chatId:`da87de65a5024b`]
+- concise imperative commands with strong privacy boundaries; 4× [refs: tweet & DM commands chatId:`4bf3b72254ed4d`; provided phone number then refused 2FA password chatId:`22aa4e89152d4e`; agent action queries chatId:`da87de65a5024b`; coding 7-day plan request chatId:`542de6d6b9f948`]
 
 ### Emerging (new signals, 1-2 reinforcements)
 - prefers incremental, preview-first delivery; 1× (observed: 2025-08-31) [ref: instruction to show first results before full output]
-- asks for step-by-step, non-coding instructions due to limited coding ability; 2× (last: 2025-09-02) [refs: link extraction guidance chatId:`8d924052a5ec43`; Apollo API key instructions chatId:`7d3a748ab6a54f`]
+- asks for step-by-step, non-coding instructions due to limited coding ability; 3× (last: 2025-09-05) [refs: link extraction guidance chatId:`8d924052a5ec43`; Apollo API key instructions chatId:`7d3a748ab6a54f`; coding 7-day plan request chatId:`542de6d6b9f948`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -14,7 +14,7 @@
 ### Emerging (recent learning, current focus)
 - compiling Alliance DAO company data into structured tables; 1× (started: 2025-08-31) [ref: data organization request]
 - exploring CRM setup via Google Sheets agent; 1× (started: 2025-09-01) [ref: Google Sheets agent inquiry chatId:`da87de65a5024b`]
-- non-programmer, limited coding skills; 1× (first: 2025-09-01) [ref: "i cant code" statement chatId:`8d924052a5ec43`]
+- non-programmer, limited coding skills; 2× (since 2025-09-01) [refs: "i cant code" statement chatId:`8d924052a5ec43`; coding 7-day plan request chatId:`542de6d6b9f948`]
 - integrating Apollo agent & API for founder outreach; 1× (started: 2025-09-02) [ref: Apollo API key question chatId:`7d3a748ab6a54f`]
 
 ## Thinking & Working Style
@@ -23,7 +23,7 @@
 
 ### Emerging (recent behavioral shifts)
 - prefers incremental, modular problem-solving; 1× (observed: 2025-08-31) [ref: asked for first few entries before full output]
-- seeks practical, straightforward solutions without technical jargon; 2× (last: 2025-09-02) [refs: request for non-coding link extraction chatId:`8d924052a5ec43`; Apollo API key instructions chatId:`7d3a748ab6a54f`]
+- seeks practical, straightforward solutions without technical jargon; 3× (last: 2025-09-05) [refs: request for non-coding link extraction chatId:`8d924052a5ec43`; Apollo API key instructions chatId:`7d3a748ab6a54f`; coding 7-day plan request chatId:`542de6d6b9f948`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
