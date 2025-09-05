@@ -1,6 +1,6 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- asks for outputs in specific structured sections (title, prompt, tags); 7× (promoted from emerging) [refs: acuweather prompt crafting request chatId:`7684941abceb42`; LinkedIn insight request chatId:`db1b8217c7f74e`; groq transcribe prompt request chatId:`b7af20d6bd764f`; uniswap v4 stats prompt request chatId:`b7af20d6bd764f`; kling-video prompt request chatId:`abdf8c41ffc143`; gcp storage prompt request chatId:`eac7db170ca54d`; hashnode prompt request chatId:`af25040147634d`]
+- asks for outputs in specific structured sections (title, prompt, tags); 8× (promoted from emerging) [refs: acuweather prompt crafting request chatId:`7684941abceb42`; LinkedIn insight request chatId:`db1b8217c7f74e`; groq transcribe prompt request chatId:`b7af20d6bd764f`; uniswap v4 stats prompt request chatId:`b7af20d6bd764f`; kling-video prompt request chatId:`abdf8c41ffc143`; gcp storage prompt request chatId:`eac7db170ca54d`; hashnode prompt request chatId:`af25040147634d`; shopify prompt request chatId:`3d146ee362cb43`]
 
 ### Emerging (new signals, 1-2 reinforcements)
 - uses informal shorthand (e.g., one-word corrections like "google doc*"); 6× (last: 2025-09-05) [refs: LinkedIn insight requests chatId:`db1b8217c7f74e`; acuweather prompt execution chatId:`7684941abceb42`; uniswap stats execution chatId:`b7af20d6bd764f`; prompt for kling-video chatId:`abdf8c41ffc143`; current Google Doc row count chatId:`c3dc7e3b98d249`]
