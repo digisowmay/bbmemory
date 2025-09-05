@@ -10,7 +10,7 @@
 - (no durable knowledge recorded yet)
 
 ### Emerging (recent learning, current focus)
-- (no emerging knowledge recorded yet)
+- familiar with full-stack development; seeking direction on next learning/building steps; 1× (first: 2025-09-05) [ref: chatId:`1999985f63a545`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
