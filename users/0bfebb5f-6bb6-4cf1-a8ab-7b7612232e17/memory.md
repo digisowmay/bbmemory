@@ -5,8 +5,9 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - prefers actionable, minimal-explanation responses; 3× (last: 2025-09-05) [refs: scheduling directive, short prompts chatId:`962c55d6d28646`]
-- security-conscious about API usage; requests reduced frequency & browser automation to avoid platform firewalls; 4× (last: 2025-09-05) [refs: adjust scheduler & firewall concern chatId:`962c55d6d28646`]
-- allows assistant to fill in placeholder answers for testing scenarios; 1× (first: 2025-09-05) [ref: delegate FAQ answers chatId:`962c55d6d28646`]
+- security-conscious about API usage; requests reduced frequency & browser automation to avoid platform firewalls; 7× (last: 2025-09-05) [refs: adjust scheduler & firewall concern chatId:`962c55d6d28646`]
+- allows assistant to fill in placeholder answers for testing scenarios; 2× (last: 2025-09-05) [refs: delegate FAQ answers chatId:`962c55d6d28646`]
+- favors browser automation over direct API calls for social media platforms to bypass IP blocks; 1× (first: 2025-09-05) [ref: browser automation decision chatId:`962c55d6d28646`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
