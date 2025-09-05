@@ -1,6 +1,6 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- tends to communicate in French for creative requests; 4× (stable since 2025-09-05) [ref: logo design conversation chatId:`e3678f3674d145`]
+- tends to communicate in French for creative requests; 5× (stable since 2025-09-05) [refs: logo design conversation chatId:`e3678f3674d145`; business card request chatId:`01b3c472837a4c`]
 
 ### Emerging (new signals, 1-2 reinforcements)
 - corrects small details promptly (e.g., spelling of brand name); 3× (last: 2025-09-05) [ref: name corrections chatId:`e3678f3674d145`]
@@ -24,4 +24,4 @@
 ### Durable (regular platform activities)
 
 ### Emerging (new query patterns)
-- exploring graphic/logo design assistance; 5× (last: 2025-09-05) [ref: multiple logo design assistance chatId:`e3678f3674d145`]
+- exploring graphic/logo design assistance; 6× (last: 2025-09-05) [refs: multiple logo design assistance chatId:`e3678f3674d145`; business card design request chatId:`01b3c472837a4c`]
