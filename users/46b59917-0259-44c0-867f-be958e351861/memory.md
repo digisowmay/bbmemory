@@ -4,6 +4,7 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - asks for targeted project recommendations (e.g., hackathon problem selection); 1× (first: 2025-09-05) [ref: hackathon problem query chatId:`f855d33ff12d41`]
+- shares detailed problem statements for in-depth evaluation and guidance; 1× (first: 2025-09-05) [ref: mental health platform discussion chatId:`f855d33ff12d41`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -12,6 +13,7 @@
 ### Emerging (recent learning, current focus)  
 - experienced with MERN stack and prefers backend development; 1× (first: 2025-09-05) [ref: skills disclosure chatId:`f855d33ff12d41`]
 - learning generative AI (LLMs, agents, RAG); 1× (first: 2025-09-05) [ref: skills disclosure chatId:`f855d33ff12d41`]
+- exploring mental health tech solutions for higher education; 1× (first: 2025-09-05) [ref: problem statement discussion chatId:`f855d33ff12d41`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
