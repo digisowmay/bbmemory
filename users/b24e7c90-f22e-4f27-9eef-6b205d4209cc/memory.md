@@ -1,9 +1,9 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
 - wants notifications clean and user-friendly; explicit confirmations with ': CONFIRM'; 3× (stable since 2025-09-05) [refs: notification confirmation guideline chatId:`fd9763fe2ff24f`; echo response instruction chatId:`44bc6910e0504c`; staging status check chatId:`44bc6910e0504c`]
+- uses informal, playful language with colleagues; emoji fruit greetings, 'bro', 'Yo'; 3× (promoted from emerging) (stable since 2025-09-05) [refs: fruit greeting 'banana 🍌' chatId:`44bc6910e0504c`; 'Yo' staging query chatId:`44bc6910e0504c`; 'yooo' chatId:`fcced81a528e49`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- uses informal, playful language with colleagues; emoji fruit greetings, 'bro', 'Yo'; 2× (last: 2025-09-05) [refs: fruit greeting 'banana 🍌' chatId:`44bc6910e0504c`; staging query 'Yo' message chatId:`44bc6910e0504c`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -26,4 +26,4 @@
 
 ### Emerging (new query patterns)
 - initiating smoke tests via conversation; 2× (since 2025-09-05) [refs: staging smoke test plan chatId:`44bc6910e0504c`]
-- requests crypto price and portfolio analysis; 1× (first: 2025-09-05) [ref: crypto price request chatId:`f16dd02528d443`]
+- requests crypto price and portfolio analysis; 2× (last: 2025-09-05) [refs: crypto price request chatId:`f16dd02528d443`; ETH price request chatId:`fcced81a528e49`]
