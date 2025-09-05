@@ -2,7 +2,7 @@
 ### Durable (established, 3+ reinforcements)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- prefers minimalistic design aesthetics in brainstorming; 1× (first: 2025-09-05) [ref: portfolio brainstorming chatId:`a88eca64f9824d`]
+- prefers minimalistic design aesthetics when brainstorming or requesting resources; 2× (last: 2025-09-05) [refs: portfolio brainstorming chatId:`a88eca64f9824d`; design examples request chatId:`462f5189641143`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
