@@ -26,4 +26,4 @@
 ### Emerging (new query patterns)
 - uses platform to schedule and automate publishing of content; 1× (since 2025-09-05) [ref: scheduling episode chatId:`e4ee68fcf22046`]
 - exploring video and TTS audio generation tools for the cat show; 4× (since 2025-09-05) [refs: video generation request; TTS audio generation request; Egyptian Arabic male voice request; repeated video/audio requests chatId:`e4ee68fcf22046`]
-- exploring AI cartoon generation/animation tools; 1× (first: 2025-09-05) [ref: request for "برنامج بيعمل كرتون ب ai مجاني" chatId:`e4ee68fcf22046`]
+- exploring AI cartoon generation/animation tools; 2× (last: 2025-09-05) [refs: request for "برنامج بيعمل كرتون ب ai مجاني"; follow-up choosing Leonardo AI chatId:`e4ee68fcf22046`]
