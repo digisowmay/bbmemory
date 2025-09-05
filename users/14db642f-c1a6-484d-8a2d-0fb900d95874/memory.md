@@ -1,6 +1,6 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- wants detailed expert-backed analysis before making purchase/booking decisions; 9× (stable since 2025-09-01) [refs: smartphone buying advice; multiple Delhi accommodation queries chatId:`3f05fd8480d94b`; couple getaway suggestion chatId:`888e103d2b4949`; Hogenakkal plan request chatId:`888e103d2b4949`; international courier suggestion chatId:`dfa0d75fc2f74c`; earphone advice chatId:`2302ee4971e444`]
+- wants detailed expert-backed analysis before making purchase/booking decisions; 10× (stable since 2025-09-01) [refs: smartphone buying advice; multiple Delhi accommodation queries chatId:`3f05fd8480d94b`; couple getaway suggestion chatId:`888e103d2b4949`; Hogenakkal plan request chatId:`888e103d2b4949`; international courier suggestion chatId:`dfa0d75fc2f74c`; earphone advice chatId:`2302ee4971e444`; hotel review request chatId:`9459da75c4444c`]
 - prefers direct actionable links (URLs) for recommendations; 5× (stable since 2025-09-01) [refs: Airbnb links request; corridor options request; latest link follow-up chatId:`3f05fd8480d94b`; waterfall suggestions chatId:`888e103d2b4949`]
 
 ### Emerging (new signals, 1-2 reinforcements)
@@ -22,7 +22,7 @@
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
-- requests travel accommodation suggestions (budget Airbnb/hotel); 7× [refs: initial Delhi Airbnb request; links follow-up; corridor accommodation request; Yashobhoomi place chatId:`3f05fd8480d94b`; couple getaway suggestion chatId:`888e103d2b4949`]
+- requests travel accommodation suggestions (budget Airbnb/hotel); 8× [refs: initial Delhi Airbnb request; links follow-up; corridor accommodation request; Yashobhoomi place chatId:`3f05fd8480d94b`; couple getaway suggestion chatId:`888e103d2b4949`; hotel review request chatId:`9459da75c4444c`]
 
 ### Emerging (new query patterns)
 - uses Google Sheets automation via assistant; 1× (first: 2025-09-03) [ref: investor outreach sheet creation chatId:`ff2500dc8c7c47`]
