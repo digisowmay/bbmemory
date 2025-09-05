@@ -1,8 +1,8 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
+- asks for direct assistance with short, concise prompts; 6× (promoted from emerging) (last: 2025-09-06) [refs: chatId:`d77eb4126a6240`; chatId:`c0996c2244974e`; chatId:`b8c4a19da02840`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- asks for direct assistance with short, concise prompts; 5× (last: 2025-09-06) [refs: chatId:`d77eb4126a6240`; chatId:`c0996c2244974e`]
 - prefers structured, step-by-step guidance for tasks; 1× (first: 2025-09-05) [ref: chatId:`c0996c2244974e`]
 
 ## Knowledge & Context
