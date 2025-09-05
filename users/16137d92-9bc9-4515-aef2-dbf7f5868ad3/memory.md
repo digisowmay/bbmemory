@@ -2,7 +2,8 @@
 ### Durable (established, 3+ reinforcements)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- uses direct, detailed imperative instructions; specifies exact output requirements (word count, accent, quality, code formatting); 3× (last: 2025-09-05) [refs: TTS audio request chatId:`5596d52280c448`; blog script TTS request chatId:`350bcf06dc064f`; prompt help request chatId:`285a8a50a7b94c`]
+- uses direct, detailed imperative instructions; specifies exact output requirements (word count, accent, quality); 2× (last: 2025-09-05) [refs: TTS audio request chatId:`5596d52280c448`; blog script TTS request chatId:`350bcf06dc064f`]
+- asks for concise simple English prompts; 1× (first: 2025-09-05) [ref: prompt shortening request chatId:`285a8a50a7b94c`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
