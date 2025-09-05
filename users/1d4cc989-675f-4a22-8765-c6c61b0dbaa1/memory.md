@@ -3,8 +3,8 @@
 - provides raw JSON snippets and screenshots when requesting technical help; 7× (stable since 2025-09-04) [refs: n8n error troubleshooting chatId:`f7b944c87b8849`; n8n workflow duplication chatId:`f5b605e0eb5544`; current workflow fix chatId:`f5b605e0eb5544`; build query issue chatId:`f5b605e0eb5544`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- occasionally pastes full workflow JSON into Code node causing syntax errors; needs explicit "paste code only" guidance; 2× (last: 2025-09-05) [ref: build query syntax error chatId:`f5b605e0eb5544`]
-- requests full code/workflow snippets in responses; 1× (first: 2025-09-05) [ref: asked for entire code chatId:`f5b605e0eb5544`]
+- occasionally pastes full workflow JSON into Code node causing syntax errors; 3× (last: 2025-09-05) [refs: build query syntax error chatId:`f5b605e0eb5544`; repeated JSON paste error chatId:`f5b605e0eb5544`; current "Unexpected token ':'" error chatId:`f5b605e0eb5544`]
+- requests full code/workflow snippets in responses; 2× (last: 2025-09-05) [refs: asked for entire workflow JSON chatId:`f5b605e0eb5544`; asked "can you provide the entire code" chatId:`f5b605e0eb5544`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -18,7 +18,7 @@
 - shares detailed error context to diagnose issues; 6× [refs: n8n error troubleshooting chatId:`f7b944c87b8849`; current error logs chatId:`f5b605e0eb5544`; build query error chatId:`f5b605e0eb5544`]
 
 ### Emerging (recent behavioral shifts)
-- prefers complete solutions (entire code) rather than partial guidance; 1× (first: 2025-09-05) [ref: requested entire workflow JSON chatId:`f5b605e0eb5544`]
+- prefers complete solutions (entire code) rather than partial guidance; 2× (observed 2025-09-05) [refs: requested entire workflow JSON chatId:`f5b605e0eb5544`; requested full code again chatId:`f5b605e0eb5544`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
