@@ -3,7 +3,8 @@
 - _No durable patterns identified yet_
 
 ### Emerging (new signals, 1-2 reinforcements)
-- Direct, "no-bs" requests for comprehensive information in a single response; 1× (first: 2025-09-04) [ref: action plan request chatId:`eaa58cdb3c204c`]
+- Direct, "no-bs" requests for comprehensive information in a single response; 2× (last: 2025-09-05) [refs: action plan & portfolio requests chatId:`eaa58cdb3c204c`]
+- Prefers minimalist, black-and-white lowercase design aesthetics; 1× (first: 2025-09-05) [ref: portfolio style request chatId:`eaa58cdb3c204c`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -17,11 +18,11 @@
 - _No durable patterns identified yet_
 
 ### Emerging (recent behavioral shifts)
-- Highly goal-oriented, prefers concrete action plans over theory; 1× (observed: 2025-09-04) [ref: demanded detailed 100-day plan chatId:`eaa58cdb3c204c`]
+- Highly goal-oriented, prefers concrete action plans over theory; 1× (observed: 2025-09-04) [ref: detailed 100-day plan request chatId:`eaa58cdb3c204c`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
 - _No durable patterns identified yet_
 
 ### Emerging (new query patterns)
-- Requests exhaustive learning roadmaps and free resource lists; 1× (since 2025-09-04) [ref: request for all resources chatId:`eaa58cdb3c204c`]
+- Requests exhaustive learning roadmaps, free resource lists, and code templates; 1× (since 2025-09-04) [ref: resource and code requests chatId:`eaa58cdb3c204c`]
