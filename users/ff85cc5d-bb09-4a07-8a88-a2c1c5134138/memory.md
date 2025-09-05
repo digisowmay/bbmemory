@@ -18,7 +18,7 @@
 - _No notable durable thinking patterns yet_
 
 ### Emerging (recent behavioral shifts)
-- _No notable emerging thinking patterns yet_
+- corrects the assistant when information seems inaccurate; values accurate data; 1× (first: 2025-09-05) [ref: email count correction chatId:`d14a97723c0142`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
