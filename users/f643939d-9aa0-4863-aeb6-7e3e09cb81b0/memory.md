@@ -2,7 +2,7 @@
 ### Durable (established, 3+ reinforcements)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- uses concise one-line commands to request tasks; 1× (first: 2025-09-05) [ref: logo generation request chatId:`decaa7b802ab4f`]
+- uses concise one-line commands to request or give feedback; 2× (last: 2025-09-06) [ref: logo revision feedback "مش عاجني" chatId:`decaa7b802ab4f`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -19,4 +19,4 @@
 ### Durable (regular platform activities)
 
 ### Emerging (new query patterns)
-- requests graphic/logo design tasks; 1× (first: 2025-09-05) [ref: logo generation request chatId:`decaa7b802ab4f`]
+- requests graphic/logo design tasks; 2× (since 2025-09-05) [refs: initial logo request; logo revision feedback chatId:`decaa7b802ab4f`]
