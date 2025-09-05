@@ -8,7 +8,7 @@
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
-- 
+-
 
 ### Emerging (recent learning, current focus)
 - investigating user analytics (CTR, feature usage) to guide Bhindi UX improvements; 2× (since 2025-09-05) [refs: UX research data request chatId:`646cb01cd1ba49`; CTR metrics discussion chatId:`646cb01cd1ba49`]
@@ -24,8 +24,9 @@
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
-- 
+-
 
 ### Emerging (new query patterns)
 - frequently asks for UX research methodologies, user analytics, and data requirements; 2× (since 2025-09-05) [refs: research plan request chatId:`646cb01cd1ba49`; data analysis list chatId:`646cb01cd1ba49`]
 - uses image generation for branding/marketing visuals with iterative feedback; 1× (first: 2025-09-05) [ref: bus branding generation chatId:`646cb01cd1ba49`]
+- exploring video capabilities on the platform (upload, generation, analysis); 1× (first: 2025-09-05) [ref: video upload capability inquiry chatId:`421187642d774f`]
