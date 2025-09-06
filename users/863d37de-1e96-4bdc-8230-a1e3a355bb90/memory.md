@@ -24,7 +24,7 @@
 ### Durable (regular platform activities)
 - frequently requests Google Drive operations (upload, analyze, list); 6× [refs: Drive upload chatId:`c357e72220bd41`; Drive upload chatId:`94950b85921c4f`; earlier Drive upload chatId:`4a71763edf844e`]
 - regularly manages custom agents (create/delete/update); 10× [refs: agent management conversation chatId:`656c190d34a544`; latest agent sync chatId:`325e7e9b563443`; agent creation chatId:`8de5cd0244fb45`]
-- requests GitHub repository operations (list repos); 3× (last: 2025-09-05) [refs: GitHub repo listing chatId:`c49ec49f168e44`]
+- frequently requests Google Forms operations (list forms, check responses); 7× [refs: Forms listing & polling chatId:`914bd6959db843`]
 
 ### Emerging (new query patterns)
 - asks about n8n workflows; 9× (since 2025-09-04) [refs: n8n workflow request chatId:`662655ca620f4e`; n8n tools trial chatId:`e1b27463830d43`]
