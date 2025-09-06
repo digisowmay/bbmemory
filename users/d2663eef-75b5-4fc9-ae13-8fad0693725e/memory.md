@@ -3,6 +3,7 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - gives concise commands in Chinese; prefers Chinese language; 2× (last: 2025-09-05) [ref: image outfit change request chatId:`b47dc28dc7b44a`]
+- actively verifies image edits for accuracy; points out when output doesn’t match original person; 1× (first: 2025-09-05) [ref: mismatch complaint chatId:`b47dc28dc7b44a`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
