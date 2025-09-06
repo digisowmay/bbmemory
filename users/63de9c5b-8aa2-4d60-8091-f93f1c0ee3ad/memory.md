@@ -1,7 +1,7 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- prefers structured, bullet-point, consulting-style answers; 4× [refs: multiple requests for bullet highlights, McKinsey proposal, elevator pitch chatId:`e54be382480547`]
-- iterative refinement requests (e.g., shorter versions, one-liners) to tailor messaging; 3× [refs: requests for 30-second pitch, crib sheet, pain point titles chatId:`e54be382480547`]
+- prefers structured, bullet-point, consulting-style answers; 5× [refs: multiple requests for bullet highlights, McKinsey proposal, elevator pitch, solution framework chatId:`e54be382480547`]
+- iterative refinement requests (e.g., shorter versions, one-liners, next-step frameworks); 4× [refs: requests for 30-second pitch, crib sheet, pain point titles, solution framework chatId:`e54be382480547`]
 
 ### Emerging (new signals, 1-2 reinforcements)
 - seeks detailed description of visuals instead of actual graphics; 2× (last: 2025-09-06) [refs: flow diagram and visualization component requests chatId:`e54be382480547`]
@@ -18,7 +18,7 @@
 - relies on frameworks and structured problem-solving (STAR, phased roadmaps, strategic pillars); 4× [refs: STAR story, phased roadmap, solution framework discussions chatId:`e54be382480547`]
 
 ### Emerging (recent behavioral shifts)
-- adopting global benchmarking mindset for local strategies (avoiding direct region names); 1× (first: 2025-09-06) [ref: request for global best-practice lens without US/EU labels chatId:`e54be382480547`]
+- adopting global benchmarking mindset for local strategies (avoiding direct region names); 2× (last: 2025-09-06) [refs: request for global best-practice lens without region labels chatId:`e54be382480547`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
