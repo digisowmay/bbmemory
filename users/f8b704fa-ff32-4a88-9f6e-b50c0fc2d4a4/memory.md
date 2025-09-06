@@ -3,8 +3,8 @@
 - (no durable patterns yet)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- uses casual shorthand like "u" indicating informal chat style; 6× (last: 2025-09-06) [refs: chatId:`1999985f63a545`]
-- asks for clarifications and prefers step-by-step guidance before starting tasks; 5× (last: 2025-09-06) [refs: chatId:`1999985f63a545`]
+- uses casual shorthand like "u" indicating informal chat style; 7× (last: 2025-09-06) [refs: chatId:`1999985f63a545`]
+- asks for clarifications and prefers step-by-step guidance before starting tasks; 6× (last: 2025-09-06) [refs: chatId:`1999985f63a545`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -21,7 +21,7 @@
 
 ### Emerging (recent behavioral shifts)
 - prefers learning by building hands-on projects and troubleshooting when stuck; 6× (last: 2025-09-06) [refs: chatId:`1999985f63a545`]
-- researches existing UI examples, seeks structured plans, and experiences analysis paralysis at project start; needs very small actionable steps; 4× (last: 2025-09-06) [refs: chatId:`1999985f63a545`]
+- researches existing UI examples, seeks structured plans, and experiences analysis paralysis at project start; needs very small actionable steps; 5× (last: 2025-09-06) [refs: chatId:`1999985f63a545`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
