@@ -10,7 +10,7 @@
 
 ### Emerging (recent learning, current focus)
 - necesita crear un logo para su empresa "Soluciones JB" / "JB Soluciones"; 2× (since 2025-09-06) [refs: repeated logo requests chatId:`5bc69eddc6a941`]
-- prefiere incluir una gota de agua como elemento principal del logo; 1× (first: 2025-09-06) [ref: water-drop reference image chatId:`5bc69eddc6a941`]
+- prefiere una gota de agua redondeada (sin pico) y línea curva blanca como elemento principal del logo; 2× (last: 2025-09-06) [refs: water-drop reference and feedback chatId:`5bc69eddc6a941`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
