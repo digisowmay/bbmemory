@@ -1,8 +1,8 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
+- gives short, direct requests; 3× (promoted from emerging, stable since 2025-09-06) [refs: image hair style request chatId:`fa2c0a0026e643`; "nano banana" request chatId:`6c21dd3841804c`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- gives short, direct requests; 2× (last: 2025-09-06) [ref: image hair style request chatId:`fa2c0a0026e643`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
