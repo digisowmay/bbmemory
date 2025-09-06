@@ -2,7 +2,7 @@
 ### Durable (established, 3+ reinforcements)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- gives short, direct requests; 1× (first: 2025-09-06) [ref: image hair request chatId:`fa2c0a0026e643`]
+- gives short, direct requests; 2× (last: 2025-09-06) [ref: image hair style request chatId:`fa2c0a0026e643`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -18,4 +18,4 @@
 ### Durable (regular platform activities)
 
 ### Emerging (new query patterns)
-- requests image editing on personal photos; 1× (first: 2025-09-06) [ref: hair addition image editing chatId:`fa2c0a0026e643`]
+- requests image editing on personal photos; 2× (last: 2025-09-06) [ref: hair style editing chatId:`fa2c0a0026e643`]
