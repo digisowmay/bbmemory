@@ -4,7 +4,7 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - uses casual shorthand like "u" indicating informal chat style; 5× (last: 2025-09-06) [refs: chatId:`1999985f63a545`]
-- asks for clarifications/elaboration when unfamiliar with a suggestion; 3× (last: 2025-09-06) [refs: chatId:`1999985f63a545`]
+- asks for clarifications/elaboration when unfamiliar with a suggestion; 4× (last: 2025-09-06) [refs: chatId:`1999985f63a545`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -12,7 +12,8 @@
 
 ### Emerging (recent learning, current focus)
 - familiar with full-stack development but seeking guidance on first substantive project; 4× (since 2025-09-05) [refs: chatId:`1999985f63a545`]
-- wants to learn WebSockets/real-time chat features; 1× (first: 2025-09-06) [ref: chatId:`1999985f63a545`]
+- wants to learn WebSockets/real-time chat features; 2× (since 2025-09-06) [refs: chatId:`1999985f63a545`]
+- interested in building a real-time chat app as first full-stack project; 1× (first: 2025-09-06) [ref: chatId:`1999985f63a545`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
@@ -21,10 +22,11 @@
 ### Emerging (recent behavioral shifts)
 - prefers learning by building hands-on projects and troubleshooting issues when stuck; 3× (last: 2025-09-06) [refs: chatId:`1999985f63a545`]
 - researches existing UI examples for conceptual understanding before starting to build; 1× (first: 2025-09-06) [ref: chatId:`1999985f63a545`]
+- seeks a sense of accomplishment/satisfaction from completed projects; 1× (first: 2025-09-06) [ref: chatId:`1999985f63a545`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
 - (no durable platform usage patterns yet)
 
 ### Emerging (new query patterns)
-- asks for coding guidance and project suggestions; 4× (since 2025-09-05) [refs: chatId:`1999985f63a545`]
+- asks for coding guidance and project suggestions; 5× (since 2025-09-05) [refs: chatId:`1999985f63a545`]
