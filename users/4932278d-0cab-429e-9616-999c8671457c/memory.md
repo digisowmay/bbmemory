@@ -1,8 +1,8 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
+- préfère communiquer en français; 6× (stable since 2025-09-06) [refs: French preference in call planning chatId:`0dc9c1d08a1d44`; chatId:`4983e2ba2f1a4a`; scheduling reminder conversation chatId:`4983e2ba2f1a4a`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- préfère communiquer en français; 5× (last: 2025-09-06) [refs: French preference in call planning chatId:`0dc9c1d08a1d44`; chatId:`4983e2ba2f1a4a`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -18,4 +18,4 @@
 ### Durable (regular platform activities)
 
 ### Emerging (new query patterns)
-- requests assistant to schedule calls/reminders; 4× (last: 2025-09-06) [refs: call planning conversation chatId:`0dc9c1d08a1d44`; scheduling reminder request chatId:`4983e2ba2f1a4a`]
+- requests assistant to schedule calls/reminders; 5× (last: 2025-09-06) [refs: call planning conversation chatId:`0dc9c1d08a1d44`; scheduling reminder request chatId:`4983e2ba2f1a4a`]
