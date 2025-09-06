@@ -2,7 +2,7 @@
 ### Durable (established, 3+ reinforcements)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- gives honest corrections and asks for design revisions; 1× (first: 2025-09-06) [ref: logo revision chatId:`fd145403ff7248`]
+- gives honest corrections and asks for design revisions; 2× (last: 2025-09-06) [ref: logo refinement requests chatId:`fd145403ff7248`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
