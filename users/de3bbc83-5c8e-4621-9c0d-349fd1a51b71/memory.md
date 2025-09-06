@@ -9,6 +9,7 @@
 
 ### Emerging (recent learning, current focus)
 - wants to automate daily social media content generation and posting; 1× (started: 2025-09-06) [ref: AI content automation request chatId:`177954ad207f49`]
+- runs company "Complyhub" offering company registration services; 1× (first: 2025-09-06) [ref: company registration post request chatId:`177954ad207f49`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
