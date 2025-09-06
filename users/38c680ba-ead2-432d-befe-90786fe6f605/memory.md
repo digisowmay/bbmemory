@@ -5,7 +5,7 @@
 - expects exhaustive datasets and calls out incomplete summaries; 13× [refs: data drill-down chatId:`4e261e1b31e742`; AWS analysis chatId:`db9b4761e5c242`; recurring schedules audit chatId:`ad6670cfe5b141`; negative credits analysis chatId:`ad6670cfe5b141`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- prefers condensed executive summaries (3-4 paragraphs max) with insight-rich tables; 5× (last: 2025-09-01) [refs: grouping summary chatId:`4e261e1b31e742`; easy-consume report chatId:`db9b4761e5c242`]
+- prefers condensed executive summaries (3-4 paragraphs max) with insight-rich tables; 6× (last: 2025-09-06) [refs: grouping summary chatId:`4e261e1b31e742`; easy-consume report chatId:`db9b4761e5c242`; last-week UTM table chatId:`2a73f4502f8c43`]
 - requests copyable outputs inside code blocks; 1× (first: 2025-09-02) [ref: email list chatId:`04d7a7e287fe46`]
 
 ## Knowledge & Context
