@@ -1,9 +1,9 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- provides very detailed visual instructions for image generation; expects photorealistic results; 3× (promoted from emerging) [refs: UFC champion image request chatId:`9180f7a42f8b40`; dreadlocks portrait request chatId:`2df0af08ef6641`; UFC champion request chatId:`b209d0968ec34b`]
+- provides very detailed visual instructions for image generation; expects photorealistic results; 4× [refs: UFC champion image request chatId:`9180f7a42f8b40`; dreadlocks portrait request chatId:`2df0af08ef6641`; UFC champion request chatId:`b209d0968ec34b`; dreadlocks portrait update chatId:`f7ec447cd90347`]
+- emphasizes keeping their exact facial features unchanged in generated images; 3× (promoted from emerging) [refs: UFC champion request chatId:`b209d0968ec34b`; photorealistic dreadlocks update chatId:`0154f0fc3c9149`; dreadlocks portrait update chatId:`f7ec447cd90347`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- emphasizes keeping their exact facial features unchanged in generated images; 2× (last: 2025-09-06) [refs: UFC champion request chatId:`b209d0968ec34b`; photorealistic dreadlocks update chatId:`0154f0fc3c9149`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -19,6 +19,6 @@
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
-- requests AI-generated photorealistic self-insert images; 4× [refs: UFC champion image request chatId:`9180f7a42f8b40`; dreadlocks portrait request chatId:`2df0af08ef6641`; UFC champion request chatId:`b209d0968ec34b`; photorealistic dreadlocks update chatId:`0154f0fc3c9149`]
+- requests AI-generated photorealistic self-insert images; 5× [refs: UFC champion image request chatId:`9180f7a42f8b40`; dreadlocks portrait request chatId:`2df0af08ef6641`; UFC champion request chatId:`b209d0968ec34b`; photorealistic dreadlocks update chatId:`0154f0fc3c9149`; dreadlocks portrait update chatId:`f7ec447cd90347`]
 
 ### Emerging (new query patterns)
