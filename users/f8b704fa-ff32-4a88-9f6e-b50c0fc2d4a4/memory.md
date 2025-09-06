@@ -20,7 +20,7 @@
 
 ### Emerging (recent behavioral shifts)
 - prefers learning by building hands-on projects and troubleshooting when stuck; 6× (last: 2025-09-06) [refs: chatId:`1999985f63a545`]
-- researches existing UI examples and seeks structured plans before coding; 3× (last: 2025-09-06) [refs: chatId:`1999985f63a545`]
+- researches existing UI examples, seeks structured plans, and experiences analysis paralysis at project start; needs very small actionable steps; 4× (last: 2025-09-06) [refs: chatId:`1999985f63a545`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
