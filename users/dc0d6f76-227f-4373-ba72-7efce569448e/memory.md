@@ -3,26 +3,28 @@
 - 
 
 ### Emerging (new signals, 1-2 reinforcements)
-- prefers Spanish language for requests, concise directives; 1× (first: 2025-09-06) [ref: image generation/editing request chatId:`6df8d6a2d4f848`]
-- requests multiple images and specific edits in one go; 1× (first: 2025-09-06) [ref: "genera 3 imágenes" chatId:`6df8d6a2d4f848`]
+- prefiere lenguaje español y directrices concisas; 2× (last: 2025-09-06) [refs: imagen generada "genera 3 imágenes" chatId:`6df8d6a2d4f848`; petición "usa nano banana" chatId:`3e7f832558ad45`]
+- solicita múltiples imágenes y ediciones específicas en una sola instrucción; 2× (last: 2025-09-06) [refs: misma solicitud de 3 imágenes chatId:`6df8d6a2d4f848`; petición actual chatId:`3e7f832558ad45`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
-- interest in anime-style artwork; 1× (since 2025-09-06) [ref: requested anime sexy images chatId:`6df8d6a2d4f848`]
+- 
 
 ### Emerging (recent learning, current focus)
-- preference for sexy/erotic character poses; 1× (first: 2025-09-06) [ref: "pose más sexy" edit request chatId:`6df8d6a2d4f848`]
+- interés en arte estilo anime; 2× (since 2025-09-06) [refs: solicitud de imágenes anime sexy chatId:`6df8d6a2d4f848`; conversación actual chatId:`3e7f832558ad45`]
+- preferencia por poses sexys/eróticas de personajes; 2× (last: 2025-09-06) [refs: "pose más sexy" chatId:`6df8d6a2d4f848`; "pose más sexy y seductora" chatId:`3e7f832558ad45`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
 - 
 
 ### Emerging (recent behavioral shifts)
-- outcome-focused, gives direct action instructions without requiring explanations; 1× (first: 2025-09-06) [ref: concise generation/edit lines chatId:`6df8d6a2d4f848`]
+- orientado a resultados, da instrucciones de acción directas sin requerir explicaciones; 2× (last: 2025-09-06) [refs: órdenes concisas de generación/edición chatId:`6df8d6a2d4f848`; chatId:`3e7f832558ad45`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
-- uses platform for AI image generation/editing; 1× [ref: multiple tool calls chatId:`6df8d6a2d4f848`]
+- 
 
 ### Emerging (new query patterns)
-- asks for batch outputs (three images at once); 1× (since 2025-09-06) [ref: "genera 3 imágenes" chatId:`6df8d6a2d4f848`]
+- usa la plataforma para generación/edición de imágenes IA; 2× (since 2025-09-06) [refs: sesiones de generación de imágenes chatId:`6df8d6a2d4f848`; chatId:`3e7f832558ad45`]
+- solicita salidas por lotes (tres imágenes a la vez); 2× (since 2025-09-06) [refs: "genera 3 imágenes" chatId:`6df8d6a2d4f848`; petición actual chatId:`3e7f832558ad45`]
