@@ -1,11 +1,11 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
 - gives concise, directive requests and expects brief confirmations; 22× (stable since 2025-08-20) [refs: credit addition chatId:`5c423cfd10b843`; subscription creation chatId:`7857e1a6bece41`; verification instruction chatId:`9fd3ecf40d4b4f`; credit addition chatId:`f7f788b208a44c`; credit addition chatId:`de92a8b61be241`; subscription creation chatId:`8212ad16fd8343`; admin task chatId:`ff3aff88d72643`; subscription add chatId:`6422bdb1759d4a`; current query chatId:`2a73f4502f8c43`]
-- insists on verification and cross-referenced counts before decisions; 5× [refs: AWS completeness follow-up chatId:`db9b4761e5c242`; method explanation chatId:`4e261e1b31e742`]
+- insists on verification and cross-referenced counts before decisions; 6× (last: 2025-09-06) [refs: AWS completeness follow-up chatId:`db9b4761e5c242`; method explanation chatId:`4e261e1b31e742`; aggregated UTM verification chatId:`2a73f4502f8c43`]
 - expects exhaustive datasets and calls out incomplete summaries; 13× [refs: data drill-down chatId:`4e261e1b31e742`; AWS analysis chatId:`db9b4761e5c242`; recurring schedules audit chatId:`ad6670cfe5b141`; negative credits analysis chatId:`ad6670cfe5b141`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- prefers condensed executive summaries (3-4 paragraphs max) with insight-rich tables; 7× (last: 2025-09-06) [refs: grouping summary chatId:`4e261e1b31e742`; easy-consume report chatId:`db9b4761e5c242`; last-week UTM table chatId:`2a73f4502f8c43`]
+- prefers condensed executive summaries (3-4 paragraphs max) with insight-rich tables; 8× (last: 2025-09-06) [refs: grouping summary chatId:`4e261e1b31e742`; easy-consume report chatId:`db9b4761e5c242`; last-week UTM table chatId:`2a73f4502f8c43`]
 - requests copyable outputs inside code blocks; 1× (first: 2025-09-02) [ref: email list chatId:`04d7a7e287fe46`]
 
 ## Knowledge & Context
