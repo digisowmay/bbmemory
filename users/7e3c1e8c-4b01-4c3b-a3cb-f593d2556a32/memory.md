@@ -4,7 +4,7 @@
 - sets explicit short timelines when delegating or promising work; 3× (since 2025-09-02) [refs: 15-minute delivery promise echoId:`b5b17253d2b442`; follow-up timeline echoes chatId:`1e5187f54a6c47`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- dislikes over-hyped language, wants direct minimal comms; 4× (last: 2025-09-06) [refs: drafting email chatId:`ed28c933852c4d`; silence request chatId:`afceeee3ce2249`; merge instructions chatId:`8bf26a672d514f`; instruction chatId:`c2914d79f4bc44`]
+- dislikes over-hyped language, wants direct minimal comms; 5× (last: 2025-09-06) [refs: drafting email chatId:`ed28c933852c4d`; silence request chatId:`afceeee3ce2249`; merge instructions chatId:`8bf26a672d514f`; instruction chatId:`c2914d79f4bc44`; no-reply directive chatId:`c2914d79f4bc44`]
 - provides detailed step-by-step technical instructions including fallback logic; 1× (first: 2025-09-06) [ref: merge & deployment request chatId:`8bf26a672d514f`]
 
 ## Knowledge & Context
@@ -28,5 +28,5 @@
 - queries database via bhindi-mongodb; 6× [refs: execution stats queries chatId:`ed28c933852c4d`]
 
 ### Emerging (new query patterns)
-- executing CI/CD operations via GitHub, ssh-client, and bhindi-agent-manager; 1× (since 2025-09-06) [ref: merge & deployment request chatId:`8bf26a672d514f`]
-- syncing and managing bhindi agents (e.g., bhindi-scheduler-v2) via ops commands; 1× (first: 2025-09-06) [ref: agent sync chatId:`c2914d79f4bc44`]
+- executing CI/CD operations via GitHub, ssh-client, and bhindi-agent-manager; 2× (since 2025-09-06) [refs: merge & deployment request chatId:`8bf26a672d514f`; agent sync commands chatId:`c2914d79f4bc44`]
+- checks crypto prices; Ethereum tracking; 1× (first: 2025-09-06) [ref: Ethereum price request chatId:`3f7773c2bac84c`]
