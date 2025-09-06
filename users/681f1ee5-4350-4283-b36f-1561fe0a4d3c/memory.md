@@ -1,7 +1,7 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- provides very detailed visual instructions for image generation; expects photorealistic results; 9× [refs: dreadlocks portrait request chatId:`6f91cc3dfe8145`; UFC champion image request chatId:`6f91cc3dfe8145`; latest dreadlocks request chatId:`2015dca5333e49`; current dreadlocks request chatId:`cec449b4df5c43`]
-- emphasizes keeping their exact facial features unchanged in generated images; 8× [refs: dreadlocks portrait request chatId:`6f91cc3dfe8145`; UFC champion image request chatId:`6f91cc3dfe8145`; latest dreadlocks request chatId:`2015dca5333e49`; current dreadlocks request chatId:`cec449b4df5c43`]
+- provides very detailed visual instructions for image generation; expects photorealistic results; 10× [refs: dreadlocks portrait request chatId:`cec449b4df5c43`; UFC champion image request chatId:`6f91cc3dfe8145`; latest dreadlocks request chatId:`2015dca5333e49`]
+- emphasizes keeping their exact facial features unchanged in generated images; 9× [refs: dreadlocks portrait request chatId:`cec449b4df5c43`; UFC champion image request chatId:`6f91cc3dfe8145`; latest dreadlocks request chatId:`2015dca5333e49`]
 
 ### Emerging (new signals, 1-2 reinforcements)
 
@@ -15,10 +15,10 @@
 ### Durable (core thinking patterns)
 
 ### Emerging (recent behavioral shifts)
-- imaginative and likes self-insert fantasy scenarios; 4× (last: 2025-09-06) [refs: UFC champion image request chatId:`6f91cc3dfe8145`; dreadlocks portrait request chatId:`6f91cc3dfe8145`; latest dreadlocks request chatId:`2015dca5333e49`; current dreadlocks request chatId:`cec449b4df5c43`]
+- imaginative and likes self-insert fantasy scenarios; 5× (last: 2025-09-06) [refs: dreadlocks portrait request chatId:`cec449b4df5c43`; UFC champion image request chatId:`6f91cc3dfe8145`; latest dreadlocks request chatId:`2015dca5333e49`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
-- requests AI-generated photorealistic self-insert images; 10× [refs: dreadlocks portrait request chatId:`6f91cc3dfe8145`; UFC champion image request chatId:`6f91cc3dfe8145`; latest dreadlocks request chatId:`2015dca5333e49`; current dreadlocks request chatId:`cec449b4df5c43`]
+- requests AI-generated photorealistic self-insert images; 11× [refs: dreadlocks portrait request chatId:`cec449b4df5c43`; UFC champion image request chatId:`6f91cc3dfe8145`; latest dreadlocks request chatId:`2015dca5333e49`]
 
 ### Emerging (new query patterns)
