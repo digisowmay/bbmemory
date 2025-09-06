@@ -3,7 +3,7 @@
 - (none recorded yet)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- prefiere comunicarse en español; 1× (first: 2025-09-05) [ref: Spanish greeting message chatId:`2d576021a62242`]
+- prefiere comunicarse en español; 2× (last: 2025-09-05) [ref: Spanish greeting message chatId:`2d576021a62242`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
