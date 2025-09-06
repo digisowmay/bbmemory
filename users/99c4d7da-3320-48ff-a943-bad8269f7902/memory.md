@@ -4,8 +4,8 @@
 - requests detailed, structured creative prompts (posters, video scripts); 8× (promoted from emerging) [refs: initial video generation prompt chatId:`2c8baf107ac04e`; 8-second scene breakdown chatId:`2c8baf107ac04e`; volleyball video prompt chatId:`90b8eedb749049`; add communications request chatId:`90b8eedb749049`; AI video idea request chatId:`48cdbd20dc9649`; running nervous keypoints request chatId:`48cdbd20dc9649`; cinematic prompt reframe chatId:`48cdbd20dc9649`; timeline prompts request chatId:`48cdbd20dc9649`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- gives immediate corrective feedback when output does not meet expectations; 2× (last: 2025-09-05) [refs: correction on muscular transformation chatId:`0eefbdba75e242`; request to remove t-shirt chatId:`0eefbdba75e242`]
-- prefers sequential timeline-based breakdown in prompts and scripts; 1× (first: 2025-09-07) [ref: timeline prompts request chatId:`48cdbd20dc9649`]
+- gives immediate corrective feedback when output does not meet expectations; 3× (last: 2025-09-07) [refs: correction on muscular transformation chatId:`0eefbdba75e242`; request to remove t-shirt chatId:`0eefbdba75e242`; character info addition request chatId:`48cdbd20dc9649`]
+- prefers sequential timeline-based breakdown in prompts and scripts; 2× (last: 2025-09-07) [refs: timeline prompts request chatId:`48cdbd20dc9649`; 0-2s/2-4s clarification chatId:`48cdbd20dc9649`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
