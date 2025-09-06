@@ -3,7 +3,8 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - requests structured, multi-format deliverables (text + audio) suitable for Slack; 1× (first: 2025-09-06) [ref: investment briefing request chatId:`7388f1a3112145`]
-- requests images to accompany information; 2× (last: 2025-09-06) [refs: Nicolas Cage pictures request chatId:`7388f1a3112145`; follow-up "cant u provide images" chatId:`7388f1a3112145`]
+- requests images to accompany information; 3× (last: 2025-09-06) [refs: Nicolas Cage pictures request chatId:`7388f1a3112145`; follow-up image request chatId:`7388f1a3112145`; dissatisfaction with photos chatId:`7388f1a3112145`]
+- curious about AI functionality and appreciates transparency; 1× (first: 2025-09-06) [ref: comment on how AI works chatId:`7388f1a3112145`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -22,4 +23,4 @@
 
 ### Emerging (new query patterns)
 - requests daily investment briefings with audio narration; 1× (first: 2025-09-06) [ref: investment briefing request chatId:`7388f1a3112145`]
-- occasional celebrity information and image requests; 2× (last: 2025-09-06) [refs: Nicolas Cage info & pictures chatId:`7388f1a3112145`; follow-up image request chatId:`7388f1a3112145`]
+- celebrity information and image requests; 3× (last: 2025-09-06) [refs: Nicolas Cage info & pictures chatId:`7388f1a3112145`; follow-up image request chatId:`7388f1a3112145`; dissatisfaction comment chatId:`7388f1a3112145`]
