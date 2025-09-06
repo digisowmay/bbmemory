@@ -1,10 +1,10 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- prefers sequential timeline-based breakdown in prompts and scripts; 4× (stable since 2025-09-07) [refs: timeline prompts request chatId:`48cdbd20dc9649`; 0-2s/2-4s clarification chatId:`48cdbd20dc9649`; scene continuity update chatId:`48cdbd20dc9649`; latest 4-section refinement chatId:`48cdbd20dc9649`]
-- requests consistent character attributes across sequential prompts; 3× (since 2025-09-07) [refs: character info addition request chatId:`48cdbd20dc9649`; repeated character consistency mention chatId:`48cdbd20dc9649`; current prompt update chatId:`48cdbd20dc9649`]
+- prefers sequential timeline-based breakdown in prompts and scripts; 5× (stable since 2025-09-07) [refs: timeline prompts request chatId:`48cdbd20dc9649`; 0-2s/2-4s clarification chatId:`48cdbd20dc9649`; scene continuity update chatId:`48cdbd20dc9649`; latest 4-section refinement chatId:`48cdbd20dc9649`; current sequential prompts request chatId:`48cdbd20dc9649`]
+- requests consistent character attributes across sequential prompts; 4× (since 2025-09-07) [refs: character info addition request chatId:`48cdbd20dc9649`; repeated character consistency mention chatId:`48cdbd20dc9649`; current prompt updates with same character chatId:`48cdbd20dc9649`; voice & display continuity chatId:`48cdbd20dc9649`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- insists on scene/environment continuity across prompts; 2× (last: 2025-09-07) [refs: asked to align 3rd & 4th prompt continuity chatId:`48cdbd20dc9649`; current location-specific display request chatId:`48cdbd20dc9649`]
+- insists on scene/environment continuity across prompts; 3× (last: 2025-09-07) [refs: asked to align 3rd & 4th prompt continuity chatId:`48cdbd20dc9649`; location-specific display request chatId:`48cdbd20dc9649`; holographic panel same location request chatId:`48cdbd20dc9649`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
