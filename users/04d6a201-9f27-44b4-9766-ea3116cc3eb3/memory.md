@@ -3,7 +3,7 @@
 - none yet
 
 ### Emerging (new signals, 1-2 reinforcements)
-- communicates predominantly in French with concise, directive requests; 1× (first: 2025-09-06) [ref: image modification request chatId:`c56d5b40681245`]
+- communicates predominantly in French with concise, directive requests; 2× (last: 2025-09-06) [refs: image modification request chatId:`c56d5b40681245`; follow-up modification request chatId:`c56d5b40681245`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -24,4 +24,4 @@
 - none yet
 
 ### Emerging (new query patterns)
-- requests image editing/manipulation; 1× (first: 2025-09-06) [ref: image modification conversation chatId:`c56d5b40681245`]
+- requests image editing/manipulation; 2× (last: 2025-09-06) [refs: initial image edit conversation chatId:`c56d5b40681245`; follow-up edit instruction chatId:`c56d5b40681245`]
