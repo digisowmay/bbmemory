@@ -2,8 +2,8 @@
 ### Durable (established, 3+ reinforcements)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- requests images to accompany information; 5× (last: 2025-09-06) [refs: multiple Nicolas Cage photo requests and feedback chatId:`7388f1a3112145`; additional Nicolas Cage image request chatId:`7388f1a3112145`]
-- prefers step-by-step or bullet-point explanations suited for younger audiences; 2× (last: 2025-09-06) [refs: Ansible explanation for 5th-grader chatId:`7388f1a3112145`; request for Ansible alternatives chatId:`7388f1a3112145`]
+- requests images to accompany information; 6× (last: 2025-09-06) [refs: multiple Nicolas Cage photo requests and feedback chatId:`7388f1a3112145`; additional Nicolas Cage image request chatId:`7388f1a3112145`; second Nicolas Cage image request chatId:`7388f1a3112145`]
+- prefers step-by-step or bullet-point explanations suited for younger audiences; 3× (last: 2025-09-06) [refs: Ansible explanation for 5th-grader chatId:`7388f1a3112145`; request for Ansible alternatives chatId:`7388f1a3112145`; further Ansible explanation request chatId:`7388f1a3112145`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
