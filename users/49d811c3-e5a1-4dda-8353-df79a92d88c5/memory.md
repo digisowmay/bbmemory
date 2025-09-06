@@ -11,7 +11,7 @@
 
 ### Emerging (recent learning, current focus)
 - exploring bakery business branding ("Rosanna Pastries", "Wilfred Pastries", "Adonis Pastries and Bakery", "Ileen Bakery", "Isiah Pastries"); 8× (last: 2025-09-06) [refs: bakery logo requests chatId:`85d77bcb92984b`]
-- exploring nonprofit fundraising branding ("Rosanna Fund Raising"); 1× (first: 2025-09-06) [ref: fundraising logo request chatId:`85d77bcb92984b`]
+- exploring nonprofit fundraising branding ("Rosanna Fund Raising", skin cancer focus); 3× (last: 2025-09-06) [refs: fundraising logo requests chatId:`85d77bcb92984b`]
 
 ## Thinking & Working Style
 ### Durable (core patterns)
