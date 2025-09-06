@@ -3,7 +3,7 @@
 - requests concise, action-oriented updates about schedule operations; 8× (stable since 2025-09-01) [refs: schedule deletion confirmation chatId:`85ffbfdfe94742`; cron clarification discussion chatId:`85ffbfdfe94742`; new joke/physics schedule creation chatId:`85ffbfdfe94742`; schedule listing chatId:`6b369771688145`; delete all schedules chatId:`6b1cebcca93d48`; sync operation chatId:`fd93af3ddc694b`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- asks clarifying questions about cron semantics and timing accuracy; 2× (last: 2025-09-06) [refs: every-30-minutes vs :30 discussion chatId:`85ffbfdfe94742`; sub-hourly scheduling request chatId:`36ce0bd5657547`]
+- asks clarifying questions about cron semantics and timing accuracy; 2× (last: 2025-09-06) [refs: every-30-minutes vs :30 discussion chatId:`85ffbfdfe94742`; sub-hour schedule request chatId:`36ce0bd5657547`]
 - demands raw JSON output exactly "as is" and uses strong language when expectations aren't met; 2× (last: 2025-09-02) [refs: agent info JSON request chatId:`d18203936f144e`; prompt re-request with strong language chatId:`d18203936f144e`]
 
 ## Knowledge & Context
