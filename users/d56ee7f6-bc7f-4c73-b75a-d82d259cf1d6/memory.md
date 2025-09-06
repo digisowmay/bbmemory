@@ -3,7 +3,7 @@
 - 
 
 ### Emerging (new signals, 1-2 reinforcements)
-- requests AI-generated images featuring specific scenarios or figures; 1× (first: 2025-09-06) [ref: extremist figure painting request chatId:`dbac9bdd676b44`]
+- requests AI-generated images featuring specific scenarios or figures; 2× (last: 2025-09-06) [refs: extremist figure painting request chatId:`dbac9bdd676b44`; Copacabana Hitler painting request chatId:`6cac6504b3ac4d`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -24,4 +24,4 @@
 - 
 
 ### Emerging (new query patterns)
-- exploring controversial historical figures in AI art; 1× (first: 2025-09-06) [ref: extremist figure painting request chatId:`dbac9bdd676b44`]
+- exploring controversial historical figures in AI art; 2× (last: 2025-09-06) [refs: extremist figure painting request chatId:`dbac9bdd676b44`; Copacabana Hitler painting request chatId:`6cac6504b3ac4d`]
