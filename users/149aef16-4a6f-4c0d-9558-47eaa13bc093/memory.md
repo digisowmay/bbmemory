@@ -3,7 +3,7 @@
 - provides explicit image URLs and concise editing instructions; 5× (stable since 2025-09-05) [refs: image editing request chatId:`cb0abc0587244f`; current request chatId:`a889e3e0917a4c`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- requests large batch edits (10 variants in one go); 2× (last: 2025-09-06) [refs: prior edit request chatId:`cb0abc0587244f`; current request chatId:`a889e3e0917a4c`]
+- requests large batch edits (10 variants in one go); 3× (last: 2025-09-06) [refs: prior edit request chatId:`cb0abc0587244f`; repeated requests chatId:`a889e3e0917a4c`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
