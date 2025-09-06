@@ -5,7 +5,7 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - prefers deliverables in PDF format; 2× (last: 2025-09-04) [refs: PDF request chatId:`b7cf89f791e949`; website guide request chatId:`dde887ed45cf45`]
-- prefers minimalist visuals in automated posts; 1× (first: 2025-09-06) [ref: LinkedIn image style request chatId:`833d7efc4cdf4d`]
+- prefers minimalist visuals in automated posts; 2× (last: 2025-09-06) [refs: LinkedIn image style request chatId:`833d7efc4cdf4d`; follow-up image requirement chatId:`833d7efc4cdf4d`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -21,7 +21,7 @@
 
 ### Emerging (recent behavioral shifts)
 - prefers automated, scheduled solutions to handle recurring content tasks; 5× (observed: 2025-09-03) [refs: scheduler creation chatId:`f9932d9146d143`; schedule update chatId:`f9932d9146d143`; background run question chatId:`f9932d9146d143`; LinkedIn automation schedule chatId:`833d7efc4cdf4d`; current automation confirmation chatId:`833d7efc4cdf4d`]
-- iterative tweaking: requests rapid adjustments until satisfied (e.g., multiple time changes); 3× (last: 2025-09-06) [refs: schedule adjustments chatId:`833d7efc4cdf4d`; time-change commands chatId:`833d7efc4cdf4d`; image inclusion update chatId:`833d7efc4cdf4d`]
+- iterative tweaking: requests rapid adjustments until satisfied; 4× (last: 2025-09-06) [refs: schedule adjustments chatId:`833d7efc4cdf4d`; time-change commands chatId:`833d7efc4cdf4d`; image inclusion update chatId:`833d7efc4cdf4d`; recent fix after missing image chatId:`833d7efc4cdf4d`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
