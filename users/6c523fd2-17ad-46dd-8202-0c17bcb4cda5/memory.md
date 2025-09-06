@@ -5,6 +5,7 @@
 ### Emerging (new signals, 1-2 reinforcements)
 - requests structured, detailed scripts with hooks, timestamps, and b-roll; 1× (first: 2025-09-06) [ref: YouTube script request chatId:`4785dd8df3b64e`]
 - prefers educational, witty, no-nonsense tone with Hinglish phrases; 1× (first: 2025-09-06) [ref: script request chatId:`4785dd8df3b64e`]
+- requests clear, actionable automations for daily routine tasks (e.g., voice email summaries); 1× (first: 2025-09-06) [ref: automation setup chatId:`802f8e6c3c834e`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -12,6 +13,7 @@
 
 ### Emerging (recent learning, current focus)
 - creating personal finance content for Indian Gen Z audience; 1× (started: 2025-09-06) [ref: YouTube script request chatId:`4785dd8df3b64e`]
+- aims to streamline inbox management with automated voice updates; 1× (started: 2025-09-06) [ref: automation setup chatId:`802f8e6c3c834e`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
@@ -19,6 +21,7 @@
 
 ### Emerging (recent behavioral shifts)
 - values concise yet comprehensive deliverables with clear structures; 1× (observed: 2025-09-06) [ref: script request chatId:`4785dd8df3b64e`]
+- favors automation to improve efficiency and reduce manual effort; 1× (observed: 2025-09-06) [ref: automation setup chatId:`802f8e6c3c834e`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
@@ -26,3 +29,4 @@
 
 ### Emerging (new query patterns)
 - asks for content creation assets (YouTube scripts) with detailed structure; 1× (since 2025-09-06) [ref: script request chatId:`4785dd8df3b64e`]
+- requests automation/scheduling tasks for personal productivity; 1× (since 2025-09-06) [ref: automation setup chatId:`802f8e6c3c834e`]
