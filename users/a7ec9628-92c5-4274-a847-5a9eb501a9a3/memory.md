@@ -27,3 +27,4 @@
 
 ### Emerging (new query patterns)
 - using reminder scheduling for personal routines (study, gym); 3× (last: 2025-09-06) [refs: reminder scheduling chatId:`c8a7752e80be43`]
+- requests anime/manga image generation; 1× (first: 2025-09-06) [ref: image generation request chatId:`c8a7752e80be43`]
