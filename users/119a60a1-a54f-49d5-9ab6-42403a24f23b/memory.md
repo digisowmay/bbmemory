@@ -18,3 +18,4 @@
 ### Durable (regular platform activities)
 
 ### Emerging (new query patterns)
+- exploring AI platform capabilities; differences between AI chatbots; 1× (first: 2025-09-06) [ref: question "how you are diff from other ai chat" chatId:`0c97c5f9448847`]
