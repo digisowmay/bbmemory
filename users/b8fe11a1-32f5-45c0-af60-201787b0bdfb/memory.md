@@ -5,6 +5,7 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - professional-level finishing touches ("make it look shot by a professional photographer"); 3× (last: 2025-09-02) [refs: vintage photo pro quality request chatId:`aa5c18b33ed044`; professional quality enhanced photo request chatId:`aa5c18b33ed044`; dramatic sky enhancement request chatId:`aa5c18b33ed044`]
+- occasionally switches to Swedish for instructions; comfortable with bilingual (English/Swedish) interaction; 1× (first: 2025-09-06) [ref: new portrait request in Swedish chatId:`2f5cda51f2dc46`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
