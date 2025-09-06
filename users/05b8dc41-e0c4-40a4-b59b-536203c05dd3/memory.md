@@ -1,10 +1,10 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- asks for simplified explanations of technical course content; 11× (stable since 2025-09-06) [refs: ML lecture clarification requests chatId:`1e9b5888a4504b`; follow-up formula breakdowns chatId:`1e9b5888a4504b`]
+- asks for simplified explanations of technical course content; 12× (stable since 2025-09-06) [refs: ML lecture clarification requests chatId:`1e9b5888a4504b`; follow-up formula breakdowns chatId:`1e9b5888a4504b`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- requests downloadable PDF/cheat-sheet versions of explanations; 4× (last: 2025-09-06) [refs: PDF generation requests chatId:`1e9b5888a4504b`; Overleaf link request chatId:`1e9b5888a4504b`; LaTeX PDF request chatId:`1e9b5888a4504b`; new PDF request chatId:`1e9b5888a4504b`]
-- requests complete LaTeX code snippets for copy-paste; 2× (last: 2025-09-06) [refs: LaTeX content requests chatId:`1e9b5888a4504b`]
+- requests downloadable PDF/cheat-sheet versions of explanations; 5× (last: 2025-09-06) [refs: PDF generation requests chatId:`1e9b5888a4504b`; Overleaf link request chatId:`1e9b5888a4504b`; LaTeX PDF request chatId:`1e9b5888a4504b`; new PDF request chatId:`1e9b5888a4504b`; link clarification chatId:`1e9b5888a4504b`]
+- requests complete LaTeX code snippets for copy-paste; 3× (last: 2025-09-06) [refs: LaTeX content requests chatId:`1e9b5888a4504b`; content resend chatId:`1e9b5888a4504b`; Overleaf template replacement chatId:`1e9b5888a4504b`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -22,5 +22,5 @@
 ### Durable (regular platform activities)
 
 ### Emerging (new query patterns)
-- seeks generation of study materials in PDF format; 4× (since 2025-09-06) [refs: PDF generation requests chatId:`1e9b5888a4504b`; Overleaf link creation chatId:`1e9b5888a4504b`; LaTeX PDF request chatId:`1e9b5888a4504b`; new PDF request chatId:`1e9b5888a4504b`]
-- uses Overleaf/LaTeX to edit study materials; 2× (since 2025-09-06) [refs: Overleaf project link requests chatId:`1e9b5888a4504b`; LaTeX content copy requests chatId:`1e9b5888a4504b`]
+- seeks generation of study materials in PDF format; 5× (since 2025-09-06) [refs: PDF generation requests chatId:`1e9b5888a4504b`; Overleaf link creation chatId:`1e9b5888a4504b`; LaTeX PDF request chatId:`1e9b5888a4504b`; new PDF request chatId:`1e9b5888a4504b`; link clarification chatId:`1e9b5888a4504b`]
+- uses Overleaf/LaTeX to edit study materials; 3× (since 2025-09-06) [refs: Overleaf project link requests chatId:`1e9b5888a4504b`; LaTeX content copy requests chatId:`1e9b5888a4504b`; content resend chatId:`1e9b5888a4504b`]
