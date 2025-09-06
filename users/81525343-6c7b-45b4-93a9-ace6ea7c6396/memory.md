@@ -3,6 +3,7 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - requests structured, multi-format deliverables (text + audio) suitable for Slack; 1× (first: 2025-09-06) [ref: investment briefing request chatId:`7388f1a3112145`]
+- requests images to accompany information; 1× (first: 2025-09-06) [ref: Nicolas Cage pictures request chatId:`7388f1a3112145`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -21,3 +22,4 @@
 
 ### Emerging (new query patterns)
 - requests daily investment briefings with audio narration; 1× (first: 2025-09-06) [ref: investment briefing request chatId:`7388f1a3112145`]
+- occasional celebrity information and image requests; 1× (first: 2025-09-06) [ref: Nicolas Cage info & pictures chatId:`7388f1a3112145`]
