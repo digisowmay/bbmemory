@@ -27,4 +27,4 @@
 
 ### Emerging (new query patterns)
 - directly requests raw MongoDB queries for schedule insights; 2× (since 2025-09-02) [refs: mongodb detail request chatId:`85ffbfdfe94742`; water/pee detail request chatId:`85ffbfdfe94742`]
-- requests internal agent configuration details and performs sync operations; 4× (last: 2025-09-03) [refs: scheduler agent info request chatId:`d18203936f144e`; agent sync operation chatId:`d18203936f144e`; sync agents request chatId:`c99642772cc749`; scheduler agent sync chatId:`6b1cebcca93d48`]
+- requests internal agent configuration details and performs sync operations; 5× (last: 2025-09-06) [refs: scheduler agent info request chatId:`d18203936f144e`; agent sync operation chatId:`d18203936f144e`; sync agents request chatId:`c99642772cc749`; scheduler agent sync chatId:`6b1cebcca93d48`; agent sync operation chatId:`fd93af3ddc694b`]
