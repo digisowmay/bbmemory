@@ -3,6 +3,7 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - asks for step-by-step technical workflow instructions to build automation agents; 2× (last: 2025-09-07) [refs: n8n AI agent request chatId:`a0afa39cf13247`; enhancement request chatId:`a0afa39cf13247`]
+- requests ready-to-import single JSON workflow files for n8n; 1× (first: 2025-09-07) [ref: single JSON file request chatId:`a0afa39cf13247`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
