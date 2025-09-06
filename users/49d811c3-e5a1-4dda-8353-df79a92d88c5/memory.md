@@ -1,6 +1,6 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- concise, straightforward requests; 13× (stable since 2025-09-06) [refs: multiple logo generation chats chatId:`85d77bcb92984b`]
+- concise, straightforward requests; 14× (stable since 2025-09-06) [refs: multiple logo generation chats chatId:`85d77bcb92984b`; new "Ajit Pastries" request chatId:`cad9fdf0c8f84e`]
 
 ### Emerging (new signals, 1-2 reinforcements)
 - _none at this time_
@@ -10,19 +10,18 @@
 - _none yet_
 
 ### Emerging (recent learning, current focus)
-- exploring bakery business branding ("Rosanna Pastries", "Wilfred Pastries", "Adonis Pastries and Bakery", "Ileen Bakery", "Isiah Pastries"); 8× (last: 2025-09-06) [refs: bakery logo requests chatId:`85d77bcb92984b`]
-- exploring nonprofit fundraising branding ("Rosanna Fund Raising", skin cancer focus); 6× (last: 2025-09-06) [refs: fundraising logo requests chatId:`85d77bcb92984b`]
+- exploring bakery business branding ("Rosanna Pastries", "Wilfred Pastries", "Adonis Pastries and Bakery", "Ileen Bakery", "Isiah Pastries", "Ajit Pastries"); 9× (last: 2025-09-06) [refs: bakery logo requests chatId:`85d77bcb92984b`; latest logo request chatId:`cad9fdf0c8f84e`]
 
 ## Thinking & Working Style
 ### Durable (core patterns)
-- seeks creative visual solutions quickly; 13× (consistent pattern) [refs: rapid logo generation iterations chatId:`85d77bcb92984b`]
+- seeks creative visual solutions quickly; 14× (consistent pattern) [refs: rapid logo generation iterations chatId:`85d77bcb92984b`; "Ajit Pastries" logo generation chatId:`cad9fdf0c8f84e`]
 
 ### Emerging (recent behavioral shifts)
 - _none at this time_
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
-- requesting design asset generation (logo creation); 13× [refs: multiple logo generation chatId:`85d77bcb92984b`]
+- requesting design asset generation (logo creation); 14× [refs: multiple logo generation chatId:`85d77bcb92984b`; new logo generation chatId:`cad9fdf0c8f84e`]
 
 ### Emerging (new query patterns)
 - _none at this time_
