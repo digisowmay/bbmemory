@@ -5,7 +5,8 @@
 - prefers visual/diagrammatic deliverables and detailed visual descriptions; 3× (promoted from emerging, last: 2025-09-06) [refs: flow diagram request, visualization component suggestions, HTML visual page generation chatId:`e54be382480547`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- requests executable code snippets for deliverables (e.g., HTML pages); 1× (first: 2025-09-06) [ref: HTML visualization page creation chatId:`e54be382480547`]
+- requests executable code snippets for deliverables (e.g., HTML pages); 2× (last: 2025-09-06) [refs: HTML visualization page creation, HTML access guidance chatId:`e54be382480547`]
+- asks for explicit, step-by-step instructions to access/run provided outputs; 1× (first: 2025-09-06) [ref: "how can i get access to see these result" chatId:`e54be382480547`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -26,4 +27,4 @@
 - frequently seeks interview preparation content and consulting deliverables; 3× [refs: interview question lists, positioning pitches, proposal drafts chatId:`e54be382480547`]
 
 ### Emerging (new query patterns)
-- exploring visualization techniques (flow diagrams, infographics, HTML prototypes) to communicate GIS strategies; 2× (since 2025-09-06) [refs: visualization component requests, HTML page generation chatId:`e54be382480547`]
+- exploring visualization techniques (flow diagrams, infographics, HTML prototypes) to communicate GIS strategies; 3× (since 2025-09-06) [refs: visualization component requests, HTML page generation, access instructions chatId:`e54be382480547`]
