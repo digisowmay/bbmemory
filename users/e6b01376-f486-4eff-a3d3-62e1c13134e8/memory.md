@@ -2,7 +2,7 @@
 ### Durable (established, 3+ reinforcements)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- gives brief, direct requests with minimal punctuation and some misspellings; 1× (first: 2025-09-07) [ref: image realism request chatId:`058e1f4ff9f14c`]
+- gives brief, direct requests with minimal punctuation and misspellings; 2× (last: 2025-09-07) [refs: image realism request; Lonavala waterfalls request chatId:`058e1f4ff9f14c`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -18,4 +18,4 @@
 ### Durable (regular platform activities)
 
 ### Emerging (new query patterns)
-- exploring AI image generation and prefers realistic, unpolished outputs over overly stylized renders; 1× (first: 2025-09-07) [ref: realism preference chatId:`058e1f4ff9f14c`]
+- exploring AI image generation and prefers realistic, unpolished outputs over overly stylized renders; 2× (since 2025-09-07) [refs: realism preference requests for Rishikesh and Lonavala images chatId:`058e1f4ff9f14c`]
