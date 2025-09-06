@@ -4,8 +4,8 @@
 - sets explicit short timelines when delegating or promising work; 3× (since 2025-09-02) [refs: 15-minute delivery promise echoId:`b5b17253d2b442`; follow-up timeline echoes chatId:`1e5187f54a6c47`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- promptly acknowledges counterparts to keep momentum; 2× (last: 2025-09-03) [refs: hola response echoId:`b5b17253d2b442`; conversation closure chatId:`1e5187f54a6c47`]
-- dislikes over-hyped language, detailed or redundant messages; wants direct minimal comms, including no unnecessary acknowledgments; 3× (last: 2025-09-06) [refs: drafting email chatId:`ed28c933852c4d`; silence request chatId:`afceeee3ce2249`; current exchange chatId:`df98eedf18da42`]
+- dislikes over-hyped language, wants direct minimal comms; 3× (last: 2025-09-06) [refs: drafting email chatId:`ed28c933852c4d`; silence request chatId:`afceeee3ce2249`; current merge instructions chatId:`8bf26a672d514f`]
+- provides detailed step-by-step technical instructions including fallback logic; 1× (first: 2025-09-06) [ref: merge & deployment request chatId:`8bf26a672d514f`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -13,13 +13,14 @@
 
 ### Emerging (recent learning, current focus)
 - leading AI-powered on-the-fly email campaign setup; 1× (started: 2025-09-02) [ref: campaign discussion echoId:`e4d11b74767d47`]
+- orchestrates GitHub branch management and production deployments for bhindi-agents; 1× (first: 2025-09-06) [ref: merge & deployment request chatId:`8bf26a672d514f`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
 - prioritizes speed and efficiency; commits to quick turnarounds; 4× [refs: 15-minute draft promise echoId:`b5b17253d2b442`; scheduling messages chatId:`1e5187f54a6c47`]
 
 ### Emerging (recent behavioral shifts)
-- —
+- anticipates failures and specifies retry or fallback steps in instructions; 1× (first: 2025-09-06) [ref: retry on 502 errors chatId:`8bf26a672d514f`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
@@ -27,4 +28,4 @@
 - queries database via bhindi-mongodb; 6× [refs: execution stats queries chatId:`ed28c933852c4d`]
 
 ### Emerging (new query patterns)
-- —
+- executing CI/CD operations via GitHub, ssh-client, and bhindi-agent-manager; 1× (since 2025-09-06) [ref: merge & deployment request chatId:`8bf26a672d514f`]
