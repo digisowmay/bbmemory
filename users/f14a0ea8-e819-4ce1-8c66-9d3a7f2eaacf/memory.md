@@ -19,6 +19,7 @@
 
 ### Emerging (recent behavioral shifts)
 - Emphasizes consistency parameters in creative tasks (asks to keep image consistent); 2× (last: 2025-09-06) [refs: image editing requests chatId:`a941ec111e8f41`]
+- Persistent with task completion; reissues requests and asks to redo when outputs are missing or unsatisfactory; 1× (first: 2025-09-06) [refs: follow-up "no me diste las imagenes" chatId:`a941ec111e8f41`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
