@@ -18,6 +18,7 @@
 
 ### Emerging (recent behavioral shifts)
 - Delegates technical tasks (Google Form setup) to assistant, focusing on content; 4× (observed: 2025-09-06) [refs: form setup chatId:`1f64834b2afd45`; duplicate removal chatId:`1f64834b2afd45`; current form creation chatId:`2bb9a44e3da04d`]
+- Detail-oriented; verifies outputs and flags missing content; 1× (observed: 2025-09-06) [ref: form question verification chatId:`2bb9a44e3da04d`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
