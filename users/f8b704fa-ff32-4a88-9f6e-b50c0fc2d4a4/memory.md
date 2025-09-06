@@ -13,6 +13,7 @@
 ### Emerging (recent learning, current focus)
 - building HTTP-based chat app using Node.js, React/Next.js, TypeScript; plans to add Clerk auth now and WebSockets later; 2× (since 2025-09-06) [refs: chatId:`1999985f63a545`]
 - intends to learn WebSockets and real-time features to enhance chat app; 4× (since 2025-09-06) [refs: chatId:`1999985f63a545`]
+- selected PostgreSQL with Prisma ORM and Clerk for authentication for chat app; 1× (first: 2025-09-06) [refs: chatId:`1999985f63a545`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
