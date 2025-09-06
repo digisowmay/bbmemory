@@ -11,6 +11,7 @@
 
 ### Emerging (recent learning, current focus)
 - speaks Turkish as well as English; 1× (first: 2025-09-06) [ref: "merhaba" usage chatId:`b13a25e8ebfe48`]
+- interested in PHP development; requests sample code; 1× (first: 2025-09-06) [ref: asked for PHP example code chatId:`b13a25e8ebfe48`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
@@ -24,4 +25,4 @@
 -  
 
 ### Emerging (new query patterns)
--  
+- requests coding examples and technical help, especially PHP; 1× (since 2025-09-06) [ref: asked for PHP example code chatId:`b13a25e8ebfe48`]
