@@ -3,7 +3,7 @@
 - (no durable patterns identified yet)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- provides explicit image URLs and concise editing instructions; 1× (first: 2025-09-06) [ref: image editing request chatId:`c3a7b0aae30f48`]
+- provides explicit image URLs and concise editing instructions; 2× (last: 2025-09-05) [refs: image editing request chatId:`90d2a4d4d21f4d`; previous request chatId:`c3a7b0aae30f48`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -24,4 +24,4 @@
 - (no durable query patterns identified yet)
 
 ### Emerging (new query patterns)
-- requests AI image editing for more seductive/fanart images; 1× (first: 2025-09-06) [ref: image editing request chatId:`c3a7b0aae30f48`]
+- requests AI image editing for more seductive/fanart images; 2× (since 2025-09-05) [refs: image editing request chatId:`90d2a4d4d21f4d`; previous request chatId:`c3a7b0aae30f48`]
