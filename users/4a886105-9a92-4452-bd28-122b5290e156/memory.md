@@ -1,6 +1,6 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- requests concise, action-oriented updates about schedule operations; 7× (stable since 2025-09-01) [refs: schedule deletion confirmation chatId:`85ffbfdfe94742`; cron clarification discussion chatId:`85ffbfdfe94742`; new joke/physics schedule creation chatId:`85ffbfdfe94742`]
+- requests concise, action-oriented updates about schedule operations; 8× (stable since 2025-09-01) [refs: schedule deletion confirmation chatId:`85ffbfdfe94742`; cron clarification discussion chatId:`85ffbfdfe94742`; new joke/physics schedule creation chatId:`85ffbfdfe94742`; schedule listing chatId:`6b369771688145`; delete all schedules chatId:`6b1cebcca93d48`; sync operation chatId:`fd93af3ddc694b`]
 
 ### Emerging (new signals, 1-2 reinforcements)
 - asks clarifying questions about cron semantics and timing accuracy; 1× (first: 2025-09-02) [ref: every-30-minutes vs :30 discussion chatId:`85ffbfdfe94742`]
@@ -23,8 +23,8 @@
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
-- frequently manages schedules (create, list, pause, delete) and checks counts; 9× (stable since 2025-09-01) [refs: schedule listing, deletion, id request, new schedule creation chatId:`85ffbfdfe94742`; joke/physics schedule creation; schedule listing chatId:`6b369771688145`; delete all schedules chatId:`6b1cebcca93d48`]
+- frequently manages schedules (create, list, pause, delete) and checks counts; 10× (stable since 2025-09-01) [refs: schedule listing, deletion, id request, new schedule creation chatId:`85ffbfdfe94742`; schedule listing chatId:`6b369771688145`; delete all schedules chatId:`6b1cebcca93d48`; sync operation chatId:`fd93af3ddc694b`]
 
 ### Emerging (new query patterns)
 - directly requests raw MongoDB queries for schedule insights; 2× (since 2025-09-02) [refs: mongodb detail request chatId:`85ffbfdfe94742`; water/pee detail request chatId:`85ffbfdfe94742`]
-- requests internal agent configuration details and performs sync operations; 5× (last: 2025-09-06) [refs: scheduler agent info request chatId:`d18203936f144e`; agent sync operation chatId:`d18203936f144e`; sync agents request chatId:`c99642772cc749`; scheduler agent sync chatId:`6b1cebcca93d48`; agent sync operation chatId:`fd93af3ddc694b`]
+- requests internal agent configuration details and performs sync operations; 4× (last: 2025-09-03) [refs: scheduler agent info request chatId:`d18203936f144e`; agent sync operation chatId:`d18203936f144e`; sync agents request chatId:`c99642772cc749`; scheduler agent sync chatId:`6b1cebcca93d48`]
