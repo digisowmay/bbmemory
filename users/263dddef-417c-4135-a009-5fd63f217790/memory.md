@@ -2,7 +2,7 @@
 ### Durable (established, 3+ reinforcements)
 - provides concise, highly specific visual content instructions (camera angle, lighting, props); 7× [refs: onion image workflow chatId:`eaad0c9c741440`; stone-board daylight request chatId:`eaad0c9c741440`; similar photo request chatId:`1b6a44f6c6cc4a`]
 - instructs assistant to wait for additional user input before proceeding; 3× [refs: onion workflow "send second image" chatId:`eaad0c9c741440`]
-- requires exact replication of reference shots with iterative fine-tune corrections; 11× (last: 2025-09-06) [refs: camera-angle preservation requests; lid color & onion resizing chatId:`eaad0c9c741440`; similar photo request chatId:`1b6a44f6c6cc4a`]
+- requires exact replication of reference shots with iterative fine-tune corrections; 12× (last: 2025-09-06) [refs: camera-angle preservation requests; lid color & onion resizing chatId:`eaad0c9c741440`; similar photo request chatId:`1b6a44f6c6cc4a`]
 
 ### Emerging (new signals, 1-2 reinforcements)
 
@@ -21,6 +21,6 @@
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
-- requests AI-generated realistic food images frequently; 8× [refs: baked onions image requests; lid color change; zucchini chips edits chatId:`eaad0c9c741440`; similar photo request chatId:`1b6a44f6c6cc4a`]
+- requests AI-generated realistic food images frequently; 9× [refs: baked onions image requests; lid color change; zucchini chips edits chatId:`eaad0c9c741440`; similar photo request chatId:`1b6a44f6c6cc4a`]
 
 ### Emerging (new query patterns)
