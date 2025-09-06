@@ -3,7 +3,7 @@
 - (none recorded yet)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- prefiere comunicarse en español; 3× (last: 2025-09-05) [ref: Spanish communication chatId:`2d576021a62242`]
+- prefiere comunicarse en español; 4× (last: 2025-09-06) [ref: Spanish communication chatId:`2d576021a62242`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -24,4 +24,4 @@
 - (none recorded yet)
 
 ### Emerging (new query patterns)
-- (none recorded yet)
+- buscando hacer amistades internacionales en Colombia; 1× (first: 2025-09-06) [ref: friend search request chatId:`2d576021a62242`]
