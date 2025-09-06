@@ -4,7 +4,7 @@
 - sets explicit short timelines when delegating or promising work; 3× (since 2025-09-02) [refs: 15-minute delivery promise echoId:`b5b17253d2b442`; follow-up timeline echoes chatId:`1e5187f54a6c47`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- dislikes over-hyped language, wants direct minimal comms; 3× (last: 2025-09-06) [refs: drafting email chatId:`ed28c933852c4d`; silence request chatId:`afceeee3ce2249`; current merge instructions chatId:`8bf26a672d514f`]
+- dislikes over-hyped language, wants direct minimal comms; 4× (last: 2025-09-06) [refs: drafting email chatId:`ed28c933852c4d`; silence request chatId:`afceeee3ce2249`; merge instructions chatId:`8bf26a672d514f`; instruction chatId:`c2914d79f4bc44`]
 - provides detailed step-by-step technical instructions including fallback logic; 1× (first: 2025-09-06) [ref: merge & deployment request chatId:`8bf26a672d514f`]
 
 ## Knowledge & Context
