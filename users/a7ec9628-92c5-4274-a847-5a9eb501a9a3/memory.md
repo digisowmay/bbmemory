@@ -3,7 +3,8 @@
 - (no durable patterns yet)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- gives concise, direct scheduling commands; 4× (last: 2025-09-06) [ref: reminder commands chatId:`c8a7752e80be43`]
+- gives concise, direct scheduling commands; 5× (last: 2025-09-06) [ref: reminder commands chatId:`c8a7752e80be43`]
+- asks for clarification about system functionality and notifications; 1× (first: 2025-09-06) [ref: clarification questions chatId:`c8a7752e80be43`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
