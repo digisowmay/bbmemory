@@ -2,8 +2,8 @@
 ### Durable (established, 3+ reinforcements)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- concise, direct design generation commands; 5× (last: 2025-09-06) [refs: repeated jersey design and modification requests chatId:`1b938650eb3848`]
-- iterative, detail-oriented customization instructions (sponsor swaps, badge additions, player changes); 3× (since 2025-09-06) [refs: requests to replace Rakuten with Spotify, add 5 UCL badges, change model to Messi chatId:`1b938650eb3848`]
+- concise, direct design generation commands; 6× (last: 2025-09-06) [refs: repeated jersey design and modification requests chatId:`1b938650eb3848`]
+- iterative, detail-oriented customization and view instructions (sponsor swaps, badge additions, player changes, front & back angles); 5× (since 2025-09-06) [refs: changes to sponsor Spotify, add 5 UCL badges, request premium front/back Messi version chatId:`1b938650eb3848`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
