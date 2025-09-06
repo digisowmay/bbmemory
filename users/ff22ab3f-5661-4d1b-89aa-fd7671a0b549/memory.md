@@ -3,6 +3,7 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - prefers interactive, teacher-student style conversations; 1× (first: 2025-09-06) [ref: language learning discussion chatId:`8a1b4dd66e164a`]
+- prefers voice conversation over text when practicing English; 1× (first: 2025-09-06) [ref: stated desire to talk instead of write chatId:`8a1b4dd66e164a`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
