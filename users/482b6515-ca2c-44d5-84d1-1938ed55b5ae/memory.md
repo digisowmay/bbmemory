@@ -4,6 +4,7 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - prefers communicating in Hindi/Urdu (Roman script); 3× (last: 2025-09-03) [refs: chatId:`f834280f7d7b47`]
+- provides detailed cinematic visual prompts for image generation; 1× (first: 2025-09-06) [ref: chatId:`064e8a862ccc4e`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -24,5 +25,5 @@
 - (no durable usage patterns recorded yet)
 
 ### Emerging (new query patterns)
-- exploring creative generation tools (images, videos); 4× (since 2025-09-03) [refs: chatId:`f834280f7d7b47`]
+- exploring creative generation tools (images, videos); 5× (since 2025-09-03) [refs: chatId:`f834280f7d7b47`; chatId:`064e8a862ccc4e`]
 - exploring YouTube Shorts video creation; 1× (started: 2025-09-03) [ref: chatId:`f834280f7d7b47`]
