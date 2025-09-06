@@ -11,9 +11,8 @@
 - (no durable knowledge recorded yet)
 
 ### Emerging (recent learning, current focus)
-- building HTTP-based chat app using Node.js, React/Next.js, TypeScript; plans to add Clerk auth now and WebSockets later; 2× (since 2025-09-06) [refs: chatId:`1999985f63a545`]
-- intends to learn WebSockets and real-time features to enhance chat app; 4× (since 2025-09-06) [refs: chatId:`1999985f63a545`]
-- selected PostgreSQL with Prisma ORM and Clerk for authentication for chat app; 1× (first: 2025-09-06) [refs: chatId:`1999985f63a545`]
+- building HTTP-based chat app with Node.js, React/Next.js, TypeScript, PostgreSQL + Prisma, and Clerk for authentication; plans to add WebSockets later; 4× (since 2025-09-06) [refs: chatId:`1999985f63a545`]
+- primary development environment is Windows laptop using Git Bash and npm/yarn; 1× (first: 2025-09-06) [refs: chatId:`1999985f63a545`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
@@ -21,7 +20,7 @@
 
 ### Emerging (recent behavioral shifts)
 - prefers learning by building hands-on projects and troubleshooting when stuck; 6× (last: 2025-09-06) [refs: chatId:`1999985f63a545`]
-- researches existing UI examples, seeks structured plans, and experiences analysis paralysis at project start; needs very small actionable steps; 5× (last: 2025-09-06) [refs: chatId:`1999985f63a545`]
+- experiences analysis paralysis at project start; needs very small actionable steps; 5× (last: 2025-09-06) [refs: chatId:`1999985f63a545`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
