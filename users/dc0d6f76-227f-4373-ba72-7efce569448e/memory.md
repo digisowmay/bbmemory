@@ -20,6 +20,7 @@
 
 ### Emerging (recent behavioral shifts)
 - orientado a resultados, da instrucciones de acción directas sin requerir explicaciones; 3× (last: 2025-09-06) [refs: órdenes concisas de generación/edición chatId:`6df8d6a2d4f848`; chatId:`3e7f832558ad45`; chatId:`d57f234bcc1145`]
+- persiste y reintenta la misma solicitud tras errores del sistema; 1× (first: 2025-09-06) [ref: retry nano banana request chatId:`d57f234bcc1145`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
