@@ -22,4 +22,4 @@
 
 ### Emerging (new query patterns)
 - seeking local healthcare and diagnostic recommendations; affordable options; 2× (last: 2025-09-05) [refs: diagnostic center query chatId:`9eea28491b7943`; location request chatId:`9eea28491b7943`]
-- searching for US B1/B2 visa interview experiences and embassy processes; 1× (first: 2025-09-06) [ref: visa interview search chatId:`27b24259549c4d`]
+- searching for US B1/B2 visa interview experiences and embassy processes, prefers Reddit sources; 2× (last: 2025-09-06) [refs: visa interview search chatId:`27b24259549c4d`; Reddit check instruction chatId:`27b24259549c4d`]
