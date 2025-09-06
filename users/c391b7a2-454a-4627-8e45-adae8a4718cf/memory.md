@@ -1,6 +1,6 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- issues concise, command-style requests for operational/information tasks (e.g., "search for the tweet", "get me through this part"); 8× (last: 2025-09-06) [refs: calendar request chatId:`8c878adc190646`; discord message instruction chatId:`c318765c11a54b`; diagnostic center location request chatId:`9eea28491b7943`; telegram agent addition chatId:`66cecdc33b2645`; Noam Shazeer quote search chatId:`23de4726c4a94b`]
+- issues concise, command-style requests for operational/information tasks; 9× (last: 2025-09-06) [refs: calendar request chatId:`8c878adc190646`; discord message instruction chatId:`c318765c11a54b`; diagnostic center location request chatId:`9eea28491b7943`; telegram agent addition chatId:`66cecdc33b2645`; Noam Shazeer quote search chatId:`23de4726c4a94b`; visa interview search chatId:`27b24259549c4d`]
 
 ### Emerging (new signals, 1-2 reinforcements)
 
@@ -18,8 +18,8 @@
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
+- searches AI/ML quotes and research references; 3× [refs: Noam Shazeer quote searches chatId:`23de4726c4a94b`; Noam Shazeer quote search chatId:`23de4726c4a94b`; quote reference search chatId:`23de4726c4a94b`]
 
 ### Emerging (new query patterns)
 - seeking local healthcare and diagnostic recommendations; affordable options; 2× (last: 2025-09-05) [refs: diagnostic center query chatId:`9eea28491b7943`; location request chatId:`9eea28491b7943`]
-- uses Telegram integration to send operational messages to teammates; 1× (first: 2025-09-06) [ref: telegram agent addition chatId:`66cecdc33b2645`]
-- searches AI/ML quotes and research references; 3× (last: 2025-09-06) [refs: Noam Shazeer quote searches chatId:`23de4726c4a94b`]
+- searching for US B1/B2 visa interview experiences and embassy processes; 1× (first: 2025-09-06) [ref: visa interview search chatId:`27b24259549c4d`]
