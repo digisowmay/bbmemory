@@ -10,6 +10,7 @@
 
 ### Emerging (recent learning, current focus)
 - involved in evaluating Bhindi app UX/product improvements; 2× (since 2025-09-02) [refs: UX improvement request chatId:`ba2d44bb613f40`; tagline request chatId:`0365b81eb0e740`]
+- currently located in Chennai; 1× (first: 2025-09-06) [ref: location mention chatId:`592359e38ee54a`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
