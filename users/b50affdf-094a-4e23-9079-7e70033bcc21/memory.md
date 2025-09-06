@@ -2,7 +2,7 @@
 ### Durable (established, 3+ reinforcements)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- gives concise design directives with specific parameters (colors, legs, angles); 2× (since 2025-09-06) [refs: sofa design requests chatId:`9ef1ce0f545347`; request for 10 sofa variants chatId:`9ef1ce0f545347`]
+- gives concise design directives with specific parameters (colors, legs, angles); 3× (since 2025-09-06) [refs: sofa design requests chatId:`9ef1ce0f545347`; request for 10 sofa variants chatId:`9ef1ce0f545347`; chandelier prompt chatId:`9ef1ce0f545347`]
 - asks explicitly about tool limitations and respects policy refusals; 2× (since 2025-09-07) [refs: prompt limitations question chatId:`9ef1ce0f545347`; acceptance of refusal to create bikini image chatId:`9ef1ce0f545347`]
 - requests deletion/forgetting of prior sensitive prompts; privacy-conscious; 1× (first: 2025-09-07) [ref: request to forget bikini prompt chatId:`9ef1ce0f545347`]
 
@@ -13,6 +13,7 @@
 - interested in high-end European furniture brands and sofa design; 1× (first: 2025-09-06) [ref: mention of Meridiani, Natuzzi in sofa prompt chatId:`9ef1ce0f545347`]
 - requires multiple image outputs for design iteration; 1× (first: 2025-09-06) [ref: request for 10 images chatId:`9ef1ce0f545347`]
 - has company named "AME" focused on luxury furniture/interior design; 1× (first: 2025-09-07) [ref: company logo sharing chatId:`9ef1ce0f545347`]
+- interested in classic luxury lighting fixtures such as Osler chandeliers; 1× (first: 2025-09-07) [ref: chandelier image request chatId:`9ef1ce0f545347`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
@@ -25,6 +26,6 @@
 ### Durable (regular platform activities)
 
 ### Emerging (new query patterns)
-- uses platform for AI-generated furniture images; 2× (since 2025-09-06) [refs: initial sofa generation prompt chatId:`9ef1ce0f545347`; request for 10 images chatId:`9ef1ce0f545347`]
+- uses platform for AI-generated furniture and lighting images; 3× (since 2025-09-06) [refs: initial sofa generation prompt chatId:`9ef1ce0f545347`; request for 10 sofa images chatId:`9ef1ce0f545347`; chandelier prompt chatId:`9ef1ce0f545347`]
 - exploring tool capability boundaries, including disallowed content attempts; 1× (first: 2025-09-07) [ref: bikini image request chatId:`9ef1ce0f545347`]
 - seeks logo feedback and design analysis; 2× (since 2025-09-07) [refs: sharing company logo chatId:`9ef1ce0f545347`; request for opinion on logo chatId:`9ef1ce0f545347`]
