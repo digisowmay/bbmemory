@@ -18,4 +18,4 @@
 ### Durable (regular platform activities)
 
 ### Emerging (new query patterns)
-- requests assistant to schedule calls/reminders; 2× (last: 2025-09-06) [refs: call planning conversation chatId:`0dc9c1d08a1d44`]
+- requests assistant to schedule calls/reminders; 3× (last: 2025-09-06) [refs: call planning conversation chatId:`0dc9c1d08a1d44`; scheduling reminder request chatId:`4983e2ba2f1a4a`]
