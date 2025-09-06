@@ -12,6 +12,7 @@
 
 ### Emerging (recent learning, current focus)
 - interested in social media reach, growth strategies, and landing page design; 2× (since 2025-09-05) [refs: chatId:`529e8e053f1141`; chatId:`ea02122dbd5f49`]
+- learning algorithmic problem solving in C++ (binary search, peak finding, etc.); 1× (since 2025-09-06) [ref: intuition behind peak finding algorithm chatId:`17fc615406fa47`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
@@ -27,4 +28,4 @@
 
 ### Emerging (new query patterns)
 - exploring landing page design inspiration and best practices; 2× (since 2025-09-05) [refs: chatId:`ea02122dbd5f49`; chatId:`ea02122dbd5f49`]
-- exploring ways to increase social media reach with and without paid subscriptions; 1× (first: 2025-09-05) [ref chatId:`529e8e053f1141`]
+- asks coding & algorithm explanations; C++ solutions like peak element; 1× (first: 2025-09-06) [ref: intuition behind peak finding code chatId:`17fc615406fa47`]
