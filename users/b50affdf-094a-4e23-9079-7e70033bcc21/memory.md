@@ -4,6 +4,7 @@
 ### Emerging (new signals, 1-2 reinforcements)
 - gives concise design directives with specific parameters (colors, legs, angles); 2× (since 2025-09-06) [refs: sofa design requests chatId:`9ef1ce0f545347`; request for 10 sofa variants chatId:`9ef1ce0f545347`]
 - asks explicitly about tool limitations and respects policy refusals; 2× (since 2025-09-07) [refs: prompt limitations question chatId:`9ef1ce0f545347`; acceptance of refusal to create bikini image chatId:`9ef1ce0f545347`]
+- requests deletion/forgetting of prior sensitive prompts; privacy-conscious; 1× (first: 2025-09-07) [ref: request to forget bikini prompt chatId:`9ef1ce0f545347`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -25,3 +26,4 @@
 ### Emerging (new query patterns)
 - uses platform for AI-generated furniture images; 2× (since 2025-09-06) [refs: initial sofa generation prompt chatId:`9ef1ce0f545347`; request for 10 images chatId:`9ef1ce0f545347`]
 - exploring tool capability boundaries, including disallowed content attempts; 1× (first: 2025-09-07) [ref: bikini image request chatId:`9ef1ce0f545347`]
+- seeks logo feedback and design analysis; 1× (first: 2025-09-07) [ref: sharing company logo chatId:`9ef1ce0f545347`]
