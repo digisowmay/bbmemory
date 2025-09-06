@@ -1,7 +1,7 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
 - wants notifications clean and user-friendly; explicit confirmations with ': CONFIRM'; 3× (stable since 2025-09-05) [refs: notification confirmation guideline chatId:`fd9763fe2ff24f`; echo response instruction chatId:`44bc6910e0504c`; staging status check chatId:`44bc6910e0504c`]
-- uses informal, playful language with colleagues; emoji fruit greetings, 'bro', 'Yo'; 3× (promoted from emerging) (stable since 2025-09-05) [refs: fruit greeting 'banana 🍌' chatId:`44bc6910e0504c`; 'Yo' staging query chatId:`44bc6910e0504c`; 'yooo' chatId:`fcced81a528e49`]
+- uses informal, playful language with colleagues; emoji fruit greetings, 'bro', 'Yo'; 4× (stable since 2025-09-05) [refs: fruit greeting 'banana 🍌' chatId:`44bc6910e0504c`; 'Yo' staging query chatId:`44bc6910e0504c`; 'yooo' chatId:`fcced81a528e49`; informal greeting 'yo' chatId:`19c30ab5242543`]
 
 ### Emerging (new signals, 1-2 reinforcements)
 
