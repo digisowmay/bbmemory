@@ -1,6 +1,6 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- issues concise, direct commands to perform tasks such as sending emails or scheduling; 17× (stable since 2025-09-02) [refs: meeting & email actions chatId:`b02699bb2f7141`; meeting email scheduling chatId:`7af55910510547`; schedule email to David chatId:`68bad4fd3f7cad20ad8fcc73`; schedule email to Shashank chatId:`68bad6f83f7cad20ad8fcdbb`; email Shashank meeting chatId:`908c94204d2043`; latest email commands chatId:`f7413013b6e247`]
+- issues concise, direct commands to perform tasks such as sending emails or scheduling; 18× (stable since 2025-09-02) [refs: meeting & email actions chatId:`b02699bb2f7141`; meeting email scheduling chatId:`7af55910510547`; schedule email to David chatId:`68bad4fd3f7cad20ad8fcc73`; schedule email to Shashank chatId:`68bad6f83f7cad20ad8fcdbb`; email Shashank meeting chatId:`908c94204d2043`; latest email commands chatId:`f7413013b6e247`; send email to JV chatId:`9b510e24ed794d`]
 
 ### Emerging (new signals, 1-2 reinforcements)
 - asks conceptual “why” questions seeking clear technical explanations; 1× (first: 2025-09-06) [ref: technical question about AC vs DC chatId:`c4c1b73f509048`]
