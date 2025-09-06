@@ -1,7 +1,7 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
 - wants personalized, non-generic phrasing; 6× (stable since 2025-09-03) [refs: cold email improvement discussion; follow-up email request; subject line personalization; job opening template personalization; closing line enhancement request chatId:`dc731835d30341`; SIH slide content request chatId:`4a9435bdc10b46`]
-- prefers concise, punchy wording; 6× [refs: wordiness feedback; concise rewrite request; subject line brevity discussion; "too wordy" comment; closing line brevity adjustment chatId:`dc731835d30341`; SIH slide content request chatId:`4a9435bdc10b46`]
+- prefers concise, punchy wording; 7× [refs: wordiness feedback; concise rewrite request; subject line brevity discussion; "too wordy" comment; closing line brevity adjustment chatId:`dc731835d30341`; SIH slide content request chatId:`4a9435bdc10b46`; request for to-the-point slide content chatId:`4a9435bdc10b46`]
 ### Emerging (new signals, 1-2 reinforcements)
 - prefers thorough, comprehensive solutions without shortcuts; 2× (last: 2025-09-03) [refs: initial assignment solution request chatId:`907053b6427044`; follow-up "no shortcuts" clarification chatId:`907053b6427044`]
 
@@ -24,4 +24,4 @@
 ### Emerging (new query patterns)
 - seeks assistance refining professional communications (cold emails, templates); 6× (since 2025-09-03) [refs: email template improvement requests; concise version request; follow-up email creation; subject line brainstorming; job template personalization; closing line enhancement chatId:`dc731835d30341`]
 - requests algorithm/academic assignment solutions; 2× (since 2025-09-03) [refs: algorithm assignment initial request chatId:`907053b6427044`; follow-up completion request chatId:`907053b6427044`]
-- asks for presentation slide content and structuring for competitions; 1× (first: 2025-09-06) [ref: SIH slide content request chatId:`4a9435bdc10b46`]
+- asks for presentation slide content and structuring for competitions; 2× (since 2025-09-06) [refs: SIH slide content request chatId:`4a9435bdc10b46`; request for to-the-point slide content chatId:`4a9435bdc10b46`]
