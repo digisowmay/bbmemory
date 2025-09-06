@@ -1,6 +1,6 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- issues concise, command-style requests for operational actions (e.g., "whats in my cal today", "send a hi on discord", "share me the loc of orange and dr lal"); 6× (last: 2025-09-06) [refs: calendar request chatId:`8c878adc190646`; discord message instruction chatId:`c318765c11a54b`; diagnostic center location request chatId:`9eea28491b7943`; calendar check chatId:`ee7d500f36234b`; telegram agent addition chatId:`66cecdc33b2645`]
+- issues concise, command-style requests for operational actions (e.g., "whats in my cal today", "send a hi on discord", "share me the loc of orange and dr lal"); 7× (last: 2025-09-06) [refs: calendar request chatId:`8c878adc190646`; discord message instruction chatId:`c318765c11a54b`; diagnostic center location request chatId:`9eea28491b7943`; calendar check chatId:`ee7d500f36234b`; telegram agent addition chatId:`66cecdc33b2645`; Noam Shazeer quote search chatId:`23de4726c4a94b`]
 
 ### Emerging (new signals, 1-2 reinforcements)
 
@@ -22,3 +22,4 @@
 ### Emerging (new query patterns)
 - seeking local healthcare and diagnostic recommendations; affordable options; 2× (last: 2025-09-05) [refs: diagnostic center query chatId:`9eea28491b7943`; location request chatId:`9eea28491b7943`]
 - uses Telegram integration to send operational messages to teammates; 1× (first: 2025-09-06) [ref: telegram agent addition chatId:`66cecdc33b2645`]
+- searches AI/ML quotes and research references; 1× (first: 2025-09-06) [ref: Noam Shazeer quote search chatId:`23de4726c4a94b`]
