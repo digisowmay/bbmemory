@@ -3,8 +3,9 @@
 -
 
 ### Emerging (new signals, 1-2 reinforcements)
-- requests practical assistance (e.g., resume drafting) in concise manner; 4× (last: 2025-09-06) [refs: resume optimization request chatId:`4b2e78b6b73445`; ATS resume creation follow-up chatId:`4b2e78b6b73445`; missing resume visibility issues chatId:`4b2e78b6b73445`; final plain-text resume request chatId:`4b2e78b6b73445`]
-- needs direct, accessible deliverables and will flag when a provided link or file is not visible; 3× (last: 2025-09-06) [refs: resume link missing chatId:`4b2e78b6b73445`; 414 error report chatId:`4b2e78b6b73445`; repeated 414 error & plaintext request chatId:`4b2e78b6b73445`]
+- requests practical assistance (e.g., resume drafting) in concise manner; 5× (last: 2025-09-06) [refs: resume optimization request chatId:`4b2e78b6b73445`; ATS resume creation follow-up chatId:`4b2e78b6b73445`; missing resume visibility issues chatId:`4b2e78b6b73445`; repeated 414 error & plaintext request chatId:`4b2e78b6b73445`; downloadable BCN format request chatId:`4b2e78b6b73445`]
+- needs direct, accessible deliverables and will flag when a provided link or file is not visible; 4× (last: 2025-09-06) [refs: resume link missing chatId:`4b2e78b6b73445`; 414 error report chatId:`4b2e78b6b73445`; repeated 414 error & plaintext request chatId:`4b2e78b6b73445`; downloadable BCN format request chatId:`4b2e78b6b73445`]
+- prefers downloadable file formats (PDF/Doc) over long URLs; 1× (first: 2025-09-06) [ref: downloadable BCN format request chatId:`4b2e78b6b73445`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
