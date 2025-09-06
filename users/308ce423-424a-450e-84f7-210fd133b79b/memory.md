@@ -2,7 +2,7 @@
 ### Durable (established, 3+ reinforcements)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- gives precise instructions in Russian, demanding exact visual replication; 4× (last: 2025-09-06) [ref: image creation and description chatId:`fca9171129ef47`]
+- gives precise instructions in Russian, demanding exact visual replication; 5× (last: 2025-09-06) [ref: image creation and description chatId:`fca9171129ef47`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -14,10 +14,10 @@
 ### Durable (core thinking patterns)
 
 ### Emerging (recent behavioral shifts)
-- detail-oriented, insists on preserving original concept exactly; 4× (last: 2025-09-06) [ref: repeated "точь в точь" instruction chatId:`fca9171129ef47`]
+- detail-oriented, insists on preserving original concept exactly; 5× (last: 2025-09-06) [ref: repeated "точь в точь" instruction chatId:`fca9171129ef47`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
 
 ### Emerging (new query patterns)
-- exploring AI image generation tools; 3× (since 2025-09-06) [refs: photo generation iterations chatId:`fca9171129ef47`]
+- exploring AI image generation tools; 4× (since 2025-09-06) [refs: photo generation iterations chatId:`fca9171129ef47`]
