@@ -3,8 +3,8 @@
 - none recorded yet
 
 ### Emerging (new signals, 1-2 reinforcements)
-- gives concise directives for creative content generation; 4× (last: 2025-09-06) [refs: repeated image requests chatId:`05d49accdd4146`]
-- requests multiple visual variations and large batches quickly (e.g., "give me 10 images"); 2× (last: 2025-09-06) [refs: 10-image request chatId:`05d49accdd4146`]
+- gives concise directives for creative content generation; 5× (last: 2025-09-06) [refs: repeated image requests chatId:`05d49accdd4146`]
+- requests multiple visual variations and large batches quickly (e.g., "give me 10 images"); 3× (last: 2025-09-06) [refs: 10-image request chatId:`05d49accdd4146`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -26,4 +26,4 @@
 
 ### Emerging (new query patterns)
 - exploring AI image generation for anime/VTuber characters; 3× (since 2025-09-06) [refs: multiple generation interactions chatId:`05d49accdd4146`]
-- exploring face swap/photo editing using personal photos; 1× (first: 2025-09-06) [refs: John Wick poster face swap request chatId:`05d49accdd4146`]
+- exploring face swap/photo editing using personal photos; 2× (since 2025-09-06) [refs: John Wick poster face swap request chatId:`05d49accdd4146`]
