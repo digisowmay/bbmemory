@@ -3,7 +3,7 @@
 - openly shares personal struggles and seeks guidance; 3× (stable since 2025-09-01) [refs: job frustration discussion; resume review chatId:`f7394a6a20b441`; job board exhaustion chatId:`f7394a6a20b441`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- uses informal, friendly language ("bro"); 9× (last: 2025-09-05) [refs: job frustration discussion; resume review chatId:`f7394a6a20b441`; job board exhaustion chatId:`f7394a6a20b441`; OA query chatId:`cdf4bb52a91644`; casual greeting chatId:`1ec4d94609534c`; clarification about email chatId:`1ec4d94609534c`; follow-up on test email chatId:`1ec4d94609534c`; questioning source of Yext info chatId:`1ec4d94609534c`; assessment prep order discussion chatId:`1ec4d94609534c`]
+- uses informal, friendly language ("bro"); 10× (last: 2025-09-06) [refs: job frustration discussion; resume review chatId:`f7394a6a20b441`; job board exhaustion chatId:`f7394a6a20b441`; OA query chatId:`cdf4bb52a91644`; casual greeting chatId:`1ec4d94609534c`; clarification about email chatId:`1ec4d94609534c`; follow-up on test email chatId:`1ec4d94609534c`; questioning source of Yext info chatId:`1ec4d94609534c`; assessment prep order discussion chatId:`1ec4d94609534c`; alternate career options chatId:`57975b63b5064e`]
 - quickly questions inconsistencies or errors; 3× (last: 2025-09-05) [refs: clarification about email chatId:`1ec4d94609534c`; follow-up on test email chatId:`1ec4d94609534c`; questioning source of Yext info chatId:`1ec4d94609534c`]
 
 ## Knowledge & Context
@@ -14,6 +14,7 @@
 
 ### Emerging (recent learning, current focus)
 - applied to Yext India full-stack SWE role and preparing for DoSelect take-home assessment; 1× (since 2025-09-05) [ref: assessment discussion chatId:`1ec4d94609534c`]
+- exploring government job exams (Bank PO, Clerk, UPSC) as alternative career path; 1× (started: 2025-09-06) [ref: alternate career options chatId:`57975b63b5064e`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
