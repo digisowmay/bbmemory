@@ -1,14 +1,15 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- 
+-
 
 ### Emerging (new signals, 1-2 reinforcements)
 - Prefers fully-structured, node-by-node JSON outputs for n8n workflows; 2× (last: 2025-09-06) [ref: LinkedIn job automation workflow request chatId:`f46ac775803e4d`]
 - Direct, technical queries focused on concrete deliverables rather than explanations; 1× (first: 2025-09-06) [ref: repeated "RESUME" prompts for workflow JSON chatId:`f46ac775803e4d`]
+- Shares explicit error messages/log details (e.g., import errors) and asks for quick fixes; 1× (first: 2025-09-06) [ref: "propertyValues[itemName] is not iterable" import error chatId:`f46ac775803e4d`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
-- 
+-
 
 ### Emerging (recent learning, current focus)
 - Working on automating LinkedIn job applications using n8n, Apify, and OpenAI; 1× (started: 2025-09-06) [ref: request for 3-branch LinkedIn workflow chatId:`f46ac775803e4d`]
@@ -16,7 +17,7 @@
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
-- 
+-
 
 ### Emerging (recent behavioral shifts)
 - Seeks complete, import-ready solutions rather than step-by-step guidance; 1× (observed: 2025-09-06) [ref: request for JSON file directly chatId:`f46ac775803e4d`]
@@ -24,7 +25,7 @@
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
-- 
+-
 
 ### Emerging (new query patterns)
 - Frequently asks for n8n automation designs and JSON workflow files; 2× (since 2025-09-06) [refs: initial n8n request; advanced 3-branch workflow request chatId:`f46ac775803e4d`]
