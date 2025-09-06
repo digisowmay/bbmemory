@@ -5,8 +5,9 @@
 - prefers visual/diagrammatic deliverables and detailed visual descriptions; 3× (promoted from emerging, last: 2025-09-06) [refs: flow diagram request, visualization component suggestions, HTML visual page generation chatId:`e54be382480547`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- requests executable code snippets for deliverables (e.g., HTML pages); 2× (last: 2025-09-06) [refs: HTML visualization page creation, HTML access guidance chatId:`e54be382480547`]
-- asks for explicit, step-by-step instructions to access/run provided outputs; 1× (first: 2025-09-06) [ref: "how can i get access to see these result" chatId:`e54be382480547`]
+- requests executable code snippets for deliverables (e.g., HTML pages) and copy-paste ready blocks; 3× (last: 2025-09-06) [refs: HTML visualization page creation, CodePen HTML chunk delivery chatId:`e54be382480547`]
+- asks for explicit, step-by-step instructions to access/run provided outputs; 2× (last: 2025-09-06) [refs: access guidance, CodePen setup instructions chatId:`e54be382480547`]
+- prefers using online editors like CodePen to test/view outputs; 1× (first: 2025-09-06) [ref: selection of CodePen option chatId:`e54be382480547`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -28,3 +29,4 @@
 
 ### Emerging (new query patterns)
 - exploring visualization techniques (flow diagrams, infographics, HTML prototypes) to communicate GIS strategies; 3× (since 2025-09-06) [refs: visualization component requests, HTML page generation, access instructions chatId:`e54be382480547`]
+- leveraging CodePen/online editors to test HTML outputs; 1× (since 2025-09-06) [ref: CodePen choice chatId:`e54be382480547`]
