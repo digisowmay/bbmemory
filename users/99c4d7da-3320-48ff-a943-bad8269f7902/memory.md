@@ -8,9 +8,9 @@
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
 
-### Emerging (recent learning, current focus)
-- practicing introductory physics problem-solving (kinematics, pendulums, error analysis); 3× (since 2025-08-31) [refs: average velocity; unit of b; percentage error in g]
-- exploring AI (image generation, photo editing, and now fundamentals); 5× (last: 2025-09-05) [refs: nano banana muscular celebrity image request chatId:`03f356dcf8044f`; muscular body edit request chatId:`0eefbdba75e242`; transformation correction chatId:`0eefbdba75e242`; shirtless 6-pack request chatId:`0eefbdba75e242`; AI understanding question chatId:`b11911717f9740`]
+### Emerging (recent learning, current focus)  
+- exploring AI (image generation, fundamentals); 5× (last: 2025-09-05) [refs: nano banana muscular celebrity image request chatId:`03f356dcf8044f`; muscular body edit request chatId:`0eefbdba75e242`; transformation correction chatId:`0eefbdba75e242`; shirtless 6-pack request chatId:`0eefbdba75e242`; AI understanding question chatId:`b11911717f9740`]
+- owns customized bangles business "Pragyapti Creations"; seeks marketing materials; 1× (first: 2025-09-06) [ref: poster design request chatId:`98bd0d0ab81945`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
@@ -23,3 +23,4 @@
 
 ### Emerging (new query patterns)
 - exploring AI image generation and personal photo editing; 4× (since 2025-09-04) [refs: nano banana muscular celebrity image request chatId:`03f356dcf8044f`; muscular body edit request chatId:`0eefbdba75e242`; transformation correction chatId:`0eefbdba75e242`; shirtless 6-pack request chatId:`0eefbdba75e242`]
+- requesting marketing poster and design generation for business promotion; 1× (first: 2025-09-06) [ref: poster design request chatId:`98bd0d0ab81945`]
