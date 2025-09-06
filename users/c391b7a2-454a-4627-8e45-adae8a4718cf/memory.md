@@ -1,8 +1,8 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
+- issues concise, command-style requests for operational actions (e.g., "whats in my cal today", "send a hi on discord", "share me the loc of orange and dr lal"); 5× (promoted from emerging) (last: 2025-09-06) [refs: calendar request chatId:`8c878adc190646`; discord message instruction chatId:`c318765c11a54b`; diagnostic center location request chatId:`9eea28491b7943`; calendar check chatId:`ee7d500f36234b`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- issues concise, command-style requests for operational actions (e.g., "whats is my calendar today", "send a hi on discord", "share me the loc of orange and dr lal"); 4× (last: 2025-09-05) [refs: calendar request chatId:`8c878adc190646`; discord message instruction chatId:`c318765c11a54b`; discord bot account query chatId:`c318765c11a54b`; diagnostic center location request chatId:`9eea28491b7943`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -12,7 +12,7 @@
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
-- delegates operational tasks (inbox scans, internal messaging, calendar checks, sending messages) via Bhindi commands and agents; 6× [refs: email flight check chatId:`57bce6e23c6240`; internal hosting query chatId:`2c25a2fbe09d46`; calendar calls check chatId:`57416dc0a0794a`; calendar request chatId:`8c878adc190646`; discord message instruction chatId:`c318765c11a54b`]
+- delegates operational tasks (inbox scans, internal messaging, calendar checks, sending messages) via Bhindi commands and agents; 6× [refs: email flight check chatId:`57bce6e23c6240`; internal hosting query chatId:`2c25a2fbe09d46`; calendar calls check chatId:`57416dc0a0794a`; calendar request chatId:`8c878adc190646`; discord message instruction chatId:`c318765c11a54b`; calendar check chatId:`ee7d500f36234b`]
 
 ### Emerging (recent behavioral shifts)
 
