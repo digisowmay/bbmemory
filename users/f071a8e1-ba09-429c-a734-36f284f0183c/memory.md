@@ -24,5 +24,5 @@
 - uses assistant to manage GitHub tasks (issues, PR audits) regularly; 10× [refs: issue creation request chatId:`d6d7f5d63ea449`; issue creation on recipient field disappearance chatId:`c9ae0e65c93b40`; PR audit request chatId:`0afe2348bbcb44`; aggregation review chatId:`0afe2348bbcb44`; repository refactor issue chatId:`644cb143bf0e46`; PR audit chatId:`deb062392c8449`; issue creation chatId:`49d8ecf6e0b648`; schedule GitHub issues chatId:`49d8ecf6e0b648`; skip route issue chatId:`59859a66610f4e`; strong password issue chatId:`8bdacaebbdc740`]
 
 ### Emerging (new query patterns)
+- exploring AI image editing & transformations via "nano banana" / generative tools; 3× (last: 2025-09-06) [refs: image weathering request chatId:`e6f4f242718f4e`; prompt disclosure request chatId:`e6f4f242718f4e`; indian market bag scene chatId:`57cc1140ecf44a`]
 - uses assistant to handle backroom echo communications automatically; 1× (first: 2025-09-04) [ref: backroom echo confirmation chatId:`93e01ed7361542`]
-- exploring AI image editing & transformations via "nano banana" / generative tools; 2× (since 2025-09-05) [refs: image weathering request chatId:`e6f4f242718f4e`; prompt disclosure request chatId:`e6f4f242718f4e`]
