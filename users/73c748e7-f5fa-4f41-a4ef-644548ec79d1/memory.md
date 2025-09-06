@@ -2,8 +2,8 @@
 ### Durable (established, 3+ reinforcements)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- prefiere comunicarse en español; 3× (last: 2025-09-06) [refs: logo creation exchanges chatId:`5bc69eddc6a941`; logo update chatId:`d5bee7a0802c4d`]
-- proporciona instrucciones breves y directas; 3× (last: 2025-09-06) [refs: command "Jb soluciones" chatId:`5bc69eddc6a941`; new logo request chatId:`d5bee7a0802c4d`]
+- prefiere comunicarse en español; 4× (last: 2025-09-06) [refs: logo creation exchanges chatId:`5bc69eddc6a941`; logo update chatId:`d5bee7a0802c4d`]
+- proporciona instrucciones breves y directas; 4× (last: 2025-09-06) [refs: command "Jb soluciones" chatId:`5bc69eddc6a941`; logo feedback "Hola así no" chatId:`d5bee7a0802c4d`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
