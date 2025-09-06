@@ -2,9 +2,9 @@
 ### Durable (established, 3+ reinforcements)
 - gives precise instructions in Russian, demanding exact visual replication; 6× (stable since 2025-09-06) [refs: image creation and edits chatId:`fca9171129ef47`]
 - detail-oriented, insists on preserving original concept exactly; 6× (stable since 2025-09-06) [refs: repeated "точь в точь" and edit requests chatId:`fca9171129ef47`]
+- requests minor compositional tweaks (e.g., remove sauce, change background) while keeping core subject; 3× (promoted from emerging) [refs: remove sauce, tweak background chatId:`fca9171129ef47`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- requests minor compositional tweaks while keeping core subject; 2× (last: 2025-09-06) [refs: remove sauce, change background chatId:`fca9171129ef47`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
