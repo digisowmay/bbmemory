@@ -26,3 +26,4 @@
 
 ### Emerging (new query patterns)
 - exploring AI image generation for anime/VTuber characters; 3× (since 2025-09-06) [refs: multiple generation interactions chatId:`05d49accdd4146`]
+- exploring face swap/photo editing using personal photos; 1× (first: 2025-09-06) [refs: John Wick poster face swap request chatId:`05d49accdd4146`]
