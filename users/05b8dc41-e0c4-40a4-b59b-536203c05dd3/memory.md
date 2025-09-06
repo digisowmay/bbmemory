@@ -5,6 +5,7 @@
 ### Emerging (new signals, 1-2 reinforcements)
 - requests downloadable PDF/cheat-sheet versions of explanations; 7× (last: 2025-09-06) [refs: repeated PDF generation & Overleaf link requests chatId:`1e9b5888a4504b`]
 - requests complete LaTeX code snippets for copy-paste; 5× (last: 2025-09-06) [refs: LaTeX content copy requests chatId:`1e9b5888a4504b`]
+- asks for visual aids (charts, tables, step-by-step visuals) to understand concepts; 1× (first: 2025-09-06) [ref: regression visualization request chatId:`1e9b5888a4504b`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -24,3 +25,4 @@
 ### Emerging (new query patterns)
 - seeks generation of study materials in PDF format; 7× (since 2025-09-06) [refs: PDF generation requests chatId:`1e9b5888a4504b`]
 - uses Overleaf/LaTeX to edit study materials; 5× (since 2025-09-06) [refs: Overleaf project link requests chatId:`1e9b5888a4504b`]
+- exploring visual data representations (charts/tables) for learning; 1× (since 2025-09-06) [ref: regression visualization request chatId:`1e9b5888a4504b`]
