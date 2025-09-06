@@ -12,15 +12,15 @@
 
 ### Emerging (recent learning, current focus)
 - familiar with full-stack development but seeking guidance on first substantive project; 4× (since 2025-09-05) [refs: chatId:`1999985f63a545`]
-- wants to learn WebSockets/real-time chat features; 2× (since 2025-09-06) [refs: chatId:`1999985f63a545`]
-- interested in building a real-time chat app as first full-stack project; 1× (first: 2025-09-06) [ref: chatId:`1999985f63a545`]
+- wants to learn WebSockets/real-time chat features; 3× (since 2025-09-06) [refs: chatId:`1999985f63a545`]
+- comfortable with Node.js, React/Next.js, and TypeScript stack for upcoming chat app; 1× (first: 2025-09-06) [ref: chatId:`1999985f63a545`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
 - (no durable thinking patterns yet)
 
 ### Emerging (recent behavioral shifts)
-- prefers learning by building hands-on projects and troubleshooting issues when stuck; 3× (last: 2025-09-06) [refs: chatId:`1999985f63a545`]
+- prefers learning by building hands-on projects and troubleshooting issues when stuck; 4× (last: 2025-09-06) [refs: chatId:`1999985f63a545`]
 - researches existing UI examples for conceptual understanding before starting to build; 1× (first: 2025-09-06) [ref: chatId:`1999985f63a545`]
 - seeks a sense of accomplishment/satisfaction from completed projects; 1× (first: 2025-09-06) [ref: chatId:`1999985f63a545`]
 
