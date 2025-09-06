@@ -12,6 +12,7 @@
 ### Emerging (recent learning, current focus)
 - interested in high-end European furniture brands and sofa design; 1× (first: 2025-09-06) [ref: mention of Meridiani, Natuzzi in sofa prompt chatId:`9ef1ce0f545347`]
 - requires multiple image outputs for design iteration; 1× (first: 2025-09-06) [ref: request for 10 images chatId:`9ef1ce0f545347`]
+- has company named "AME" focused on luxury furniture/interior design; 1× (first: 2025-09-07) [ref: company logo sharing chatId:`9ef1ce0f545347`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
@@ -26,4 +27,4 @@
 ### Emerging (new query patterns)
 - uses platform for AI-generated furniture images; 2× (since 2025-09-06) [refs: initial sofa generation prompt chatId:`9ef1ce0f545347`; request for 10 images chatId:`9ef1ce0f545347`]
 - exploring tool capability boundaries, including disallowed content attempts; 1× (first: 2025-09-07) [ref: bikini image request chatId:`9ef1ce0f545347`]
-- seeks logo feedback and design analysis; 1× (first: 2025-09-07) [ref: sharing company logo chatId:`9ef1ce0f545347`]
+- seeks logo feedback and design analysis; 2× (since 2025-09-07) [refs: sharing company logo chatId:`9ef1ce0f545347`; request for opinion on logo chatId:`9ef1ce0f545347`]
