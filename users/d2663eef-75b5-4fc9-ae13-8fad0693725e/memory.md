@@ -1,9 +1,9 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
+- gives concise commands in Chinese; prefers Chinese language; 3× (promoted from emerging, stable since 2025-09-05) [refs: multiple outfit change requests chatId:`b47dc28dc7b44a`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- gives concise commands in Chinese; prefers Chinese language; 2× (last: 2025-09-05) [ref: image outfit change request chatId:`b47dc28dc7b44a`]
-- actively verifies image edits for accuracy; points out when output doesn’t match original person; 1× (first: 2025-09-05) [ref: mismatch complaint chatId:`b47dc28dc7b44a`]
+- actively verifies image edits for accuracy; points out when output doesn’t match original person; 2× (last: 2025-09-05) [refs: mismatch complaints "我没有看到图片" & "这完全是俩个人" chatId:`b47dc28dc7b44a`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
@@ -17,6 +17,6 @@
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
+- requests fashion-related image editing; outfit transformations; 3× (promoted from emerging) [refs: repeated outfit change requests chatId:`b47dc28dc7b44a`]
 
 ### Emerging (new query patterns)
-- requests fashion-related image editing; outfit transformations; 2× (last: 2025-09-05) [ref: image outfit change request chatId:`b47dc28dc7b44a`]
