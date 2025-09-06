@@ -29,4 +29,4 @@
 
 ### Emerging (new query patterns)
 - executing CI/CD operations via GitHub, ssh-client, and bhindi-agent-manager; 1× (since 2025-09-06) [ref: merge & deployment request chatId:`8bf26a672d514f`]
-- checks crypto prices; Ethereum tracking; 1× (first: 2025-09-06) [ref: Ethereum price request chatId:`3f7773c2bac84c`]
+- syncing and managing bhindi agents (e.g., bhindi-scheduler-v2) via ops commands; 1× (first: 2025-09-06) [ref: agent sync chatId:`c2914d79f4bc44`]
