@@ -4,6 +4,7 @@
 
 ### Emerging (new signals, 1-2 reinforcements)
 - requests an explicit "CONFIRM" response after actions; 3× (last: 2025-09-07) [refs: sendgrid test email confirmations chatId:`2d1ffdf7151a45`; follow-up confirmations chatId:`2d1ffdf7151a45`; recent test email confirmations chatId:`2d1ffdf7151a45`]
+- insists on no unexpected changes; strict adherence to given instructions ("DON'T CHANGE ANYTHING ELSE"); 1× (first: 2025-09-07) [ref: template tweak directive chatId:`2d1ffdf7151a45`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
