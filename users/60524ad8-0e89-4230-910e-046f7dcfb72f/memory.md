@@ -3,7 +3,8 @@
 - (no durable patterns established yet)
 
 ### Emerging (new signals, 1-2 reinforcements)
-- requests concise, actionable marketing guidance with humorous, entertaining tone; 2× (last: 2025-09-06) [refs: villa marketing script request chatId:`25bfebe3871e4c`; request for super funny script chatId:`25bfebe3871e4c`]
+- requests concise, actionable marketing guidance with humorous, entertaining tone; 2× (last: 2025-09-06) [refs: villa marketing script request chatId:`25bfebe3871e4c`; super funny script request chatId:`25bfebe3871e4c`]
+- prefers content in Hindi for marketing scripts; 1× (first: 2025-09-07) [ref: Hindi script request chatId:`25bfebe3871e4c`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
