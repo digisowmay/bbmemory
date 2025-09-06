@@ -1,29 +1,32 @@
 ## Communication Patterns
 ### Durable (established, 3+ reinforcements)
-- prefers concise, direct questions with minimal context; 8× (stable since 2025-08-31) [refs: asked "Which is best for me?" chatId:`6994fff183bf4d`; asked "What is yolo"; Gujarat news request chatId:`72d2ea4881464e`; career guidance question chatId:`6994fff183bf4d`; QA salary inquiry chatId:`6994fff183bf4d`; future QA scope question chatId:`6994fff183bf4d`]
+- prefers concise, direct questions with minimal context; 8× (stable since 2025-08-31) [refs: asked "Which is best for me?" chatId:`6994fff183bf4d`; asked "What is yolo"; Gujarat news request chatId:`72d2ea4881464e`]
 
 ### Emerging (new signals, 1-2 reinforcements)
-- asks for structured, step-by-step learning plans, example answers, and formal reports; 6× (last: 2025-09-05) [refs: 6-month data analytics plan chatId:`a3e427fd350243`; daily lesson plan request chatId:`a3e427fd350243`; QA report request chatId:`a40fdaee95e545`; Day 1 & 2 lesson & assignment answers chatId:`a40fdaee95e545`]
+- asks for structured, step-by-step learning plans, example answers, and formal reports; 6× (last: 2025-09-05) [refs: 6-month data analytics plan chatId:`a3e427fd350243`; QA report request chatId:`a40fdaee95e545`]
 
 ## Knowledge & Context
 ### Durable (core expertise, established over time)
+*(none recorded yet)*
 
 ### Emerging (recent learning, current focus)
-- pursuing QA assurance career; practical testing focus; 8× (last: 2025-09-05) [refs: initial QA question chatId:`a40fdaee95e545`; QA salary inquiry chatId:`6994fff183bf4d`; QA report request chatId:`a40fdaee95e545`; website bug testing request chatId:`a40fdaee95e545`; Bhindi.io bug check chatId:`a40fdaee95e545`; QA vs data analytics decision chatId:`6994fff183bf4d`; future QA scope question chatId:`6994fff183bf4d`]
-- developing data analytics skills and career; 3× (since 2025-09-01) [refs: data analyst roadmap request chatId:`a3e427fd350243`; analytics roadmaps chatId:`a3e427fd350243`; QA vs data analytics decision chatId:`6994fff183bf4d`]
-- computer engineering background but lacks coding skills; 2× (last: 2025-09-05) [refs: career guidance question chatId:`6994fff183bf4d`; repeated mention no coding knowledge chatId:`6994fff183bf4d`]
+- pursuing QA assurance career; practical testing focus; 8× (last: 2025-09-05) [refs: initial QA question chatId:`a40fdaee95e545`; QA salary inquiry chatId:`6994fff183bf4d`]
+- developing data analytics skills and career; 3× (since 2025-09-01) [refs: data analyst roadmap request chatId:`a3e427fd350243`]
+- computer engineering background but lacks coding skills; 2× (last: 2025-09-05) [refs: career guidance question chatId:`6994fff183bf4d`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
+*(none recorded yet)*
 
 ### Emerging (recent behavioral shifts)
-- action-oriented, prefers practical demonstrations (testing, scheduling); 5× (last: 2025-09-02) [refs: trip scheduling; QA bug testing request chatId:`a40fdaee95e545`; daily lesson plan request chatId:`a3e427fd350243`; Bhindi.io bug check chatId:`a40fdaee95e545`; QA report request chatId:`a40fdaee95e545`]
-- prefers structured roadmaps, documentation, and example solutions; 4× (since 2025-09-01) [refs: 6-month roadmap chatId:`a3e427fd350243`; QA learning path request chatId:`a40fdaee95e545`; Day 1 lesson & answers chatId:`a40fdaee95e545`]
+- action-oriented, prefers practical demonstrations (testing, scheduling); 5× (last: 2025-09-02) [refs: QA bug testing request chatId:`a40fdaee95e545`]
+- prefers structured roadmaps, documentation, and example solutions; 4× (since 2025-09-01) [refs: 6-month roadmap chatId:`a3e427fd350243`]
 
 ## Platform Usage & Queries
 ### Durable (regular platform activities)
+- exploring QA assurance resources and practical testing; 8× (promoted from emerging) [refs: QA questions chatId:`a40fdaee95e545`; website bug testing request chatId:`a40fdaee95e545`]
+- asks about crypto trading indicators; 3× (promoted from emerging; since 2025-09-01) [refs: crypto indicators request chatId:`a3e427fd350243`]
 
 ### Emerging (new query patterns)
-- exploring QA assurance resources and practical testing; 8× (last: 2025-09-05) [refs: QA questions chatId:`a40fdaee95e545`; website bug testing request chatId:`a40fdaee95e545`; Bhindi.io bug check chatId:`a40fdaee95e545`; QA test report chatId:`a40fdaee95e545`; QA salary inquiry chatId:`6994fff183bf4d`; QA report request chatId:`a40fdaee95e545`; QA vs data analytics decision chatId:`6994fff183bf4d`; future QA scope question chatId:`6994fff183bf4d`]
-- asks about crypto trading indicators; 3× (since 2025-09-01) [refs: crypto indicators request chatId:`a3e427fd350243`; trend indicators lesson chatId:`a3e427fd350243`; best indicators request chatId:`a3e427fd350243`]
-- developing interest in data analytics resources; 3× (since 2025-09-01) [refs: data analyst roadmap request chatId:`a3e427fd350243`; analytics roadmaps chatId:`a3e427fd350243`; QA vs data analytics decision chatId:`6994fff183bf4d`]
+- developing interest in data analytics resources; 3× (since 2025-09-01) [refs: data analyst roadmap request chatId:`a3e427fd350243`]
+- exploring image editing and enhancement tasks; 1× (first: 2025-09-06) [ref: sky glow request chatId:`42b20283e4804a`]
