@@ -10,6 +10,7 @@
 
 ### Emerging (recent learning, current focus)
 - enjoys UFC imagery and scenarios; 5× (since 2025-09-06) [refs: UFC champion image requests; latest cage victory image chatId:`cec449b4df5c43`; chatId:`332ed566c3d840`]
+- interested in executive corporate imagery; 1× (first: 2025-09-06) [ref: luxury office portrait request chatId:`332ed566c3d840`]
 
 ## Thinking & Working Style
 ### Durable (core thinking patterns)
@@ -22,3 +23,4 @@
 - requests AI-generated photorealistic self-insert images; 17× [refs: dreadlocks portrait requests chatId:`cec449b4df5c43`; UFC champion image requests; chatId:`332ed566c3d840`]
 
 ### Emerging (new query patterns)
+- requests high-end professional executive portraits; 1× (first: 2025-09-06) [ref: luxury office portrait request chatId:`332ed566c3d840`]
